@@ -148,4 +148,4 @@
 | 142 | 高清电影 | [2409:8087:7000:20:1000::22]:6060 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 143 | 华数超清 | [2409:8087:7001:20:1000::95]:6610 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId> |
 
-Updated at **Wed Jan 17 2024 16:11:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 17 2024 18:11:51 GMT+0000 (Coordinated Universal Time)**
