@@ -30,7 +30,7 @@ Fox新闻,http://38.96.178.201:80/live/FOXHD/index.m3u8
 历史频道,http://38.96.178.201:80/live/History/index.m3u8
 TNT,http://38.96.178.201:80/live/TNTHD/index.m3u8
 USA,http://38.96.178.201:80/live/USA/index.m3u8
-CNN新闻,http://38.96.178.201:80/live/Discovery/index.m3u8
+NBA,http://38.96.178.201/live/NBA/index.m3u8
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 FoodNetwork,http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 ESPN新闻,http://38.96.178.201:80/live/ESPNews/index.m3u8
