@@ -20,7 +20,7 @@
 | 14 | [BD]cctv4[ipv6] | epg.pw | <https://epg.pw/stream/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8> |
 | 15 | [BD]cctv4k超高清[ipv6] | epg.pw | <https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8> |
 | 16 | [BD]cctv5+ 8m | epg.pw | <https://epg.pw/stream/992d8f11fad0b775e667a3654463fb1c07cc28d43d6627335360f0927175fc80.ctv> |
-| 17 | [BD]cctv5+[ipv6] | epg.pw | <https://epg.pw/stream/a7116fdb22e0136417238128e16f99f809a03400642ff9bd287ea5836655d29a.m3u8> |
+| 17 | [BD]cctv5+[ipv6] | epg.pw | <https://epg.pw/stream/ef9111cbb989c2ed48759884800cdcda4dcdd561f776aff58b70a31d9d1c9bfa.m3u8> |
 | 18 | [BD]cctv6[ipv6] | epg.pw | <https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a942db8b4.m3u8> |
 | 19 | [BD]cctv7 | epg.pw | <https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8> |
 | 20 | [BD]cctv8 | epg.pw | <https://epg.pw/stream/113f0eb04d33840b7642af563255df49292c8d9c7755bf498df78cb7a315f322.m3u8> |
@@ -42,7 +42,7 @@
 | 36 | [HD]hot | epg.pw | <https://epg.pw/stream/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cdedce7f5.m3u8> |
 | 37 | [BD]newtv武搏世界[ipv6] | epg.pw | <https://epg.pw/stream/03a8dd67af4514185c1d05e3bebe1067437bab3d7eee717203a2e3b7fc91621e.m3u8> |
 | 38 | [BD]rt documentary | epg.pw | <https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8> |
-| 39 | [HD]三明新闻综合 | epg.pw | <https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8> |
+| 39 | [VGA]三明新闻综合 | epg.pw | <https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8> |
 | 40 | [BD]上海ics外语[ipv6] | epg.pw | <https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8> |
 | 41 | [BD]上海教育 8m | epg.pw | <https://epg.pw/stream/8cb39eb80ccfc6035363055a280a0bc32c63a139c055c79b7aace8e0811ade14.ctv> |
 | 42 | [BD]上海纪实人文 | epg.pw | <https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.m3u8> |
@@ -155,10 +155,11 @@
 | 149 | [HD]青海都市 | epg.pw | <https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8> |
 | 150 | [VGA]巩义新闻综合 | epg.pw | <https://epg.pw/stream/f64d67385532dc9668faa3dd3c1e86e4c1a8ca48eebc23ae719550297b7f0ac6.m3u8> |
 | 151 | [BD]5+体育赛事 | epg.pw | <https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8> |
-| 152 | [BD]黑莓电影 4m1080[ipv6] | epg.pw | <https://epg.pw/stream/7cd2a163028ebcd6e8caffba4408642bb8a5009e13dd97bf5f36706cd75f395e.m3u8> |
-| 153 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8> |
-| 154 | [BD]黑龙江卫视1 | epg.pw | <https://epg.pw/stream/9556821b956888d9d8c59e2d8bb6823be50c9a7c2b4b5f9578249c78c7e457db.m3u8> |
-| 155 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
-| 156 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
+| 152 | [BD]黑莓动画[ipv6] | epg.pw | <https://epg.pw/stream/89e7b1ef96dda539de25777630876882df0b78804426054f09f3a2aa677a868e.m3u8> |
+| 153 | [BD]黑莓电影 4m1080[ipv6] | epg.pw | <https://epg.pw/stream/7cd2a163028ebcd6e8caffba4408642bb8a5009e13dd97bf5f36706cd75f395e.m3u8> |
+| 154 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8> |
+| 155 | [BD]黑龙江卫视1 | epg.pw | <https://epg.pw/stream/9556821b956888d9d8c59e2d8bb6823be50c9a7c2b4b5f9578249c78c7e457db.m3u8> |
+| 156 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
+| 157 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
 
-Updated at **Wed Jan 17 2024 18:11:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 17 2024 20:09:45 GMT+0000 (Coordinated Universal Time)**
