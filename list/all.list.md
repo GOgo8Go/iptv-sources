@@ -240,7 +240,7 @@
 | 234 | [BD]HBO East | <https://epg.pw/stream/9ec76358c029ec1392cbfe1f897e2ced7b936db1ae66d91fe4bc71f965e396b9.ctv> |
 | 235 | [BD]hbo family | <https://epg.pw/stream/b0729f2a4cb3931413d58b5c11f530b09314e758c59321590e655bdccb16da75.ctv> |
 | 236 | [BD]HBOFAMILYUSA | <https://epg.pw/stream/c932fd1243712e6ab3981f04904aefd5367153aa369c89d052f913dad8e62d27.ctv> |
-| 237 | [SD]hbo hd | <https://epg.pw/stream/c300dc774698a3dee9c053d7b19731f038712a8bf10bf26176f5aa5732475782.ctv> |
+| 237 | [BD]hbo hd | <https://epg.pw/stream/c300dc774698a3dee9c053d7b19731f038712a8bf10bf26176f5aa5732475782.ctv> |
 | 238 | [BD]HBO HD USA | <https://epg.pw/stream/e48b9d5182a62052199edb6bcce0aceeb55a5c044685058a0e9afec1676ba4e1.ctv> |
 | 239 | [HD]HBO HITS | <https://epg.pw/stream/c1feb7acf247c694cc90af47838acfebf03dbd9288b21ae4b60a3f4cdf321bce.ctv> |
 | 240 | [SD]hbo signature tree | <https://epg.pw/stream/d9aa885cfe16554da1d006ade22fd9ee32031c8fe6caf993f5feaa386af432fc.ctv> |
@@ -840,7 +840,7 @@
 | 834 | [HD]medi 1 tv maghreb | <https://epg.pw/stream/d90058d1f41f20af705128e4ff6eb6e7b552e7c0d0b46c631f477c347a182499.m3u8> |
 | 835 | [HD]mega tv | <https://epg.pw/stream/5138045852046b336001121be655fb3df1898f77e53a501954aa0e2b531f8212.m3u8> |
 | 836 | [BD]mekameleen tv (1080p) | <https://epg.pw/stream/5e28d2bd333bffd12a7115f8bf127f19481ef5cc20212336d797e699765e0314.m3u8> |
-| 837 | [HD]metro tv | <https://epg.pw/stream/ea82b14d032dda1c2ef1a80e8abe881129e0bb4c4716da3698f55cdd3ff81354.m3u8> |
+| 837 | [HD]metro tv | <https://epg.pw/stream/9c8487ebf4cba3d9ce26505869587b9c85d59bd6d6ffd926f4b8bd439ee15196.m3u8> |
 | 838 | [BD]metropola tv | <https://epg.pw/stream/7e38ab54bd524278c104e62bdfca5bc662e19d563c6ea8bf7832801255683145.m3u8> |
 | 839 | [HD]mexiquense tv | <https://epg.pw/stream/9b91a33821fa6959b48848c7dded0552bdd068ec73ef16e899bbe755a87f3adf.m3u8> |
 | 840 | [BD]mir | <https://epg.pw/stream/04be299cde78dfc2846c397f81f108da87e5def6dd511d5637e6fba6cfb87c49.m3u8> |
@@ -1486,7 +1486,7 @@
 | 1480 | [BD]东森美洲卫视 | <https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8> |
 | 1481 | [BD]东森财经 | <https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8> |
 | 1482 | [VGA]东森超视 | <https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8> |
-| 1483 | [BD]林正英 | <https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv> |
+| 1483 | [SD]林正英 | <https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv> |
 | 1484 | [SD]枣庄公共 | <https://epg.pw/stream/322da1913ea0e1d42b658beeda6c2b8b019c8fbf8470dd1a69010da6137507af.m3u8> |
 | 1485 | [SD]枣庄公共频道 | <https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8> |
 | 1486 | [SD]枣庄教育 | <https://epg.pw/stream/5c9be548faf8b08d6c887f2037065b56dac729995abfb7e9da64ed34c99fec3d.m3u8> |
@@ -1553,7 +1553,7 @@
 | 1547 | [SD]湖北卫视 8m | <https://epg.pw/stream/13ef1e33f8053afd1469e0e957eff11c5a38dff0410ef13e71b122d565f490de.ctv> |
 | 1548 | [BD]湖北卫视 | <https://epg.pw/stream/a168d5ee9a5535ed5d363fe5b921fc96b8e59faeb98d0a1780505ad1384b0a00.ctv> |
 | 1549 | [BD]湖南卫视 8m | <https://epg.pw/stream/65930278cf7bcc40e905b62b0bc943a9ada7f1bcac3fa9317eaa69e269b70511.ctv> |
-| 1550 | [BD]湖南卫视[ipv6] | <https://epg.pw/stream/ef71867a8644735b09f5399278a3ce67b0cd46e1100159c789b9240a5bf4c2bb.m3u8> |
+| 1550 | [BD]湖南卫视[ipv6] | <https://epg.pw/stream/e3f708008227adae9dd6b75d1d058733571482c88266f59a1b7a2fff8ad0807c.m3u8> |
 | 1551 | [SD]湘潭公共 | <https://epg.pw/stream/9bd055734e63d2141014b7697d2d660a8314ede155d7623414b4d3258370bec1.m3u8> |
 | 1552 | [HD]湘潭新闻综合 | <https://epg.pw/stream/54e319e172192f1aae0ce0cff497b34ad109fa218a9c1c5a846630f1819940b3.m3u8> |
 | 1553 | [HD]漳州新闻综合 (720p) [not 24/7] | <https://epg.pw/stream/2441d456f7c193e046f5e46289045c82d018dd2a0904d7aa8dc50524fab6e78b.m3u8> |
@@ -1656,7 +1656,7 @@
 | 1650 | [BD]香港国际财经台 | <https://epg.pw/stream/edb021b95a130ac49e529d695d5860a198bc98658818bfb40efc94176589c8a6.ctv> |
 | 1651 | [HD]香港国际财经台 | <https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8> |
 | 1652 | [HD]香港有线新闻 | <https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv> |
-| 1653 | [SD]香港卫视 | <https://epg.pw/stream/99980f8e82d6d4111c77f2fe961013e7d1ee153a55c7a9be69cfa17143933fd1.m3u8> |
+| 1653 | [VGA]香港卫视 | <https://epg.pw/stream/99980f8e82d6d4111c77f2fe961013e7d1ee153a55c7a9be69cfa17143933fd1.m3u8> |
 | 1654 | [VGA]香港卫视文旅 | <https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8> |
 | 1655 | [BD]5+体育赛事 | <https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8> |
 | 1656 | [BD]魅力足球 8m | <https://epg.pw/stream/5c6c71d736c0da318cb2bfc204fa6b6178c538be7662570d3c3c736759758f38.ctv> |
@@ -1677,4 +1677,4 @@
 | 1671 | [VGA]龙祥电影台 | <https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv> |
 | 1672 | [BD]국악방송 | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Wed Jan 17 2024 06:13:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 17 2024 08:13:28 GMT+0000 (Coordinated Universal Time)**
