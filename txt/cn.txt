@@ -16,7 +16,7 @@
 [BD]北京淘电影,https://epg.pw/stream/6f130950f894020e7c200ad6a3183b966cfea6c325f51a24b6e3075f441a2397.ctv
 [VGA]哈尔滨影,https://epg.pw/stream/4761681fab1275b2d0237e83813c4845effdd80a8575a346ed32a092aaab0872.m3u8
 [BD]爱上4k,https://epg.pw/stream/3c0311108820220e015646ae9e51579e2a9899eb349471933ece11480331e2a6.ctv
-[BD]林正英,https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv
+[SD]林正英,https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv
 [BD]精彩电视剧,https://epg.pw/stream/928ec61fb7568b106f35028dcf4575c4fc9c32522617d35d026abc83ac23687c.m3u8
 [BD]纯享4k[ipv6],https://epg.pw/stream/6c8d76f2b98de6934fa07b46c9da8e06fe83a1a1c4301ab3af13c547d419acfb.m3u8
 [BD]纯享4k[ipv6],https://epg.pw/stream/2cdf81ef11aac50068bac9c269fc115bc526a2040ecdea4f4cc6227daae38e12.m3u8

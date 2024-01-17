@@ -40,7 +40,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/32212282
 #EXTINF:-1 tvg-id="CCTV8K超高清" tvg-name="CCTV8K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="国际",CNN新闻
-https://epg.pw/stream/27aaa9d35423911e978ef192c255791ce03c68b6ac1560e64838534c83119007.ctv
+http://38.96.178.201:80/live/CNNHD/index.m3u8
 #EXTINF:-1 tvg-id="12188" tvg-name="bbc news" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC新闻
 https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="国际",台视新闻
