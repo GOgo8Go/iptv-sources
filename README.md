@@ -67,11 +67,9 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Wed Jan 17 2024 02:25:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 17 2024 02:52:22 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
-
-> Use CDN **(Not recommended)**: You can use `https://fastly.jsdelivr.net/gh/HerbertHe/iptv-sources@gh-pages/` to replace `https://m3u.ibert.me/` for using CDN Service. Due to the **Cache Policy** of CDN, the content wouldn't be the latest, the m3u files would be updated every **2 hours**.
 
 ## LICENSE
 
