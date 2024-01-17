@@ -6,7 +6,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]hmongusa tv | epg.pw | <https://epg.pw/stream/5effa9c47e2905097e172b4b68ad7b55f332ed497b7dade937d44da8eeb8e0f8.m3u8> |
 | 2 | [HD] WOWOW Prime | epg.pw | <https://epg.pw/stream/56a1c9ec1a9ec7f0d9bf283980fe7a4aacb558ca254ce0d436d104a24f1d9255.ctv> |
-| 3 | [SD]1+1 ukraina | epg.pw | <https://epg.pw/stream/1c642659f5ee9e994dbe6fdb1d1d7b73aa78acc73c3a736022309b9436b83d84.ctv> |
+| 3 | [VGA]1+1 ukraina | epg.pw | <https://epg.pw/stream/1c642659f5ee9e994dbe6fdb1d1d7b73aa78acc73c3a736022309b9436b83d84.ctv> |
 | 4 | [HD]10 channel (720p) | epg.pw | <https://epg.pw/stream/d5bb634bee3ebbcd779aacebad5f2c8603b7901f12a297fcab705629bb8b448b.m3u8> |
 | 5 | [BD]telecolor lombardia | epg.pw | <https://epg.pw/stream/c4c99fd7b6552bb791e7864ccf5c001c3d94d9556da39d67946bbec649a6eb58.m3u8> |
 | 6 | [BD]swamiji tv australian | epg.pw | <https://epg.pw/stream/83b0529a196db4678bacb41faf3d6e43a41d1f67045ef8aa1f7ab31354a88e9f.m3u8> |
@@ -47,7 +47,7 @@
 | 41 | [SD]ASTROCRICKET | epg.pw | <https://epg.pw/stream/96eaff41d11f7980c892cbeb3d1c3b2081fa7e2ea74dbb4f412453e8f2333ec4.ctv> |
 | 42 | [VGA]ASTRO WARNA | epg.pw | <https://epg.pw/stream/6a43b6f60fac72b908408e34ec0c8b6e5238968d845f43ecb670a96f714c51dd.ctv> |
 | 43 | [HD]ASTROAURA | epg.pw | <https://epg.pw/stream/7d07428db3380c993dd57d1c4246546ed90b3cbe89c40006daf191025872c1c3.ctv> |
-| 44 | [HD]ASTROAWANI | epg.pw | <https://epg.pw/stream/9a0b1505f69ea3b388ebec3f74366b1ff7c36ff9f74204929cf824b80eee7d97.ctv> |
+| 44 | [HD]ASTROAWANI | epg.pw | <https://epg.pw/stream/27e01b118ec2492c1b91c9415400c682d414fe7a9bf3cd1e01a8e78aa9d5b0e8.ctv> |
 | 45 | [HD]ASTROOASIS | epg.pw | <https://epg.pw/stream/2a28c176e269ed3295ff6e0b58d4fc5102607e8cc0caee1f74cce771bb4f58dc.ctv> |
 | 46 | [HD]ASTRORANIA | epg.pw | <https://epg.pw/stream/cffbaaa3bb623d0cfb560aa1739f33ec7df4ca39003278cdbd53c4f0d3665437.ctv> |
 | 47 | [HD]Astro华丽台(翡MAS) | epg.pw | <https://epg.pw/stream/4a270ee8c19d1d45e75b3f308762be8368caddca4cab4799f0ebd49402b4e822.ctv> |
@@ -77,7 +77,7 @@
 | 71 | [BD]Astro Ria | epg.pw | <https://epg.pw/stream/22d13da57ee20791381d0ef983312a1e1b9130b908720a69a3cfce90cc6d7882.ctv> |
 | 72 | [HD]ASSP2 | epg.pw | <https://epg.pw/stream/4549f42e0edfc73b7c4a69ce6daff98762424bc4d0081b613547061cca83a79a.ctv> |
 | 73 | [BD]AstroSupersports1 | epg.pw | <https://epg.pw/stream/e9905e8e5dbb7c636ee23aadef1c99abbb0832fe04b740359af5d79944d4dbbc.ctv> |
-| 74 | [VGA]Astro Supersports 2 | epg.pw | <https://epg.pw/stream/79d191a7d8ff2b7c8dbbe56e33ac90d77ed8faffba501128cf7667ba3d8cd542.ctv> |
+| 74 | [VGA]AstroSupersports2 | epg.pw | <https://epg.pw/stream/1e5d17a75d579d9b7b2b114e74a64c4cbc3333577a2411b2923e3f260bd3f43f.ctv> |
 | 75 | [SD]Astro Supersports 3 | epg.pw | <https://epg.pw/stream/02c84bbd84c519f27405ad3fc1054e601f5dfe8bbbce8169f0cb2be4f6a3fb3c.ctv> |
 | 76 | [SD]astrotv | epg.pw | <https://epg.pw/stream/61b47eb5e7551f99a32454d3ba9b9baf0f579ea58e697ed0e65db4983302caa5.m3u8> |
 | 77 | [HD]KPLUS HD | epg.pw | <https://epg.pw/stream/e83f1920af94a73077773dd5cb492fb5093292024117107b4f911d05c23e71ae.ctv> |
@@ -97,7 +97,7 @@
 | 91 | [HD]BERITA SATU | epg.pw | <https://epg.pw/stream/9630b9886f9bb835b7779d58be6cf8341f58d0d0e52100f38c8049c65c4441e9.ctv> |
 | 92 | [SD]BERNAMANEWS | epg.pw | <https://epg.pw/stream/f87543ad50473eac0b199d938f9c91b47579e79770994af4bbab1a33134458e2.ctv> |
 | 93 | [BD]BET | epg.pw | <https://epg.pw/stream/06a3eff115600ef465ca3490db92094897d882ecb4c7c200fa0ec9cab9bf46e2.ctv> |
-| 94 | [VGA]bolt | epg.pw | <https://epg.pw/stream/604db51a3b2eb007e5977f2c67826283d40a002cc9187ec0537f230445147ea0.ctv> |
+| 94 | [BD]bolt | epg.pw | <https://epg.pw/stream/604db51a3b2eb007e5977f2c67826283d40a002cc9187ec0537f230445147ea0.ctv> |
 | 95 | [HD]BOO | epg.pw | <https://epg.pw/stream/bdae52f48a864218c0a2de853f1a25f015446129d4b23ec0c62d936b6d95e772.ctv> |
 | 96 | [HD]BOOMERANG | epg.pw | <https://epg.pw/stream/3d38ce1032cd8d988035575605945763b32c3c50e5a791fc144fc06c7f73c04f.ctv> |
 | 97 | [SD]テレビ东京 | epg.pw | <https://epg.pw/stream/7efb71faf5dbaf3a788c953dce022e0aee5c7ffb73d0d79774e0de39a72ff41d.m3u8> |
@@ -161,7 +161,7 @@
 | 155 | [HD]CNA | epg.pw | <https://epg.pw/stream/12ba12792aba4763069ef2fe2ed1c54360598302ea70d4b72d220056183036b4.ctv> |
 | 156 | [SD]cnbc | epg.pw | <https://epg.pw/stream/62a93999e7f3b655444ff047ffe82d27a6fce8f0485a78e07401292b8949f738.m3u8> |
 | 157 | [HD]cnn go | epg.pw | <https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8> |
-| 158 | [BD]CNNHD | epg.pw | <https://epg.pw/stream/b4c01add83341bc8823a1054c2b66e4b8d1cec51461f28a34d4ead5858851623.ctv> |
+| 158 | [HD]CNNHD | epg.pw | <https://epg.pw/stream/b4c01add83341bc8823a1054c2b66e4b8d1cec51461f28a34d4ead5858851623.ctv> |
 | 159 | [HD]hln | epg.pw | <https://epg.pw/stream/32960459932c42fc75b417bd52b788d195d72c289c5a07a3db3df42e08b27e00.m3u8> |
 | 160 | [HD]ช่อง cp 24 | epg.pw | <https://epg.pw/stream/34ffca8c7db968bf7d76fd056079e7311b5f59b19d06d29611fd7d9b69c5bb59.m3u8> |
 | 161 | [BD]cpac (720p) | epg.pw | <https://epg.pw/stream/72a25cc75ece1e825e2c0ce64d9b589e62979a93342497a09ab80003126f909a.m3u8> |
@@ -186,9 +186,9 @@
 | 180 | [HD]CRIMEINVESTIGATION | epg.pw | <https://epg.pw/stream/27be7b5cdc6dd9c19e164cfc74932ffbb2241671a105dbfde63b43f6d23cb841.ctv> |
 | 181 | [SD]discovery science | epg.pw | <https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8> |
 | 182 | [HD]DISCOVERYSCIENCE | epg.pw | <https://epg.pw/stream/d6f4c5edf62f0f821784e9efa65e00d5f1f232c995adb946dee27293ae64d4d4.ctv> |
-| 183 | [HD]DISNEYJR | epg.pw | <https://epg.pw/stream/504f3e8099a8c4ff7de6fc597b4ecee0aece5d476868c36e11616d7ec7aecb99.ctv> |
-| 184 | [HD]DISNEYJUNIOR | epg.pw | <https://epg.pw/stream/936650621e54709bab53b9dce034cb5d9577069d7a5f6e15613e130b0106d831.ctv> |
-| 185 | [HD]DISNEYXD | epg.pw | <https://epg.pw/stream/1d403de5004df6aa39c49acb922d5e0f45c0596c2fdac9be629afd12d5fdfd96.ctv> |
+| 183 | [HD]DISNEY XD | epg.pw | <https://epg.pw/stream/2e76be8008d92ccb51c534b98bc7a7ee101a11bb7c10b995dc983c07d9818cd4.ctv> |
+| 184 | [HD]DISNEYJR | epg.pw | <https://epg.pw/stream/504f3e8099a8c4ff7de6fc597b4ecee0aece5d476868c36e11616d7ec7aecb99.ctv> |
+| 185 | [HD]DISNEYJUNIOR | epg.pw | <https://epg.pw/stream/936650621e54709bab53b9dce034cb5d9577069d7a5f6e15613e130b0106d831.ctv> |
 | 186 | [HD]DMAX | epg.pw | <https://epg.pw/stream/a26ee6f4232ba8382ab4ffd3dfe50278e06d15af60af7a5370a452e96c752a8f.ctv> |
 | 187 | [SD]da vinci | epg.pw | <https://epg.pw/stream/5ab8582de6e170a3fba0e34d7f4b5fb597e5bb23bad8618e86a1a8468f6ce16a.m3u8> |
 | 188 | [BD]dijlah tv hd | epg.pw | <https://epg.pw/stream/c68e7dbaaafc55448e76156d9cc024b9e0301145fb06c48ceb1c455071153d1d.ctv> |
@@ -220,12 +220,12 @@
 | 214 | [SD]fuji tv next | epg.pw | <https://epg.pw/stream/398311c3161e761c6fcdea9a00d06875e72e234f5c585cf68719d7f0a3ab83c9.m3u8> |
 | 215 | [SD]FX USA | epg.pw | <https://epg.pw/stream/694face11e8eff62dbfddcb7531451865bc1d44cf4b3825d9c6bd996193f5338.ctv> |
 | 216 | [HD]FXM USA | epg.pw | <https://epg.pw/stream/a1fddbde4da511f18513fd42596d1754cae21c3ac30d8f43ef659752c7facadb.ctv> |
-| 217 | [BD]FYI | epg.pw | <https://epg.pw/stream/937ba3e674a25bae49f1a6c2c75b453cb7c2890efdd22aa21e8d6830b4b61321.ctv> |
+| 217 | [HD]FYI | epg.pw | <https://epg.pw/stream/937ba3e674a25bae49f1a6c2c75b453cb7c2890efdd22aa21e8d6830b4b61321.ctv> |
 | 218 | [BD]Fashion TV | epg.pw | <https://epg.pw/stream/d288f330ad9f12347831b94f9b720699191661ae2804a1fbc4d1ba6553221f86.m3u8> |
 | 219 | [BD]filstalwelle | epg.pw | <https://epg.pw/stream/559435b69d05ca0ef89e5504344e8c2e18dd9bd9a23c542d79186b0617bab842.m3u8> |
 | 220 | [SD]Food Network | epg.pw | <https://epg.pw/stream/f22e6336afdc284331c310c78db6cb2fa840a332174a5ee45d87667b8542c1ba.ctv> |
-| 221 | [BD]Fox Crime | epg.pw | <https://epg.pw/stream/5564e9fe77aea8621cc68ee2d79ba8bde4c1df9f17e746e2e6f9944192d89473.ctv> |
-| 222 | [BD]Fox Life | epg.pw | <https://epg.pw/stream/180a297a59b8b42386cc469c0de0c97abd01dad164b584aed9df77b859b1cb23.ctv> |
+| 221 | [SD]Fox Crime | epg.pw | <https://epg.pw/stream/5564e9fe77aea8621cc68ee2d79ba8bde4c1df9f17e746e2e6f9944192d89473.ctv> |
+| 222 | [SD]Fox Life | epg.pw | <https://epg.pw/stream/180a297a59b8b42386cc469c0de0c97abd01dad164b584aed9df77b859b1cb23.ctv> |
 | 223 | [BD]franceinfo | epg.pw | <https://epg.pw/stream/ee0a88941eeb1c2d4948853e62658b0dc36d51f6d8d7cfb52ed09c6c1ecf4940.m3u8> |
 | 224 | [SD]gaora sports | epg.pw | <https://epg.pw/stream/60692083b20d3cc8b165b87ae01d3cc32a5736ed0a6e9789b8bc863a34cd4841.m3u8> |
 | 225 | [BD]cgntv japan | epg.pw | <https://epg.pw/stream/39c387b5a1bb11fc1950a4fd6b0a1e1ff46e319b8c162426132d69768a059af1.m3u8> |
@@ -353,7 +353,7 @@
 | 347 | [HD]ช่อง sky sports mix | epg.pw | <https://epg.pw/stream/a66aee59844fc6c9c3a0a53c6d27032bd519af3eeadb1330d7b7942e5ce098e3.m3u8> |
 | 348 | [HD]SKYCINEMAACTIONHD | epg.pw | <https://epg.pw/stream/f9a6bc3baacabd1c66facc10adfa4bb3055da6aa2797e41bf841613596c7ecde.ctv> |
 | 349 | [SD]SKYSHOWCASE | epg.pw | <https://epg.pw/stream/a915dba8e597d0168bdaf49d0b619675c0f468e0acb1932ecb2f95b5120ad425.ctv> |
-| 350 | [BD]sportv 2 | epg.pw | <https://epg.pw/stream/52a7ecc404736fdd30a7790f27b002f2aa6b6092544990b0f74099b860a9e7f2.ctv> |
+| 350 | [BD]sportv 2 | epg.pw | <https://epg.pw/stream/9dbb89ce63befa140fd8fd80d01264085c00a355d526f1ea4d4bdeb242f8dacb.ctv> |
 | 351 | [VGA]STARZ CINEMA | epg.pw | <https://epg.pw/stream/3361be0b051baa41078c1b869c3c1e63c981349acbb029cb8d38985c7e8cf816.ctv> |
 | 352 | [VGA]STARZ EDGE | epg.pw | <https://epg.pw/stream/2fc39ce13472063fb1f655181a141d195da1a6621e83f1d6ec0f6eeff4011220.ctv> |
 | 353 | [HD]SUNDANCE | epg.pw | <https://epg.pw/stream/92b2fe33f809070d1b5652fa15d080cf2afe7b958680a13f4b1bddeaa8e84e4a.ctv> |
@@ -371,7 +371,7 @@
 | 365 | [HD]SkyMoviesSci-Fi&Horror | epg.pw | <https://epg.pw/stream/ad4bda512b2675426620d64182c3b0a1f7a1ddd0468d0e0d3fc64406cd42137e.ctv> |
 | 366 | [HD]smithsonian channel selects | epg.pw | <https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8> |
 | 367 | [VGA]on music hd | epg.pw | <https://epg.pw/stream/0e36ad6d0f5e371875aaa6f5ffe834e80133d631cc01712976d45b951cbb7dc3.ctv> |
-| 368 | [BD]sporttv 4 | epg.pw | <https://epg.pw/stream/cfc6d8565731ea0f00021cee7159fb735d8775993b8c5f5ffe985a2cba57bd9f.m3u8> |
+| 368 | [SD]sporttv 4 | epg.pw | <https://epg.pw/stream/cfc6d8565731ea0f00021cee7159fb735d8775993b8c5f5ffe985a2cba57bd9f.m3u8> |
 | 369 | [HD]ช่อง sportsnet one | epg.pw | <https://epg.pw/stream/6746aca1475d3854cff6a1e082efaf6645c259d360c9253244627f7615558492.m3u8> |
 | 370 | [HD]ช่อง sportsnet pacific | epg.pw | <https://epg.pw/stream/c024c33549e30b9dfd2e8f55711bcb63a77a01f18a2ed85eeb3667562d480b05.m3u8> |
 | 371 | [HD]ช่อง sportsnet west | epg.pw | <https://epg.pw/stream/979874b01377b9d6141868823cdd3ecc74ccbfebcabdec60932c80543da66cc9.m3u8> |
@@ -513,7 +513,7 @@
 | 507 | [VGA]ant1 cyprus | epg.pw | <https://epg.pw/stream/3622f1a0b2d458e256380a4f705ebe603627b05a0c5df6c988635a8f8ec11108.m3u8> |
 | 508 | [HD]antv | epg.pw | <https://epg.pw/stream/2cd9bc64279bee99f4a7d28632e82e19056aaed54bd08b830dbff9bb980b7f85.m3u8> |
 | 509 | [SD]arb (576p) | epg.pw | <https://epg.pw/stream/335c65d715869d455370378b504d03bcdd672247e5196798f4991b8d4978c6b5.m3u8> |
-| 510 | [HD]arena 1 sport | epg.pw | <https://epg.pw/stream/9b84bf609d2b49811e205b464cc490fb3de708d8dbf1689a246805b94e3b739c.m3u8> |
+| 510 | [SD]arena 1 sport | epg.pw | <https://epg.pw/stream/9b84bf609d2b49811e205b464cc490fb3de708d8dbf1689a246805b94e3b739c.m3u8> |
 | 511 | [BD]arirangtv | epg.pw | <https://epg.pw/stream/894cdb50e0ca598eb8f69c7bf96b9fd6bb0e9fc551e90703d1602ce11e151288.m3u8> |
 | 512 | [VGA]arrabiaa (360p) | epg.pw | <https://epg.pw/stream/4a1f590466d769feb9c2025f6265e08e7f061b6f88d3b5d75c7a427693429bfd.m3u8> |
 | 513 | [BD]arte | epg.pw | <https://epg.pw/stream/b1c58c806c8ad4031c3d50c5e88b4f547e5893124e0b6a13f67a9b866f3f55e5.m3u8> |
@@ -646,7 +646,7 @@
 | 640 | [BD]deutsche welle | epg.pw | <https://epg.pw/stream/4cd29a869cf0c04e4c69d1f3df1a9aa6ca315dc9a5cbd317385e4e0bae211cc1.m3u8> |
 | 641 | [BD]diez tv (1080p) | epg.pw | <https://epg.pw/stream/d03cd0d36c1795cc07a868ffbcfa42bff31808e3abc82245f09cbeb1ba0e6c7c.m3u8> |
 | 642 | [SD]digi 24 | epg.pw | <https://epg.pw/stream/a4fc9ce1bf5764e5b56b2a6d96b185e12ab8aa74b6c4d7606d50242caa4af3d4.m3u8> |
-| 643 | [SD]digi sport 3 | epg.pw | <https://epg.pw/stream/840a80cc6e160519d72a4dfe0063c6ea22da3544c72400515b0d229997a9759d.ctv> |
+| 643 | [BD]digi sport 2 | epg.pw | <https://epg.pw/stream/3f4809c1f95aa19cfb5ff0aba6bc3fcd0e509ee6234a7e89cddee09619b7d382.ctv> |
 | 644 | [BD]discovery | epg.pw | <https://epg.pw/stream/1d428f91a2a35a4ab327310375a0128a6d234ad90b8f4802eaaa5fc47b45bacf.m3u8> |
 | 645 | [BD]discovery channel | epg.pw | <https://epg.pw/stream/439f0a77e0adef8edcc0d5a948fb8384b391a134a0036013e58cf0bc2bfcab1e.m3u8> |
 | 646 | [BD]discovery hd world | epg.pw | <https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8> |
@@ -812,9 +812,9 @@
 | 806 | [VGA]life tv | epg.pw | <https://epg.pw/stream/3f63ecf7c940567371b914d9f5c4eea8997e9caa3c09b4ba92206393b0a69cee.m3u8> |
 | 807 | [BD]lifestyle by binge | epg.pw | <https://epg.pw/stream/8ecb451bd2f5c00f5aad5cbd6e20043c9563f25b6df16788f2c99eddd893e4a9.m3u8> |
 | 808 | [VGA]light channel | epg.pw | <https://epg.pw/stream/183729e38e0b8c269ac0f2af73ccfcac17049056179e7afb91666ca4d1fa7ec0.m3u8> |
-| 809 | [VGA]live 2 | epg.pw | <https://epg.pw/stream/2f852eb483c540e1544e3ea3c2660e4f9aaa01fbd514533746274523f0dcef6d.m3u8> |
+| 809 | [HD]live 2 | epg.pw | <https://epg.pw/stream/2f852eb483c540e1544e3ea3c2660e4f9aaa01fbd514533746274523f0dcef6d.m3u8> |
 | 810 | [HD]live 3 | epg.pw | <https://epg.pw/stream/facdfa8193be95c2a657968ba554f1bbc87fd6a07d56e148e44fd6e43293b112.m3u8> |
-| 811 | [VGA]live 4 | epg.pw | <https://epg.pw/stream/2a2d0ab5a9e655e800e1f73a44fe0671d97b980d77dd50b146d525b471f917d5.m3u8> |
+| 811 | [HD]live 4 | epg.pw | <https://epg.pw/stream/2a2d0ab5a9e655e800e1f73a44fe0671d97b980d77dd50b146d525b471f917d5.m3u8> |
 | 812 | [BD]live 5 | epg.pw | <https://epg.pw/stream/3aec524f3680785816fa121f918a7fa43f3ed22afd2e3a36b70ed865040ab4c3.m3u8> |
 | 813 | [BD]logos tv | epg.pw | <https://epg.pw/stream/0d6be278c69d66bc88dbc34b33863715f878e4abf825163081213388aba3bb9e.m3u8> |
 | 814 | [BD]love nature | epg.pw | <https://epg.pw/stream/50b37a23774517c16dfe5b104ce15ec4e4d933a704184d2981c37e7735d216a6.m3u8> |
@@ -854,7 +854,7 @@
 | 848 | [HD]motor1 tv | epg.pw | <https://epg.pw/stream/eafc41c974e7937c1f7842175a04bce1f8c351a942687326b267c881e6f058c1.m3u8> |
 | 849 | [HD]motorvision tv | epg.pw | <https://epg.pw/stream/a640961bbcd25a8d42b27831b1d6f771c1028cf91759085b175db8281b545c71.m3u8> |
 | 850 | [BD]moviebox (1080p) | epg.pw | <https://epg.pw/stream/8fdced464653b5e11d59eb8f49685a6e9d8cf78508d842cc941640e0347e7833.m3u8> |
-| 851 | [BD]movistar liga de campeones 4 | epg.pw | <https://epg.pw/stream/605f20b8de1d0cf6e2521cf0f2b377d53c7d04b1be74d99cc24120bc212e610d.ctv> |
+| 851 | [HD]movistar liga de campeones 4 | epg.pw | <https://epg.pw/stream/605f20b8de1d0cf6e2521cf0f2b377d53c7d04b1be74d99cc24120bc212e610d.ctv> |
 | 852 | [VGA]msnbc | epg.pw | <https://epg.pw/stream/03c13ef1222ec66ac5e3adef9076f5a111a75acf6c708000b4839aaf8242fc85.m3u8> |
 | 853 | [BD]mtv lebanon | epg.pw | <https://epg.pw/stream/8ff8f23baca9cf4c9acb9c46409870c8741408e5e035b3918b6139088502900b.m3u8> |
 | 854 | [HD]multishow | epg.pw | <https://epg.pw/stream/1a6f824ded4884390cc1c5fea7b99bd24a0678b03dc6cc911a228d792416ba58.ctv> |
@@ -1071,7 +1071,7 @@
 | 1065 | [HD]super tv | epg.pw | <https://epg.pw/stream/31d32b87195b13bcd68d9a7a9bbd3bb7cecc08b40c3bc3fa6c26c455fe24d128.m3u8> |
 | 1066 | [HD]superone hd | epg.pw | <https://epg.pw/stream/411929e6b8607e37dc0ce8b37fa4b3785496f82ef9ff2e0796a6977e97964235.m3u8> |
 | 1067 | [BD]supersport pl | epg.pw | <https://epg.pw/stream/5af52c50593246e9ba0256fe54e943881117ee41d3afd6f0f0c692d2b53064dc.m3u8> |
-| 1068 | [HD]swerve sports | epg.pw | <https://epg.pw/stream/25fd51baac16a3bc90efda6777f5629f68506840568a1eea604502d207522cb5.m3u8> |
+| 1068 | [BD]swerve sports | epg.pw | <https://epg.pw/stream/25fd51baac16a3bc90efda6777f5629f68506840568a1eea604502d207522cb5.m3u8> |
 | 1069 | [HD]swr 3 visual radio | epg.pw | <https://epg.pw/stream/38d448cbdc1ccd0a1251012c50fd2e834cd753f78b76181edd2414546c9748c6.m3u8> |
 | 1070 | [HD]syria | epg.pw | <https://epg.pw/stream/d35ad843dc84d779b7ac7105d3f95c3a1f7754dcfb8cae21ce8e5b02023c3aee.m3u8> |
 | 1071 | [BD]syria tv | epg.pw | <https://epg.pw/stream/b9506c5d46e393e9f0d9760d5bbcc58b619c576f3962f488f204be454f0d50ba.m3u8> |
@@ -1274,7 +1274,7 @@
 | 1268 | [SD]ностальгия | epg.pw | <https://epg.pw/stream/2c6818e90d494b93072ffcbcc7e8183b58e5d4747d5e1a12332fdc8e7818521f.m3u8> |
 | 1269 | [VGA]нтв | epg.pw | <https://epg.pw/stream/3c7f5196ed72e170792da2ec29a82a2756b3344a7a4e711ac35e2bd4e5b718f3.m3u8> |
 | 1270 | [SD]перец | epg.pw | <https://epg.pw/stream/6ad8f076efe9282a1a37fed8313b5f98fd7abd402bbf61dc2879efb1838a1567.m3u8> |
-| 1271 | [SD]правдатут | epg.pw | <https://epg.pw/stream/481fe1353ca3bd5eafdbb2a8f24c8da20e10f0d69994b7a4a6351ee85c5eb396.m3u8> |
+| 1271 | [HD]правдатут | epg.pw | <https://epg.pw/stream/481fe1353ca3bd5eafdbb2a8f24c8da20e10f0d69994b7a4a6351ee85c5eb396.m3u8> |
 | 1272 | [HD]просвещение (540p) | epg.pw | <https://epg.pw/stream/63ebadccbaa4cca76b2d9da9331732d962be4ddf895beac366ee284d93e146ce.m3u8> |
 | 1273 | [SD]пятница! | epg.pw | <https://epg.pw/stream/db179b48157dfa0cd2430c51be6dba5c047db1ca5d5ce9e301fdbd9bc764241a.m3u8> |
 | 1274 | [SD]радость моя | epg.pw | <https://epg.pw/stream/92a276d2eb8a61bafe4f69e2aee82e74d3000ce32c1a92b0f82723551b000d55.m3u8> |
@@ -1351,7 +1351,7 @@
 | 1345 | [BD]全纪实 8m | epg.pw | <https://epg.pw/stream/a705a6147de87b9dd724482486c10078405545d850fb55bffa82b9ad98dbe45f.ctv> |
 | 1346 | [VGA]公视3台 | epg.pw | <https://epg.pw/stream/aa98a9968159ce115f8d1f2abed173e2b7e9d46b96d025167fe3747760bc7603.ctv> |
 | 1347 | [SD]兵团卫视 | epg.pw | <https://epg.pw/stream/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8> |
-| 1348 | [SD]内蒙卫视 | epg.pw | <https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8> |
+| 1348 | [VGA]内蒙卫视 | epg.pw | <https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8> |
 | 1349 | [VGA]创世.电视 | epg.pw | <https://epg.pw/stream/6dd46c6e6c146cc8383089ae906128af3d45cdafbff6b580d3dde1502e9c1d84.m3u8> |
 | 1350 | [BD]刘德华 | epg.pw | <https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv> |
 | 1351 | [SD]动作影院 | epg.pw | <https://epg.pw/stream/42ed3ee461afcccb99711962e0c1aa0f4705d5fb49d5b8dd6a83d712f629f8f0.ctv> |
@@ -1435,247 +1435,246 @@
 | 1429 | [HD]山西影视 | epg.pw | <https://epg.pw/stream/f96d8634d466c4f2220b1c85e0997b47a2c07a9d0771baafb66f7151b3d75ef8.ctv> |
 | 1430 | [HD]山西山西社会与法治 | epg.pw | <https://epg.pw/stream/d4939f0b26efd071f690ea78f655acea45c7b99bc35e835f4f48a136a8876929.m3u8> |
 | 1431 | [SD]山西卫视 | epg.pw | <https://epg.pw/stream/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.m3u8> |
-| 1432 | [BD]常州公共[ipv6] | epg.pw | <https://epg.pw/stream/151efb2c916f889ce7332d865d03b62e2a95e896f2adcb137d039e75cea0bcf9.m3u8> |
-| 1433 | [HD]平湖新闻综合 | epg.pw | <https://epg.pw/stream/42b48170548b6a57776c7592ecda1c9f326f0ed39dc0631337d1e8961aa97486.m3u8> |
-| 1434 | [HD]广东文化 | epg.pw | <https://epg.pw/stream/8f3b867126266339ab049e15358c81e9e41f37658ed7080584c6993395fff5e3.m3u8> |
-| 1435 | [BD]广西新闻 | epg.pw | <https://epg.pw/stream/597b16418e43bcc202797d8d78faf9a0139b0c4cc7de59796c8aa4c46b805cf1.m3u8> |
-| 1436 | [SD]康巴卫视 | epg.pw | <https://epg.pw/stream/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.ctv> |
-| 1437 | [SD]厦门卫视 | epg.pw | <https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv> |
-| 1438 | [HD]广东珠江[ipv6] | epg.pw | <https://epg.pw/stream/51b2622bc0ab3fea23acfd8d9b0314a954a98e5e79d4337650f58bee32357425.m3u8> |
-| 1439 | [BD]广东经济科教 | epg.pw | <https://epg.pw/stream/92d2fa1304545640f7fd0d67aef94454f51f05a0cb77d0825f446954857c899a.m3u8> |
-| 1440 | [BD]广东卫视[ipv6] | epg.pw | <https://epg.pw/stream/79202aa439fc4fb94a8304f8608737f7cff1626f2b42aa6d5552ecfc2bcacbaf.m3u8> |
-| 1441 | [BD]广西影视 | epg.pw | <https://epg.pw/stream/8cfcbd7359b48553193f700bbb8ee80def1b0e954f3f6721a1b331a38a6f9f0a.m3u8> |
-| 1442 | [BD]广西综艺 | epg.pw | <https://epg.pw/stream/dd40c2123be7b124947cef55b01bde16e981e3a90d9d9ca725956786bd3b1167.m3u8> |
-| 1443 | [BD]广西卫视 | epg.pw | <https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8> |
-| 1444 | [BD]广西都市 | epg.pw | <https://epg.pw/stream/7ea5219e9f45945814926dfa1285a37f01c7a82bab44430d6eaa5bb4af0aac85.m3u8> |
-| 1445 | [HD]延边卫视 | epg.pw | <https://epg.pw/stream/694dae873b77a8719bd2de5311d0957608729903cc46e1d5f71f76c55b587c3b.m3u8> |
-| 1446 | [HD]开化新闻综合 | epg.pw | <https://epg.pw/stream/3bbb603477d99145f17fd829b0c986cc487070e09e0ca75d4617ed3cad784c5f.m3u8> |
-| 1447 | [SD]弈坛春秋[ipv6] | epg.pw | <https://epg.pw/stream/763d7c5759a8e53b24815f268656af286ed0fc9afcae30cfdfd88a4d68639bf4.m3u8> |
-| 1448 | [BD]快乐垂钓 8m | epg.pw | <https://epg.pw/stream/c08bde786cad061027689a3a00e3140205cafc72a723cb08819e3d17622ca951.ctv> |
-| 1449 | [BD]快乐垂钓 | epg.pw | <https://epg.pw/stream/f985e0b6d1331e8a6ebe2cd52fc775e56778a8c59df71272881179c511e256cb.ctv> |
-| 1450 | [BD]爱上4k | epg.pw | <https://epg.pw/stream/3c0311108820220e015646ae9e51579e2a9899eb349471933ece11480331e2a6.ctv> |
-| 1451 | [HD]爱奇艺 | epg.pw | <https://epg.pw/stream/b35147aeb6c0bfa56d15df08afbb66dbff4afb9d192ebbaecb1bd63060552d9d.ctv> |
-| 1452 | [SD]承德新闻综合 | epg.pw | <https://epg.pw/stream/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.m3u8> |
-| 1453 | [BD]收藏天下 | epg.pw | <https://epg.pw/stream/06721d102fff6bee9be6bc1afc6fcc7b98152ae725c268a17b41b5502b3c7b5c.ctv> |
-| 1454 | [BD]文物宝库 | epg.pw | <https://epg.pw/stream/e8a4d9f6d3ba5e1e6ff4c1a48e190d72f245bd2afedb8ee0cca017934c8e2830.m3u8> |
-| 1455 | [BD]三新动漫 | epg.pw | <https://epg.pw/stream/3db55b1054c684fb8a548a10a0d6cb7855c453b8786c8716dbb2c27c917a8c6d.ctv> |
-| 1456 | [BD]新昌新闻综合 | epg.pw | <https://epg.pw/stream/7f856c798f5a5167cf5966b25d0ab5d352c40c5975d4a78d25e6a92c0251cb89.m3u8> |
-| 1457 | [VGA]新疆卫视 | epg.pw | <https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8> |
-| 1458 | [VGA]新乡县电视台 | epg.pw | <https://epg.pw/stream/d9d1c8e6c64452086c295fdf725781e589ec6a8f913a416cf3c881ab5df14edc.m3u8> |
-| 1459 | [SD]旅チャンネル | epg.pw | <https://epg.pw/stream/6de27ffc8d1fb21cbbcfc28c2758d91b69adc720a12d680cde7ae126a430ea4b.m3u8> |
-| 1460 | [SD]旅游卫视 | epg.pw | <https://epg.pw/stream/0a7895ab7d245925f9fe1bdcb3714e269b6ce032323f8acc84b36071893c0d78.m3u8> |
-| 1461 | [SD]nittele g+ | epg.pw | <https://epg.pw/stream/3ab3f249b6017e2f47d33e72fd38314acf37974833de59da18b1329108f66a85.m3u8> |
-| 1462 | [SD]日本映画専门チャンネル | epg.pw | <https://epg.pw/stream/4ac6d730dcafe4489bb717443135c990423085e6ebdc8253d61fa8dab568bc32.m3u8> |
-| 1463 | [BD]早期教育 | epg.pw | <https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv> |
-| 1464 | [VGA]星卫hd电影台 | epg.pw | <https://epg.pw/stream/139527e97b87c46e23c2c595895faea2b7e94782ce4b561aaab47bd1f2047de9.ctv> |
-| 1465 | [SD]时代剧専门チャンネル | epg.pw | <https://epg.pw/stream/421bc8d08d73cfbf8ded12ef6cf7f0095e542b23545ade5c4946b51c7db009ef.m3u8> |
-| 1466 | [VGA]时尚台FTV | epg.pw | <https://epg.pw/stream/23fe8dae8925e6b180c6c7970f362418403d3081aa683ef00221572f424ae392.m3u8> |
-| 1467 | [BD]晋城公共 | epg.pw | <https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8> |
-| 1468 | [BD]晋城新闻 | epg.pw | <https://epg.pw/stream/bef72ce4c2d1d83126bb2af671ce94763a3457869acca885d2eaaf7c5c0b45d7.m3u8> |
-| 1469 | [HD]有线新闻 | epg.pw | <https://epg.pw/stream/4e24596fde9c243eb4302e394190972407ee674c0c6a06ea6be4e5d349582cbe.m3u8> |
-| 1470 | [BD]有线新闻台 | epg.pw | <https://epg.pw/stream/a546fb9f46c4fbd26bfe5b62692b029b734cb147ea737d9bd0e525822acb1a45.m3u8> |
-| 1471 | [HD]有线财经信息台 | epg.pw | <https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8> |
-| 1472 | [BD]东南卫视 | epg.pw | <https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.ctv> |
-| 1473 | [BD]东方卫视[ipv6] | epg.pw | <https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8> |
-| 1474 | [BD]东方财经[ipv6] | epg.pw | <https://epg.pw/stream/76079aa6a26f481e2218b469cd5c6f2236223a0b4244bdad4a6d36cf985e637e.m3u8> |
-| 1475 | [HD]上海东方购物 | epg.pw | <https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8> |
-| 1476 | [BD]东映チャンネル | epg.pw | <https://epg.pw/stream/7c08c183610740794e0f39e158a44d85e6b400eea9eac7e2aaf09706f05bbf40.m3u8> |
-| 1477 | [BD]东映チャンネル / toei channel | epg.pw | <https://epg.pw/stream/7ce45ea3a73bd4f41a771025676708b7d1816d1d5f2f6c2070471360deb3ee82.m3u8> |
-| 1478 | [BD]东森幼幼台 | epg.pw | <https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8> |
-| 1479 | [BD]东森综合 | epg.pw | <https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8> |
-| 1480 | [BD]东森美洲 | epg.pw | <https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8> |
-| 1481 | [BD]东森美洲卫视 | epg.pw | <https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8> |
-| 1482 | [BD]东森财经 | epg.pw | <https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8> |
-| 1483 | [VGA]东森超视 | epg.pw | <https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8> |
-| 1484 | [SD]林正英 | epg.pw | <https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv> |
-| 1485 | [SD]枣庄公共 | epg.pw | <https://epg.pw/stream/322da1913ea0e1d42b658beeda6c2b8b019c8fbf8470dd1a69010da6137507af.m3u8> |
-| 1486 | [SD]枣庄公共频道 | epg.pw | <https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8> |
-| 1487 | [SD]枣庄教育 | epg.pw | <https://epg.pw/stream/5c9be548faf8b08d6c887f2037065b56dac729995abfb7e9da64ed34c99fec3d.m3u8> |
-| 1488 | [SD]枣庄新闻 | epg.pw | <https://epg.pw/stream/7996424bc3c1787a3b73efd84dac13f864e07b3bff8353ccfac13dc3f465bb25.m3u8> |
-| 1489 | [SD]枣庄新闻综合 | epg.pw | <https://epg.pw/stream/c96d12ec316e8297973a210e94860e269e8797986e6a6223f3be444387c32341.m3u8> |
-| 1490 | [BD]欢笑剧场 8m | epg.pw | <https://epg.pw/stream/4e9f40b3cb33dc69757ebed15001d939ce2a2410120779c0aac6694b3d8c8581.ctv> |
-| 1491 | [SD]武义新闻综合 | epg.pw | <https://epg.pw/stream/0077dd0cdd20b184ff9fa9291950b02b0129a68b7d7ca9b1e14da5be96046007.m3u8> |
-| 1492 | [HD]武汉外语频道 | epg.pw | <https://epg.pw/stream/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8> |
-| 1493 | [SD]武汉少儿 | epg.pw | <https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8> |
-| 1494 | [HD]武汉教育 | epg.pw | <https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8> |
-| 1495 | [VGA]武汉文体 (480p) | epg.pw | <https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8> |
-| 1496 | [HD]武汉新闻综合 | epg.pw | <https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8> |
-| 1497 | [HD]武汉经济 (360p) | epg.pw | <https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8> |
-| 1498 | [VGA]河北武汉电视剧 | epg.pw | <https://epg.pw/stream/456f2251ba309946a1b4954299fa7941150642941c69ef7224f888c4803834df.m3u8> |
-| 1499 | [BD]武术世界 | epg.pw | <https://epg.pw/stream/3b602b9a463136db096066c04bdfbac7f6bad519f824fdda60b2028c8d277950.m3u8> |
-| 1500 | [HD]民视 | epg.pw | <https://epg.pw/stream/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8> |
-| 1501 | [BD]民视新闻台 | epg.pw | <https://epg.pw/stream/9d0c0065e0765bccc3f375d947bbb75efe5461443d6c1e06c7d37d6f57e26358.m3u8> |
-| 1502 | [SD]民视新闻HD | epg.pw | <https://epg.pw/stream/0a9b2611d6fd15d90be0ec3144d0b783dd45a65ac7a15d2e85dd93860170b1af.m3u8> |
-| 1503 | [BD]民视新闻hd | epg.pw | <https://epg.pw/stream/2d58d8f0a0cd55789fbbe7d305795dea3656816d9afa0bd3baabc067e54b218c.m3u8> |
-| 1504 | [BD]民视新闻 hd | epg.pw | <https://epg.pw/stream/2603220ae7a890e8e1027a6362e9aaec880131ce06da58c4e89365ce6d410772.m3u8> |
-| 1505 | [BD]永嘉新闻综合 | epg.pw | <https://epg.pw/stream/8cb05e5ed567cade53c698c241bceb8b76a7e9dfe92d963b633fd1cc7e24d005.m3u8> |
-| 1506 | [SD]江津文化旅游 (576p) | epg.pw | <https://epg.pw/stream/8eadeef75a4a287a1af020c033ad553ecca3422c44274b384dfaaa50826132a6.m3u8> |
-| 1507 | [VGA]江津新闻综合 (480p) | epg.pw | <https://epg.pw/stream/69e3797d8401607627052abb5a8fa6761b278adb233ab5fb91cec4f68c4abfe0.m3u8> |
-| 1508 | [VGA]江津经济生活 (480p) | epg.pw | <https://epg.pw/stream/486ca0146c1c5243cd66066c0f7943091d0d999d3988bd261fb476c749632caf.m3u8> |
-| 1509 | [BD]江苏苏州文化生活 | epg.pw | <https://epg.pw/stream/2f3a4295f316f9fd9743e1f5b4475ab58f9f0d44760beb2979aa3c7fc43ac63d.m3u8> |
-| 1510 | [BD]江苏苏州新闻综合 | epg.pw | <https://epg.pw/stream/f7d4f408439bef7ee1f2d7c253df699d354c1a06a757b69e9a3284d9c031d862.m3u8> |
-| 1511 | [BD]江苏苏州生活资讯 | epg.pw | <https://epg.pw/stream/f61596dba298ca8cc1b9665b1edfa379fdc606d7888659eb99d8708ae5c6c4cd.m3u8> |
-| 1512 | [BD]江苏苏州社会经济 | epg.pw | <https://epg.pw/stream/336fe52e74ffdf65a1ed0f7daf0b475d1c4473e869a961a774183450c92bc830.m3u8> |
-| 1513 | [BD]江苏连云港新闻综合 | epg.pw | <https://epg.pw/stream/ddc0738747f90ddd4aab81af968dbfa3a8504e5793235b529b58d7d6c1b701cf.m3u8> |
-| 1514 | [BD]江苏卫视 8m | epg.pw | <https://epg.pw/stream/8d6ed1882ee77645c8ea54babc6225722099adaaca0d5ff5b12b88a146895b9f.ctv> |
-| 1515 | [BD]浙江公共新闻 | epg.pw | <https://epg.pw/stream/52e6b218b89c4eb770a708a7ad50bce31279aa79c1d0f6bed318afb57ae35287.m3u8> |
-| 1516 | [VGA]江苏城市 | epg.pw | <https://epg.pw/stream/b1febed070a43889ce60d89fdda3b5dfcadc5b1b9f014c40516b17e8915b7639.m3u8> |
-| 1517 | [VGA]江苏综艺 | epg.pw | <https://epg.pw/stream/c9c1ace3a5ddfeb0cedc0cc26257fc11a0f0c0ecddbcd43b62c860acd530796e.m3u8> |
-| 1518 | [BD]江苏卫视 | epg.pw | <https://epg.pw/stream/c820313a01ccf35b80f23ef104f866d422e22f5e9ad084b95f80c77d875bcbab.m3u8> |
-| 1519 | [BD]江西卫视 8m | epg.pw | <https://epg.pw/stream/bffffcee8876a212cb1e452d3c2175946c63fd8831bc4a29ea43bd9feb84afaf.ctv> |
-| 1520 | [BD]江西卫视[ipv6] | epg.pw | <https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8> |
-| 1521 | [SD]河北公共 | epg.pw | <https://epg.pw/stream/e73e84b708a04b46e8aff02f7a00d3168bf259f7f48b5dc8e08a53583b9c75a4.m3u8> |
-| 1522 | [SD]河北影视 | epg.pw | <https://epg.pw/stream/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8> |
-| 1523 | [SD]河北影视剧 | epg.pw | <https://epg.pw/stream/c052b9f414bbbf9c00616f9184da6d11fa730d903171e2ae8d1ef1b80538f600.m3u8> |
-| 1524 | [BD]河北卫视 | epg.pw | <https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.ctv> |
-| 1525 | [SD]河北农民 | epg.pw | <https://epg.pw/stream/77d583a3ce92e660a3aae8d721e57456356ecb45396a4f4c979738dc2832bfd1.m3u8> |
-| 1526 | [SD]河北都市 | epg.pw | <https://epg.pw/stream/9fc6507da49edb0268413134352e96785e137b8f2dec3c1bef337f62e1087c1b.m3u8> |
-| 1527 | [BD]河南卫视 8m | epg.pw | <https://epg.pw/stream/f2bc127581d72946570175bc4a24a02c5b7f366522a83dad8a56bc706fb5f1c4.ctv> |
-| 1528 | [BD]河南卫视[ipv6] | epg.pw | <https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8> |
-| 1529 | [BD]法治天地[ipv6] | epg.pw | <https://epg.pw/stream/820567d53130b93853933c7fdbd207d137058fb3f6571d1cdd3a9a795e6c23fd.m3u8> |
-| 1530 | [BD]济南新闻综合 | tv.qntv.net | <rtmp://tv.qntv.net/channellive/ch1?zguizd> |
-| 1531 | [SD]浙江平湖新闻综合 | epg.pw | <https://epg.pw/stream/2196c2cf1a0af5224542f776d0bce880acf323b215d4a8687b8f70bf80fed369.m3u8> |
-| 1532 | [SD]浙江绍兴公共 | epg.pw | <https://epg.pw/stream/0ec806bda9af17c82743c04f02f3f4ec7794cccd32cdc63b6633ddfbc20bdc44.m3u8> |
-| 1533 | [BD]浙江国际 | epg.pw | <https://epg.pw/stream/04f8e81b2de97b2248ae306a5154c7623036b7698fcab51d564fd0ff8a31c564.m3u8> |
-| 1534 | [BD]浙江少儿 | epg.pw | <https://epg.pw/stream/61763493836696939da31f5856221e08038a6e814dc1fe983cd0d335b284104e.m3u8> |
-| 1535 | [BD]浙江新闻 | epg.pw | <https://epg.pw/stream/4cb4bcb7ae35f2b30dee6b1be1a2d22108c73e9bc3729826ea009821ae7af456.m3u8> |
-| 1536 | [BD]浙江民生休闲 | epg.pw | <https://epg.pw/stream/e557930ad2b9039ae136a9a13434e42dc05dbf6fd672cb0058a35d7f846b6ddc.m3u8> |
-| 1537 | [BD]浙江经济生活 | epg.pw | <https://epg.pw/stream/b32906254ffc9df42586a87cb76bb15a5e5339c638cbbc0370ccf139ce311cc7.m3u8> |
-| 1538 | [BD]浙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8> |
-| 1539 | [SD]海南卫视 | epg.pw | <https://epg.pw/stream/55e62d831217f1412d58379dd9b23176a814d8d68d681e96be98fdd0d13e8949.m3u8> |
-| 1540 | [BD]海南卫视 8m | epg.pw | <https://epg.pw/stream/b60a53b3967c0f5709974d3e1bf079a1d560268f75f367277132ad15ea3f086f.ctv> |
-| 1541 | [BD]海宁新闻综合 | epg.pw | <https://epg.pw/stream/430bf9e770302d728d652b25b3c92a9357d50927a734bd8d97aacc47e6c875d3.m3u8> |
-| 1542 | [BD]海宁生活服务 | epg.pw | <https://epg.pw/stream/7db3c65c69de1f42f26b4d7b64529f5dd6d2d47476e8d5f13515c320b1efd51a.m3u8> |
-| 1543 | [BD]海峡卫视 | epg.pw | <https://epg.pw/stream/1d158fe4ef032b1ca0296ad7699ac4db2a6f32f6dee55188d716b972d35dff62.ctv> |
-| 1544 | [BD]淘baby | epg.pw | <https://epg.pw/stream/3eabb59343a1bda716db61f13a09c68180ec6f2e12ca582857105de0caf6b3b8.ctv> |
-| 1545 | [BD]深圳卫视[ipv6] | epg.pw | <https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8> |
-| 1546 | [HD]深圳都市 | epg.pw | <https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8> |
-| 1547 | [BD]清河新闻综合 | epg.pw | <https://epg.pw/stream/47c40494054ea276b23bff99bafbdb2d42f524a7c231cbab180bb50d68376c0d.m3u8> |
-| 1548 | [SD]湖北卫视 8m | epg.pw | <https://epg.pw/stream/13ef1e33f8053afd1469e0e957eff11c5a38dff0410ef13e71b122d565f490de.ctv> |
-| 1549 | [BD]湖北卫视 | epg.pw | <https://epg.pw/stream/a168d5ee9a5535ed5d363fe5b921fc96b8e59faeb98d0a1780505ad1384b0a00.ctv> |
-| 1550 | [BD]湖南卫视 8m | epg.pw | <https://epg.pw/stream/65930278cf7bcc40e905b62b0bc943a9ada7f1bcac3fa9317eaa69e269b70511.ctv> |
-| 1551 | [BD]湖南卫视[ipv6] | epg.pw | <https://epg.pw/stream/e3f708008227adae9dd6b75d1d058733571482c88266f59a1b7a2fff8ad0807c.m3u8> |
-| 1552 | [SD]湘潭公共 | epg.pw | <https://epg.pw/stream/9bd055734e63d2141014b7697d2d660a8314ede155d7623414b4d3258370bec1.m3u8> |
-| 1553 | [HD]湘潭新闻综合 | epg.pw | <https://epg.pw/stream/54e319e172192f1aae0ce0cff497b34ad109fa218a9c1c5a846630f1819940b3.m3u8> |
-| 1554 | [HD]漳州新闻综合 (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/2441d456f7c193e046f5e46289045c82d018dd2a0904d7aa8dc50524fab6e78b.m3u8> |
-| 1555 | [BD]澳亚卫视 | epg.pw | <https://epg.pw/stream/a5a161e59fa360baf572072361316a8976f6625127446da4f0fcbacb7f2a3187.ctv> |
-| 1556 | [BD]澳视澳门 | epg.pw | <https://epg.pw/stream/18ced7768b51a84ce04be30ead0552b24d7c3190ada017b13968aaa29635e419.ctv> |
-| 1557 | [BD]炫动卡通 8m | epg.pw | <https://epg.pw/stream/810098e2dea3a2a4d03e1d9df4ab5d8fcf4ae9d9c1362207552ab5cdcc804eb3.ctv> |
-| 1558 | [HD]烟台新闻综合 | epg.pw | <https://epg.pw/stream/4fbcd538c44b23d63f3c88bba1e939cee177a31f2e33c6501753192885716b62.m3u8> |
-| 1559 | [BD]无线新闻 | epg.pw | <https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b88ec13c630863bb84.ctv> |
-| 1560 | [BD]无线财经 | epg.pw | <https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv> |
-| 1561 | [BD]熊猫频道 | epg.pw | <https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d886f90.m3u8> |
-| 1562 | [VGA]吉林新闻综合 | epg.pw | <https://epg.pw/stream/04ac8c4edbe52123a87086c280432bedc30a94e45ba312eca7fc80f16bfee3c7.m3u8> |
-| 1563 | [HD]珲春新闻综合 | epg.pw | <https://epg.pw/stream/fda444a770245fbced13c1292344da143a4ba42d98de269c5614119a78435716.m3u8> |
-| 1564 | [BD]环球奇观 | epg.pw | <https://epg.pw/stream/d443d28e02a336b1ea90fafcfac5cb8e5470bc6bb372e0fd72b33f639d310013.ctv> |
-| 1565 | [BD]环球旅游 | epg.pw | <https://epg.pw/stream/c223eea374483c34a409beb76864cdbf86eac90f6179fab37e9465eece19707b.ctv> |
-| 1566 | [BD]甘肃卫视 8m | epg.pw | <https://epg.pw/stream/f0e918a10b85b34b797c05928c80d8aeaf2157d39fcc4b2300a005ef0ae3bd84.ctv> |
-| 1567 | [BD]生活时尚 8m | epg.pw | <https://epg.pw/stream/60d1ded64834180f0734eb9d915784eaa79f675969b84b49a756de142307f719.ctv> |
-| 1568 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
-| 1569 | [SD]百姓健康 | epg.pw | <https://epg.pw/stream/a6b7f3617b62ba336483ec619f7fa2834339bb4e356f6ee05a6afeb9fd39e746.m3u8> |
-| 1570 | [BD]石家庄娱乐 | epg.pw | <https://epg.pw/stream/4c86087cb1626c031ddc9c33a0a944e63e22e4ed9958b44c4e4ef220f4914523.m3u8> |
-| 1571 | [BD]石家庄新闻综合 | epg.pw | <https://epg.pw/stream/e7cb9300d09219cdf7e4a4c39ab0c9328f0abe0e2b9272d3a2f5afb1576d9a68.m3u8> |
-| 1572 | [BD]石家庄生活 | epg.pw | <https://epg.pw/stream/cffc2aeb9da2add783bece701928bba09e0aa6afa064920d83b61d00fe965843.m3u8> |
-| 1573 | [BD]石家庄都市 | epg.pw | <https://epg.pw/stream/05aa42fbc9d722e77cf7250a2f50f9ec5e485e92fef15182116acfeb636af4f1.m3u8> |
-| 1574 | [BD]石家庄都市1 | epg.pw | <https://epg.pw/stream/de65f82aee82beb140a0d077456efbf1cf0aa8927b52f107acc45775c4f8d471.m3u8> |
-| 1575 | [SD]福建漳浦综合 | epg.pw | <https://epg.pw/stream/56eb02707eb276bcf6a207859256e48ffb2e9e03fab764bcce746f4bf6b5a8bb.m3u8> |
-| 1576 | [BD]福建福州少儿 | epg.pw | <https://epg.pw/stream/84912503b4af5aa9f3f6b547a7aa14c09d663388153fa9e96a4eb77f889a193c.m3u8> |
-| 1577 | [BD]福建福州新闻 | epg.pw | <https://epg.pw/stream/883dc9046ef860d402f67f3a897969d725700d25b8595635377877a9dbc86dab.m3u8> |
-| 1578 | [BD]福建福州生活 | epg.pw | <https://epg.pw/stream/064305a3cdc68ddc61ba34596d4719f2648a93796989bf659a6961c393ceb1b3.m3u8> |
-| 1579 | [BD]福建公共 | epg.pw | <https://epg.pw/stream/0501c350d1f916503cf3d09a768aeed9fa267fe66db776242f37cd882602605f.ctv> |
-| 1580 | [BD]福建少儿 | epg.pw | <https://epg.pw/stream/08f86e8b78619dbae76929a5f7e3aecc4c784a0542bc747dd822a138e679e28c.ctv> |
-| 1581 | [BD]福建教育 | epg.pw | <https://epg.pw/stream/fcb67132ac84e3d3ccf1df1da5307c48c0fc49c931e37530d14f8205ae8580f4.ctv> |
-| 1582 | [BD]福建新闻 | epg.pw | <https://epg.pw/stream/22dda653d07fe8e4aa4a863462057d030635855d0bf0db1513fea2d336d061b6.ctv> |
-| 1583 | [BD]福建旅游 | epg.pw | <https://epg.pw/stream/980b251972b0f877c229e211c267bb7740cd9b3565fe0e0dc249c81ab253bcf8.ctv> |
-| 1584 | [BD]福建经济 | epg.pw | <https://epg.pw/stream/8ac04e7b70e865979f6e3f2728ab4e5ba91c266bde31b73935d6f409e979363c.ctv> |
-| 1585 | [BD]福建综合 | epg.pw | <https://epg.pw/stream/0ce807f41f83b2b3b4249311777103af711067fd1707a3ec87c60add9124b6c3.ctv> |
-| 1586 | [BD]福建电视剧 | epg.pw | <https://epg.pw/stream/a49defbabc41f05d688a9b69b9e46ab330225b1ebb222041470bafb3e4610a9e.ctv> |
-| 1587 | [BD]第一财经[ipv6] | epg.pw | <https://epg.pw/stream/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8> |
-| 1588 | [BD]精彩电视剧 | epg.pw | <https://epg.pw/stream/928ec61fb7568b106f35028dcf4575c4fc9c32522617d35d026abc83ac23687c.m3u8> |
-| 1589 | [BD]纯享4k[ipv6] | epg.pw | <https://epg.pw/stream/6c8d76f2b98de6934fa07b46c9da8e06fe83a1a1c4301ab3af13c547d419acfb.m3u8> |
-| 1590 | [SD]经典电影 | epg.pw | <https://epg.pw/stream/fe1a6c4b82aa9dedc01ac5465fe03ee2b457129a5d14ade98bfd90516683e2bb.ctv> |
-| 1591 | [VGA]纬来电影台 | epg.pw | <https://epg.pw/stream/2e5be034655ad890ccea231870954edc27f6b59a7ac6c4a684cec7a90e9afab8.ctv> |
-| 1592 | [BD]纯享4k[ipv6] | epg.pw | <https://epg.pw/stream/2cdf81ef11aac50068bac9c269fc115bc526a2040ecdea4f4cc6227daae38e12.m3u8> |
-| 1593 | [HD]绍兴公共频道 | epg.pw | <https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8> |
-| 1594 | [HD]绍兴文化影院 | epg.pw | <https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8> |
-| 1595 | [SD]绍兴新闻综合 | epg.pw | <https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8> |
-| 1596 | [VGA]美亚电影台 | epg.pw | <https://epg.pw/stream/cca3c5a4a977da3591cb380d07e25d305e7e6c79d6b909abcd3937a533f5cb60.ctv> |
-| 1597 | [VGA]美食星球频道 | epg.pw | <https://epg.pw/stream/7af4051d06e7e78d7de691f25a181d27ddc4d6e3c8ee1ad7d7bd91eece7a56ba.ctv> |
-| 1598 | [SD]耀才财经台 | epg.pw | <https://epg.pw/stream/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8> |
-| 1599 | [VGA]耀才财经 | epg.pw | <https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8> |
-| 1600 | [BD]聚鲨环球精选 | epg.pw | <https://epg.pw/stream/d73d37a1ae485a85b33dcee0f4161aba6fa586b18b416b99696cbc1f238241a6.ctv> |
-| 1601 | [VGA]自贡综合 | epg.pw | <https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv> |
-| 1602 | [BD]舟山新闻综合 | epg.pw | <https://epg.pw/stream/ca9727bb9f7ba55539357b8eb0f25c3497e325c9d53e2530818df07e213e3699.m3u8> |
-| 1603 | [BD]茶频道 | epg.pw | <https://epg.pw/stream/8c4eb92eda7720c4cab96d7844860b9e022c035ab2b6da85baf5e3352b276592.ctv> |
-| 1604 | [BD]荆门新闻综合 | epg.pw | <https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8> |
-| 1605 | [BD]华视 | epg.pw | <https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8> |
-| 1606 | [VGA]华语电视3 | epg.pw | <https://epg.pw/stream/f9e42adc79e4a9bdae8cb0e53a84ee5015e5c9d9caff8f1f157880efadebe1e9.m3u8> |
-| 1607 | [SD]万州影视文艺 | epg.pw | <https://epg.pw/stream/4fbd9d1e44a192a1b593a0448e0ea3705f04408928e1c1a962c431988503c156.m3u8> |
-| 1608 | [HD]蓬安新闻综合 | epg.pw | <https://epg.pw/stream/8c5ee0bba6ced1dbcc2a892b8fe4aaaa2a0dcf75e0d618cb21a0944508a5692d.m3u8> |
-| 1609 | [SD]卫星剧场 | epg.pw | <https://epg.pw/stream/6a2cb8f7acc767af9e589606e4c938421de9c4735ce941f38ee7a2a042f0a5dd.m3u8> |
-| 1610 | [VGA]安徽六安新闻综合 | epg.pw | <https://epg.pw/stream/d83c1bb801d30add76788ded84c711ad11e4f94b9a520f14638ef80301c2f384.m3u8> |
-| 1611 | [BD]西宁新闻综合 | epg.pw | <https://epg.pw/stream/f9570cb26b1c4c241147bad9dadcadb2a888f24fea2e3de58b43dd4ff20faa74.m3u8> |
-| 1612 | [BD]西宁生活服务 | epg.pw | <https://epg.pw/stream/5c7b52287d30bffb55e79759cd3747452ff330381b7de0821457320adbd3013c.m3u8> |
-| 1613 | [SD]西藏卫视 | epg.pw | <https://epg.pw/stream/cfce8c7266926f66e4c9f1e47e1838772aba6fe9fc594f2b19456351b1f91126.m3u8> |
-| 1614 | [SD]読売テレビ | epg.pw | <https://epg.pw/stream/82716635696af9c42cd6955e94689655c2182cfdccc19c08bca79d4a5bdbc1f4.m3u8> |
-| 1615 | [HD]象山新闻综合 | epg.pw | <https://epg.pw/stream/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f31e4a2956f6.m3u8> |
-| 1616 | [SD]财富天下 | epg.pw | <https://epg.pw/stream/8dd4b70af5e76cdb534951ee6c37ee7ac2f7591699482f3a6a76f7450954f5e2.ctv> |
-| 1617 | [BD]贵州卫视[ipv6] | epg.pw | <https://epg.pw/stream/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.m3u8> |
-| 1618 | [SD]辉南新闻综合 | epg.pw | <https://epg.pw/stream/08aada616fdc07024873565514926140a61b59ef8226c0870ac5c3277410d34f.m3u8> |
-| 1619 | [SD]农林卫视 | epg.pw | <https://epg.pw/stream/4077b634357ba9d803a73e3e8ad32f596c99099b3e93ccc2707938d8b5980c5f.m3u8> |
-| 1620 | [BD]辽宁卫视 8m | epg.pw | <https://epg.pw/stream/c3085c42430000a01096b0b4eae51a83db380e526f040efba62f42a946001efe.ctv> |
-| 1621 | [BD]迁安新闻综合 | epg.pw | <https://epg.pw/stream/0bf6f5d41392177e8e1d388f44bf343cb42d5da7ea3fd3dec587896aa4524780.m3u8> |
-| 1622 | [HD]运城公共频道 | epg.pw | <https://epg.pw/stream/91e30e2226ce405f915821a21c4cdf5cf25e77940f285ba95a985478ba3fdbb9.m3u8> |
-| 1623 | [HD]运城新闻综合 | epg.pw | <https://epg.pw/stream/2f96a02a897c3538bb00d6b75de0fa7fda36a23927883755f3913236241930ca.m3u8> |
-| 1624 | [HD]运城科技教育 | epg.pw | <https://epg.pw/stream/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691db6c391.m3u8> |
-| 1625 | [BD]辽宁卫视[ipv6] | epg.pw | <https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8> |
-| 1626 | [HD]邢台综合频道 | epg.pw | <https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8> |
-| 1627 | [BD]都市剧场[ipv6] | epg.pw | <https://epg.pw/stream/a71e07f6cbd3312516acb0e57d051b658f6c883a8962fef4e6e950241bc230c7.m3u8> |
-| 1628 | [SD]重庆卫视 | epg.pw | <https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8> |
-| 1629 | [BD]金色学堂[ipv6] | epg.pw | <https://epg.pw/stream/303d79304fb4c6e23c320315de037e71f67a6ee8866d45e994b896d07eede2bb.m3u8> |
-| 1630 | [BD]金色学堂 8m | epg.pw | <https://epg.pw/stream/e91b0bf6b9cab926dbab1375b76074042572b359e48793db02e598dd41381ece.ctv> |
-| 1631 | [SD]金鹰卡通[ipv6] | epg.pw | <https://epg.pw/stream/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4792080.m3u8> |
-| 1632 | [BD]金鹰纪实 | epg.pw | <https://epg.pw/stream/1747de9a2c328713cfad9af4ca60e2f8a10e4b2f3d050f74bc4933bdf1bae173.ctv> |
-| 1633 | [SD]钓りビジョン | epg.pw | <https://epg.pw/stream/83534a1157dfd15901538e48a13c3ae032b2e4e52700f6ef9124b1d653d41565.m3u8> |
-| 1634 | [BD]镇江新闻 | zjtv-wshls.homecdn.com | <rtmp://zjtv-wshls.homecdn.com/live/2aa50> |
-| 1635 | [SD]関西テレビ | epg.pw | <https://epg.pw/stream/4e99bf0a8ce131f95d0acf60e33874114d295b5646ca38ad7d1b970a7df7245b.m3u8> |
-| 1636 | [BD]阿里郎电台 | epg.pw | <https://epg.pw/stream/f592a0d375966407059e0daa1a72f252e4522cef754eff14091bf8650e378831.m3u8> |
-| 1637 | [SD]陕西卫视 | epg.pw | <https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.ctv> |
-| 1638 | [BD]云南少儿 | epg.pw | <https://epg.pw/stream/a83a92e245f1cd9fde9b4051bf2d6c0e74090d4e3fcf6f68e34a2ac9ecd8c010.m3u8> |
-| 1639 | [BD]云南康旅 | epg.pw | <https://epg.pw/stream/dfa3173aad48d81e4bb65e1cd26f95558b31b51add7c5f5cdce6f670069946c2.m3u8> |
-| 1640 | [BD]云南影视 | epg.pw | <https://epg.pw/stream/738a72f80690b1c6f06ad0a7543f0d084c8bf90a096b3e6c44706660250fc345.m3u8> |
-| 1641 | [BD]云南卫视 8m | epg.pw | <https://epg.pw/stream/4eda9d88512662741a735985c20d34918a80cfe9ed68000cb52f0dff670f9638.ctv> |
-| 1642 | [BD]电竞天堂 8m | epg.pw | <https://epg.pw/stream/daa0fdadf20e75c5ecb693f2ee2f015c9a24c180de3fb5f88ff9d874bab9c113.ctv> |
-| 1643 | [SD]青海西宁新闻 | epg.pw | <https://epg.pw/stream/2fa389df085b27ada57c504583186076a49b6b839f3bd74c051aeafff9121abf.m3u8> |
-| 1644 | [SD]青海西宁生活 | epg.pw | <https://epg.pw/stream/ebb284bdfa9c46f0d32785abba28b9ceff5efefde0e722eea947bf5b3a71b377.m3u8> |
-| 1645 | [HD]青海青海综合 | epg.pw | <https://epg.pw/stream/5cb777ff37d8dd005b5912ce19a3c229a89692c66f661e67996f46b1cea13138.m3u8> |
-| 1646 | [BD]青海卫视[ipv6] | epg.pw | <https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.m3u8> |
-| 1647 | [HD]青海都市 | epg.pw | <https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8> |
-| 1648 | [VGA]巩义新闻综合 | epg.pw | <https://epg.pw/stream/f64d67385532dc9668faa3dd3c1e86e4c1a8ca48eebc23ae719550297b7f0ac6.m3u8> |
-| 1649 | [HD]韩国电影2 | epg.pw | <https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8> |
-| 1650 | [HD]韩国电影3 | epg.pw | <https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8> |
-| 1651 | [BD]香港国际财经台 | epg.pw | <https://epg.pw/stream/edb021b95a130ac49e529d695d5860a198bc98658818bfb40efc94176589c8a6.ctv> |
-| 1652 | [HD]香港国际财经台 | epg.pw | <https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8> |
-| 1653 | [HD]香港有线新闻 | epg.pw | <https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv> |
-| 1654 | [VGA]香港卫视 | epg.pw | <https://epg.pw/stream/99980f8e82d6d4111c77f2fe961013e7d1ee153a55c7a9be69cfa17143933fd1.m3u8> |
-| 1655 | [VGA]香港卫视文旅 | epg.pw | <https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8> |
-| 1656 | [BD]5+体育赛事 | epg.pw | <https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8> |
-| 1657 | [BD]魅力足球 8m | epg.pw | <https://epg.pw/stream/5c6c71d736c0da318cb2bfc204fa6b6178c538be7662570d3c3c736759758f38.ctv> |
-| 1658 | [HD]凤凰卫视 | epg.pw | <https://epg.pw/stream/a791dcccc4410f68c44506b28b067c09224a9f594380b4cfdc96de1a027ac536.ctv> |
-| 1659 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv> |
-| 1660 | [BD]凤凰香港[ipv6] | epg.pw | <https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8> |
-| 1661 | [BD]黑莓电影 4m1080[ipv6] | epg.pw | <https://epg.pw/stream/7cd2a163028ebcd6e8caffba4408642bb8a5009e13dd97bf5f36706cd75f395e.m3u8> |
-| 1662 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8> |
-| 1663 | [BD]黑龙江影视[ipv6] | epg.pw | <https://epg.pw/stream/ed5dc2b0cc5b2b66aa555a138facfa40db8ca24d1225e593d45fc3bb8f07d688.m3u8> |
-| 1664 | [VGA]黑龙江文体 | epg.pw | <https://epg.pw/stream/b79e30153b5459cfbff32c48fab86fe8a25721cfb9397fa2a3ad5c9ff27e8a2a.m3u8> |
-| 1665 | [VGA]黑龙江新闻法治 | epg.pw | <https://epg.pw/stream/96f880b7640f6a9b54b46cc980132e9a824732a85a9b93fba194fb5977735412.m3u8> |
-| 1666 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.ctv> |
-| 1667 | [BD]黑龙江卫视1 | epg.pw | <https://epg.pw/stream/9556821b956888d9d8c59e2d8bb6823be50c9a7c2b4b5f9578249c78c7e457db.m3u8> |
-| 1668 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8> |
-| 1669 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
-| 1670 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
-| 1671 | [VGA]黑龙江新闻 | epg.pw | <https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8> |
-| 1672 | [VGA]龙祥电影台 | epg.pw | <https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv> |
-| 1673 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
+| 1432 | [HD]平湖新闻综合 | epg.pw | <https://epg.pw/stream/42b48170548b6a57776c7592ecda1c9f326f0ed39dc0631337d1e8961aa97486.m3u8> |
+| 1433 | [HD]广东文化 | epg.pw | <https://epg.pw/stream/8f3b867126266339ab049e15358c81e9e41f37658ed7080584c6993395fff5e3.m3u8> |
+| 1434 | [BD]广西新闻 | epg.pw | <https://epg.pw/stream/597b16418e43bcc202797d8d78faf9a0139b0c4cc7de59796c8aa4c46b805cf1.m3u8> |
+| 1435 | [SD]康巴卫视 | epg.pw | <https://epg.pw/stream/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.ctv> |
+| 1436 | [SD]厦门卫视 | epg.pw | <https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv> |
+| 1437 | [HD]广东珠江[ipv6] | epg.pw | <https://epg.pw/stream/51b2622bc0ab3fea23acfd8d9b0314a954a98e5e79d4337650f58bee32357425.m3u8> |
+| 1438 | [BD]广东经济科教 | epg.pw | <https://epg.pw/stream/92d2fa1304545640f7fd0d67aef94454f51f05a0cb77d0825f446954857c899a.m3u8> |
+| 1439 | [BD]广东卫视[ipv6] | epg.pw | <https://epg.pw/stream/79202aa439fc4fb94a8304f8608737f7cff1626f2b42aa6d5552ecfc2bcacbaf.m3u8> |
+| 1440 | [BD]广西影视 | epg.pw | <https://epg.pw/stream/8cfcbd7359b48553193f700bbb8ee80def1b0e954f3f6721a1b331a38a6f9f0a.m3u8> |
+| 1441 | [BD]广西综艺 | epg.pw | <https://epg.pw/stream/dd40c2123be7b124947cef55b01bde16e981e3a90d9d9ca725956786bd3b1167.m3u8> |
+| 1442 | [BD]广西卫视 | epg.pw | <https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8> |
+| 1443 | [BD]广西都市 | epg.pw | <https://epg.pw/stream/7ea5219e9f45945814926dfa1285a37f01c7a82bab44430d6eaa5bb4af0aac85.m3u8> |
+| 1444 | [HD]延边卫视 | epg.pw | <https://epg.pw/stream/694dae873b77a8719bd2de5311d0957608729903cc46e1d5f71f76c55b587c3b.m3u8> |
+| 1445 | [HD]开化新闻综合 | epg.pw | <https://epg.pw/stream/3bbb603477d99145f17fd829b0c986cc487070e09e0ca75d4617ed3cad784c5f.m3u8> |
+| 1446 | [SD]弈坛春秋[ipv6] | epg.pw | <https://epg.pw/stream/763d7c5759a8e53b24815f268656af286ed0fc9afcae30cfdfd88a4d68639bf4.m3u8> |
+| 1447 | [BD]快乐垂钓 8m | epg.pw | <https://epg.pw/stream/c08bde786cad061027689a3a00e3140205cafc72a723cb08819e3d17622ca951.ctv> |
+| 1448 | [BD]快乐垂钓 | epg.pw | <https://epg.pw/stream/f985e0b6d1331e8a6ebe2cd52fc775e56778a8c59df71272881179c511e256cb.ctv> |
+| 1449 | [BD]爱上4k | epg.pw | <https://epg.pw/stream/3c0311108820220e015646ae9e51579e2a9899eb349471933ece11480331e2a6.ctv> |
+| 1450 | [HD]爱奇艺 | epg.pw | <https://epg.pw/stream/b35147aeb6c0bfa56d15df08afbb66dbff4afb9d192ebbaecb1bd63060552d9d.ctv> |
+| 1451 | [SD]承德新闻综合 | epg.pw | <https://epg.pw/stream/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.m3u8> |
+| 1452 | [BD]收藏天下 | epg.pw | <https://epg.pw/stream/06721d102fff6bee9be6bc1afc6fcc7b98152ae725c268a17b41b5502b3c7b5c.ctv> |
+| 1453 | [BD]文物宝库 | epg.pw | <https://epg.pw/stream/e8a4d9f6d3ba5e1e6ff4c1a48e190d72f245bd2afedb8ee0cca017934c8e2830.m3u8> |
+| 1454 | [BD]三新动漫 | epg.pw | <https://epg.pw/stream/3db55b1054c684fb8a548a10a0d6cb7855c453b8786c8716dbb2c27c917a8c6d.ctv> |
+| 1455 | [BD]新昌新闻综合 | epg.pw | <https://epg.pw/stream/7f856c798f5a5167cf5966b25d0ab5d352c40c5975d4a78d25e6a92c0251cb89.m3u8> |
+| 1456 | [VGA]新疆卫视 | epg.pw | <https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8> |
+| 1457 | [VGA]新乡县电视台 | epg.pw | <https://epg.pw/stream/d9d1c8e6c64452086c295fdf725781e589ec6a8f913a416cf3c881ab5df14edc.m3u8> |
+| 1458 | [SD]旅チャンネル | epg.pw | <https://epg.pw/stream/6de27ffc8d1fb21cbbcfc28c2758d91b69adc720a12d680cde7ae126a430ea4b.m3u8> |
+| 1459 | [SD]旅游卫视 | epg.pw | <https://epg.pw/stream/0a7895ab7d245925f9fe1bdcb3714e269b6ce032323f8acc84b36071893c0d78.m3u8> |
+| 1460 | [SD]nittele g+ | epg.pw | <https://epg.pw/stream/3ab3f249b6017e2f47d33e72fd38314acf37974833de59da18b1329108f66a85.m3u8> |
+| 1461 | [SD]日本映画専门チャンネル | epg.pw | <https://epg.pw/stream/4ac6d730dcafe4489bb717443135c990423085e6ebdc8253d61fa8dab568bc32.m3u8> |
+| 1462 | [BD]早期教育 | epg.pw | <https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv> |
+| 1463 | [VGA]星卫hd电影台 | epg.pw | <https://epg.pw/stream/139527e97b87c46e23c2c595895faea2b7e94782ce4b561aaab47bd1f2047de9.ctv> |
+| 1464 | [SD]时代剧専门チャンネル | epg.pw | <https://epg.pw/stream/421bc8d08d73cfbf8ded12ef6cf7f0095e542b23545ade5c4946b51c7db009ef.m3u8> |
+| 1465 | [VGA]时尚台FTV | epg.pw | <https://epg.pw/stream/23fe8dae8925e6b180c6c7970f362418403d3081aa683ef00221572f424ae392.m3u8> |
+| 1466 | [BD]晋城公共 | epg.pw | <https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8> |
+| 1467 | [BD]晋城新闻 | epg.pw | <https://epg.pw/stream/bef72ce4c2d1d83126bb2af671ce94763a3457869acca885d2eaaf7c5c0b45d7.m3u8> |
+| 1468 | [HD]有线新闻 | epg.pw | <https://epg.pw/stream/4e24596fde9c243eb4302e394190972407ee674c0c6a06ea6be4e5d349582cbe.m3u8> |
+| 1469 | [BD]有线新闻台 | epg.pw | <https://epg.pw/stream/a546fb9f46c4fbd26bfe5b62692b029b734cb147ea737d9bd0e525822acb1a45.m3u8> |
+| 1470 | [HD]有线财经信息台 | epg.pw | <https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8> |
+| 1471 | [BD]东南卫视 | epg.pw | <https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.ctv> |
+| 1472 | [BD]东方卫视[ipv6] | epg.pw | <https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8> |
+| 1473 | [BD]东方财经[ipv6] | epg.pw | <https://epg.pw/stream/76079aa6a26f481e2218b469cd5c6f2236223a0b4244bdad4a6d36cf985e637e.m3u8> |
+| 1474 | [HD]上海东方购物 | epg.pw | <https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8> |
+| 1475 | [BD]东映チャンネル | epg.pw | <https://epg.pw/stream/7c08c183610740794e0f39e158a44d85e6b400eea9eac7e2aaf09706f05bbf40.m3u8> |
+| 1476 | [BD]东映チャンネル / toei channel | epg.pw | <https://epg.pw/stream/7ce45ea3a73bd4f41a771025676708b7d1816d1d5f2f6c2070471360deb3ee82.m3u8> |
+| 1477 | [BD]东森幼幼台 | epg.pw | <https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8> |
+| 1478 | [BD]东森综合 | epg.pw | <https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8> |
+| 1479 | [BD]东森美洲 | epg.pw | <https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8> |
+| 1480 | [BD]东森美洲卫视 | epg.pw | <https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8> |
+| 1481 | [BD]东森财经 | epg.pw | <https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8> |
+| 1482 | [VGA]东森超视 | epg.pw | <https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8> |
+| 1483 | [SD]林正英 | epg.pw | <https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv> |
+| 1484 | [SD]枣庄公共 | epg.pw | <https://epg.pw/stream/322da1913ea0e1d42b658beeda6c2b8b019c8fbf8470dd1a69010da6137507af.m3u8> |
+| 1485 | [SD]枣庄公共频道 | epg.pw | <https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8> |
+| 1486 | [SD]枣庄教育 | epg.pw | <https://epg.pw/stream/5c9be548faf8b08d6c887f2037065b56dac729995abfb7e9da64ed34c99fec3d.m3u8> |
+| 1487 | [SD]枣庄新闻 | epg.pw | <https://epg.pw/stream/7996424bc3c1787a3b73efd84dac13f864e07b3bff8353ccfac13dc3f465bb25.m3u8> |
+| 1488 | [SD]枣庄新闻综合 | epg.pw | <https://epg.pw/stream/c96d12ec316e8297973a210e94860e269e8797986e6a6223f3be444387c32341.m3u8> |
+| 1489 | [BD]欢笑剧场 8m | epg.pw | <https://epg.pw/stream/4e9f40b3cb33dc69757ebed15001d939ce2a2410120779c0aac6694b3d8c8581.ctv> |
+| 1490 | [SD]武义新闻综合 | epg.pw | <https://epg.pw/stream/0077dd0cdd20b184ff9fa9291950b02b0129a68b7d7ca9b1e14da5be96046007.m3u8> |
+| 1491 | [HD]武汉外语频道 | epg.pw | <https://epg.pw/stream/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8> |
+| 1492 | [SD]武汉少儿 | epg.pw | <https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8> |
+| 1493 | [HD]武汉教育 | epg.pw | <https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8> |
+| 1494 | [VGA]武汉文体 (480p) | epg.pw | <https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8> |
+| 1495 | [HD]武汉新闻综合 | epg.pw | <https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8> |
+| 1496 | [HD]武汉经济 (360p) | epg.pw | <https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8> |
+| 1497 | [VGA]河北武汉电视剧 | epg.pw | <https://epg.pw/stream/456f2251ba309946a1b4954299fa7941150642941c69ef7224f888c4803834df.m3u8> |
+| 1498 | [BD]武术世界 | epg.pw | <https://epg.pw/stream/3b602b9a463136db096066c04bdfbac7f6bad519f824fdda60b2028c8d277950.m3u8> |
+| 1499 | [HD]民视 | epg.pw | <https://epg.pw/stream/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8> |
+| 1500 | [BD]民视新闻台 | epg.pw | <https://epg.pw/stream/9d0c0065e0765bccc3f375d947bbb75efe5461443d6c1e06c7d37d6f57e26358.m3u8> |
+| 1501 | [SD]民视新闻HD | epg.pw | <https://epg.pw/stream/0a9b2611d6fd15d90be0ec3144d0b783dd45a65ac7a15d2e85dd93860170b1af.m3u8> |
+| 1502 | [BD]民视新闻hd | epg.pw | <https://epg.pw/stream/2d58d8f0a0cd55789fbbe7d305795dea3656816d9afa0bd3baabc067e54b218c.m3u8> |
+| 1503 | [BD]民视新闻 hd | epg.pw | <https://epg.pw/stream/2603220ae7a890e8e1027a6362e9aaec880131ce06da58c4e89365ce6d410772.m3u8> |
+| 1504 | [BD]永嘉新闻综合 | epg.pw | <https://epg.pw/stream/8cb05e5ed567cade53c698c241bceb8b76a7e9dfe92d963b633fd1cc7e24d005.m3u8> |
+| 1505 | [SD]江津文化旅游 (576p) | epg.pw | <https://epg.pw/stream/8eadeef75a4a287a1af020c033ad553ecca3422c44274b384dfaaa50826132a6.m3u8> |
+| 1506 | [VGA]江津新闻综合 (480p) | epg.pw | <https://epg.pw/stream/69e3797d8401607627052abb5a8fa6761b278adb233ab5fb91cec4f68c4abfe0.m3u8> |
+| 1507 | [VGA]江津经济生活 (480p) | epg.pw | <https://epg.pw/stream/486ca0146c1c5243cd66066c0f7943091d0d999d3988bd261fb476c749632caf.m3u8> |
+| 1508 | [BD]江苏苏州文化生活 | epg.pw | <https://epg.pw/stream/2f3a4295f316f9fd9743e1f5b4475ab58f9f0d44760beb2979aa3c7fc43ac63d.m3u8> |
+| 1509 | [BD]江苏苏州新闻综合 | epg.pw | <https://epg.pw/stream/f7d4f408439bef7ee1f2d7c253df699d354c1a06a757b69e9a3284d9c031d862.m3u8> |
+| 1510 | [BD]江苏苏州生活资讯 | epg.pw | <https://epg.pw/stream/f61596dba298ca8cc1b9665b1edfa379fdc606d7888659eb99d8708ae5c6c4cd.m3u8> |
+| 1511 | [BD]江苏苏州社会经济 | epg.pw | <https://epg.pw/stream/336fe52e74ffdf65a1ed0f7daf0b475d1c4473e869a961a774183450c92bc830.m3u8> |
+| 1512 | [BD]江苏连云港新闻综合 | epg.pw | <https://epg.pw/stream/ddc0738747f90ddd4aab81af968dbfa3a8504e5793235b529b58d7d6c1b701cf.m3u8> |
+| 1513 | [BD]江苏卫视 8m | epg.pw | <https://epg.pw/stream/8d6ed1882ee77645c8ea54babc6225722099adaaca0d5ff5b12b88a146895b9f.ctv> |
+| 1514 | [BD]浙江公共新闻 | epg.pw | <https://epg.pw/stream/52e6b218b89c4eb770a708a7ad50bce31279aa79c1d0f6bed318afb57ae35287.m3u8> |
+| 1515 | [VGA]江苏城市 | epg.pw | <https://epg.pw/stream/b1febed070a43889ce60d89fdda3b5dfcadc5b1b9f014c40516b17e8915b7639.m3u8> |
+| 1516 | [VGA]江苏综艺 | epg.pw | <https://epg.pw/stream/c9c1ace3a5ddfeb0cedc0cc26257fc11a0f0c0ecddbcd43b62c860acd530796e.m3u8> |
+| 1517 | [BD]江苏卫视 | epg.pw | <https://epg.pw/stream/c820313a01ccf35b80f23ef104f866d422e22f5e9ad084b95f80c77d875bcbab.m3u8> |
+| 1518 | [BD]江西卫视 8m | epg.pw | <https://epg.pw/stream/bffffcee8876a212cb1e452d3c2175946c63fd8831bc4a29ea43bd9feb84afaf.ctv> |
+| 1519 | [BD]江西卫视[ipv6] | epg.pw | <https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8> |
+| 1520 | [SD]河北公共 | epg.pw | <https://epg.pw/stream/e73e84b708a04b46e8aff02f7a00d3168bf259f7f48b5dc8e08a53583b9c75a4.m3u8> |
+| 1521 | [SD]河北影视 | epg.pw | <https://epg.pw/stream/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8> |
+| 1522 | [SD]河北影视剧 | epg.pw | <https://epg.pw/stream/c052b9f414bbbf9c00616f9184da6d11fa730d903171e2ae8d1ef1b80538f600.m3u8> |
+| 1523 | [BD]河北卫视 | epg.pw | <https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.ctv> |
+| 1524 | [SD]河北农民 | epg.pw | <https://epg.pw/stream/77d583a3ce92e660a3aae8d721e57456356ecb45396a4f4c979738dc2832bfd1.m3u8> |
+| 1525 | [SD]河北都市 | epg.pw | <https://epg.pw/stream/9fc6507da49edb0268413134352e96785e137b8f2dec3c1bef337f62e1087c1b.m3u8> |
+| 1526 | [BD]河南卫视 8m | epg.pw | <https://epg.pw/stream/f2bc127581d72946570175bc4a24a02c5b7f366522a83dad8a56bc706fb5f1c4.ctv> |
+| 1527 | [BD]河南卫视[ipv6] | epg.pw | <https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8> |
+| 1528 | [BD]法治天地[ipv6] | epg.pw | <https://epg.pw/stream/820567d53130b93853933c7fdbd207d137058fb3f6571d1cdd3a9a795e6c23fd.m3u8> |
+| 1529 | [BD]济南新闻综合 | tv.qntv.net | <rtmp://tv.qntv.net/channellive/ch1?zguizd> |
+| 1530 | [SD]浙江平湖新闻综合 | epg.pw | <https://epg.pw/stream/2196c2cf1a0af5224542f776d0bce880acf323b215d4a8687b8f70bf80fed369.m3u8> |
+| 1531 | [SD]浙江绍兴公共 | epg.pw | <https://epg.pw/stream/0ec806bda9af17c82743c04f02f3f4ec7794cccd32cdc63b6633ddfbc20bdc44.m3u8> |
+| 1532 | [BD]浙江国际 | epg.pw | <https://epg.pw/stream/04f8e81b2de97b2248ae306a5154c7623036b7698fcab51d564fd0ff8a31c564.m3u8> |
+| 1533 | [BD]浙江少儿 | epg.pw | <https://epg.pw/stream/61763493836696939da31f5856221e08038a6e814dc1fe983cd0d335b284104e.m3u8> |
+| 1534 | [BD]浙江新闻 | epg.pw | <https://epg.pw/stream/4cb4bcb7ae35f2b30dee6b1be1a2d22108c73e9bc3729826ea009821ae7af456.m3u8> |
+| 1535 | [BD]浙江民生休闲 | epg.pw | <https://epg.pw/stream/e557930ad2b9039ae136a9a13434e42dc05dbf6fd672cb0058a35d7f846b6ddc.m3u8> |
+| 1536 | [BD]浙江经济生活 | epg.pw | <https://epg.pw/stream/b32906254ffc9df42586a87cb76bb15a5e5339c638cbbc0370ccf139ce311cc7.m3u8> |
+| 1537 | [BD]浙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8> |
+| 1538 | [SD]海南卫视 | epg.pw | <https://epg.pw/stream/55e62d831217f1412d58379dd9b23176a814d8d68d681e96be98fdd0d13e8949.m3u8> |
+| 1539 | [BD]海南卫视 8m | epg.pw | <https://epg.pw/stream/b60a53b3967c0f5709974d3e1bf079a1d560268f75f367277132ad15ea3f086f.ctv> |
+| 1540 | [BD]海宁新闻综合 | epg.pw | <https://epg.pw/stream/430bf9e770302d728d652b25b3c92a9357d50927a734bd8d97aacc47e6c875d3.m3u8> |
+| 1541 | [BD]海宁生活服务 | epg.pw | <https://epg.pw/stream/7db3c65c69de1f42f26b4d7b64529f5dd6d2d47476e8d5f13515c320b1efd51a.m3u8> |
+| 1542 | [BD]海峡卫视 | epg.pw | <https://epg.pw/stream/1d158fe4ef032b1ca0296ad7699ac4db2a6f32f6dee55188d716b972d35dff62.ctv> |
+| 1543 | [BD]淘baby | epg.pw | <https://epg.pw/stream/3eabb59343a1bda716db61f13a09c68180ec6f2e12ca582857105de0caf6b3b8.ctv> |
+| 1544 | [BD]深圳卫视[ipv6] | epg.pw | <https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8> |
+| 1545 | [HD]深圳都市 | epg.pw | <https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8> |
+| 1546 | [BD]清河新闻综合 | epg.pw | <https://epg.pw/stream/47c40494054ea276b23bff99bafbdb2d42f524a7c231cbab180bb50d68376c0d.m3u8> |
+| 1547 | [SD]湖北卫视 8m | epg.pw | <https://epg.pw/stream/13ef1e33f8053afd1469e0e957eff11c5a38dff0410ef13e71b122d565f490de.ctv> |
+| 1548 | [BD]湖北卫视 | epg.pw | <https://epg.pw/stream/a168d5ee9a5535ed5d363fe5b921fc96b8e59faeb98d0a1780505ad1384b0a00.ctv> |
+| 1549 | [BD]湖南卫视 8m | epg.pw | <https://epg.pw/stream/65930278cf7bcc40e905b62b0bc943a9ada7f1bcac3fa9317eaa69e269b70511.ctv> |
+| 1550 | [BD]湖南卫视[ipv6] | epg.pw | <https://epg.pw/stream/e3f708008227adae9dd6b75d1d058733571482c88266f59a1b7a2fff8ad0807c.m3u8> |
+| 1551 | [SD]湘潭公共 | epg.pw | <https://epg.pw/stream/9bd055734e63d2141014b7697d2d660a8314ede155d7623414b4d3258370bec1.m3u8> |
+| 1552 | [HD]湘潭新闻综合 | epg.pw | <https://epg.pw/stream/54e319e172192f1aae0ce0cff497b34ad109fa218a9c1c5a846630f1819940b3.m3u8> |
+| 1553 | [HD]漳州新闻综合 (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/2441d456f7c193e046f5e46289045c82d018dd2a0904d7aa8dc50524fab6e78b.m3u8> |
+| 1554 | [BD]澳亚卫视 | epg.pw | <https://epg.pw/stream/a5a161e59fa360baf572072361316a8976f6625127446da4f0fcbacb7f2a3187.ctv> |
+| 1555 | [BD]澳视澳门 | epg.pw | <https://epg.pw/stream/18ced7768b51a84ce04be30ead0552b24d7c3190ada017b13968aaa29635e419.ctv> |
+| 1556 | [BD]炫动卡通 8m | epg.pw | <https://epg.pw/stream/810098e2dea3a2a4d03e1d9df4ab5d8fcf4ae9d9c1362207552ab5cdcc804eb3.ctv> |
+| 1557 | [HD]烟台新闻综合 | epg.pw | <https://epg.pw/stream/4fbcd538c44b23d63f3c88bba1e939cee177a31f2e33c6501753192885716b62.m3u8> |
+| 1558 | [BD]无线新闻 | epg.pw | <https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b88ec13c630863bb84.ctv> |
+| 1559 | [BD]无线财经 | epg.pw | <https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv> |
+| 1560 | [BD]熊猫频道 | epg.pw | <https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d886f90.m3u8> |
+| 1561 | [VGA]吉林新闻综合 | epg.pw | <https://epg.pw/stream/04ac8c4edbe52123a87086c280432bedc30a94e45ba312eca7fc80f16bfee3c7.m3u8> |
+| 1562 | [HD]珲春新闻综合 | epg.pw | <https://epg.pw/stream/fda444a770245fbced13c1292344da143a4ba42d98de269c5614119a78435716.m3u8> |
+| 1563 | [BD]环球奇观 | epg.pw | <https://epg.pw/stream/d443d28e02a336b1ea90fafcfac5cb8e5470bc6bb372e0fd72b33f639d310013.ctv> |
+| 1564 | [BD]环球旅游 | epg.pw | <https://epg.pw/stream/c223eea374483c34a409beb76864cdbf86eac90f6179fab37e9465eece19707b.ctv> |
+| 1565 | [BD]甘肃卫视 8m | epg.pw | <https://epg.pw/stream/f0e918a10b85b34b797c05928c80d8aeaf2157d39fcc4b2300a005ef0ae3bd84.ctv> |
+| 1566 | [BD]生活时尚 8m | epg.pw | <https://epg.pw/stream/60d1ded64834180f0734eb9d915784eaa79f675969b84b49a756de142307f719.ctv> |
+| 1567 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
+| 1568 | [SD]百姓健康 | epg.pw | <https://epg.pw/stream/a6b7f3617b62ba336483ec619f7fa2834339bb4e356f6ee05a6afeb9fd39e746.m3u8> |
+| 1569 | [BD]石家庄娱乐 | epg.pw | <https://epg.pw/stream/4c86087cb1626c031ddc9c33a0a944e63e22e4ed9958b44c4e4ef220f4914523.m3u8> |
+| 1570 | [BD]石家庄新闻综合 | epg.pw | <https://epg.pw/stream/e7cb9300d09219cdf7e4a4c39ab0c9328f0abe0e2b9272d3a2f5afb1576d9a68.m3u8> |
+| 1571 | [BD]石家庄生活 | epg.pw | <https://epg.pw/stream/cffc2aeb9da2add783bece701928bba09e0aa6afa064920d83b61d00fe965843.m3u8> |
+| 1572 | [BD]石家庄都市 | epg.pw | <https://epg.pw/stream/05aa42fbc9d722e77cf7250a2f50f9ec5e485e92fef15182116acfeb636af4f1.m3u8> |
+| 1573 | [BD]石家庄都市1 | epg.pw | <https://epg.pw/stream/de65f82aee82beb140a0d077456efbf1cf0aa8927b52f107acc45775c4f8d471.m3u8> |
+| 1574 | [SD]福建漳浦综合 | epg.pw | <https://epg.pw/stream/56eb02707eb276bcf6a207859256e48ffb2e9e03fab764bcce746f4bf6b5a8bb.m3u8> |
+| 1575 | [BD]福建福州少儿 | epg.pw | <https://epg.pw/stream/84912503b4af5aa9f3f6b547a7aa14c09d663388153fa9e96a4eb77f889a193c.m3u8> |
+| 1576 | [BD]福建福州新闻 | epg.pw | <https://epg.pw/stream/883dc9046ef860d402f67f3a897969d725700d25b8595635377877a9dbc86dab.m3u8> |
+| 1577 | [BD]福建福州生活 | epg.pw | <https://epg.pw/stream/064305a3cdc68ddc61ba34596d4719f2648a93796989bf659a6961c393ceb1b3.m3u8> |
+| 1578 | [BD]福建公共 | epg.pw | <https://epg.pw/stream/0501c350d1f916503cf3d09a768aeed9fa267fe66db776242f37cd882602605f.ctv> |
+| 1579 | [BD]福建少儿 | epg.pw | <https://epg.pw/stream/08f86e8b78619dbae76929a5f7e3aecc4c784a0542bc747dd822a138e679e28c.ctv> |
+| 1580 | [BD]福建教育 | epg.pw | <https://epg.pw/stream/fcb67132ac84e3d3ccf1df1da5307c48c0fc49c931e37530d14f8205ae8580f4.ctv> |
+| 1581 | [BD]福建新闻 | epg.pw | <https://epg.pw/stream/22dda653d07fe8e4aa4a863462057d030635855d0bf0db1513fea2d336d061b6.ctv> |
+| 1582 | [BD]福建旅游 | epg.pw | <https://epg.pw/stream/980b251972b0f877c229e211c267bb7740cd9b3565fe0e0dc249c81ab253bcf8.ctv> |
+| 1583 | [BD]福建经济 | epg.pw | <https://epg.pw/stream/8ac04e7b70e865979f6e3f2728ab4e5ba91c266bde31b73935d6f409e979363c.ctv> |
+| 1584 | [BD]福建综合 | epg.pw | <https://epg.pw/stream/0ce807f41f83b2b3b4249311777103af711067fd1707a3ec87c60add9124b6c3.ctv> |
+| 1585 | [BD]福建电视剧 | epg.pw | <https://epg.pw/stream/a49defbabc41f05d688a9b69b9e46ab330225b1ebb222041470bafb3e4610a9e.ctv> |
+| 1586 | [BD]第一财经[ipv6] | epg.pw | <https://epg.pw/stream/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8> |
+| 1587 | [BD]精彩电视剧 | epg.pw | <https://epg.pw/stream/928ec61fb7568b106f35028dcf4575c4fc9c32522617d35d026abc83ac23687c.m3u8> |
+| 1588 | [BD]纯享4k[ipv6] | epg.pw | <https://epg.pw/stream/6c8d76f2b98de6934fa07b46c9da8e06fe83a1a1c4301ab3af13c547d419acfb.m3u8> |
+| 1589 | [SD]经典电影 | epg.pw | <https://epg.pw/stream/fe1a6c4b82aa9dedc01ac5465fe03ee2b457129a5d14ade98bfd90516683e2bb.ctv> |
+| 1590 | [VGA]纬来电影台 | epg.pw | <https://epg.pw/stream/2e5be034655ad890ccea231870954edc27f6b59a7ac6c4a684cec7a90e9afab8.ctv> |
+| 1591 | [BD]纯享4k[ipv6] | epg.pw | <https://epg.pw/stream/2cdf81ef11aac50068bac9c269fc115bc526a2040ecdea4f4cc6227daae38e12.m3u8> |
+| 1592 | [HD]绍兴公共频道 | epg.pw | <https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8> |
+| 1593 | [HD]绍兴文化影院 | epg.pw | <https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8> |
+| 1594 | [SD]绍兴新闻综合 | epg.pw | <https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8> |
+| 1595 | [VGA]美亚电影台 | epg.pw | <https://epg.pw/stream/cca3c5a4a977da3591cb380d07e25d305e7e6c79d6b909abcd3937a533f5cb60.ctv> |
+| 1596 | [VGA]美食星球频道 | epg.pw | <https://epg.pw/stream/7af4051d06e7e78d7de691f25a181d27ddc4d6e3c8ee1ad7d7bd91eece7a56ba.ctv> |
+| 1597 | [SD]耀才财经台 | epg.pw | <https://epg.pw/stream/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8> |
+| 1598 | [VGA]耀才财经 | epg.pw | <https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8> |
+| 1599 | [BD]聚鲨环球精选 | epg.pw | <https://epg.pw/stream/d73d37a1ae485a85b33dcee0f4161aba6fa586b18b416b99696cbc1f238241a6.ctv> |
+| 1600 | [VGA]自贡综合 | epg.pw | <https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv> |
+| 1601 | [BD]舟山新闻综合 | epg.pw | <https://epg.pw/stream/ca9727bb9f7ba55539357b8eb0f25c3497e325c9d53e2530818df07e213e3699.m3u8> |
+| 1602 | [BD]茶频道 | epg.pw | <https://epg.pw/stream/8c4eb92eda7720c4cab96d7844860b9e022c035ab2b6da85baf5e3352b276592.ctv> |
+| 1603 | [BD]荆门新闻综合 | epg.pw | <https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8> |
+| 1604 | [BD]华视 | epg.pw | <https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8> |
+| 1605 | [VGA]华语电视3 | epg.pw | <https://epg.pw/stream/f9e42adc79e4a9bdae8cb0e53a84ee5015e5c9d9caff8f1f157880efadebe1e9.m3u8> |
+| 1606 | [SD]万州影视文艺 | epg.pw | <https://epg.pw/stream/4fbd9d1e44a192a1b593a0448e0ea3705f04408928e1c1a962c431988503c156.m3u8> |
+| 1607 | [HD]蓬安新闻综合 | epg.pw | <https://epg.pw/stream/8c5ee0bba6ced1dbcc2a892b8fe4aaaa2a0dcf75e0d618cb21a0944508a5692d.m3u8> |
+| 1608 | [SD]卫星剧场 | epg.pw | <https://epg.pw/stream/6a2cb8f7acc767af9e589606e4c938421de9c4735ce941f38ee7a2a042f0a5dd.m3u8> |
+| 1609 | [VGA]安徽六安新闻综合 | epg.pw | <https://epg.pw/stream/d83c1bb801d30add76788ded84c711ad11e4f94b9a520f14638ef80301c2f384.m3u8> |
+| 1610 | [BD]西宁新闻综合 | epg.pw | <https://epg.pw/stream/f9570cb26b1c4c241147bad9dadcadb2a888f24fea2e3de58b43dd4ff20faa74.m3u8> |
+| 1611 | [BD]西宁生活服务 | epg.pw | <https://epg.pw/stream/5c7b52287d30bffb55e79759cd3747452ff330381b7de0821457320adbd3013c.m3u8> |
+| 1612 | [SD]西藏卫视 | epg.pw | <https://epg.pw/stream/cfce8c7266926f66e4c9f1e47e1838772aba6fe9fc594f2b19456351b1f91126.m3u8> |
+| 1613 | [SD]読売テレビ | epg.pw | <https://epg.pw/stream/82716635696af9c42cd6955e94689655c2182cfdccc19c08bca79d4a5bdbc1f4.m3u8> |
+| 1614 | [HD]象山新闻综合 | epg.pw | <https://epg.pw/stream/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f31e4a2956f6.m3u8> |
+| 1615 | [SD]财富天下 | epg.pw | <https://epg.pw/stream/8dd4b70af5e76cdb534951ee6c37ee7ac2f7591699482f3a6a76f7450954f5e2.ctv> |
+| 1616 | [BD]贵州卫视[ipv6] | epg.pw | <https://epg.pw/stream/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.m3u8> |
+| 1617 | [SD]辉南新闻综合 | epg.pw | <https://epg.pw/stream/08aada616fdc07024873565514926140a61b59ef8226c0870ac5c3277410d34f.m3u8> |
+| 1618 | [SD]农林卫视 | epg.pw | <https://epg.pw/stream/4077b634357ba9d803a73e3e8ad32f596c99099b3e93ccc2707938d8b5980c5f.m3u8> |
+| 1619 | [BD]辽宁卫视 8m | epg.pw | <https://epg.pw/stream/c3085c42430000a01096b0b4eae51a83db380e526f040efba62f42a946001efe.ctv> |
+| 1620 | [BD]迁安新闻综合 | epg.pw | <https://epg.pw/stream/0bf6f5d41392177e8e1d388f44bf343cb42d5da7ea3fd3dec587896aa4524780.m3u8> |
+| 1621 | [HD]运城公共频道 | epg.pw | <https://epg.pw/stream/91e30e2226ce405f915821a21c4cdf5cf25e77940f285ba95a985478ba3fdbb9.m3u8> |
+| 1622 | [HD]运城新闻综合 | epg.pw | <https://epg.pw/stream/2f96a02a897c3538bb00d6b75de0fa7fda36a23927883755f3913236241930ca.m3u8> |
+| 1623 | [HD]运城科技教育 | epg.pw | <https://epg.pw/stream/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691db6c391.m3u8> |
+| 1624 | [BD]辽宁卫视[ipv6] | epg.pw | <https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8> |
+| 1625 | [HD]邢台综合频道 | epg.pw | <https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8> |
+| 1626 | [BD]都市剧场[ipv6] | epg.pw | <https://epg.pw/stream/a71e07f6cbd3312516acb0e57d051b658f6c883a8962fef4e6e950241bc230c7.m3u8> |
+| 1627 | [SD]重庆卫视 | epg.pw | <https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8> |
+| 1628 | [BD]金色学堂[ipv6] | epg.pw | <https://epg.pw/stream/303d79304fb4c6e23c320315de037e71f67a6ee8866d45e994b896d07eede2bb.m3u8> |
+| 1629 | [BD]金色学堂 8m | epg.pw | <https://epg.pw/stream/e91b0bf6b9cab926dbab1375b76074042572b359e48793db02e598dd41381ece.ctv> |
+| 1630 | [SD]金鹰卡通[ipv6] | epg.pw | <https://epg.pw/stream/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4792080.m3u8> |
+| 1631 | [BD]金鹰纪实 | epg.pw | <https://epg.pw/stream/1747de9a2c328713cfad9af4ca60e2f8a10e4b2f3d050f74bc4933bdf1bae173.ctv> |
+| 1632 | [SD]钓りビジョン | epg.pw | <https://epg.pw/stream/83534a1157dfd15901538e48a13c3ae032b2e4e52700f6ef9124b1d653d41565.m3u8> |
+| 1633 | [BD]镇江新闻 | zjtv-wshls.homecdn.com | <rtmp://zjtv-wshls.homecdn.com/live/2aa50> |
+| 1634 | [SD]関西テレビ | epg.pw | <https://epg.pw/stream/4e99bf0a8ce131f95d0acf60e33874114d295b5646ca38ad7d1b970a7df7245b.m3u8> |
+| 1635 | [BD]阿里郎电台 | epg.pw | <https://epg.pw/stream/f592a0d375966407059e0daa1a72f252e4522cef754eff14091bf8650e378831.m3u8> |
+| 1636 | [SD]陕西卫视 | epg.pw | <https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.ctv> |
+| 1637 | [BD]云南少儿 | epg.pw | <https://epg.pw/stream/a83a92e245f1cd9fde9b4051bf2d6c0e74090d4e3fcf6f68e34a2ac9ecd8c010.m3u8> |
+| 1638 | [BD]云南康旅 | epg.pw | <https://epg.pw/stream/dfa3173aad48d81e4bb65e1cd26f95558b31b51add7c5f5cdce6f670069946c2.m3u8> |
+| 1639 | [BD]云南影视 | epg.pw | <https://epg.pw/stream/738a72f80690b1c6f06ad0a7543f0d084c8bf90a096b3e6c44706660250fc345.m3u8> |
+| 1640 | [BD]云南卫视 8m | epg.pw | <https://epg.pw/stream/4eda9d88512662741a735985c20d34918a80cfe9ed68000cb52f0dff670f9638.ctv> |
+| 1641 | [BD]电竞天堂 8m | epg.pw | <https://epg.pw/stream/daa0fdadf20e75c5ecb693f2ee2f015c9a24c180de3fb5f88ff9d874bab9c113.ctv> |
+| 1642 | [SD]青海西宁新闻 | epg.pw | <https://epg.pw/stream/2fa389df085b27ada57c504583186076a49b6b839f3bd74c051aeafff9121abf.m3u8> |
+| 1643 | [SD]青海西宁生活 | epg.pw | <https://epg.pw/stream/ebb284bdfa9c46f0d32785abba28b9ceff5efefde0e722eea947bf5b3a71b377.m3u8> |
+| 1644 | [HD]青海青海综合 | epg.pw | <https://epg.pw/stream/5cb777ff37d8dd005b5912ce19a3c229a89692c66f661e67996f46b1cea13138.m3u8> |
+| 1645 | [BD]青海卫视[ipv6] | epg.pw | <https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.m3u8> |
+| 1646 | [HD]青海都市 | epg.pw | <https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8> |
+| 1647 | [VGA]巩义新闻综合 | epg.pw | <https://epg.pw/stream/f64d67385532dc9668faa3dd3c1e86e4c1a8ca48eebc23ae719550297b7f0ac6.m3u8> |
+| 1648 | [HD]韩国电影2 | epg.pw | <https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8> |
+| 1649 | [HD]韩国电影3 | epg.pw | <https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8> |
+| 1650 | [BD]香港国际财经台 | epg.pw | <https://epg.pw/stream/edb021b95a130ac49e529d695d5860a198bc98658818bfb40efc94176589c8a6.ctv> |
+| 1651 | [HD]香港国际财经台 | epg.pw | <https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8> |
+| 1652 | [HD]香港有线新闻 | epg.pw | <https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv> |
+| 1653 | [VGA]香港卫视 | epg.pw | <https://epg.pw/stream/99980f8e82d6d4111c77f2fe961013e7d1ee153a55c7a9be69cfa17143933fd1.m3u8> |
+| 1654 | [VGA]香港卫视文旅 | epg.pw | <https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8> |
+| 1655 | [BD]5+体育赛事 | epg.pw | <https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8> |
+| 1656 | [BD]魅力足球 8m | epg.pw | <https://epg.pw/stream/5c6c71d736c0da318cb2bfc204fa6b6178c538be7662570d3c3c736759758f38.ctv> |
+| 1657 | [HD]凤凰卫视 | epg.pw | <https://epg.pw/stream/a791dcccc4410f68c44506b28b067c09224a9f594380b4cfdc96de1a027ac536.ctv> |
+| 1658 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv> |
+| 1659 | [BD]凤凰香港[ipv6] | epg.pw | <https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8> |
+| 1660 | [BD]黑莓电影 4m1080[ipv6] | epg.pw | <https://epg.pw/stream/7cd2a163028ebcd6e8caffba4408642bb8a5009e13dd97bf5f36706cd75f395e.m3u8> |
+| 1661 | [BD]黑莓电影[ipv6] | epg.pw | <https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8> |
+| 1662 | [BD]黑龙江影视[ipv6] | epg.pw | <https://epg.pw/stream/ed5dc2b0cc5b2b66aa555a138facfa40db8ca24d1225e593d45fc3bb8f07d688.m3u8> |
+| 1663 | [VGA]黑龙江文体 | epg.pw | <https://epg.pw/stream/b79e30153b5459cfbff32c48fab86fe8a25721cfb9397fa2a3ad5c9ff27e8a2a.m3u8> |
+| 1664 | [VGA]黑龙江新闻法治 | epg.pw | <https://epg.pw/stream/96f880b7640f6a9b54b46cc980132e9a824732a85a9b93fba194fb5977735412.m3u8> |
+| 1665 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.ctv> |
+| 1666 | [BD]黑龙江卫视1 | epg.pw | <https://epg.pw/stream/9556821b956888d9d8c59e2d8bb6823be50c9a7c2b4b5f9578249c78c7e457db.m3u8> |
+| 1667 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8> |
+| 1668 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
+| 1669 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
+| 1670 | [VGA]黑龙江新闻 | epg.pw | <https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8> |
+| 1671 | [VGA]龙祥电影台 | epg.pw | <https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv> |
+| 1672 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Wed Jan 17 2024 12:17:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 17 2024 14:09:03 GMT+0000 (Coordinated Universal Time)**

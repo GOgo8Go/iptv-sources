@@ -43,6 +43,38 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/32212281
 http://38.96.178.201:80/live/CNNHD/index.m3u8
 #EXTINF:-1 tvg-id="12188" tvg-name="bbc news" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC新闻
 https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
+#EXTINF:-1 tvg-name=" " group-title="国际",Disney XD
+http://38.96.178.201:80/live/DisneyXD/index.m3u8
+#EXTINF:-1 group-title="国际",Disney
+http://38.96.178.201:80/live/Disney/index.m3u8
+#EXTINF:-1 tvg-name=" " group-title="国际",Fox新闻
+http://38.96.178.201:80/live/FOXHD/index.m3u8
+#EXTINF:-1 group-title="国际",发现频道
+http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1 group-title="国际",历史频道
+http://38.96.178.201:80/live/History/index.m3u8
+#EXTINF:-1 tvg-name="TNT " group-title="国际",TNT
+http://38.96.178.201:80/live/TNTHD/index.m3u8
+#EXTINF:-1 tvg-id="usa" tvg-name="usa" group-title="国际",USA
+http://38.96.178.201:80/live/USA/index.m3u8
+#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="国际",CNN新闻
+http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1 tvg-name=" " group-title="国际",KBS世界
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="国际",FoodNetwork
+http://38.96.178.201:80/live/FoodNetwork/index.m3u8
+#EXTINF:-1 tvg-id="ESPN News" tvg-name="ESPN News" group-title="国际",ESPN新闻
+http://38.96.178.201:80/live/ESPNews/index.m3u8
+#EXTINF:-1 tvg-id="CBS News New York" tvg-name="CBS News New York" group-title="国际",CBS新闻
+http://38.96.178.201:80/live/CBS/index.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="Animal Planet" group-title="国际",Animal Planet
+http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" group-title="国际",Comedy Central
+http://38.96.178.201:80/live/ComedyCentral/index.m3u8
+#EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" group-title="国际",BBC美洲
+http://38.96.178.201:80/live/BBCAmerica/index.m3u8
+#EXTINF:-1 tvg-name="ABC NEWS" group-title="国际",ABC新闻
+http://38.96.178.201:80/live/ABCHD/index.m3u8
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="国际",台视新闻
 http://livetv.skycf.eu.org/live.m3u8?c=4
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="国际",中视新闻

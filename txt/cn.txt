@@ -37,7 +37,7 @@
 [SD]cgtn русский,https://epg.pw/stream/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f79a32d0.m3u8
 [BD]上海ics外语[ipv6],https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8
 [BD]上海都市 8m,https://epg.pw/stream/5b1c2a61c3e3111ac288df9a93f89de031da574fb739662b0a89e579ea0b661d.ctv
-[SD]内蒙卫视,https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8
+[VGA]内蒙卫视,https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8
 [BD]北京生活,https://epg.pw/stream/ec19f7e2d8440c4422905d787cd267a2fed33c262dd71dc77a363266d349c25d.ctv
 [BD]北京卫视,https://epg.pw/stream/d73c6843f3a6a315cd30584ac2d52f22981d87e36ec65a33840b4c47c2eee94f.m3u8
 [HD]南京十八 (720p),https://epg.pw/stream/2e20de6b7bc9777faefc9ed64ef069b643911600bf3ede60c8e7111b60309d35.m3u8
@@ -64,7 +64,7 @@
 [BD]法治天地[ipv6],https://epg.pw/stream/820567d53130b93853933c7fdbd207d137058fb3f6571d1cdd3a9a795e6c23fd.m3u8
 [BD]浙江卫视,https://epg.pw/stream/5eb50e6a4ccf96ade0f3359339ce5e069161e0ced131f108c2d641275fd673ce.m3u8
 [BD]海南卫视 8m,https://epg.pw/stream/b60a53b3967c0f5709974d3e1bf079a1d560268f75f367277132ad15ea3f086f.ctv
-[BD]深圳卫视,https://epg.pw/stream/f71ce2c8d3869cd398598fccaa3ae45c79fc432743b033a33f58b7b2abd51c41.m3u8
+[BD]深圳卫视,https://epg.pw/stream/63ad6d916aa277f8d6f971e7b6e88b644f13ef071a93e92f83adb23e2ef09da3.m3u8
 [HD]深圳都市,https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
 [SD]湖北卫视 8m,https://epg.pw/stream/13ef1e33f8053afd1469e0e957eff11c5a38dff0410ef13e71b122d565f490de.ctv
 [BD]湖南卫视 8m,https://epg.pw/stream/65930278cf7bcc40e905b62b0bc943a9ada7f1bcac3fa9317eaa69e269b70511.ctv

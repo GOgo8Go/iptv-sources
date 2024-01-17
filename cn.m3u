@@ -103,7 +103,7 @@ https://epg.pw/stream/8b8a3bb9f8e192134e044784d4143ba39be81bf453c3a8523f5aea2116
 https://epg.pw/stream/1ca2457b9bd7a0905af48485803ac1357abc261d2ad96158b1970d5edde59ab3.m3u8
 #EXTINF:-1 tvg-name="全纪实 8m" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509002559904362_96.jpg" group-title="纪实",[BD]全纪实 8m
 https://epg.pw/stream/a705a6147de87b9dd724482486c10078405545d850fb55bffa82b9ad98dbe45f.ctv
-#EXTINF:-1 tvg-name="内蒙卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="综合",[SD]内蒙卫视
+#EXTINF:-1 tvg-name="内蒙卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="综合",[VGA]内蒙卫视
 https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8
 #EXTINF:-1 tvg-name="刘德华" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525051544390111_69.png" group-title="电影",[BD]刘德华
 https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv
@@ -218,7 +218,7 @@ https://epg.pw/stream/b60a53b3967c0f5709974d3e1bf079a1d560268f75f367277132ad15ea
 #EXTINF:-1 tvg-name="海宁新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/04/04/large/20230404013922487183_91.jpeg" group-title="新闻",[BD]海宁新闻综合
 https://epg.pw/stream/430bf9e770302d728d652b25b3c92a9357d50927a734bd8d97aacc47e6c875d3.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226201559401791_78.png" group-title="综合",[BD]深圳卫视
-https://epg.pw/stream/f71ce2c8d3869cd398598fccaa3ae45c79fc432743b033a33f58b7b2abd51c41.m3u8
+https://epg.pw/stream/63ad6d916aa277f8d6f971e7b6e88b644f13ef071a93e92f83adb23e2ef09da3.m3u8
 #EXTINF:-1 tvg-name="深圳都市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519234446820820_32.jpg" group-title="综合",[HD]深圳都市
 https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
 #EXTINF:-1 tvg-name="清河新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/31/large/20221031235633223834_13.jpg" group-title="新闻",[BD]清河新闻综合

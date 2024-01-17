@@ -56,7 +56,7 @@
 | 50 | [HD]云南怒江新闻综合 | epg.pw | <https://epg.pw/stream/8b8a3bb9f8e192134e044784d4143ba39be81bf453c3a8523f5aea21162f4824.m3u8> |
 | 51 | [BD]云南都市 | epg.pw | <https://epg.pw/stream/1ca2457b9bd7a0905af48485803ac1357abc261d2ad96158b1970d5edde59ab3.m3u8> |
 | 52 | [BD]全纪实 8m | epg.pw | <https://epg.pw/stream/a705a6147de87b9dd724482486c10078405545d850fb55bffa82b9ad98dbe45f.ctv> |
-| 53 | [SD]内蒙卫视 | epg.pw | <https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8> |
+| 53 | [VGA]内蒙卫视 | epg.pw | <https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8> |
 | 54 | [BD]刘德华 | epg.pw | <https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv> |
 | 55 | [BD]北京淘电影 | epg.pw | <https://epg.pw/stream/6f130950f894020e7c200ad6a3183b966cfea6c325f51a24b6e3075f441a2397.ctv> |
 | 56 | [BD]北京生活 | epg.pw | <https://epg.pw/stream/ec19f7e2d8440c4422905d787cd267a2fed33c262dd71dc77a363266d349c25d.ctv> |
@@ -113,7 +113,7 @@
 | 107 | [BD]浙江卫视 | epg.pw | <https://epg.pw/stream/5eb50e6a4ccf96ade0f3359339ce5e069161e0ced131f108c2d641275fd673ce.m3u8> |
 | 108 | [BD]海南卫视 8m | epg.pw | <https://epg.pw/stream/b60a53b3967c0f5709974d3e1bf079a1d560268f75f367277132ad15ea3f086f.ctv> |
 | 109 | [BD]海宁新闻综合 | epg.pw | <https://epg.pw/stream/430bf9e770302d728d652b25b3c92a9357d50927a734bd8d97aacc47e6c875d3.m3u8> |
-| 110 | [BD]深圳卫视 | epg.pw | <https://epg.pw/stream/f71ce2c8d3869cd398598fccaa3ae45c79fc432743b033a33f58b7b2abd51c41.m3u8> |
+| 110 | [BD]深圳卫视 | epg.pw | <https://epg.pw/stream/63ad6d916aa277f8d6f971e7b6e88b644f13ef071a93e92f83adb23e2ef09da3.m3u8> |
 | 111 | [HD]深圳都市 | epg.pw | <https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8> |
 | 112 | [BD]清河新闻综合 | epg.pw | <https://epg.pw/stream/47c40494054ea276b23bff99bafbdb2d42f524a7c231cbab180bb50d68376c0d.m3u8> |
 | 113 | [SD]湖北卫视 8m | epg.pw | <https://epg.pw/stream/13ef1e33f8053afd1469e0e957eff11c5a38dff0410ef13e71b122d565f490de.ctv> |
@@ -161,4 +161,4 @@
 | 155 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
 | 156 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
 
-Updated at **Wed Jan 17 2024 12:17:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 17 2024 14:09:03 GMT+0000 (Coordinated Universal Time)**

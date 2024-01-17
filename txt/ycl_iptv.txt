@@ -23,6 +23,22 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/
 国际,#genre#
 CNN新闻,http://38.96.178.201:80/live/CNNHD/index.m3u8
 BBC新闻,https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
+Disney XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
+Disney,http://38.96.178.201:80/live/Disney/index.m3u8
+Fox新闻,http://38.96.178.201:80/live/FOXHD/index.m3u8
+发现频道,http://38.96.178.201:80/live/Discovery/index.m3u8
+历史频道,http://38.96.178.201:80/live/History/index.m3u8
+TNT,http://38.96.178.201:80/live/TNTHD/index.m3u8
+USA,http://38.96.178.201:80/live/USA/index.m3u8
+CNN新闻,http://38.96.178.201:80/live/Discovery/index.m3u8
+KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+FoodNetwork,http://38.96.178.201:80/live/FoodNetwork/index.m3u8
+ESPN新闻,http://38.96.178.201:80/live/ESPNews/index.m3u8
+CBS新闻,http://38.96.178.201:80/live/CBS/index.m3u8
+Animal Planet,http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+Comedy Central,http://38.96.178.201:80/live/ComedyCentral/index.m3u8
+BBC美洲,http://38.96.178.201:80/live/BBCAmerica/index.m3u8
+ABC新闻,http://38.96.178.201:80/live/ABCHD/index.m3u8
 台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
 中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
 公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
