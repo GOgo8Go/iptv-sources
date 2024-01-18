@@ -35,14 +35,14 @@
 | 29 | [BD]cctv-11戏曲 | epg.pw | <https://epg.pw/stream/0cb8d4fa5b25ff0deb5be55bf1ca887da769736d8c2bbc072c468a2572f713a9.m3u8> |
 | 30 | [BD]cctv-4 中文国际 美洲 | epg.pw | <https://epg.pw/stream/f155e7f2ec34213eaa80c93835daa2ed7d05733a20cecc56042f3ad6c130525c.ctv> |
 | 31 | [BD]cctv文化精品[ipv6] | epg.pw | <https://epg.pw/stream/24c64b08560eaa6524bf24d20d577d0938a4d64229416a5744a16f08f4dd161a.m3u8> |
-| 32 | [BD]cetv1 | epg.pw | <https://epg.pw/stream/4a405cd885d87ed95cd3a89ad2f96b8c6f32fcb87b0216543803b20f58361b34.ctv> |
+| 32 | [VGA]cetv1 | epg.pw | <https://epg.pw/stream/4a405cd885d87ed95cd3a89ad2f96b8c6f32fcb87b0216543803b20f58361b34.ctv> |
 | 33 | [SD]cgtn español (576p) | epg.pw | <https://epg.pw/stream/32644b27df53a500dd42ddb0c101df37f0ada5c8d4bb5ed3f0612a65873b6de7.m3u8> |
 | 34 | [SD]cgtn français (576p) [not 24/7] | epg.pw | <https://epg.pw/stream/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63eb4a88b.m3u8> |
 | 35 | [SD]cgtn русский | epg.pw | <https://epg.pw/stream/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f79a32d0.m3u8> |
 | 36 | [HD]hot | epg.pw | <https://epg.pw/stream/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cdedce7f5.m3u8> |
 | 37 | [BD]newtv武搏世界[ipv6] | epg.pw | <https://epg.pw/stream/03a8dd67af4514185c1d05e3bebe1067437bab3d7eee717203a2e3b7fc91621e.m3u8> |
 | 38 | [BD]rt documentary | epg.pw | <https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8> |
-| 39 | [VGA]三明新闻综合 | epg.pw | <https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8> |
+| 39 | [HD]三明新闻综合 | epg.pw | <https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8> |
 | 40 | [BD]上海ics外语[ipv6] | epg.pw | <https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8> |
 | 41 | [BD]上海教育 8m | epg.pw | <https://epg.pw/stream/8cb39eb80ccfc6035363055a280a0bc32c63a139c055c79b7aace8e0811ade14.ctv> |
 | 42 | [BD]上海纪实人文 | epg.pw | <https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.m3u8> |
@@ -88,7 +88,7 @@
 | 82 | [BD]广东卫视 | epg.pw | <https://epg.pw/stream/88869bbe44812d4aec4de520feed223e11c309bbe9fb7024556de45e3fa92383.m3u8> |
 | 83 | [HD]延边卫视 | epg.pw | <https://epg.pw/stream/694dae873b77a8719bd2de5311d0957608729903cc46e1d5f71f76c55b587c3b.m3u8> |
 | 84 | [BD]快乐垂钓 8m | epg.pw | <https://epg.pw/stream/c08bde786cad061027689a3a00e3140205cafc72a723cb08819e3d17622ca951.ctv> |
-| 85 | [BD]爱上4k | epg.pw | <https://epg.pw/stream/3c0311108820220e015646ae9e51579e2a9899eb349471933ece11480331e2a6.ctv> |
+| 85 | [VGA]爱上4k | epg.pw | <https://epg.pw/stream/3c0311108820220e015646ae9e51579e2a9899eb349471933ece11480331e2a6.ctv> |
 | 86 | [SD]承德新闻综合 | epg.pw | <https://epg.pw/stream/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.m3u8> |
 | 87 | [BD]早期教育 | epg.pw | <https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv> |
 | 88 | [BD]晋城公共 | epg.pw | <https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8> |
@@ -107,7 +107,7 @@
 | 101 | [SD]河北公共 | epg.pw | <https://epg.pw/stream/e73e84b708a04b46e8aff02f7a00d3168bf259f7f48b5dc8e08a53583b9c75a4.m3u8> |
 | 102 | [SD]河北都市 | epg.pw | <https://epg.pw/stream/9fc6507da49edb0268413134352e96785e137b8f2dec3c1bef337f62e1087c1b.m3u8> |
 | 103 | [BD]河南卫视 8m | epg.pw | <https://epg.pw/stream/f2bc127581d72946570175bc4a24a02c5b7f366522a83dad8a56bc706fb5f1c4.ctv> |
-| 104 | [BD]法治天地[ipv6] | epg.pw | <https://epg.pw/stream/820567d53130b93853933c7fdbd207d137058fb3f6571d1cdd3a9a795e6c23fd.m3u8> |
+| 104 | [BD]法治天地[ipv6] | epg.pw | <https://epg.pw/stream/4389baae3c68d2fef8fb8656cda7c4977540b2c3525ecf1edf9d5b04d5017a80.m3u8> |
 | 105 | [BD]济南新闻综合 | tv.qntv.net | <rtmp://tv.qntv.net/channellive/ch1?zguizd> |
 | 106 | [BD]浙江新闻 | epg.pw | <https://epg.pw/stream/4cb4bcb7ae35f2b30dee6b1be1a2d22108c73e9bc3729826ea009821ae7af456.m3u8> |
 | 107 | [BD]浙江卫视 | epg.pw | <https://epg.pw/stream/5eb50e6a4ccf96ade0f3359339ce5e069161e0ced131f108c2d641275fd673ce.m3u8> |
@@ -162,4 +162,4 @@
 | 156 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
 | 157 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
 
-Updated at **Thu Jan 18 2024 06:12:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 18 2024 08:11:47 GMT+0000 (Coordinated Universal Time)**
