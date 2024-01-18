@@ -294,7 +294,7 @@
 | 288 | [BD]car magazine tv | epg.pw | <https://epg.pw/stream/877792832be9172f4d3e12486f03184eed411e14bb86b07f2ce4ff30e17005dd.m3u8> |
 | 289 | [HD]movie plus (544p) | epg.pw | <https://epg.pw/stream/dbe2aa3fd92fb0b58a84016605b6886a3d77960d2f7d9b3998ce17c32c2d42f5.m3u8> |
 | 290 | [BD]nat tv (1080p) | epg.pw | <https://epg.pw/stream/c38da8a5b50de96fc5ca77a36655061544f2c955081a1135aa8ca51d424ba86f.m3u8> |
-| 291 | [HD]NAT GEO | epg.pw | <https://epg.pw/stream/411ffa990218ea6408b6299d4d4467b0c5bc6362a0ec9c979303fa34def120ef.ctv> |
+| 291 | [HD]NAT GEO | epg.pw | <https://epg.pw/stream/51b7a126e809a6b6045db9df78be90c0f77a4e1bc69beadb1bce06d1789ca853.ctv> |
 | 292 | [BD]nbc news now | epg.pw | <https://epg.pw/stream/03c2285f13ba9d9cbbf16426eb003881fca2591c7f41b97c8957d570ddd9c85c.m3u8> |
 | 293 | [BD]newtv中国功夫[ipv6] | epg.pw | <https://epg.pw/stream/6c9d54cf76a2d2246f6ffca3c1bc194b5e23e716247f9b29a49279278188a1fb.m3u8> |
 | 294 | [BD]newtv动作电影[ipv6] | epg.pw | <https://epg.pw/stream/e94cc2f1cb9a47e959a80ae19baa1ce8e6e04e844dfcf65aa27b641d7ee467c7.m3u8> |
@@ -540,7 +540,7 @@
 | 534 | [SD]be tv | epg.pw | <https://epg.pw/stream/0760d232ad9c68b4d47174a7f56e3091dd3123f4a12716f622c60f728117c9bf.m3u8> |
 | 535 | [BD]beach tv myrtle beach & the grand strand | epg.pw | <https://epg.pw/stream/5d4a300b5857c8b363814c704aeb1f5c8101fdc10c25e148c6b9da6a90edcba9.m3u8> |
 | 536 | [HD]beach tv panama city | epg.pw | <https://epg.pw/stream/4dae8f7baaac0dc937928e3077ce819c02d337336859f7187e4ca72332ac5917.m3u8> |
-| 537 | [BD]bein sports 5 | epg.pw | <https://epg.pw/stream/750d23ace59b38b766ae130bbf4850d3426f0cf0a244bae05976e8eb9a177ea3.ctv> |
+| 537 | [HD]bein sports 5 | epg.pw | <https://epg.pw/stream/d1ef660722066ebc68364edf7aedc1ee90a86a54d523dd2400bb0b5a18551e45.ctv> |
 | 538 | [BD]bestv台 | epg.pw | <https://epg.pw/stream/1cc2bd758de391989fa8ddec001232234bf1326d65de6186b373301a9fb04ec5.ctv> |
 | 539 | [BD]bfm business (1080p) | epg.pw | <https://epg.pw/stream/a02a9e0848a1b463153aae52b84ce72b7e19c6cc9ea595e2a5b92cddd8391e4f.m3u8> |
 | 540 | [BD]bfm grand lille | epg.pw | <https://epg.pw/stream/c8d8b9d85f585add69de2143bd5a34353855039f23b109ffddd5018847a2bbbd.m3u8> |
@@ -998,7 +998,7 @@
 | 992 | [SD]rtl television | epg.pw | <https://epg.pw/stream/17c5304b20a09d6be73dc992c55add61940fb50d14b71560ac4561fe35f0b589.m3u8> |
 | 993 | [BD]rtl-tvi (1080p) [not 24/7] | epg.pw | <https://epg.pw/stream/10dc74f9ea44895e80972ee52d334bfe9ab0ff04c36d6863656b1a6ea7ee6c92.m3u8> |
 | 994 | [HD]rtp | epg.pw | <https://epg.pw/stream/8912c3b24c0af9f37c0bc48a6fcbd84e9d820524a66ceccd94043a1d9d24655b.m3u8> |
-| 995 | [VGA]rtp 1 | epg.pw | <https://epg.pw/stream/b8ad401de06933c6ccbe3f56f1c1616b7128356262ded90ee9c95e005d06979b.ctv> |
+| 995 | [HD]rtp 1 | epg.pw | <https://epg.pw/stream/c87667815d0144c687cfa3782007b0dd68c9d0072c7ce47eca13cb8d76ffb911.m3u8> |
 | 996 | [HD]rtp 3 | epg.pw | <https://epg.pw/stream/fb0689bb7d03c0e9dfc6a8b2b31488d7b3b3783b45ea7cb6580a37ca77e91089.m3u8> |
 | 997 | [BD]rtv | epg.pw | <https://epg.pw/stream/264bed2f4b57fed2a0038ee4e241f2fbb12b59071a97fda4b605c7997923ceb3.m3u8> |
 | 998 | [HD]rtv noord (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/d2af4f491b52fdc596899eb0585b1c2ab67210885550fbf0cd480fb7c3bc1bfa.m3u8> |
@@ -1675,4 +1675,4 @@
 | 1669 | [VGA]龙祥电影台 | epg.pw | <https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv> |
 | 1670 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Thu Jan 18 2024 02:24:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 18 2024 04:11:21 GMT+0000 (Coordinated Universal Time)**
