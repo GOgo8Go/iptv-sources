@@ -19,49 +19,6 @@ CCTV-16,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m
 CCTV-17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
-
-国际,#genre#
-CNN新闻,http://38.96.178.201:80/live/CNNHD/index.m3u8
-BBC新闻,https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
-Disney XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
-Disney,http://38.96.178.201:80/live/Disney/index.m3u8
-Fox新闻,http://38.96.178.201:80/live/FOXHD/index.m3u8
-发现频道,http://38.96.178.201:80/live/Discovery/index.m3u8
-历史频道,http://38.96.178.201:80/live/History/index.m3u8
-TNT,http://38.96.178.201:80/live/TNTHD/index.m3u8
-USA,http://38.96.178.201:80/live/USA/index.m3u8
-NBA,http://38.96.178.201/live/NBA/index.m3u8
-KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-FoodNetwork,http://38.96.178.201:80/live/FoodNetwork/index.m3u8
-ESPN新闻,http://38.96.178.201:80/live/ESPNews/index.m3u8
-CBS新闻,http://38.96.178.201:80/live/CBS/index.m3u8
-Animal Planet,http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
-Comedy Central,http://38.96.178.201:80/live/ComedyCentral/index.m3u8
-BBC美洲,http://38.96.178.201:80/live/BBCAmerica/index.m3u8
-ABC新闻,http://38.96.178.201:80/live/ABCHD/index.m3u8
-台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
-中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
-公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
-民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
-三立新闻,、http://livetv.skycf.eu.org/live.m3u8?c=12 
-TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
-中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
-凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
-凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
-凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CBN新闻,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-GB新闻,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-TalkTV,https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
-TRT世界,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 CGTN新闻,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
