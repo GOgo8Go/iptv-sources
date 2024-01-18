@@ -1,4 +1,4 @@
-Undefined,#genre#
+iptv.org stream China CCTV,#genre#
 CCTV+ 1 (600p),https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p),https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CCTV-1综合 (1080p),https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8

@@ -1,4 +1,4 @@
-Undefined,#genre#
+iptv.org stream China 112114,#genre#
 douyu8,http://epg.112114.xyz/douyu/4332
 douyu9,http://epg.112114.xyz/douyu/6140589
 douyu15,http://epg.112114.xyz/douyu/8770422

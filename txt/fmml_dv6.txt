@@ -1,4 +1,4 @@
-央视频道,#genre#
+fanmingming/live domainv6,#genre#
 CCTV-1 综合,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV-3 综艺,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8
@@ -18,8 +18,6 @@ CCTV-16 奥林匹克,http://iptvrr.sh.chinamobile.com:6060/cms001/ch000000909900
 CCTV-17 农业农村,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8
 CCTV-16 奥林匹克 4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
 CGTN英语,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8
-
-卫视频道,#genre#
 北京卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8
 湖南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001026/index.m3u8
 东方卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8
@@ -76,8 +74,6 @@ CETV-4,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index
 家庭理财,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001278/index.m3u8
 财富天下,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001219/index.m3u8
 中国天气,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8
-
-上海频道,#genre#
 上海新闻,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
 上海都市,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
 上海ICS,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001128/index.m3u8
@@ -88,16 +84,12 @@ CETV-4,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index
 东方财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
 法治天地,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
 第一财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
-
-赛事直播,#genre#
 Bestv赛事1,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001151/index.m3u8
 Bestv赛事2,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001359/index.m3u8
 Bestv赛事3,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001388/index.m3u8
 Bestv赛事4,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001149/index.m3u8
 Bestv赛事5,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001153/index.m3u8
 Bestv赛事6,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001154/index.m3u8
-
-购物频道,#genre#
 东方购物1,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001040/index.m3u8
 东方购物2,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001039/index.m3u8
 央广购物,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
