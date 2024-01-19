@@ -13,7 +13,7 @@
 | 7 | [SD]cctv13 | [SD cctv13](https://epg.pw/stream/40a9e2982bc945aca7ceebc0664c69c3da53d8b7169e7edee6383656ab72004b.m3u8) |
 | 8 | [BD]cctv14 | [BD cctv14](https://epg.pw/stream/c375661a94c310dd112505c98740c9917785676f84443adf5246edaa1d5de485.m3u8) |
 | 9 | [BD]cctv-15[ipv6] | [BD cctv-15 ipv6](https://epg.pw/stream/037c66158088f065939b1687b2a0cde6f83c5353ad6db4a0f6d08d3ecf63bbe2.m3u8) |
-| 10 | [BD]cctv16 | [BD cctv16](https://epg.pw/stream/3d549f839d8441032ab1a90e8897e7384687d7b39cced4f60ea3e14e436868e9.m3u8) |
+| 10 | [BD]cctv16[ipv6] | [BD cctv16 ipv6](https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8) |
 | 11 | [BD]cctv17[ipv6] | [BD cctv17 ipv6](https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8) |
 | 12 | [BD]cctv2 | [BD cctv2](https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8) |
 | 13 | [BD]cctv3[ipv6] | [BD cctv3 ipv6](https://epg.pw/stream/7361b754ebaf0853cb863bc4a3af9233d23c74c0e46a0aa7190d44f0389e0822.m3u8) |
@@ -42,7 +42,7 @@
 | 36 | [HD]hot | [HD hot](https://epg.pw/stream/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cdedce7f5.m3u8) |
 | 37 | [BD]newtv武搏世界[ipv6] | [BD newtv武搏世界 ipv6](https://epg.pw/stream/03a8dd67af4514185c1d05e3bebe1067437bab3d7eee717203a2e3b7fc91621e.m3u8) |
 | 38 | [BD]rt documentary | [BD rt documentary](https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8) |
-| 39 | [VGA]三明新闻综合 | [VGA 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
+| 39 | [HD]三明新闻综合 | [HD 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
 | 40 | [BD]上海ics外语[ipv6] | [BD 上海ics外语 ipv6](https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8) |
 | 41 | [BD]上海教育 8m | [BD 上海教育 8m](https://epg.pw/stream/8cb39eb80ccfc6035363055a280a0bc32c63a139c055c79b7aace8e0811ade14.ctv) |
 | 42 | [BD]上海纪实人文 | [BD 上海纪实人文](https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.m3u8) |
@@ -93,7 +93,7 @@
 | 87 | [BD]早期教育 | [BD 早期教育](https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv) |
 | 88 | [BD]晋城公共 | [BD 晋城公共](https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8) |
 | 89 | [BD]东方卫视 | [BD 东方卫视](https://epg.pw/stream/b68627080443db17b87271a819637fbbc403046155dbe6f61413e47d5737f9fe.m3u8) |
-| 90 | [HD]林正英 | [HD 林正英](https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv) |
+| 90 | [SD]林正英 | [SD 林正英](https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv) |
 | 91 | [SD]枣庄公共频道 | [SD 枣庄公共频道](https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8) |
 | 92 | [SD]枣庄新闻综合 | [SD 枣庄新闻综合](https://epg.pw/stream/c96d12ec316e8297973a210e94860e269e8797986e6a6223f3be444387c32341.m3u8) |
 | 93 | [SD]武义新闻综合 | [SD 武义新闻综合](https://epg.pw/stream/0077dd0cdd20b184ff9fa9291950b02b0129a68b7d7ca9b1e14da5be96046007.m3u8) |
@@ -161,4 +161,4 @@
 | 155 | [SD]黑龙江哈尔滨新闻 | [SD 黑龙江哈尔滨新闻](https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8) |
 | 156 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 
-Updated at **Fri Jan 19 2024 01:07:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 19 2024 08:18:57 GMT+0000 (Coordinated Universal Time)**
