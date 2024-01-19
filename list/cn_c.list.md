@@ -22,7 +22,7 @@
 | 16 | [BD]newtv惊悚悬疑[ipv6] | [BD newtv惊悚悬疑 ipv6](https://epg.pw/stream/36c7b460935f92b0104ebbabd0d92689e91f568f0bf4910f29f8967d668d3742.m3u8) |
 | 17 | [BD]newtv超级电影[ipv6] | [BD newtv超级电影 ipv6](https://epg.pw/stream/38f48223d9233cdb32e6aa34a1e80835aaed997071bcdea5b4325f92697148fe.m3u8) |
 | 18 | [BD]mv音乐 | [BD mv音乐](https://epg.pw/stream/7a700d96ded14e3e47475d5fb6171e8fd90405389c3794f24fbe6e0f7824b7e6.ctv) |
-| 19 | [BD]七彩戏剧[ipv6] | [BD 七彩戏剧 ipv6](https://epg.pw/stream/fa3b68a5bca145df9ae1e562d5e95f5dc4983df308bab1a06388c63baa628972.m3u8) |
+| 19 | [BD]七彩戏剧 8m | [BD 七彩戏剧 8m](https://epg.pw/stream/087943e13b386f3d4c693b791bd8192d0a6dfad55d58a12a2f73b2e6b8a86830.ctv) |
 | 20 | [SD]三沙卫视 | [SD 三沙卫视](https://epg.pw/stream/fc49c564c870b78b1a3655d913ca8a4fe4e31f58db2da34caedc0761a3e51256.ctv) |
 | 21 | [BD]上海新闻综合[ipv6] | [BD 上海新闻综合 ipv6](https://epg.pw/stream/373127a928c6188e77353eae10f69c6f57d5965425c9829b9d1e8e3538d544f4.m3u8) |
 | 22 | [BD]五星体育[ipv6] | [BD 五星体育 ipv6](https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8) |
@@ -73,7 +73,7 @@
 | 67 | [HD]延边卫视 | [HD 延边卫视](https://epg.pw/stream/2c315ffc8f8501d31b82a47f0e65c47661e4f9fb6e45a5d9026fe47fe0563dba.m3u8) |
 | 68 | [HD]开化新闻综合 | [HD 开化新闻综合](https://epg.pw/stream/3bbb603477d99145f17fd829b0c986cc487070e09e0ca75d4617ed3cad784c5f.m3u8) |
 | 69 | [SD]弈坛春秋[ipv6] | [SD 弈坛春秋 ipv6](https://epg.pw/stream/763d7c5759a8e53b24815f268656af286ed0fc9afcae30cfdfd88a4d68639bf4.m3u8) |
-| 70 | [VGA]快乐垂钓 | [VGA 快乐垂钓](https://epg.pw/stream/f985e0b6d1331e8a6ebe2cd52fc775e56778a8c59df71272881179c511e256cb.ctv) |
+| 70 | [BD]快乐垂钓 | [BD 快乐垂钓](https://epg.pw/stream/f985e0b6d1331e8a6ebe2cd52fc775e56778a8c59df71272881179c511e256cb.ctv) |
 | 71 | [BD]收藏天下 | [BD 收藏天下](https://epg.pw/stream/06721d102fff6bee9be6bc1afc6fcc7b98152ae725c268a17b41b5502b3c7b5c.ctv) |
 | 72 | [BD]文物宝库 | [BD 文物宝库](https://epg.pw/stream/e8a4d9f6d3ba5e1e6ff4c1a48e190d72f245bd2afedb8ee0cca017934c8e2830.m3u8) |
 | 73 | [BD]三新动漫 | [BD 三新动漫](https://epg.pw/stream/3db55b1054c684fb8a548a10a0d6cb7855c453b8786c8716dbb2c27c917a8c6d.ctv) |
@@ -151,4 +151,4 @@
 | 145 | [BD]黑龙江都市[ipv6] | [BD 黑龙江都市 ipv6](https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8) |
 | 146 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 
-Updated at **Thu Jan 18 2024 16:19:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 19 2024 01:07:08 GMT+0000 (Coordinated Universal Time)**
