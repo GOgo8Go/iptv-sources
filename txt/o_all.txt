@@ -3526,6 +3526,7 @@ Télésambre,https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72c
 TeleSanDomenico (1080p),https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
 Telesangil (720p) [Not 24/7],https://hvtraficonew.ddns.net/tvsangil/tvsangil/index.m3u8
 Telesantodomingo (720p),https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
+Teleselva,https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 Telesirio Web TV (240p),https://www.telesirio.it/live/stream.m3u8
 Telesistema (480p),https://tunzilla.com/http://51.81.106.157:8084/hls/tsistemas.m3u8
 Telesistema (480p) [Not 24/7],https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
