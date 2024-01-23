@@ -1370,6 +1370,7 @@ Homebase TV (576p),https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m
 Homeful (1080p),https://lnc-homeful.tubi.video/playlist.m3u8
 Honor TV (720p),https://a.jsrdn.com/broadcast/d5b48/+0000/c.m3u8
 Hope4Life TV (720p),http://144.217.14.88/hls/hope4life.m3u8
+Hope Channel Africa (1080p),https://videodelivery.net/3dab4197cbdc656fa4a498285a3a4d67/manifest/video.m3u8
 Hope Channel Australia (1080p),https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
 Hope Channel German (1080p),https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
 Hope Channel Ghana (480p),https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
@@ -3731,7 +3732,7 @@ TVG Momentos G (720p),https://momentog-crtvg.flumotion.com/playlist.m3u8
 TVG Musigal (480p),https://musigal-crtvg.flumotion.com/playlist.m3u8
 TVG Pequerrech@s (720p),https://xabarintv-r1-crtvg.flumotion.com/playlist.m3u8
 TVGE (480p),http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
-TVI África (480p) [Not 24/7],https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+TVI África (480p),https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 TVI Ficção (480p),https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 TVídeoNews (720p) [Not 24/7],https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 TVIKIM,https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
