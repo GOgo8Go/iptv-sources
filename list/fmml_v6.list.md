@@ -122,4 +122,4 @@
 | 116 | 欢笑剧场4K | [欢笑剧场4K](http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8) |
 | 117 | 纯享超清 | [纯享超清](http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8) |
 
-Updated at **Wed Jan 24 2024 01:07:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 24 2024 08:19:17 GMT+0000 (Coordinated Universal Time)**
