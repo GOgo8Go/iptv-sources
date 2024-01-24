@@ -3976,7 +3976,11 @@ VRT Radio Klara (720p),https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20
 VRT Radio StuBru (720p),https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
 VS RTV (480p) [Not 24/7],http://connectiktv.ddns.me:8080/live/61f65016ea2be-1/index.m3u8
 VSiN (720p),https://stream.rcncdn.com/live/vsinproxy.m3u8
+VTC1 (1080p),https://1117141481.vnns.net/VTC1/chunks.m3u8
+VTC10 (1080p),https://1117141481.vnns.net/VTC10/chunks.m3u8
 VTC11,https://1117141481.vnns.net/VTC11/chunks.m3u8
+VTC12,https://1117141481.vnns.net/VTC12/chunks.m3u8
+VTC13 (1080p),https://1117141481.vnns.net/VTC13/chunks.m3u8
 VTE 9,https://ctrl.laotv.la/live/VTE9/index.m3u8
 VTM 2 (720p),https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 VTM (720p),https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
