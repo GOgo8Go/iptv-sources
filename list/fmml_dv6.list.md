@@ -1,4 +1,4 @@
-# List for **fanmingming/live domainv6**
+# List for **fanmingming/live domainv6**(Rollback)
 
 > M3U: [fmml_dv6.m3u](/fmml_dv6.m3u), TXT: [fmml_dv6.txt](/txt/fmml_dv6.txt)
 
@@ -105,4 +105,4 @@
 | 99 | 家有购物 | [家有购物](http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8) |
 | 100 | 快乐购 | [快乐购](http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8) |
 
-Updated at **Thu Jan 25 2024 16:20:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 26 2024 01:03:16 GMT+0000 (Coordinated Universal Time)**

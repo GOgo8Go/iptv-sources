@@ -157,4 +157,4 @@
 | 151 | CGTN西语 | [CGTN西语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 152 | CGTN阿语 | [CGTN阿语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 
-Updated at **Thu Jan 25 2024 16:20:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 26 2024 01:03:15 GMT+0000 (Coordinated Universal Time)**

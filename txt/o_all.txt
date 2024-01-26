@@ -590,7 +590,7 @@ Canal 1 (1080p),https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2
 Canal 1 Mar Menor-Torre Pacheco (1080p),https://directo.tuwebtv.es/canal1.m3u8
 Canal 2 (480p) [Not 24/7],https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/playlist.m3u8
 Canal 2 (576p) [Not 24/7],https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
-Canal 2 (720p) [Not 24/7],https://ythls.armelin.one/channel/UCX2i6sAexuDAbHMztLnfnKg.m3u8
+Canal 2 (1080p),https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8
 Canal 2 (San Antonio) (720p) [Not 24/7],https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
 Canal 2 Alpavisión (720p) [Not 24/7],https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 Canal 2 Cali (720p),https://video13.virtualtronics.com/streamer/canal2.m3u8
@@ -609,6 +609,7 @@ Canal 3 KMK TV (720p),https://cloudvideo.servers10.com:8081/8120/index.m3u8
 Canal 3 La Pampa (1080p),https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 Canal 3 Las Heras (720p),https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 Canal 3 Rosario (704p),https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+Canal 4 (480p) [Not 24/7],http://138.117.4.70:8075/Canal04_CooTel/playlist.m3u8
 Canal 4 (720p) [Not 24/7],https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
 Canal 4 Balcarce (360p),https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 Canal 4 Catalunya (1080p),https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
@@ -637,6 +638,7 @@ Canal 6 de Tamazula (480p) [Not 24/7],https://stream.oursnetworktv.com/latin/enc
 Canal 6 ERTV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
 Canal 6 Mar del Plata (480p),https://panel.dattalive.com/8166/8166/playlist.m3u8
 Canal 6 Moreno (720p) [Not 24/7],https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
+Canal 6 Nicaragüense (480p) [Not 24/7],http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
 Canal 6 Posadas (1080p),https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 Canal 6 Tecpán (720p) [Not 24/7],https://stream.oursnetworktv.com/latin/encoder6tecpan/playlist.m3u8
 Canal 7 Chubut (720p) [Not 24/7],https://ythls.armelin.one/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8
@@ -681,6 +683,7 @@ Canal 10 San Rafael (480p),https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.
 Canal 10 Televisión Salteña (720p),https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
 Canal 11 (720p) [Not 24/7],https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 Canal 11 (720p) [Not 24/7],https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+Canal 11 (1080p),https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
 Canal 11 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
 Canal 11 Aysén (720p),https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8
 Canal 11 Damoa TV Regional (900p) [Not 24/7],https://59ce1298bfb98.streamlock.net/damoatv/damoatv/playlist.m3u8
@@ -734,6 +737,7 @@ Canal Alta Frontera (288p),https://mediacpstreamchile.com:1936/altafronteratv/al
 Canal Antigua (1080p) [Not 24/7],https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 Canal Blu (720p),https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 Canal Capital (1080p),https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+Canal Católico de Nicaragua (720p) [Not 24/7],https://ythls.armelin.one/channel/UCiM9RDZNNaR7FJYmxbKLXPQ.m3u8
 Canal Catorce (720p),https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 Canal Catorce (XHSPR-TDT1) (720p),https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
 Canal CNR (480p) [Not 24/7],https://ythls.armelin.one/channel/UCeNlqMQ1Um3NUM97OBGA0sw.m3u8
@@ -1508,6 +1512,7 @@ InLire TV (1080p),https://5f22d76e220e1.streamlock.net/inlire/inlire/playlist.m3
 Inooro TV (720p),https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
 INPO TV (720p),https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
 ION,https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+ION Mystery (1080p),https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 ION Mystery (1080p),https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 ION Plus,https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 iON TV (576p),https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
@@ -1763,7 +1768,7 @@ La Red (720p) [Not 24/7],https://unlimited1-cl-isp.dps.live/lared/lared.smil/pla
 La Red (720p) [Not 24/7],https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 La Redonda TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8
 La Ribereña (Pucallpa) (480p) [Not 24/7],https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
-La Rock 22 (1080p),http://138.117.4.70:8075/channel22/playlist.m3u8
+La Rock 22 (1080p),https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
 La Rosa de Guadalupe,https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 La Télé (1080p),https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8
 La Top 102.9 (720p),https://6019dcac4147f.streamlock.net:9443/latopsps/Invosa/playlist.m3u8
@@ -2032,6 +2037,7 @@ Mega TV (720p) [Not 24/7],https://ott3.streann.com/loadbalancer/services/public/
 Mega TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCsJgeHqYFzBzQRa5ZmhJo7w.m3u8
 Mega TV Arequipa (720p) [Not 24/7],https://hls.servidor.stream/storage/megatv.m3u8
 Mega TV Jaen (720p) [Not 24/7],https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+MegaBox (720p) [Not 24/7],https://hdbox.chunklistv.com/live?stream=megabox
 Meganet TV (720p),https://250weu.bozztv.com/ssh101/ssh101/meganettv/playlist.m3u8
 Meganoticias (720p) [Not 24/7],https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 Meganoticias MX (1080p),https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -2129,23 +2135,28 @@ NBA G-League (1080p),https://lnc-nba-g.tubi.video/playlist.m3u8
 NBA TV (720p),http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&stream=749756
 NBC 2 Orlando FL (WESH) (720p),https://lnc-wesh.tubi.video/playlist.m3u8
 NBC 2 Tulsa OK (KJRH) (720p),https://lnc-kjrh.tubi.video/playlist.m3u8
+NBC 3 Cleveland OH (WKYC) (1080p),https://lnc-wkyc.tubi.video/live.m3u8
 NBC 3 Sacramento CA (KCRA) (720p),https://lnc-kcra.tubi.video/playlist.m3u8
 NBC 4 Greenville SC (WYFF) (720p),https://lnc-wyff.tubi.video/playlist.m3u8
 NBC 5 Cincinnati OH (WLWT) (720p),https://lnc-wlwt.tubi.video/playlist.m3u8
 NBC 5 Colorado Springs CO (KOAA) (720p),https://lnc-koaa.tubi.video/playlist.m3u8
 NBC 5 Plattsburgh NY (WPTZ) (720p),https://lnc-wptz.tubi.video/playlist.m3u8
 NBC 5 Seattle WA (KING-DT1) (1080p),https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
+NBC 5 St Louis MO (KSDK) (1080p),https://lnc-ksdk.tubi.video/live.m3u8
 NBC 6 Corpus Christi TX (KRIS) (720p),https://lnc-kris.tubi.video/playlist.m3u8
 NBC 6 New Orleans LA (WDSU) (720p),https://lnc-wdsu.tubi.video/playlist.m3u8
 NBC 8 Lancaster PA (WGAL) (720p),https://lnc-wgal.tubi.video/playlist.m3u8
+NBC 8 Portland OR (KGW) (1080p),https://lnc-kgw.tubi.video/live.m3u8
 NBC 8 Salinas CA (KSBW) (720p),https://lnc-ksbw.tubi.video/playlist.m3u8
 NBC 9 Denver CO (KUSA-DT1) (1080p),https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
 NBC 11 Atlanta GA (1080p),https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
 NBC 11 Baltimore MD (WBAL) (720p),https://lnc-wbal.tubi.video/playlist.m3u8
+NBC 11 Minneapolis / St Paul MN (KARE) (1080p),https://lnc-kare.tubi.video/live.m3u8
 NBC 11 Pittsburgh PA (WPXI) (720p),https://lnc-wpxi2.tubi.video/playlist.m3u8
 NBC 12 Helena MT (KTVH) (720p),https://lnc-ktvh.tubi.video/playlist.m3u8
 NBC 12 Winston-Salem NC (WXII) (720p),https://lnc-wxii.tubi.video/playlist.m3u8
 NBC 13 Birmingham Al (WVTM) (720p),https://lnc-wvtm.tubi.video/playlist.m3u8
+NBC 13 Indianapolis IN (WTHR) (1080p),https://lnc-wthr.tubi.video/live.m3u8
 NBC 18 Lexington KY (WLEX) (720p),https://lnc-wlex.tubi.video/playlist.m3u8
 NBC 26 Green Bay WI (WGBA-DT1) (720p),https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 NBC 36 Charlotte NC (WCNC-DT1) (1080p),https://livevideo.tegnadigital.com/wcnc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC/elvs/live.m3u8
@@ -2829,6 +2840,7 @@ Schlager Deluxe (1080p),https://sdn-global-live-streaming-packager-cache.3qsdn.c
 Scientology Network (1080p),https://stream6.scientology.org/master.m3u8
 Scream Factory TV,https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
 Screen Dreams (720p),https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
+Scripps News (1080p),https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
 SCVTV (Santa Clarita CA) (1080p),https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 SDETV (576p),http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
 Sea Today (720p),https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
@@ -3084,7 +3096,7 @@ SSM TV (576p),https://tv2.isi-broadcast.tech/ISI-BROADCAST/SSM/index.m3u8
 ST Europe Channel (720p),https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 St. Johns County Government GTV (St. Johns County FL) (720p),https://edge-f.swagit.com/live/stjohnscountyfl/live-1-a/playlist.m3u8
 St. Pete TV (SPTV) (St Petersburg FL) (360p),https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_002/playlist.m3u8
-Stadium (720p),https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+Stadium (720p),https://lnc-stadium.tubi.video/master.m3u8
 Star 1 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 Star 2 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
 Star 3 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
@@ -3780,6 +3792,7 @@ TVO (720p),https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8?D
 TVO (CH) (720p),https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
 TVO San Vicente (720p) [Not 24/7],https://5e3483cba9114.streamlock.net/8014/8014/playlist.m3u8
 TVOE TV HD,http://tvoetv.space:8080/tvoetv/index.m3u8
+TVONE Nicaragua (720p) [Not 24/7],https://hdbox.chunklistv.com/live?stream=tvone
 TVP,http://78.129.193.20/tsstreamer/TVP_SD.ts
 TVP 1 (720p),https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
 TVP 2 (1080p),https://strims.top/tv/tvp2.m3u8
