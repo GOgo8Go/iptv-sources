@@ -19,4 +19,4 @@
 | 13 | CCTV-10科教 (1080p) | [CCTV-10科教 (1080p)](https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8) |
 | 14 | CCTV-13新闻 (1080p) | [CCTV-13新闻 (1080p)](https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8) |
 
-Updated at **Wed Jan 31 2024 16:17:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 01 2024 01:05:13 GMT+0000 (Coordinated Universal Time)**
