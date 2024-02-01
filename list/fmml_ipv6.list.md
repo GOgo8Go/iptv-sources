@@ -161,4 +161,4 @@
 | 155 | CGTN西语 | [CGTN西语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 156 | CGTN阿语 | [CGTN阿语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 
-Updated at **Thu Feb 01 2024 01:05:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 01 2024 08:17:44 GMT+0000 (Coordinated Universal Time)**
