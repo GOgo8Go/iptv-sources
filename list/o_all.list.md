@@ -750,8 +750,8 @@
 | 744 | Canal Blu (720p) | [Canal Blu (720p)](https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8) |
 | 745 | Canal Capital (1080p) | [Canal Capital (1080p)](https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8) |
 | 746 | Canal Católico de Nicaragua (720p) [Not 24/7] | [Canal Católico de Nicaragua (720p)  Not 24/7](https://ythls.armelin.one/channel/UCiM9RDZNNaR7FJYmxbKLXPQ.m3u8) |
-| 747 | Canal Catorce (720p) | [Canal Catorce (720p)](https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8) |
-| 748 | Canal Catorce (XHSPR-TDT1) (720p) | [Canal Catorce (XHSPR-TDT1) (720p)](https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8) |
+| 747 | Canal Catorce | [Canal Catorce](https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8) |
+| 748 | Canal Catorce (720p) | [Canal Catorce (720p)](https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8) |
 | 749 | Canal CNR (480p) [Not 24/7] | [Canal CNR (480p)  Not 24/7](https://ythls.armelin.one/channel/UCeNlqMQ1Um3NUM97OBGA0sw.m3u8) |
 | 750 | Canal Coín (1080p) | [Canal Coín (1080p)](https://canalcoin.garjim.es/hls/directo.m3u8) |
 | 751 | Canal Congreso (1080p) [Not 24/7] | [Canal Congreso (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCJfKMFp7dtO8mpHT56X0kJQ.m3u8) |
@@ -2201,7 +2201,7 @@
 | 2195 | LoveWorld USA (720p) | [LoveWorld USA (720p)](https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/lwut/ngrp:lwu.rtmp_all/playlist.m3u8) |
 | 2196 | LOZ (Lokale Omroep Zeewolde) (720p) | [LOZ (Lokale Omroep Zeewolde) (720p)](https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8) |
 | 2197 | LRT Klasika (1080p) | [LRT Klasika (1080p)](https://radijas.lrt.lt/klasika/master.m3u8) |
-| 2198 | LRT Lituanica (720p) | [LRT Lituanica (720p)](https://lituanica.lrt.lt/lituanica/master.m3u8) |
+| 2198 | LRT Lituanica | [LRT Lituanica](https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8) |
 | 2199 | LRT Opus (1080p) | [LRT Opus (1080p)](https://radijas.lrt.lt/opus/master.m3u8) |
 | 2200 | LRT Radijas (1080p) | [LRT Radijas (1080p)](https://radijas.lrt.lt/radijas/master.m3u8) |
 | 2201 | LS TV (480p) | [LS TV (480p)](https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8) |
@@ -3696,7 +3696,7 @@
 | 3690 | RTN Chicago (720p) [Not 24/7] | [RTN Chicago (720p)  Not 24/7](https://5bb3298db4821.streamlock.net/3707/live1/playlist.m3u8) |
 | 3691 | RTNC (1080p) [Not 24/7] | [RTNC (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCip2DNtZUPC82a_xLLTFcgA.m3u8) |
 | 3692 | RTP Internacional Asia (480p) | [RTP Internacional Asia (480p)](http://210.210.155.37/qwr9ew/s/s38/index.m3u8) |
-| 3693 | RTQ Querétaro (360p) [Not 24/7] | [RTQ Querétaro (360p)  Not 24/7](http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8) |
+| 3693 | RTQ Queretaro | [RTQ Queretaro](https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8) |
 | 3694 | RTRS Plus (576p) [Not 24/7] | [RTRS Plus (576p)  Not 24/7](https://pluslive.rtrs.tv/plus/plus/playlist.m3u8) |
 | 3695 | RTRS TV (576p) [Not 24/7] | [RTRS TV (576p)  Not 24/7](https://uzivo.rtrs.tv/tv/live/index.m3u8) |
 | 3696 | RTS 1 (720p) [Not 24/7] | [RTS 1 (720p)  Not 24/7](https://webtvstream.bhtelecom.ba/rts1.m3u8) |
@@ -5837,4 +5837,4 @@
 | 5831 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5832 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sat Feb 03 2024 08:16:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 03 2024 16:18:16 GMT+0000 (Coordinated Universal Time)**

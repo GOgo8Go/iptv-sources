@@ -745,8 +745,8 @@ Canal Antigua (1080p) [Not 24/7],https://5ca9af4645e15.streamlock.net/antigua/an
 Canal Blu (720p),https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 Canal Capital (1080p),https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 Canal Católico de Nicaragua (720p) [Not 24/7],https://ythls.armelin.one/channel/UCiM9RDZNNaR7FJYmxbKLXPQ.m3u8
+Canal Catorce,https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 Canal Catorce (720p),https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
-Canal Catorce (XHSPR-TDT1) (720p),https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
 Canal CNR (480p) [Not 24/7],https://ythls.armelin.one/channel/UCeNlqMQ1Um3NUM97OBGA0sw.m3u8
 Canal Coín (1080p),https://canalcoin.garjim.es/hls/directo.m3u8
 Canal Congreso (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCJfKMFp7dtO8mpHT56X0kJQ.m3u8
@@ -2196,7 +2196,7 @@ Loveworld TV (1080p) [Not 24/7],https://cdn.lwuk.live/live/smil:lwukweb.smil/pla
 LoveWorld USA (720p),https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/lwut/ngrp:lwu.rtmp_all/playlist.m3u8
 LOZ (Lokale Omroep Zeewolde) (720p),https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
 LRT Klasika (1080p),https://radijas.lrt.lt/klasika/master.m3u8
-LRT Lituanica (720p),https://lituanica.lrt.lt/lituanica/master.m3u8
+LRT Lituanica,https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
 LRT Opus (1080p),https://radijas.lrt.lt/opus/master.m3u8
 LRT Radijas (1080p),https://radijas.lrt.lt/radijas/master.m3u8
 LS TV (480p),https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
@@ -3691,7 +3691,7 @@ RTN (Neuquén) (720p) [Not 24/7],https://media.neuquen.gov.ar/rtn/television/med
 RTN Chicago (720p) [Not 24/7],https://5bb3298db4821.streamlock.net/3707/live1/playlist.m3u8
 RTNC (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCip2DNtZUPC82a_xLLTFcgA.m3u8
 RTP Internacional Asia (480p),http://210.210.155.37/qwr9ew/s/s38/index.m3u8
-RTQ Querétaro (360p) [Not 24/7],http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+RTQ Queretaro,https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 RTRS Plus (576p) [Not 24/7],https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 RTRS TV (576p) [Not 24/7],https://uzivo.rtrs.tv/tv/live/index.m3u8
 RTS 1 (720p) [Not 24/7],https://webtvstream.bhtelecom.ba/rts1.m3u8
