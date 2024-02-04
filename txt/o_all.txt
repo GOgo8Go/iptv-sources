@@ -1257,6 +1257,7 @@ Evasion TV,https://ssh101.bozztv.com/ssh101/evasiontv/playlist.m3u8
 Evavisión (720p),https://stmv1.zcasthn.com.br/evevision/evevision/playlist.m3u8
 Evavisión Pachanga (Corporación Eva) (720p),http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
 Everyday Heroes (480p),https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
+Everyday Refresh,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 EVI TV (720p),https://stream.telepack.net/evitv/index.m3u8
 Evrokom (360p),https://live.ecomservice.bg/hls/stream.m3u8
 EVTV Miami (720p) [Not 24/7],https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
@@ -1820,8 +1821,9 @@ High Vision (1080p) [Not 24/7],https://streamer1.connectto.com/HIGHVISION_WEB_12
 HSE24 Extra (1080p),https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 HSE24 Trend (576p),https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 HSE (1080p),https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-HSN2,https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-HSN (720p),https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/hsn_720p/playlist.m3u8
+HSN,https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+HSN2,https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+HSN West,https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 HTA (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 HTB Hokkaido News 24 (720p) [Not 24/7],https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
 HTR TV (720p),https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8
@@ -3452,6 +3454,7 @@ QVC UK +1 (540p),https://live-qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primar
 QVC UK Beauty (540p),http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
 QVC UK Extra (540p),https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
 QVC UK Style (540p),http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+QVC West,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 Qwest TV Jazz & Beyond (720p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
 Qwest TV Mix (720p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
 QwestTV,https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
@@ -3525,6 +3528,7 @@ Radio La Original TV (1080p),https://cloudvideo.servers10.com:8081/8216/index.m3
 Radio Lola (720p) [Not 24/7],https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 Radio Mitre (720p) [Not 24/7],https://live-05-13-mitre.vodgc.net/live-05-13-mitre.vodgc.net/index.m3u8
 Radio Montecarlo (576p),https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+Radio Monumental TV (720p) [Not 24/7],https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 Radio Number One (720p) [Not 24/7],https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 Radio Onda Digital,https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
 Radio Piter Pan TV (720p) [Not 24/7],https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
@@ -3889,6 +3893,7 @@ TeleDanlí Canal 9 (720p) [Not 24/7],https://cloud2.streaminglivehd.com:1936/822
 Teledeporte (1080p),https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 Telediario TV (404p),https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 Telediez (360p) [Not 24/7],https://videohd.live:19360/8020/8020.m3u8
+Teledigital (240p) [Not 24/7],https://tv.portalexpress.es:3182/hybrid/play.m3u8
 Telefe Córdoba (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 Telefe Internacional (720p) [Not 24/7],https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
 Telefe Noticias (720p) [Not 24/7],https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
@@ -4352,7 +4357,7 @@ TV Asahi (720p),http://203.162.235.41:18097
 TV Asamblea Legislativa (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
 TV Assembléia Ceará (720p),https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 TV Assembleia Minas Gerais (720p) [Not 24/7],https://ythls.armelin.one/channel/UCLyH0n2yMR9mmkYvXkwJTTw.m3u8
-TV Austro (720p),https://cp.panelchs.com:1936/8148/8148/playlist.m3u8
+TV Austro (720p) [Not 24/7],https://cp.panelchs.com:1936/8148/8148/playlist.m3u8
 TV Azteca Guate HD,http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
 TV Azteca Noreste (Info7 Monterrey) (720p),https://live.info7.mx/info7/stream.m3u8
 TV Bajo Cero (804p),https://stmv2.zcasthn.com.br/bajocerotv/bajocerotv/playlist.m3u8

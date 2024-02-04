@@ -2013,7 +2013,7 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://live.obslivestream.com/cumo/index.m3u8
 #EXTINF:-1 tvg-id="CupertinoCityChannel.us" tvg-logo="https://i.imgur.com/p9Jn0Dy.png" group-title="Legislative",Cupertino City Channel (720p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Curiquingue TV (720p)
+#EXTINF:-1 tvg-id="CuriquingueTV.ec" tvg-logo="https://i.imgur.com/oukGx28.png" group-title="General",Curiquingue TV (720p)
 https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1 tvg-id="CusanoItaliaTV.it" tvg-logo="https://i.imgur.com/fOluzuE.png" group-title="Undefined",Cusano Italia TV (720p)
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
@@ -2515,6 +2515,8 @@ https://stmv1.zcasthn.com.br/evevision/evevision/playlist.m3u8
 http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
 #EXTINF:-1 tvg-id="EverydayHeroes.us" tvg-logo="https://i.imgur.com/Iam3ol3.png" group-title="Undefined",Everyday Heroes (480p)
 https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Everyday Refresh
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 #EXTINF:-1 tvg-id="EVITV.cd" tvg-logo="https://i.ibb.co/PNXggHL/evi-tv-live-vipotv-democratic-Congo.png" group-title="Entertainment",EVI TV (720p)
 https://stream.telepack.net/evitv/index.m3u8
 #EXTINF:-1 tvg-id="Eurocom.bg" tvg-logo="https://i.imgur.com/taVIK11.png" group-title="General",Evrokom (360p)
@@ -3641,10 +3643,12 @@ https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 tvg-id="HSE.de" tvg-logo="https://i.imgur.com/IecRNCk.png" group-title="Undefined",HSE (1080p)
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:-1 tvg-id="HSN2.us" tvg-logo="https://i.imgur.com/R6oC2A3.png" group-title="Shop",HSN2
+#EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="Shop",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-#EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="Shop",HSN (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/hsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="HSN2.us" tvg-logo="https://i.imgur.com/R6oC2A3.png" group-title="Shop",HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HSN West
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 tvg-id="NTA.ua" tvg-logo="https://i.imgur.com/jGT6qY7.png" group-title="News",HTA (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 #EXTINF:-1 tvg-id="HTBHokkaidoNews24.jp" tvg-logo="https://i.imgur.com/yqUItvM.png" group-title="News",HTB Hokkaido News 24 (720p) [Not 24/7]
@@ -6905,6 +6909,8 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live
 https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="QVCStyle.uk" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="Shop",QVC UK Style (540p)
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",QVC West
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Music",Qwest TV Jazz & Beyond (720p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
 #EXTINF:-1 tvg-id="QwestTVMix.fr" tvg-logo="https://i.imgur.com/lO22nwk.png" group-title="Music",Qwest TV Mix (720p)
@@ -7051,6 +7057,8 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1
 https://live-05-13-mitre.vodgc.net/live-05-13-mitre.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-logo="https://i.imgur.com/by9XvWF.png" group-title="Undefined",Radio Montecarlo (576p)
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1 tvg-id="RadioMonumentalTV.ec" tvg-logo="https://i.imgur.com/a97MaV2.png" group-title="Music",Radio Monumental TV (720p) [Not 24/7]
+https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="Undefined",Radio Number One (720p) [Not 24/7]
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioOndaDigital.pe" tvg-logo="https://i.imgur.com/Lid5RTv.png" group-title="Music",Radio Onda Digital
@@ -7079,7 +7087,7 @@ https://www.streaming507.net:19360/mevo2/mevo2.m3u8
 https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRitmoFM.cl" tvg-logo="https://i.imgur.com/qU3E0kX.png" group-title="Undefined",Radio Ritmo FM (720p)
 https://video.streamingchilenos.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Radio Rocafuerte TV (720p)
+#EXTINF:-1 tvg-id="RadioRocafuerteTV.ec" tvg-logo="https://i.imgur.com/GPoIN7H.png" group-title="Music",Radio Rocafuerte TV (720p)
 https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRutasdelPeru.es" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="Travel",Radio Rutas del Perú (360p) [Not 24/7]
 https://tv.portalexpress.es:3731/stream/play.m3u8
@@ -7483,7 +7491,7 @@ https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
 http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
 #EXTINF:-1 tvg-id="RTVRijnstreekTV.nl" tvg-logo="https://i.imgur.com/uM5sJJs.png" group-title="Undefined",RTV Rijnstreek TV (720p) [Not 24/7]
 https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RTV Riobamba (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTV.ec" tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="General",RTV Riobamba (720p) [Not 24/7]
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 #EXTINF:-1 tvg-id="RwandaTV.rw" tvg-logo="https://i.imgur.com/4nbGvxW.png" group-title="Undefined",RTV Rwanda (480p) [Not 24/7]
 http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
@@ -7779,6 +7787,8 @@ https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 #EXTINF:-1 tvg-id="Telediez.ar" tvg-logo="https://i.imgur.com/cm4NOuM.jpg" group-title="Undefined",Telediez (360p) [Not 24/7]
 https://videohd.live:19360/8020/8020.m3u8
+#EXTINF:-1 tvg-id="Teledigital.ec" tvg-logo="https://i.imgur.com/wwNh4wb.png" group-title="Entertainment",Teledigital (240p) [Not 24/7]
+https://tv.portalexpress.es:3182/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="Undefined",Telefe Córdoba (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Undefined",Telefe Internacional (720p) [Not 24/7]
@@ -8705,7 +8715,7 @@ https://ythls.armelin.one/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
 https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVALMG.br" tvg-logo="https://i.imgur.com/YOuCxKa.png" group-title="Legislative",TV Assembleia Minas Gerais (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCLyH0n2yMR9mmkYvXkwJTTw.m3u8
-#EXTINF:-1 tvg-id="TVAustro.ec" tvg-logo="https://i.imgur.com/i6JTL7W.png" group-title="General",TV Austro (720p)
+#EXTINF:-1 tvg-id="TVAustro.ec" tvg-logo="https://i.imgur.com/i6JTL7W.png" group-title="General",TV Austro (720p) [Not 24/7]
 https://cp.panelchs.com:1936/8148/8148/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV Azteca Guate HD
 http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
