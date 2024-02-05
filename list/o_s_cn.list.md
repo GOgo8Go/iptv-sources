@@ -495,5 +495,25 @@
 | 489 | 龙口新闻综合 (576p) | [龙口新闻综合 (576p)](http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8) |
 | 490 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 491 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
+| 492 | Ankang TV-1 News | [Ankang TV-1 News](http://124.47.34.186/PLTV/88888888/224/3221225855/index.m3u8) |
+| 493 | Beijing Traffic Radio TV | [Beijing Traffic Radio TV](http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8) |
+| 494 | Beijing Youth Radio | [Beijing Youth Radio](http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8) |
+| 495 | Binchow News TV | [Binchow News TV](http://stream.bzcm.net/2/sd/live.m3u8) |
+| 496 | Binchow Public TV | [Binchow Public TV](http://stream.bzcm.net/1/sd/live.m3u8) |
+| 497 | Binhai Life TV | [Binhai Life TV](http://60.30.52.41/live/bhtv2/playlist.m3u8) |
+| 498 | Binhai News TV | [Binhai News TV](http://60.30.52.41/live/bhtv1/playlist.m3u8) |
+| 499 | Fengtai Culture & Life TV | [Fengtai Culture & Life TV](http://60.175.115.119:1935/live/wenhua/playlist.m3u8) |
+| 500 | Fengtai News TV | [Fengtai News TV](http://60.175.115.119:1935/live/zonghe/playlist.m3u8) |
+| 501 | Foochow Children TV | [Foochow Children TV](http://live.zohi.tv/video/s10001-sepd-4/index.m3u8) |
+| 502 | Foochow TV-1 | [Foochow TV-1](http://111.75.179.195:30767/video/live_vide.m3u8) |
+| 503 | Foochow TV-1 News | [Foochow TV-1 News](http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8) |
+| 504 | Foochow TV-2 TV Series | [Foochow TV-2 TV Series](http://live.zohi.tv/video/s10001-yspd-2/index.m3u8) |
+| 505 | Foochow TV-3 Life | [Foochow TV-3 Life](http://live.zohi.tv/video/s10001-shpd-3/index.m3u8) |
+| 506 | Fooshun Public TV | [Fooshun Public TV](http://pili-live-rtmp.145.i2863.com/i2863-145/fsggpd.m3u8) |
+| 507 | Foshan News TV | [Foshan News TV](http://dslive.grtn.cn/fszh/sd/live.m3u8) |
+| 508 | Fuling TV | [Fuling TV](http://pili-live-hls.cqfl.tianma3600.com/wxfl/flds.m3u8) |
+| 509 | Fuping TV-1 | [Fuping TV-1](http://124.47.34.189:80/wh7f454c46tw749339647_705237419/PLTV/88888888/224/3221225905/index.m3u8?icpid=88888888&RTS=1640046896&from=1&hms_devid=203) |
+| 510 | Fuping TV-2 | [Fuping TV-2](http://124.47.34.188:80/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/3221225906/index.m3u8?icpid=88888888&RTS=1640099099&from=1&hms_devid=203) |
+| 511 | Fusung News TV | [Fusung News TV](http://stream8.jlntv.cn/fs/sd/live.m3u8) |
 
-Updated at **Sun Feb 04 2024 16:16:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 05 2024 01:03:41 GMT+0000 (Coordinated Universal Time)**
