@@ -2103,6 +2103,8 @@ https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
 http://92.255.108.46:8080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="DanmarkC.dk" tvg-logo="" group-title="Undefined",DanmarkC (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC582CKg7XN_ELMyKiSZ8s9g.m3u8
 #EXTINF:-1 tvg-id="DaoLaneXangTV.la" tvg-logo="https://i.imgur.com/yE7nZ6w.png" group-title="Undefined",Dao Lane Xang (720p) [Not 24/7]
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-logo="https://i.imgur.com/JwCLwQ2.png" group-title="Religious",Dare To Dream Network (3ABN) (720p)
@@ -7656,7 +7658,7 @@ https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_ad
 #EXTINF:-1 tvg-id="TV2.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/512px-TV2_2008.svg.png" group-title="Undefined",TV2 (1080p)
 http://146.59.85.40:89/tv2hd/index.m3u8
 #EXTINF:-1 tvg-id="TV2Bornholm.dk" tvg-logo="https://i.imgur.com/cEOpXU6.png" group-title="Undefined",TV2/Bornholm (1080p) [Not 24/7]
-https://live.tv2bornholm.dk/stream/live/playlist.m3u8
+https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5Kannada.in" tvg-logo="https://i.imgur.com/DuZMoo6.png" group-title="Undefined",TV5 Kannada (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 #EXTINF:-1 tvg-id="TV5Linares.cl" tvg-logo="https://i.imgur.com/PNKlJBj.png" group-title="Undefined",TV5 Linares (720p)

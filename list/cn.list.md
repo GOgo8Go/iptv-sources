@@ -13,7 +13,7 @@
 | 7 | [BD]cctv14 | [BD cctv14](https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.ctv) |
 | 8 | [BD]cctv15 | [BD cctv15](https://epg.pw/stream/b17180549193f12c2104b05f75c124ca1702e96917aba74a23c8ac88fd7ea0df.m3u8) |
 | 9 | [BD]cctv16 | [BD cctv16](https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8) |
-| 10 | [BD]cctv17 | [BD cctv17](https://epg.pw/stream/ce5a1eea427e695aac64366f5c727e80bdda57a6a6df856f2654d325f559f8a5.m3u8) |
+| 10 | [BD]cctv17[ipv6] | [BD cctv17 ipv6](https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8) |
 | 11 | [BD]cctv2 | [BD cctv2](https://epg.pw/stream/c4fe654287b623b12ae8998e38958ca0fd85d5359f11587722174cb38b6318c8.m3u8) |
 | 12 | [BD]cctv3[ipv6] | [BD cctv3 ipv6](https://epg.pw/stream/c7020b88aea35cfa13268ae17e657ef8e234ba0f8d3c87045520f9f12bb9355f.m3u8) |
 | 13 | [BD]cctv4[ipv6] | [BD cctv4 ipv6](https://epg.pw/stream/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8) |
@@ -23,11 +23,11 @@
 | 17 | [BD]cctv6[ipv6] | [BD cctv6 ipv6](https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a942db8b4.m3u8) |
 | 18 | [BD]cctv7 | [BD cctv7](https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8) |
 | 19 | [BD]cctv8 | [BD cctv8](https://epg.pw/stream/113f0eb04d33840b7642af563255df49292c8d9c7755bf498df78cb7a315f322.m3u8) |
-| 20 | [BD]cctv9[ipv6] | [BD cctv9 ipv6](https://epg.pw/stream/8ed9d7c3d80e951d144c16e49df97faccee81760765d6c44cbde00668cc98bf6.m3u8) |
+| 20 | [BD]cctv9 | [BD cctv9](https://epg.pw/stream/dffb0bf94d817668a2a1e69554f375454d60d8c5a13cca40472edf682b38ecbd.m3u8) |
 | 21 | [BD]cctv世界地理[ipv6] | [BD cctv世界地理 ipv6](https://epg.pw/stream/d959e7fa2de88f0daa2b9a5de3cc6caa70c29ab06c0cb568083ad454fd64c910.m3u8) |
 | 22 | [BD]cctv兵器科技[ipv6] | [BD cctv兵器科技 ipv6](https://epg.pw/stream/31387d02f3c753ac9bcebff76834268ddf38c7668ee1e16b5c6621971de64ef1.m3u8) |
 | 23 | [SD]cctv-7国防军事 | [SD cctv-7国防军事](https://epg.pw/stream/bbe967530d8fa9e49eaf55e5658ac938f0d80d6f616399efd0a110116c6b2c1f.m3u8) |
-| 24 | [BD]cgtn | [BD cgtn](https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8) |
+| 24 | [SD]cgtn | [SD cgtn](https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8) |
 | 25 | [BD]chc家庭影院 | [BD chc家庭影院](https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv) |
 | 26 | [BD]cctv-11戏曲 | [BD cctv-11戏曲](https://epg.pw/stream/0cb8d4fa5b25ff0deb5be55bf1ca887da769736d8c2bbc072c468a2572f713a9.m3u8) |
 | 27 | [BD]cctv-4 中文国际 美洲 | [BD cctv-4 中文国际 美洲](https://epg.pw/stream/f155e7f2ec34213eaa80c93835daa2ed7d05733a20cecc56042f3ad6c130525c.ctv) |
@@ -41,7 +41,7 @@
 | 35 | [BD]lntv 1 | [BD lntv 1](https://epg.pw/stream/e9915400da6af7bc965753e303a49dccd7146a5b098c0c284287af30dec117f3.m3u8) |
 | 36 | [BD]newtv武博世界[ipv6] | [BD newtv武博世界 ipv6](https://epg.pw/stream/6d019e50be5915ce372a1c740b953edfb2ff511cf2ae7976e4d5343b037784ee.m3u8) |
 | 37 | [BD]rt documentary | [BD rt documentary](https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8) |
-| 38 | [HD]三明新闻综合 | [HD 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
+| 38 | [VGA]三明新闻综合 | [VGA 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
 | 39 | [BD]上海ics外语 | [BD 上海ics外语](https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.ctv) |
 | 40 | [BD]上海都市 | [BD 上海都市](https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8) |
 | 41 | [SD]丘北新闻综合 | [SD 丘北新闻综合](https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8) |
@@ -50,7 +50,7 @@
 | 44 | [BD]云南娱乐 | [BD 云南娱乐](https://epg.pw/stream/d21c80205971396e46fdcd74fce53a0310fdf32ea0e04b91ea5c414957232d11.m3u8) |
 | 45 | [BD]云南都市 | [BD 云南都市](https://epg.pw/stream/1ca2457b9bd7a0905af48485803ac1357abc261d2ad96158b1970d5edde59ab3.m3u8) |
 | 46 | [SD]内蒙卫视 | [SD 内蒙卫视](https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8) |
-| 47 | [BD]刘德华 | [BD 刘德华](https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv) |
+| 47 | [VGA]刘德华 | [VGA 刘德华](https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv) |
 | 48 | [BD]北京生活 | [BD 北京生活](https://epg.pw/stream/2ccff5570151d10d87cd087632b6179a5ceebbfed1dba291f5f51df88e62cbc2.ctv) |
 | 49 | [BD]北京纪实科教 | [BD 北京纪实科教](https://epg.pw/stream/9417c17817ddd642f0f66770eb432d03d10e39e0e6d927d71de16c53529f1013.m3u8) |
 | 50 | [BD]北京卫视 | [BD 北京卫视](https://epg.pw/stream/d73c6843f3a6a315cd30584ac2d52f22981d87e36ec65a33840b4c47c2eee94f.m3u8) |
@@ -62,7 +62,7 @@
 | 56 | [VGA]吉林都市 | [VGA 吉林都市](https://epg.pw/stream/32692f852b36198fd146650046232b8ac486b39d07d76f3310a8ffb339124da7.m3u8) |
 | 57 | [VGA]哈尔滨影 | [VGA 哈尔滨影](https://epg.pw/stream/4761681fab1275b2d0237e83813c4845effdd80a8575a346ed32a092aaab0872.m3u8) |
 | 58 | [SD]嘉佳卡通 | [SD 嘉佳卡通](https://epg.pw/stream/082c9f76c50422f3754f81a9fd4573fe918b9829d5c46cf5ce89ad22ba51d657.ctv) |
-| 59 | [BD]哒啵赛事 | [BD 哒啵赛事](https://epg.pw/stream/b86c4c5e7c9ea65d25fa8fba5324861e8fd1b2dc314e0363432f9d1d7cab861c.m3u8) |
+| 59 | [BD]哒啵赛事[ipv6] | [BD 哒啵赛事 ipv6](https://epg.pw/stream/f50310b8b4ba2633273142fb802e916fe6ac3b2e5407f2e88302d27392fa8ef8.m3u8) |
 | 60 | [BD]大健康 | [BD 大健康](https://epg.pw/stream/3480b40c51045605a207d4fa48ea507dfd4a46bc8318e3a65de96f5c8747b730.ctv) |
 | 61 | [BD]安徽导视 | [BD 安徽导视](https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8) |
 | 62 | [BD]山东卫视 | [BD 山东卫视](https://epg.pw/stream/6e0b6e5fe80e21289c27ceeafced6800e23f6c48ade127aa20eb2712aebd2b2a.m3u8) |
@@ -76,15 +76,15 @@
 | 70 | [BD]林正英 | [BD 林正英](https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv) |
 | 71 | [SD]枣庄公共频道 | [SD 枣庄公共频道](https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8) |
 | 72 | [SD]枣庄新闻综合 | [SD 枣庄新闻综合](https://epg.pw/stream/c96d12ec316e8297973a210e94860e269e8797986e6a6223f3be444387c32341.m3u8) |
-| 73 | [SD]武义新闻综合 | [SD 武义新闻综合](https://epg.pw/stream/0077dd0cdd20b184ff9fa9291950b02b0129a68b7d7ca9b1e14da5be96046007.m3u8) |
-| 74 | [BD]永嘉新闻综合 | [BD 永嘉新闻综合](https://epg.pw/stream/8cb05e5ed567cade53c698c241bceb8b76a7e9dfe92d963b633fd1cc7e24d005.m3u8) |
-| 75 | [SD]江津文化旅游 (576p) | [SD 江津文化旅游 (576p)](https://epg.pw/stream/8eadeef75a4a287a1af020c033ad553ecca3422c44274b384dfaaa50826132a6.m3u8) |
-| 76 | [VGA]江津新闻综合 (480p) | [VGA 江津新闻综合 (480p)](https://epg.pw/stream/69e3797d8401607627052abb5a8fa6761b278adb233ab5fb91cec4f68c4abfe0.m3u8) |
-| 77 | [VGA]江津经济生活 (480p) | [VGA 江津经济生活 (480p)](https://epg.pw/stream/486ca0146c1c5243cd66066c0f7943091d0d999d3988bd261fb476c749632caf.m3u8) |
-| 78 | [BD]江苏卫视 | [BD 江苏卫视](https://epg.pw/stream/61b8aa46005ffd10e92fb8c239fd515814079d42edecf402e75205c1cfce2f23.m3u8) |
-| 79 | [SD]河北公共 | [SD 河北公共](https://epg.pw/stream/e73e84b708a04b46e8aff02f7a00d3168bf259f7f48b5dc8e08a53583b9c75a4.m3u8) |
-| 80 | [SD]河北都市 | [SD 河北都市](https://epg.pw/stream/9fc6507da49edb0268413134352e96785e137b8f2dec3c1bef337f62e1087c1b.m3u8) |
-| 81 | [BD]法治天地[ipv6] | [BD 法治天地 ipv6](https://epg.pw/stream/820567d53130b93853933c7fdbd207d137058fb3f6571d1cdd3a9a795e6c23fd.m3u8) |
+| 73 | [BD]梨园频道[ipv6] | [BD 梨园频道 ipv6](https://epg.pw/stream/7c85d291d0baca49fa26ef16c9499272c90467f71cb1e8d0da27f4f73ffc9c11.m3u8) |
+| 74 | [SD]武义新闻综合 | [SD 武义新闻综合](https://epg.pw/stream/0077dd0cdd20b184ff9fa9291950b02b0129a68b7d7ca9b1e14da5be96046007.m3u8) |
+| 75 | [BD]永嘉新闻综合 | [BD 永嘉新闻综合](https://epg.pw/stream/8cb05e5ed567cade53c698c241bceb8b76a7e9dfe92d963b633fd1cc7e24d005.m3u8) |
+| 76 | [SD]江津文化旅游 (576p) | [SD 江津文化旅游 (576p)](https://epg.pw/stream/8eadeef75a4a287a1af020c033ad553ecca3422c44274b384dfaaa50826132a6.m3u8) |
+| 77 | [VGA]江津新闻综合 (480p) | [VGA 江津新闻综合 (480p)](https://epg.pw/stream/69e3797d8401607627052abb5a8fa6761b278adb233ab5fb91cec4f68c4abfe0.m3u8) |
+| 78 | [VGA]江津经济生活 (480p) | [VGA 江津经济生活 (480p)](https://epg.pw/stream/486ca0146c1c5243cd66066c0f7943091d0d999d3988bd261fb476c749632caf.m3u8) |
+| 79 | [BD]江苏卫视 | [BD 江苏卫视](https://epg.pw/stream/61b8aa46005ffd10e92fb8c239fd515814079d42edecf402e75205c1cfce2f23.m3u8) |
+| 80 | [SD]河北公共 | [SD 河北公共](https://epg.pw/stream/e73e84b708a04b46e8aff02f7a00d3168bf259f7f48b5dc8e08a53583b9c75a4.m3u8) |
+| 81 | [SD]河北都市 | [SD 河北都市](https://epg.pw/stream/9fc6507da49edb0268413134352e96785e137b8f2dec3c1bef337f62e1087c1b.m3u8) |
 | 82 | [BD]济南新闻综合 | [BD 济南新闻综合](rtmp://tv.qntv.net/channellive/ch1?zguizd) |
 | 83 | [BD]浙江新闻 | [BD 浙江新闻](https://epg.pw/stream/4cb4bcb7ae35f2b30dee6b1be1a2d22108c73e9bc3729826ea009821ae7af456.m3u8) |
 | 84 | [BD]浙江卫视 | [BD 浙江卫视](https://epg.pw/stream/450a0f7bfc4cbebb6c078a5fda0b0c111c7da9b00a987888634be30b8967af70.m3u8) |
@@ -126,10 +126,11 @@
 | 120 | [BD]云南康旅 | [BD 云南康旅](https://epg.pw/stream/dfa3173aad48d81e4bb65e1cd26f95558b31b51add7c5f5cdce6f670069946c2.m3u8) |
 | 121 | [HD]青海都市 | [HD 青海都市](https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8) |
 | 122 | [BD]5+体育赛事 | [BD 5+体育赛事](https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8) |
-| 123 | [BD]黑莓电影[ipv6] | [BD 黑莓电影 ipv6](https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8) |
-| 124 | [VGA]黑龙江影视 | [VGA 黑龙江影视](https://epg.pw/stream/305fbc43e5137ac3d2bcbc2a03e032737a15b3ec7d207356b45fe096e14e6ab4.m3u8) |
-| 125 | [VGA]黑龙江都市 | [VGA 黑龙江都市](https://epg.pw/stream/26378dd955d409740dae6ca765d8d7ee8316fb22a55af9123f9ebad3efdac9f2.m3u8) |
-| 126 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
-| 127 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
+| 123 | [BD]黑莓动画[ipv6] | [BD 黑莓动画 ipv6](https://epg.pw/stream/89e7b1ef96dda539de25777630876882df0b78804426054f09f3a2aa677a868e.m3u8) |
+| 124 | [BD]黑莓电影[ipv6] | [BD 黑莓电影 ipv6](https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8) |
+| 125 | [VGA]黑龙江影视 | [VGA 黑龙江影视](https://epg.pw/stream/305fbc43e5137ac3d2bcbc2a03e032737a15b3ec7d207356b45fe096e14e6ab4.m3u8) |
+| 126 | [VGA]黑龙江都市 | [VGA 黑龙江都市](https://epg.pw/stream/26378dd955d409740dae6ca765d8d7ee8316fb22a55af9123f9ebad3efdac9f2.m3u8) |
+| 127 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
+| 128 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 
-Updated at **Wed Feb 07 2024 16:19:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 08 2024 01:00:50 GMT+0000 (Coordinated Universal Time)**

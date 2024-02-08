@@ -1051,6 +1051,7 @@ Dance FM (720p),https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/pl
 Dance TV (360p),https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
 DanceHits80,http://92.255.108.46:8080/index.m3u8
 DanceHits80,http://dancehits80.denvs.ru:8080/index.m3u8
+DanmarkC (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC582CKg7XN_ELMyKiSZ8s9g.m3u8
 Dao Lane Xang (720p) [Not 24/7],https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 Dare To Dream Network (3ABN) (720p),https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
 Dark Matter TV (720p),https://distroscale-public.s3-us-west-2.amazonaws.com/strm/channels/darkmatter/v3.m3u8
@@ -3827,7 +3828,7 @@ TRU TV,http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
 TV1 KG (1080p),http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 TV 1 Oberösterreich (1080p),https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 TV2 (1080p),http://146.59.85.40:89/tv2hd/index.m3u8
-TV2/Bornholm (1080p) [Not 24/7],https://live.tv2bornholm.dk/stream/live/playlist.m3u8
+TV2/Bornholm (1080p) [Not 24/7],https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8
 TV5 Kannada (720p) [Not 24/7],https://ythls.armelin.one/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 TV5 Linares (720p),https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 TV5 Monde Europe,http://livetv.ktv.zone/61/play.m3u8
