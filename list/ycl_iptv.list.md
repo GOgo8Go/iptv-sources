@@ -101,7 +101,7 @@
 | 95 | 山西影视 | [山西影视](http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8) |
 | 96 | 山西法治 | [山西法治](http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8) |
 | 97 | 山西文体 | [山西文体](http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8) |
-| 98 | 黄河电视台 | [黄河电视台](http://220.194.178.58:8888/newlive/live/hls/51/live.m3u8) |
+| 98 | 南京新综 | [南京新综](http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1757093737_-1595882577/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8) |
 | 99 | 梨园频道 | [梨园频道](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ) |
 | 100 | 纯享4K | [纯享4K](http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8) |
 | 101 | 乐游频道 | [乐游频道](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8) |
@@ -145,4 +145,4 @@
 | 139 | 魅力潇湘 | [魅力潇湘](http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3) |
 | 140 | 精品萌宠 | [精品萌宠](http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3) |
 
-Updated at **Thu Feb 08 2024 16:17:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 09 2024 01:01:00 GMT+0000 (Coordinated Universal Time)**
