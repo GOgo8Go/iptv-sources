@@ -15,7 +15,7 @@
 | 9 | [BD]cctv8k超高清[ipv6] | [BD cctv8k超高清 ipv6](https://epg.pw/stream/79601350798b6a2ad47c0994421918b75b1acd8c65a31793cc463397b15f03d6.m3u8) |
 | 10 | [BD]中国交通 | [BD 中国交通](https://epg.pw/stream/b64ee710ab0a22e28a389293610912b764d52f39b0a4bb0f3bd4706567b138b8.ctv) |
 | 11 | [BD]发现之旅 | [BD 发现之旅](https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv) |
-| 12 | [BD]风云足球[ipv6] | [BD 风云足球 ipv6](https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8) |
+| 12 | [BD]风云足球[ipv6] | [BD 风云足球 ipv6](https://epg.pw/stream/4e8243a55098156e8ce6d9b2c3173fee20e6ef67a64808938feba9e6b2965dac.m3u8) |
 | 13 | [BD]高尔夫网球[ipv6] | [BD 高尔夫网球 ipv6](https://epg.pw/stream/7d237fe94a86f6d01862aa57ac2436a9a64b921bc220468be1a4c9d958e3ff3f.m3u8) |
 
-Updated at **Fri Feb 09 2024 16:17:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 10 2024 00:59:43 GMT+0000 (Coordinated Universal Time)**
