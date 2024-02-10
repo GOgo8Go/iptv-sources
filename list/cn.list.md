@@ -117,7 +117,7 @@
 | 111 | [HD]运城科技教育 | [HD 运城科技教育](https://epg.pw/stream/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691db6c391.m3u8) |
 | 112 | [HD]邢台综合频道 | [HD 邢台综合频道](https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8) |
 | 113 | [HD]重庆江津新闻综合 | [HD 重庆江津新闻综合](https://epg.pw/stream/48e8e8d0fc6a429f90921269888907d31e377c22e5fc3018702e6a9762873a42.m3u8) |
-| 114 | [BD]金色学堂[ipv6] | [BD 金色学堂 ipv6](https://epg.pw/stream/fa4c9a81084bf4c44201286238bae0558f9e5368aa698ad81a34949f878bb5a0.m3u8) |
+| 114 | [BD]金色学堂 | [BD 金色学堂](https://epg.pw/stream/cade776a3d4126f2214df7993834f8888a3be0ba6f96f83b88578eb4237a7dce.m3u8) |
 | 115 | [BD]镇江新闻 | [BD 镇江新闻](https://epg.pw/stream/b0e776b726b7704f5ec03c236201983be898449519d041d2661a5c0a2c55ee4a.ctv) |
 | 116 | [SD]陕西影视频道[ipv6] | [SD 陕西影视频道 ipv6](https://epg.pw/stream/04e2c03f1800585e0289346d950ffe96abe7662cfbf99930a00292bb356573e0.m3u8) |
 | 117 | [BD]云南康旅 | [BD 云南康旅](https://epg.pw/stream/dfa3173aad48d81e4bb65e1cd26f95558b31b51add7c5f5cdce6f670069946c2.m3u8) |
@@ -127,4 +127,4 @@
 | 121 | [BD]黑莓电影[ipv6] | [BD 黑莓电影 ipv6](https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8) |
 | 122 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 
-Updated at **Sat Feb 10 2024 08:15:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 10 2024 16:16:58 GMT+0000 (Coordinated Universal Time)**

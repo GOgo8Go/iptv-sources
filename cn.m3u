@@ -225,8 +225,8 @@ https://epg.pw/stream/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691d
 https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8
 #EXTINF:-1 tvg-name="重庆|江津新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101000354616391_13.jpg" group-title="新闻",[HD]重庆|江津新闻综合
 https://epg.pw/stream/48e8e8d0fc6a429f90921269888907d31e377c22e5fc3018702e6a9762873a42.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626181831266001_79.png" group-title="其它",[BD]金色学堂[ipv6]
-https://epg.pw/stream/fa4c9a81084bf4c44201286238bae0558f9e5368aa698ad81a34949f878bb5a0.m3u8
+#EXTINF:-1 tvg-name="金色学堂" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626181831266001_79.png" group-title="其它",[BD]金色学堂
+https://epg.pw/stream/cade776a3d4126f2214df7993834f8888a3be0ba6f96f83b88578eb4237a7dce.m3u8
 #EXTINF:-1 tvg-name="镇江新闻" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/zhenjiangxinwen.jpg" group-title="测试",[BD]镇江新闻
 https://epg.pw/stream/b0e776b726b7704f5ec03c236201983be898449519d041d2661a5c0a2c55ee4a.ctv
 #EXTINF:-1 tvg-name="陕西影视频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531151219387442_18.jpg" group-title="电影",[SD]陕西影视频道[ipv6]
