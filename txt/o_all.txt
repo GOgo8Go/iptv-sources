@@ -1397,7 +1397,7 @@ Himlen TV7 (720p),https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 Hindi Khabar (720p),https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8
 Hindu Dharmam (720p) [Not 24/7],https://ythls.armelin.one/channel/UCMg2yY8OzHhw6mOvgIkaXYg.m3u8
 HINSPAN TV,http://stream.flynetwifi.com:1935/live/mobile-147/playlist.m3u8
-Hiperconectados Televisión (720p),https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+Hiperconectados TV,https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 HiperTV (720p) [Not 24/7],https://inliveserver.com:1936/11010/11010/playlist.m3u8
 Hipódromo de las Américas (480p),http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 Hiru TV (360p) [Not 24/7],https://eu10b.serverse.com:1936/8012/8012/playlist.m3u8

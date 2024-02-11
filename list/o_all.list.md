@@ -1402,7 +1402,7 @@
 | 1396 | Hindi Khabar (720p) | [Hindi Khabar (720p)](https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8) |
 | 1397 | Hindu Dharmam (720p) [Not 24/7] | [Hindu Dharmam (720p)  Not 24/7](https://ythls.armelin.one/channel/UCMg2yY8OzHhw6mOvgIkaXYg.m3u8) |
 | 1398 | HINSPAN TV | [HINSPAN TV](http://stream.flynetwifi.com:1935/live/mobile-147/playlist.m3u8) |
-| 1399 | Hiperconectados Televisión (720p) | [Hiperconectados Televisión (720p)](https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8) |
+| 1399 | Hiperconectados TV | [Hiperconectados TV](https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8) |
 | 1400 | HiperTV (720p) [Not 24/7] | [HiperTV (720p)  Not 24/7](https://inliveserver.com:1936/11010/11010/playlist.m3u8) |
 | 1401 | Hipódromo de las Américas (480p) | [Hipódromo de las Américas (480p)](http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8) |
 | 1402 | Hiru TV (360p) [Not 24/7] | [Hiru TV (360p)  Not 24/7](https://eu10b.serverse.com:1936/8012/8012/playlist.m3u8) |
@@ -4896,4 +4896,4 @@
 | 4890 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 4891 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sat Feb 10 2024 16:16:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 11 2024 01:06:07 GMT+0000 (Coordinated Universal Time)**
