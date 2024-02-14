@@ -1440,6 +1440,7 @@ Honor TV (720p),https://a.jsrdn.com/broadcast/d5b48/+0000/c.m3u8
 Hope4Life TV (720p),http://144.217.14.88/hls/hope4life.m3u8
 Hope Channel Africa (1080p),https://videodelivery.net/3dab4197cbdc656fa4a498285a3a4d67/manifest/video.m3u8
 Hope Channel Australia (1080p),https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
+Hope Channel Bulgaria,https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
 Hope Channel German (1080p),https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
 Hope Channel Ghana (480p),https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
 Hope Channel India (1080p),https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/video.m3u8
@@ -1789,10 +1790,10 @@ L'altro Corriere TV (720P),https://stream.cp.ets-sistemi.it:1936/laltrocorriere-
 L'Equipe,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 L'Equipe Live 1,https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 L'Equipe Live 2,https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
-L'Équipe TV,http://livetv.ktv.zone/23/play.m3u8
-L'Esprit Sorcier TV (1080p),https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 L'ubovnianska TV (1080p),https://kamery.kukni.sk:8181/memfs/fb00d981-d2d4-4d69-bb44-a9ff6aa25a76.m3u8
 L-TV (720p),https://live2.telvi.de/hls/l-tv_s1.m3u8
+L'Équipe TV,http://livetv.ktv.zone/23/play.m3u8
+L'Esprit Sorcier TV (1080p),https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 L@b TV (1080p),http://live.sloode.com:1935/labtv_live/labtv/playlist.m3u8
 La 1 (720p),https://ztnr.rtve.es/ztnr/1688877.m3u8
 La 1 Canarias (720p),https://ztnr.rtve.es/ztnr/5190066.m3u8
@@ -3229,6 +3230,7 @@ SLO 2,https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash
 SLO 3,https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 SLO County Channel 21 (360p),https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8
 Slotstad TV (720p),https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8
+SMA Togo TV,https://smatogo.tv:89/smatogo/smatogo.m3u8
 Smart Life Style Television (LLBN) (720p),https://brightstar-sls.secure.footprint.net/egress/bhandler/brightstar/brightstarslshd/manifest.m3u8
 Smart TV (720p),https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
 Smile TV (360p),https://s1.cystream.net/live/smile/playlist.m3u8
