@@ -516,4 +516,4 @@
 | 510 | Fuping TV-2 | [Fuping TV-2](http://124.47.34.188:80/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/3221225906/index.m3u8?icpid=88888888&RTS=1640099099&from=1&hms_devid=203) |
 | 511 | Fusung News TV | [Fusung News TV](http://stream8.jlntv.cn/fs/sd/live.m3u8) |
 
-Updated at **Sun Feb 18 2024 08:17:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 18 2024 16:16:57 GMT+0000 (Coordinated Universal Time)**

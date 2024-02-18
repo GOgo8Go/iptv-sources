@@ -23,11 +23,11 @@
 | 17 | [BD]江西卫视[ipv6] | [BD 江西卫视 ipv6](https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8) |
 | 18 | [BD]河北卫视 | [BD 河北卫视](https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8) |
 | 19 | [BD]河南卫视[ipv6] | [BD 河南卫视 ipv6](https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8) |
-| 20 | [BD]浙江卫视 | [BD 浙江卫视](https://epg.pw/stream/c1a4d029c808a7e0bffa4f5faee17ea8e22006d85305be6026578c3ff77f044d.m3u8) |
+| 20 | [BD]浙江卫视[ipv6] | [BD 浙江卫视 ipv6](https://epg.pw/stream/18109b1804a4d4c8acd2a83f3256b7495a047d7f5cf918ef92febd030933bfc2.m3u8) |
 | 21 | [BD]海南卫视 | [BD 海南卫视](https://epg.pw/stream/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.m3u8) |
 | 22 | [BD]深圳卫视 | [BD 深圳卫视](https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8) |
 | 23 | [BD]湖北卫视 | [BD 湖北卫视](https://epg.pw/stream/a168d5ee9a5535ed5d363fe5b921fc96b8e59faeb98d0a1780505ad1384b0a00.m3u8) |
-| 24 | [BD]湖南卫视 | [BD 湖南卫视](https://epg.pw/stream/6cec05cf58b9e496c8d27c1e663f550fbbfae09d152952441cf32b5a101a9b3e.ctv) |
+| 24 | [BD]湖南卫视[ipv6] | [BD 湖南卫视 ipv6](https://epg.pw/stream/d52964aac9910bfbdd885e0138b82fe305407bea3bb18b1f38f97190e60ec9b5.m3u8) |
 | 25 | [SD]甘肃卫视[ipv6] | [SD 甘肃卫视 ipv6](https://epg.pw/stream/05ccbebe8d81cf91ecf4347845f6f0b42fed4bab4071195b0a4f735a80c386bd.m3u8) |
 | 26 | [SD]西藏卫视 | [SD 西藏卫视](https://epg.pw/stream/cfce8c7266926f66e4c9f1e47e1838772aba6fe9fc594f2b19456351b1f91126.m3u8) |
 | 27 | [BD]贵州卫视 | [BD 贵州卫视](https://epg.pw/stream/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.ctv) |
@@ -38,4 +38,4 @@
 | 32 | [BD]青海卫视 | [BD 青海卫视](https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv) |
 | 33 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 
-Updated at **Sun Feb 18 2024 08:17:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 18 2024 16:16:57 GMT+0000 (Coordinated Universal Time)**
