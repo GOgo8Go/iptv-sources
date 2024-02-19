@@ -1435,6 +1435,7 @@ GOLDEN,http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
 Golden Boy,https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
 Golden Community Television (GCO.tv) (Golden CO) (1080p),https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
 Golden Edge Panregional (576p),https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+Golden Multiplex (576p),https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 Golden Plus (576p),https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 Golden Premier (576p),https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 Golden TV (240p) [Not 24/7],https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
@@ -4009,6 +4010,7 @@ Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7],https://unlimited1-us.dps
 UNIVERSO,http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 Univision DFW,https://unidfp-nlds138.global.ssl.fastly.net/nlds/univisionnow/univision_dal2/as/live/univision_dal2_hd_pc.m3u8?t1=
 Univision East,https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
+Univision Panregional (576p),https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 UNTV (576p),https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
 Uppera Balkan (720p),http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 Uranio TV (Yurimaguas) (720p) [Not 24/7],https://live.obslivestream.com/uraniotv/index.m3u8
