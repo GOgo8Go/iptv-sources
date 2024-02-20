@@ -61,7 +61,6 @@ China,#genre#
 [BD]广东卫视,https://epg.pw/stream/88869bbe44812d4aec4de520feed223e11c309bbe9fb7024556de45e3fa92383.m3u8
 [HD]延边卫视,https://epg.pw/stream/24327018edd6090d5d0fdcd7966a0902b684df2132f9a4d8307bbb1d6afb84fd.m3u8
 [BD]开封公共,https://epg.pw/stream/46d6152c9c1bf9897fdca449dd6d18c90a6e5f2f9dee42b0eb03e3185963ea20.m3u8
-[BD]爱上4k[ipv6],https://epg.pw/stream/5b76af2165634ad34162c449ba51fba0be1cea6ac24649a18dfad9e894acbf52.m3u8
 [SD]承德新闻综合,https://epg.pw/stream/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.m3u8
 [BD]早期教育,https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv
 [BD]晋城公共,https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8

@@ -145,4 +145,4 @@
 | 139 | 魅力潇湘 | [魅力潇湘](http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3) |
 | 140 | 精品萌宠 | [精品萌宠](http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3) |
 
-Updated at **Tue Feb 20 2024 08:17:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 20 2024 16:18:03 GMT+0000 (Coordinated Universal Time)**
