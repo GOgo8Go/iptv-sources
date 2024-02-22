@@ -4,7 +4,7 @@
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | [SD]内蒙古卫视 | [SD 内蒙古卫视](https://epg.pw/stream/198b7f254d7c0007c10522bdd003db9a5a4940ded56f9f3d997f876f1fb069f8.m3u8) |
+| 1 | [SD]内蒙古卫视[ipv6] | [SD 内蒙古卫视 ipv6](https://epg.pw/stream/325ee158a9026a625e36ada7cab8bf4606657903a9312e1c19a2af5e7a73d1b7.m3u8) |
 | 2 | [BD]北京卫视[ipv6] | [BD 北京卫视 ipv6](https://epg.pw/stream/ed16a4cd210c9f9d6204ddc6fb5def63a1c54b60114fb61679e61363edea068b.m3u8) |
 | 3 | [BD]吉林卫视[ipv6] | [BD 吉林卫视 ipv6](https://epg.pw/stream/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8) |
 | 4 | [BD]四川卫视 | [BD 四川卫视](https://epg.pw/stream/c1d7aa9fdbe369ae7c3242d0dade547b7987e1e37e7e2098a45e794c3296f862.ctv) |
@@ -19,7 +19,7 @@
 | 13 | [BD]旅游卫视 | [BD 旅游卫视](https://epg.pw/stream/ec4acebcc3eb66ea9f23a8f9024848115d27c6d85681b6142fe5b7359851b2bb.m3u8) |
 | 14 | [BD]东南卫视 | [BD 东南卫视](https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8) |
 | 15 | [BD]东方卫视 | [BD 东方卫视](https://epg.pw/stream/636d16f50c8d96b05c6c11994cc91e361e669419cee31b183d4568b76f288d08.ctv) |
-| 16 | [BD]江苏卫视 | [BD 江苏卫视](https://epg.pw/stream/c172390e036014eeb19218accd4b85bf6d7bfa44f2c2c7e4b04c59fdbc7525c3.m3u8) |
+| 16 | [BD]江苏卫视 | [BD 江苏卫视](https://epg.pw/stream/4563cbd684299c26a835f7c693e237c7f895adf1dc6ee9e010930555a9f94841.m3u8) |
 | 17 | [BD]江西卫视[ipv6] | [BD 江西卫视 ipv6](https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8) |
 | 18 | [VGA]河北卫视 | [VGA 河北卫视](https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8) |
 | 19 | [BD]河南卫视[ipv6] | [BD 河南卫视 ipv6](https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8) |
@@ -38,4 +38,4 @@
 | 32 | [BD]青海卫视 | [BD 青海卫视](https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv) |
 | 33 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 
-Updated at **Thu Feb 22 2024 08:17:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 22 2024 16:18:22 GMT+0000 (Coordinated Universal Time)**
