@@ -4,7 +4,7 @@
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | ABN China (720p) | [ABN China (720p)](https://rtmp2.abnvideos.com/hls/abnchina.m3u8) |
+| 1 | ABN China (720p) | [ABN China (720p)](https://mediaserver.abnvideos.com/streams/abnchina.m3u8) |
 | 2 | Angel TV Chinese (720p) | [Angel TV Chinese (720p)](https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8) |
 | 3 | Ankang TV-1 News | [Ankang TV-1 News](http://124.47.34.186/PLTV/88888888/224/3221225855/index.m3u8) |
 | 4 | BBC News Asia Pacific (720p) | [BBC News Asia Pacific (720p)](http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15) |
@@ -601,4 +601,4 @@
 | 595 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 596 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Wed Feb 21 2024 16:18:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 22 2024 01:00:53 GMT+0000 (Coordinated Universal Time)**
