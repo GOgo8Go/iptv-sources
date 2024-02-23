@@ -5065,4 +5065,4 @@
 | 5059 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5060 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Fri Feb 23 2024 01:00:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 23 2024 08:17:48 GMT+0000 (Coordinated Universal Time)**
