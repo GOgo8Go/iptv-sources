@@ -251,7 +251,6 @@ Animax (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid
 Anime TV (360p) [Not 24/7],https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 Anime Zone TV (480p),http://animezonetv.net/hls/stream.m3u8
 Animnax,http://fpt.vthanhtivi.pw/animax/index.m3u8
-AniPlus (1080p),https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 Anixe + (360p),https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 Anixe HD Serie (360p),https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 Anjan (720p) [Not 24/7],https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
@@ -1380,7 +1379,6 @@ GDNS Ludhiana (1080p) [Not 24/7],http://akalmultimedia.net:1935/gdnslive/gdns-li
 Geb Tv (KBPX LD5) (1080p),https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 Geekdot (720p),https://stream.ichibantv.com:3764/hybrid/play.m3u8
 GEGAR (720p) [Not 24/7],https://ythls.armelin.one/channel/UCd4d3fL-QZPCd9vMiUFhXLQ.m3u8
-GEM,https://code.vthanhtivi.pw/getlink/eazie/242918/playlist.m3u8
 Gem Shopping Network (720p),https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
 GemeindeTV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCbGaZEFvBLMe8eNgoBFDRZg.m3u8
 Gems TV (360p),http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
@@ -2179,7 +2177,6 @@ MTNA TV (720p),https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8
 Mtrspt 1,https://kravemedia-mtrspt1-1-nz.samsung.wurl.tv/playlist.m3u8
 MTürk TV (1080p),https://broadcasttr.com:446/muglaturk/bant1/playlist.m3u8
 MTV3 (720p),https://live-fi.tvkaista.net/mtv3/live.m3u8
-MTV 90's,https://code.vthanhtivi.pw/getlink/eazie/243116/playlist.m3u8
 MTV Beats (1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 MTV France (720p) [Not 24/7],http://190.2.155.162:8080/mtvfrance/mpegts
 MTV Germany (1080p),https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
@@ -2351,7 +2348,6 @@ One (1080p),https://mcdn.one.ard.de/ardone/hls/master.m3u8
 One Adria (1080p),https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
 One Channel (1080p),https://til.pp.ua:3391/live/channeln9live.m3u8
 One Golf (720p),http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-One HD,https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
 One TV (720p),https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 One TV (720p),http://137.59.86.218:1935/live/onetv/playlist.m3u8
 One TV Asia (576p),http://210.210.155.37/uq2663/h/h143/index.m3u8
