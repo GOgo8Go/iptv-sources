@@ -4522,12 +4522,12 @@
 | 4516 | УлПравда ТВ | [УлПравда ТВ](http://live-1.otcnet.ru/pravdatv/index.m3u8) |
 | 4517 | Уніaн | [Уніaн](http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6) |
 | 4518 | Урал 24 (Челябинск) | [Урал 24 (Челябинск)](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8) |
-| 4519 | УТРК (720p) | [УТРК (720p)](https://64e5ed58c00d4.streamlock.net/live/smil:utrk.smil/playlist.m3u8) |
-| 4520 | УТРК Ала-Тоо 24 (720p) | [УТРК Ала-Тоо 24 (720p)](https://64e5ed58c00d4.streamlock.net/live/smil:alatoo24.smil/playlist.m3u8) |
+| 4519 | УТРК (480p) [Not 24/7] | [УТРК (480p)  Not 24/7](https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8) |
+| 4520 | УТРК Ала-Тоо 24 (480p) [Not 24/7] | [УТРК Ала-Тоо 24 (480p)  Not 24/7](https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8) |
 | 4521 | УТРК Баластан (480p) [Not 24/7] | [УТРК Баластан (480p)  Not 24/7](https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8) |
 | 4522 | УТРК Маданият (480p) [Not 24/7] | [УТРК Маданият (480p)  Not 24/7](https://st2.mediabay.tv/KG_KTRK-Madaniyat/playlist.m3u8) |
-| 4523 | УТРК Музыка (720p) | [УТРК Музыка (720p)](https://64e5ed58c00d4.streamlock.net/live/smil:music.smil/playlist.m3u8) |
-| 4524 | УТРК Спорт (720p) | [УТРК Спорт (720p)](https://64e5ed58c00d4.streamlock.net/live/smil:sport.smil/playlist.m3u8) |
+| 4523 | УТРК Музыка (480p) [Not 24/7] | [УТРК Музыка (480p)  Not 24/7](https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8) |
+| 4524 | УТРК Спорт (480p) [Not 24/7] | [УТРК Спорт (480p)  Not 24/7](https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8) |
 | 4525 | Феникс+Кино | [Феникс+Кино](http://82.209.197.187:8080/udp/239.0.100.101:1234) |
 | 4526 | Футбольный | [Футбольный](https://woobl.ru/hls987/Futbolniy_hd.m3u8) |
 | 4527 | Херсон Плюс (576p) | [Херсон Плюс (576p)](http://46.175.163.130/ks_plus/index.m3u8) |
@@ -5061,4 +5061,4 @@
 | 5055 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5056 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sun Feb 25 2024 16:17:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 26 2024 01:03:28 GMT+0000 (Coordinated Universal Time)**

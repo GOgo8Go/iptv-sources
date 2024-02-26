@@ -4517,12 +4517,12 @@ Zylo ScreamIN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenA
 УлПравда ТВ,http://live-1.otcnet.ru/pravdatv/index.m3u8
 Уніaн,http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 Урал 24 (Челябинск),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
-УТРК (720p),https://64e5ed58c00d4.streamlock.net/live/smil:utrk.smil/playlist.m3u8
-УТРК Ала-Тоо 24 (720p),https://64e5ed58c00d4.streamlock.net/live/smil:alatoo24.smil/playlist.m3u8
+УТРК (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
+УТРК Ала-Тоо 24 (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
 УТРК Баластан (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
 УТРК Маданият (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Madaniyat/playlist.m3u8
-УТРК Музыка (720p),https://64e5ed58c00d4.streamlock.net/live/smil:music.smil/playlist.m3u8
-УТРК Спорт (720p),https://64e5ed58c00d4.streamlock.net/live/smil:sport.smil/playlist.m3u8
+УТРК Музыка (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+УТРК Спорт (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 Феникс+Кино,http://82.209.197.187:8080/udp/239.0.100.101:1234
 Футбольный,https://woobl.ru/hls987/Futbolniy_hd.m3u8
 Херсон Плюс (576p),http://46.175.163.130/ks_plus/index.m3u8
