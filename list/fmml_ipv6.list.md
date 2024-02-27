@@ -4,7 +4,7 @@
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | CCTV-1 综合 | [CCTV-1 综合](http://[2409:8087:7000:20::11]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8) |
+| 1 | CCTV-1 综合 | [CCTV-1 综合](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8) |
 | 2 | CCTV-2 财经 | [CCTV-2 财经](http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8) |
 | 3 | CCTV-3 综艺 | [CCTV-3 综艺](http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8) |
 | 4 | CCTV-4 中文国际 | [CCTV-4 中文国际](http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8) |
@@ -173,4 +173,4 @@
 | 167 | CGTN西语 | [CGTN西语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 168 | CGTN阿语 | [CGTN阿语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 
-Updated at **Tue Feb 27 2024 01:00:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 27 2024 08:17:15 GMT+0000 (Coordinated Universal Time)**
