@@ -515,5 +515,7 @@
 | 509 | Fuping TV-1 | [Fuping TV-1](http://124.47.34.189:80/wh7f454c46tw749339647_705237419/PLTV/88888888/224/3221225905/index.m3u8?icpid=88888888&RTS=1640046896&from=1&hms_devid=203) |
 | 510 | Fuping TV-2 | [Fuping TV-2](http://124.47.34.188:80/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/3221225906/index.m3u8?icpid=88888888&RTS=1640099099&from=1&hms_devid=203) |
 | 511 | Fusung News TV | [Fusung News TV](http://stream8.jlntv.cn/fs/sd/live.m3u8) |
+| 512 | Lasa TV | [Lasa TV](http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 513 | Xizang TV Tibetan | [Xizang TV Tibetan](http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0) |
 
-Updated at **Thu Feb 29 2024 08:17:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 29 2024 16:16:49 GMT+0000 (Coordinated Universal Time)**
