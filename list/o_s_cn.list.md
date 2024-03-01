@@ -517,5 +517,12 @@
 | 511 | Fusung News TV | [Fusung News TV](http://stream8.jlntv.cn/fs/sd/live.m3u8) |
 | 512 | Lasa TV | [Lasa TV](http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
 | 513 | Xizang TV Tibetan | [Xizang TV Tibetan](http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 514 | Nei Monggol TV | [Nei Monggol TV](http://106.124.90.74:8888/udp/238.125.7.93:5140) |
+| 515 | Xinjiang TV 12 | [Xinjiang TV 12](http://106.124.90.74:8888/udp/238.125.3.185:5140) |
+| 516 | Xinjiang TV 9 | [Xinjiang TV 9](http://106.124.90.74:8888/udp/238.125.7.153:5140) |
+| 517 | Xinjiang TV 8 | [Xinjiang TV 8](http://106.124.90.74:8888/udp/238.125.3.181:5140) |
+| 518 | Xinjiang TV 5 | [Xinjiang TV 5](http://106.124.90.74:8888/udp/238.125.7.149:5140) |
+| 519 | Xinjiang TV 3 | [Xinjiang TV 3](http://106.124.90.74:8888/udp/238.125.7.147:5140) |
+| 520 | Xinjiang TV 2 | [Xinjiang TV 2](http://106.124.90.74:8888/udp/238.125.3.175:5140) |
 
-Updated at **Fri Mar 01 2024 01:06:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 01 2024 08:17:21 GMT+0000 (Coordinated Universal Time)**
