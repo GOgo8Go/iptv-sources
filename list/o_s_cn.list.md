@@ -524,5 +524,7 @@
 | 518 | Xinjiang TV 5 | [Xinjiang TV 5](http://106.124.90.74:8888/udp/238.125.7.149:5140) |
 | 519 | Xinjiang TV 3 | [Xinjiang TV 3](http://106.124.90.74:8888/udp/238.125.7.147:5140) |
 | 520 | Xinjiang TV 2 | [Xinjiang TV 2](http://106.124.90.74:8888/udp/238.125.3.175:5140) |
+| 521 | BRTV Kaku Childrens Channel | [BRTV Kaku Childrens Channel](http://office.gofaraway.top:888/udp/238.125.2.216:5140) |
+| 522 | Sichuan Kangba Tibetan TV | [Sichuan Kangba Tibetan TV](http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0) |
 
-Updated at **Sun Mar 03 2024 01:04:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 03 2024 08:18:21 GMT+0000 (Coordinated Universal Time)**
