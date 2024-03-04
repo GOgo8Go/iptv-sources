@@ -81,7 +81,7 @@
 | 75 | 浙江国际 | [浙江国际](https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8) |
 | 76 | 浙江少儿 | [浙江少儿](https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8) |
 | 77 | 浙江教科 | [浙江教科](https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8) |
-| 78 | 浙江数码 | [浙江数码](https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8) |
+| 78 | 之江纪录 | [之江纪录](https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8) |
 | 79 | 浙江民生 | [浙江民生](https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8) |
 | 80 | 浙江经济 | [浙江经济](https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8) |
 | 81 | 浙江钱江 | [浙江钱江](https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8) |
@@ -155,4 +155,4 @@
 | 149 | 魅力潇湘 | [魅力潇湘](http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3) |
 | 150 | 精品萌宠 | [精品萌宠](http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3) |
 
-Updated at **Sun Mar 03 2024 16:15:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 04 2024 01:02:08 GMT+0000 (Coordinated Universal Time)**
