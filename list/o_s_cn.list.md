@@ -527,4 +527,4 @@
 | 521 | BRTV Kaku Childrens Channel | [BRTV Kaku Childrens Channel](http://office.gofaraway.top:888/udp/238.125.2.216:5140) |
 | 522 | Sichuan Kangba Tibetan TV | [Sichuan Kangba Tibetan TV](http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0) |
 
-Updated at **Mon Mar 04 2024 10:07:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 04 2024 16:18:45 GMT+0000 (Coordinated Universal Time)**
