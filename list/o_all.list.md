@@ -1777,8 +1777,8 @@
 | 1771 | KBS1 (Daejeon) (720p) | [KBS1 (Daejeon) (720p)](https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8) |
 | 1772 | KBS1 (Gwangju) (720p) | [KBS1 (Gwangju) (720p)](https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8) |
 | 1773 | KBS1 (Ulsan) (720p) | [KBS1 (Ulsan) (720p)](https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8) |
-| 1774 | KBS 1 UHD (720p) | [KBS 1 UHD (720p)](http://202.60.106.14:8080/200/playlist.m3u8) |
-| 1775 | KBS2 (720p) [Not 24/7] | [KBS2 (720p)  Not 24/7](https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8) |
+| 1774 | KBS 1TV [Not 24/7] | [KBS 1TV  Not 24/7](http://mytv.dothome.co.kr/ch/public/1.php) |
+| 1775 | KBS 2TV [Not 24/7] | [KBS 2TV  Not 24/7](http://mytv.dothome.co.kr/ch/public/3.php) |
 | 1776 | KBS Drama (480p) | [KBS Drama (480p)](http://mytv.dothome.co.kr/ch/catv/2.php) |
 | 1777 | KBS Joy (480p) | [KBS Joy (480p)](http://mytv.dothome.co.kr/ch/catv/3.php) |
 | 1778 | KBS Kids (480p) | [KBS Kids (480p)](https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8) |
@@ -2046,7 +2046,7 @@
 | 2040 | Mijas 3.40TV (720p) | [Mijas 3.40TV (720p)](https://streaming004.gestec-video.com/hls/MIJAS.m3u8) |
 | 2041 | Mikuba TV (480p) [Not 24/7] | [Mikuba TV (480p)  Not 24/7](http://51.254.199.122:8080/MIKUBATV/index.m3u8) |
 | 2042 | Milenial TV | [Milenial TV](https://www.milenial.news/salida/milenial.m3u8) |
-| 2043 | Milenio Televisión (720p) [Not 24/7] | [Milenio Televisión (720p)  Not 24/7](https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8) |
+| 2043 | Milenio Television | [Milenio Television](https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true) |
 | 2044 | Milenium TV (720p) | [Milenium TV (720p)](https://stmv5.livecastv.com/milleniumtv/milleniumtv/playlist.m3u8) |
 | 2045 | Milennio TV (720p) | [Milennio TV (720p)](https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8) |
 | 2046 | Millbrae Community Television (720p) | [Millbrae Community Television (720p)](https://603591da64140.streamlock.net/live/mp4:MCTVtest_aac/playlist.m3u8) |
@@ -4816,4 +4816,4 @@
 | 4810 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
 | 4811 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Mon Mar 04 2024 16:18:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 05 2024 01:00:54 GMT+0000 (Coordinated Universal Time)**
