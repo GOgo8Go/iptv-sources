@@ -489,6 +489,7 @@ Bostra TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFz
 Bouke,https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
 Bounce XL (720p),https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8
 Bounty,https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
+Canal 10 Durango,https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 Canal 10 Empordà (360p) [Not 24/7],http://ventdelnord.tv:8080/escala/directe.m3u8
 Canal 10 ES,http://stream.flynetwifi.com:1935/live/mobile-037/playlist.m3u8
 Canal 10 Goya (576p),https://streamcasthd.com:19360/canal10goya/canal10goya.m3u8
@@ -1890,6 +1891,7 @@ Lighting Lives Blessing Nations TV Korean (LLBN) (480p),https://brightstar-korea
 Lighting Lives Blessing Nations TV Latino (LLBN) (480p),https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 Lighting Lives Blessing Nations TV Romanian (LLBN) (480p),https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
 Lighting Lives Blessing Nations TV South Asia (LLBN) (480p),https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8
+Like TV,https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 LIM TV (720p),https://tv.invasivamedia.com/hls/limtv.m3u8
 LimaLive (720p) [Not 24/7],https://vdo.grupolimalive.com:3245/stream/play.m3u8
 Limelight (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8
@@ -3971,6 +3973,7 @@ TV9 Nusantara (720p),https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 TV9 Telugu (720p),https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 TV 10 (720p) [Not 24/7],https://ythls.armelin.one/channel/UC-hfYFkXZ6sTmI-BrW1fPAQ.m3u8
 TV 10 San Juan (720p),https://cloud2.streaminglivehd.com:1936/8024/8024/playlist.m3u8
+TV15 (1080p) [Not 24/7],http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
 TV 16 Toronto (720p) [Not 24/7],http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
 TV21,https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 TV 24 (480p),https://s1.teve.mk/tvstanici/5/playlist.m3u8
