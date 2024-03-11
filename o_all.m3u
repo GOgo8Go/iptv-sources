@@ -4487,7 +4487,7 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBS_Live_stream_ze/5-20-hls/live.m3u8
 #EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="Undefined",NBT 11 Central (720p)
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="NosPais.cw" tvg-logo="https://i.imgur.com/jmYvx2s.jpg" group-title="Undefined",Nos Païs (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NosPais.cw" tvg-logo="https://i.imgur.com/jmYvx2s.jpg" group-title="Entertainment",Nos Païs (720p) [Not 24/7]
 http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 #EXTINF:-1 tvg-id="NosTVBonaire.bq" tvg-logo="https://i.ibb.co/R6kb44B/cropped-LOGO-NOSTV-WEBSITE-2019-1.png" group-title="General",Nos TV Bonaire (1080p)
 http://streaming.flamingotv.net/nostv/live.m3u8
@@ -7821,7 +7821,7 @@ https://ythls.armelin.one/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
 https://servilive.com:3531/stream/play.m3u8
 #EXTINF:-1 tvg-id="Tunevision.gt" tvg-logo="https://i.imgur.com/XNiXqgj.png" group-title="Undefined",Tunevisión (1080p) [Not 24/7]
 https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
-#EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="Travel",Tunisie Immobilier TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-logo="https://i.imgur.com/4ktp7A1.png" group-title="Business;Travel",Tunisie Immobilier TV (720p) [Not 24/7]
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Turbo
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
