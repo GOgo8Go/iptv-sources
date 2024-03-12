@@ -56,7 +56,7 @@
 | 50 | 甘肃卫视 | [甘肃卫视](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8) |
 | 51 | 吉林卫视 | [吉林卫视](http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8) |
 | 52 | 云南卫视 | [云南卫视](http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8) |
-| 53 | 三沙卫视 | [三沙卫视](http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8) |
+| 53 | 三沙卫视 | [三沙卫视](http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226324/1/index.m3u8?fmt=ts2hls) |
 | 54 | 青海卫视 | [青海卫视](http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8) |
 | 55 | 新疆卫视 | [新疆卫视](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8) |
 | 56 | 西藏卫视 | [西藏卫视](http://[2409:8087:7001:20:2::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8) |
@@ -90,7 +90,7 @@
 | 84 | 嘉佳卡通 | [嘉佳卡通](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8) |
 | 85 | 哒啵电竞 | [哒啵电竞](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8) |
 | 86 | 哒啵赛事 | [哒啵赛事](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8) |
-| 87 | 黑莓电影 | [黑莓电影](http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8) |
+| 87 | 黑莓电影 | [黑莓电影](http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8) |
 | 88 | 黑莓动画 | [黑莓动画](http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8) |
 | 89 | 梨园频道 | [梨园频道](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ) |
 | 90 | 弈坛春秋 | [弈坛春秋](http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
@@ -150,24 +150,25 @@
 | 144 | 超级体育 | [超级体育](http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8) |
 | 145 | 超级电影 | [超级电影](http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8) |
 | 146 | 超级电视剧 | [超级电视剧](http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8) |
-| 147 | 武博世界 | [武博世界](http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8) |
-| 148 | 中国功夫 | [中国功夫](http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8) |
-| 149 | 军旅剧场 | [军旅剧场](http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8) |
-| 150 | 炫舞未来 | [炫舞未来](http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8) |
-| 151 | 潮妈辣婆 | [潮妈辣婆](http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8) |
-| 152 | 精品体育 | [精品体育](http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8) |
-| 153 | 精品纪录 | [精品纪录](http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8) |
-| 154 | 家庭剧场 | [家庭剧场](http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8) |
-| 155 | 精品大剧 | [精品大剧](http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8) |
-| 156 | 军事评论 | [军事评论](http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8) |
-| 157 | 明星大片 | [明星大片](http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8) |
-| 158 | 东北热剧 | [东北热剧](http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8) |
-| 159 | 欢乐剧场 | [欢乐剧场](http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8) |
-| 160 | CGTN英语 | [CGTN英语](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8) |
-| 161 | CGTN记录 | [CGTN记录](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
-| 162 | CGTN俄语 | [CGTN俄语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
-| 163 | CGTN法语 | [CGTN法语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
-| 164 | CGTN西语 | [CGTN西语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
-| 165 | CGTN阿语 | [CGTN阿语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
+| 147 | 海外剧场 | [海外剧场](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8) |
+| 148 | 中国功夫 | [中国功夫](http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8) |
+| 149 | 军旅剧场 | [军旅剧场](http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8) |
+| 150 | 精品萌宠 | [精品萌宠](http://[2409:8087:1a0b:df::400c]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8) |
+| 151 | 惊悚悬疑 | [惊悚悬疑](http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8) |
+| 152 | 潮妈辣婆 | [潮妈辣婆](http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8) |
+| 153 | 精品体育 | [精品体育](http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8) |
+| 154 | 精品纪录 | [精品纪录](http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8) |
+| 155 | 家庭剧场 | [家庭剧场](http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8) |
+| 156 | 精品大剧 | [精品大剧](http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8) |
+| 157 | 军事评论 | [军事评论](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8) |
+| 158 | 明星大片 | [明星大片](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8) |
+| 159 | 东北热剧 | [东北热剧](http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8) |
+| 160 | 欢乐剧场 | [欢乐剧场](http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8) |
+| 161 | CGTN英语 | [CGTN英语](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8) |
+| 162 | CGTN记录 | [CGTN记录](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
+| 163 | CGTN俄语 | [CGTN俄语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
+| 164 | CGTN法语 | [CGTN法语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
+| 165 | CGTN西语 | [CGTN西语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
+| 166 | CGTN阿语 | [CGTN阿语](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 
-Updated at **Tue Mar 12 2024 08:17:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 12 2024 16:18:34 GMT+0000 (Coordinated Universal Time)**
