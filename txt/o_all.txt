@@ -375,6 +375,7 @@ AM Canal (720p) [Not 24/7],https://v2.tustreaming.cl/amtv/index.m3u8
 Amar Bangla TV (720p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 Amar Ujala (720p) [Not 24/7],https://ythls.armelin.one/channel/UCP_wvXToU5ohFLbTAkatvsw.m3u8
 ARB Günəş,http://149.255.152.199/arbgunes.m3u8
+Atreseries (720p),https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 Attica TV (1080p),http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 ATV (360p) [Not 24/7],https://movil.ejeserver.com/live/verteve.m3u8
 ATV (576p),http://146.59.85.40:89/atv/index.m3u8
@@ -857,6 +858,7 @@ Corrientes TV (CTV) (720p),https://mediacp.hostradios.com.ar:19360/canal7/canal7
 Corts Valencianes (480p) [Not 24/7],https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 CorTV (800p),https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 Cositel (1080p),https://cloudvideo.servers10.com:8081/8180/index.m3u8
+COSMO (1080p),https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
 Cosmos (720p),https://lnc-cosmos.tubi.video/index.m3u8
 Cosmos TV (720p),https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 Cosmos TV (720p),https://v1.tustreaming.cl/cosmostv/index.m3u8
