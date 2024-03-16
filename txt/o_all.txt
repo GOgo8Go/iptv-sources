@@ -3068,6 +3068,7 @@ PMC Hindi TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCAxPB6BRBujBQ
 PMC Royale (720p) [Not 24/7],https://rohls.pmc.live/hls/stream.m3u8
 PMCS TV (720p),https://cdn.streamhispanatv.net:3787/live/pmcstvlive.m3u8
 PMI TV (720p) [Not 24/7],https://cdn.live247stream.com/pmi/tv/playlist.m3u8
+PNN (720p),https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
 PNN News (720p),https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
 PNTV (720p),https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
 pocket.watch (1080p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
@@ -3447,6 +3448,7 @@ Rapsodia TV (576p),http://92.86.248.141:8080/ram/playlist.m3u8
 Raquel Daruech TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCxZ7Z0-z9EnTZAyKmeP2_MQ.m3u8
 Rararadio (720p),https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
 RASD TV (404p),https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
+Rasmey Hang Meas HDTV (720p),http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 Rasyaad TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
 Rave TV (576p),https://webstreaming.viewmedia.tv/web_039/Stream/playlist.m3u8
 RBATV (720p),https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
@@ -3991,6 +3993,7 @@ Toshkent (480p),http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8
 Total Bhakti (1080p),https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
 Total Crime (1080p),https://lnc-total-crime.tubi.video/playlist.m3u8
 Totovisión (720p),https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+Town TV (720p),https://live.kh.malimarcdn.com/live/towntv.stream/playlist.m3u8
 Toxic Rap (1080p),http://82.118.0.14:8000/play/7/index.m3u8
 Toyor Al-Jannah (720p) [Not 24/7],https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
 TPA 7 (576p),https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR=
