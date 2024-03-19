@@ -523,9 +523,9 @@ http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="Undefined",Al Qamar TV (360p)
 https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQudsOpenUniversity.ps" tvg-logo="https://i.imgur.com/AHzY3Wn.png" group-title="Undefined",Al Quds Open University (1080p)
+#EXTINF:-1 tvg-id="AlQudsOpenUniversity.ps" tvg-logo="https://i.imgur.com/AHzY3Wn.png" group-title="Education",Al Quds Open University (1080p)
 https://streaming2.qou.edu/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AlQudsTodayTV.ps" tvg-logo="https://i.imgur.com/Q0E4LLi.png" group-title="Undefined",Al Quds Today TV (360p)
+#EXTINF:-1 tvg-id="AlQudsTodayTV.ps" tvg-logo="https://i.imgur.com/Q0E4LLi.png" group-title="General",Al Quds Today TV (360p)
 http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="Religious",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/7.m3u8
@@ -1267,7 +1267,7 @@ https://tvdatta.com:3384/live/cartagomedioslive.m3u8
 https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cartoon Network
 http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="Undefined",CBC (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="General",CBC (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 #EXTINF:-1 tvg-id="CBRTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg" group-title="Undefined",CBC Calgary (CBRT-DT)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
@@ -4825,7 +4825,7 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playl
 https://s.ok54.de/oklu/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="OmanTVCultural.om" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="Undefined",Oman Althakafia (1080p)
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="OmanTVMubashir.om" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="Undefined",Oman Mubashir (1080p)
+#EXTINF:-1 tvg-id="OmanTVMubashir.om" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="News",Oman Mubashir (1080p)
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -6263,7 +6263,7 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 #EXTINF:-1 tvg-id="PuntaCanaTV.do" tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="Undefined",Punta Cana TV (720p) [Not 24/7]
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
-#EXTINF:-1 tvg-id="PuntlandTV.so" tvg-logo="https://i.imgur.com/C8EvQUo.png" group-title="Undefined",Puntland TV (720p)
+#EXTINF:-1 tvg-id="PuntlandTV.so" tvg-logo="https://i.imgur.com/C8EvQUo.png" group-title="General",Puntland TV (720p)
 http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PuraPalabra.pr" tvg-logo="https://i.imgur.com/nl5vyIw.png" group-title="Undefined",Pura Palabra (718p) [Not 24/7]
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
@@ -7639,7 +7639,7 @@ https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 https://tv.streaming-chile.com:19360/temucotelevision/temucotelevision.m3u8
 #EXTINF:-1 tvg-id="TENCanal10.hn" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="Undefined",TEN Canal 10 (720p) [Not 24/7]
 https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8
-#EXTINF:-1 tvg-id="TeN.eg" tvg-logo="https://i.imgur.com/gMnn6PD.png" group-title="Undefined",TeN TV (720p)
+#EXTINF:-1 tvg-id="TeN.eg" tvg-logo="https://i.imgur.com/gMnn6PD.png" group-title="General",TeN TV (720p)
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="TendenciasPrime.cl" tvg-logo="https://i.imgur.com/nDWW4m7.png" group-title="Undefined",Tendencias Prime (T31 | Ñuñoa) (1080p) [Not 24/7]
 https://v2.tustreaming.cl/tendenciastv/index.m3u8
