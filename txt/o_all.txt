@@ -632,7 +632,6 @@ Carivision (1080p),https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
 Carlsbad City TV Channel (Carlsbad CA) (720p),https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
 Cartago Medios TV (720p),https://tvdatta.com:3384/live/cartagomedioslive.m3u8
 Cartoon Network,https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
-Cartoon Network,http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
 CBC (720p) [Not 24/7],https://ythls.armelin.one/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 CBC Calgary (CBRT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 CBC Comedy (1080p),https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
@@ -3481,7 +3480,7 @@ Romanza+ Africa (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/
 ROS TV-Krant (1080p),https://server-67.stream-server.nl:1936/RosTVkrant/RosTVkrant/playlist.m3u8
 Rossini TV (720p),https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8
 Rotana Cinema KSA (1080p),https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-Rotana Cinema KSA (1080p),https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
+Rotana Cinema KSA (1080p),https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 Rotana Classic (1080p),https://daiconnect.com/live/hls/rotana/classical/.m3u8
 Rotana Khalijia (1080p),https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
 Rotana Music (1080p),https://daiconnect.com/live/hls/rotana/music/.m3u8
@@ -4516,6 +4515,8 @@ Zalaegerszegi TV (360p),https://cloudfront44.lexanetwork.com:1344/freerelay/zegt
 Západoslovenská TV (1080p),https://live.zstv.sk/memfs/5b0f9dd2-8f77-4fe5-9527-bc11bb8b18e5.m3u8
 Zapping Music (720p),https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 Zaracay TV (1080p) [Not 24/7],https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+Zarok TV (720p),https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+Zarok TV Sorani (720p),https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 ZAZ,https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 ZBC News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCxiW1iTMYgjyh7Qgkiyj2PQ.m3u8
 ZDF (720p),https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
