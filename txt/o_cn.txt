@@ -97,6 +97,7 @@ Xinjiang TV 8,http://106.124.90.74:8888/udp/238.125.3.181:5140
 Xinjiang TV 9,http://106.124.90.74:8888/udp/238.125.7.153:5140
 Xinjiang TV 12,http://106.124.90.74:8888/udp/238.125.3.185:5140
 Xizang TV Tibetan,http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+Zarok TV Sorani (720p),https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 Zhejiang TV International,https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 РТР Планета Азия,https://player.smotrim.ru/iframe/stream/live_id/63254
 万州三峡移民 (576p) [Not 24/7],http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8

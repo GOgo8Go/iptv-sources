@@ -557,4 +557,4 @@
 | 551 | 山西法治 | [山西法治](http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8) |
 | 552 | 山西文体 | [山西文体](http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8) |
 
-Updated at **Thu Mar 21 2024 16:19:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 01:04:20 GMT+0000 (Coordinated Universal Time)**
