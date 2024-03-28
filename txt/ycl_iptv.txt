@@ -154,7 +154,7 @@ BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 ABC News Live,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 Live Now FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-NBC News Now,https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+NBC News Now,https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 ABC7 Bay Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
 CBS News Bay Area,https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
@@ -229,6 +229,10 @@ Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 WE TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
 Me TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
 SNY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+Documentary+,https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
+Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
+MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+Travelxp,https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
 CCTV-1,rtp://239.3.1.129:8008
 CCTV-2,rtp://239.3.1.60:8084
 CCTV-3,rtp://239.3.1.172:8001
