@@ -3646,8 +3646,8 @@
 | 3640 | SportsGrid (1080p) | [SportsGrid (1080p)](https://sportsgrid-tribal.amagi.tv/playlist.m3u8) |
 | 3641 | SportsTVPlus | [SportsTVPlus](https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/XSJFWT5YF4UTW38VBLGF/hls3/now_-1m_15s/m.m3u8) |
 | 3642 | SportyStuff TV (1080p) | [SportyStuff TV (1080p)](https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8) |
-| 3643 | SPOTV2 (1080p) | [SPOTV2 (1080p)](https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8) |
-| 3644 | SPOTV (1080p) | [SPOTV (1080p)](https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8) |
+| 3643 | SPOTV2 (720p) | [SPOTV2 (720p)](http://202.150.161.68/spotv2/index.m3u8) |
+| 3644 | SPOTV (720p) | [SPOTV (720p)](http://202.150.161.68/spotv1/index.m3u8) |
 | 3645 | SQCS Canal 4 (720p) | [SQCS Canal 4 (720p)](https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8) |
 | 3646 | SQOOL TV (STK) | [SQOOL TV (STK)](https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8) |
 | 3647 | Squadra Speciale Cobra 11 Italy (720p) | [Squadra Speciale Cobra 11 Italy (720p)](https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY) |
@@ -5089,4 +5089,4 @@
 | 5083 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
 | 5084 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Thu Mar 28 2024 16:17:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 29 2024 01:02:51 GMT+0000 (Coordinated Universal Time)**
