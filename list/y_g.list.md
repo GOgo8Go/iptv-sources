@@ -658,11 +658,11 @@
 | 652 | 四川卫视 | [四川卫视](https://yang-1989.eu.org/live/scws) |
 | 653 | 新疆卫视 | [新疆卫视](https://yang-1989.eu.org/live/xjws) |
 | 654 | 海南卫视 | [海南卫视](https://yang-1989.eu.org/live/hinws) |
-| 655 | 「HK」无线新闻 | [「HK」无线新闻](https://yang-1989.eu.org/tvb/4) |
-| 656 | 「HK」无线财经体育资讯台 | [「HK」无线财经体育资讯台](https://yang-1989.eu.org/tvb/6) |
+| 655 | 「HK」无线新闻 | [「HK」无线新闻](https://yang-1989.eu.org/tvb/2) |
+| 656 | 「HK」无线财经体育资讯台 | [「HK」无线财经体育资讯台](https://yang-1989.eu.org/tvb/3) |
 | 657 | 「HK」事件直播頻道1 | [「HK」事件直播頻道1](https://yang-1989.eu.org/tvb/8) |
-| 658 | 「HK」事件直播頻道2 | [「HK」事件直播頻道2](https://yang-1989.eu.org/tvb/10) |
-| 659 | 「MO」澳门莲花 | [「MO」澳门莲花](http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php) |
+| 658 | 「HK」事件直播頻道2 | [「HK」事件直播頻道2](https://yang-1989.eu.org/tvb/9) |
+| 659 | 「MO」澳门莲花 | [「MO」澳门莲花](https://yang-1989.eu.org/mo/lhws) |
 | 660 | 「MO」澳门葡语 | [「MO」澳门葡语](http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8) |
 | 661 | 「MO」澳门Macau | [「MO」澳门Macau](http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8) |
 | 662 | 「MO」澳门信息 | [「MO」澳门信息](http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8) |
@@ -2199,4 +2199,4 @@
 | 2193 | 足球超级猎食者(上) | [足球超级猎食者(上)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8) |
 | 2194 | 足球超级猎食者(下) | [足球超级猎食者(下)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8) |
 
-Updated at **Fri Mar 29 2024 16:17:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 30 2024 01:00:08 GMT+0000 (Coordinated Universal Time)**
