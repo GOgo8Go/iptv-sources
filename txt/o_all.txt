@@ -1006,7 +1006,7 @@ Channel 9 Melbourne (720p),https://9now-livestreams.akamaized.net/hls/live/20083
 Channel 9 Sydney (720p),https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 Channel 10 (720p),https://i.mjh.nz/10-nsw.m3u8
 Channel 11 (Scottsdale AZ),https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
-Channel 13 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCevtg3pYdyr0EaWSAQMwUgA.m3u8
+Channel 13 [Not 24/7],https://stream.theyraonline.com/live/channel13@live/index.m3u8
 Channel 24 (720p),https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
 Channel 24 Saudi (720p),https://ythls.armelin.one/channel/UCQeyQKc5p0d4B89K-DCzX5Q.m3u8
 Channel 24 Sports (720p),https://ythls.armelin.one/channel/UCGnTP2NwS6ZJwmXBTsS2w-w.m3u8
@@ -1724,6 +1724,7 @@ HBO 2,http://170.254.18.106/HBO2/index.m3u8
 HBO2,http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 HBO 2 HD,https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 HBO 3 HD,https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+HBO (1080p),https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 HBO (Vietnam),http://viettel.nekocdn.xyz/HBO/index.m3u8
 HBO Family,http://170.254.18.106/HBO_FAMILY/index.m3u8
 HBO HD,https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
@@ -1894,6 +1895,7 @@ IIPC TV (480p),https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 Il Banco dei Pugni Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Il mio amico Arnold Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6385eb5588399a000759ef45/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Il Testimone Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+Ilm va Tabiat (1080p),https://live.teleradiocom.tj/15/3m.m3u8
 ILTV (720p),https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 Imagen TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 Imagen Universal TV,https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
@@ -4402,6 +4404,7 @@ TV Sandegi (360p),https://video01.kshost.com.br/antonio9510/antonio9510/playlist
 TV Santa Cruz (720p) [Not 24/7],https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 TV Santa Cruz (720p) [Not 24/7],https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 TV São Raimundo (268p),https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+TV Sayohi (1080p),https://live.teleradiocom.tj/16/3m.m3u8
 TV Sei (576p) [Not 24/7],http://185.202.128.1:1935/Tv6Stream/tv6TV.stream/playlist.m3u8
 TV Selangor (720p) [Not 24/7],https://ythls.armelin.one/channel/UCldPEJgJgq_Mb6Ndek5RxQg.m3u8
 TV Sen (540p),http://95.105.193.219:88/hls/tvsen.m3u8
