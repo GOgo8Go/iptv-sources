@@ -284,7 +284,7 @@ Al Wilayah (720p) [Not 24/7],https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
 Al Wousta TV (1080p),https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 Al Yaum TV (720p),https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
 Al-Fady TV (1080p) [Not 24/7],https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
-Al-Iman TV (720p),https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+Al-Iman TV (720p),https://tv.aliman.id/aliman/live.m3u8
 Al-Jawadain TV (1080p) [Not 24/7],https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 Al-MahdiTV (1080p),https://stream.al-mahdi.tv/hls/1234.m3u8
 Al-Naeem TV (576p),https://nl2.livekadeh.com/hls2/alnaeem.m3u8

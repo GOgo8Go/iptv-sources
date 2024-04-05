@@ -289,7 +289,7 @@
 | 283 | Al Wousta TV (1080p) | [Al Wousta TV (1080p)](https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8) |
 | 284 | Al Yaum TV (720p) | [Al Yaum TV (720p)](https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8) |
 | 285 | Al-Fady TV (1080p) [Not 24/7] | [Al-Fady TV (1080p)  Not 24/7](https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8) |
-| 286 | Al-Iman TV (720p) | [Al-Iman TV (720p)](https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8) |
+| 286 | Al-Iman TV (720p) | [Al-Iman TV (720p)](https://tv.aliman.id/aliman/live.m3u8) |
 | 287 | Al-Jawadain TV (1080p) [Not 24/7] | [Al-Jawadain TV (1080p)  Not 24/7](https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8) |
 | 288 | Al-MahdiTV (1080p) | [Al-MahdiTV (1080p)](https://stream.al-mahdi.tv/hls/1234.m3u8) |
 | 289 | Al-Naeem TV (576p) | [Al-Naeem TV (576p)](https://nl2.livekadeh.com/hls2/alnaeem.m3u8) |
@@ -5652,4 +5652,4 @@
 | 5646 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5647 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Thu Apr 04 2024 16:18:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 05 2024 01:02:58 GMT+0000 (Coordinated Universal Time)**

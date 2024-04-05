@@ -570,7 +570,7 @@ https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
 #EXTINF:-1 tvg-id="AlFadyTV.us" tvg-logo="https://i.imgur.com/7L0l0iY.png" group-title="Undefined",Al-Fady TV (1080p) [Not 24/7]
 https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Religious",Al-Iman TV (720p)
-https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+https://tv.aliman.id/aliman/live.m3u8
 #EXTINF:-1 tvg-id="AlJawadainTV.iq" tvg-logo="https://i.imgur.com/Eo3UYCK.png" group-title="Religious",Al-Jawadain TV (1080p) [Not 24/7]
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMahdiTV.us" tvg-logo="https://i.imgur.com/S1YM83i.png" group-title="Undefined",Al-MahdiTV (1080p)
