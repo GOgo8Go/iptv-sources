@@ -956,8 +956,6 @@ Canal Siete (720p) [Not 24/7],https://vivo.solumedia.com:19360/canalsiete/canals
 Canal Sur Andalucía 2 (720p),https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 Canal Sur Andalucía (1080p) [Not 24/7],https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 Canal Sur Patagonia (720p),https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
-Cartoon Network,http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
-Cartoon Network Asia (Vietnam Feed) (1080p),http://fpt.vthanhtivi.pw/cartoon/index.m3u8
 Cartoon Network Español,http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 Cartoon Network FreeLive Brazil 2 (720p),https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
 Cartoon Network FreeLive Brazil (720p),https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
@@ -1079,7 +1077,6 @@ Cinema One (1080p),https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 Cinema Segreto,https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
 CinemaWorld (576p),http://210.210.155.37/dr9445/h/h04/index.m3u8
 CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
-Cinemax Asia (Vietnam),http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 Cinemax East (360p),http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 Cinerama TV (480p) [Not 24/7],https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 Cinevault 80s (720p),https://lnc-cinevault-80s.tubi.video/playlist.m3u8
@@ -1726,7 +1723,6 @@ Gospel TV India (720p),http://live.adostream.com:1935/gospeltv/gospeltv/playlist
 Gosree Vision (576p) [Not 24/7],https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
 GoTV (576p) [Not 24/7],https://nstream17.gotv.at:1443/live/gotvlive/manifest.mpd
 Government of Saint Lucia (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC4al3A_gysYEIzAM1L2qZbg.m3u8
-GPR TV (720p),https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 GQ (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 Grace Family TV (720p),https://gracefamilytv.livebox.co.in/gracefamilytvhls/live.m3u8
 Grace Network (720p),https://livecdn.live247stream.com/grace/tv/playlist.m3u8
@@ -2135,20 +2131,12 @@ KBC Channel 1 (720p) [Not 24/7],https://ythls.armelin.one/channel/UCypNjM5hP1qcU
 KBC News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8
 KBEV Spectrum Channel 6 [Beverly Hills] (1080p),https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
 KBRI Brighton Channel 8 (Brighton CO) (720p),https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/brightonco/G0883_001/playlist.m3u8
-KBS1 (720p),https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
-KBS1 (Busan) (720p),https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
-KBS1 (Daegu) (720p),https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
-KBS1 (Daejeon) (720p),https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
-KBS1 (Gwangju) (720p),https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
-KBS1 (Ulsan) (720p),https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
 KBS 1TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/1.php
 KBS 2TV [Not 24/7],http://mytv.dothome.co.kr/ch/public/3.php
 KBS Drama (480p),http://mytv.dothome.co.kr/ch/catv/2.php
 KBS Joy (480p),http://mytv.dothome.co.kr/ch/catv/3.php
-KBS Kids (480p),https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
 KBS Life (480p),http://mytv.dothome.co.kr/ch/catv/5.php
 KBS LiveCam DokDo (540p),http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-KBS News D (720p),https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
 KBS Story (480p),http://mytv.dothome.co.kr/ch/catv/4.php
 KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
 KC2 (720p) [Not 24/7],http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
@@ -4280,7 +4268,6 @@ Three Angels Broadcasting Network International (3ABN) (720p),https://3abn-live.
 Three Angels Broadcasting Network Kids Network (3ABN) (720p),https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 Three Angels Broadcasting Network Latino (3ABN) (720p),https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
 Three Angels Broadcasting Network Praise Him Music Network (3ABN) (720p),https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
-Thrill (720p),https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 Thua Thien Hue TV (404p),https://live.trt.com.vn/TRT-Online/playlist.m3u8
 Tiankov Folk (576p),https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 Tiankov Orient Folk (576p),https://streamer103.neterra.tv/tiankov-orient/live.m3u8
