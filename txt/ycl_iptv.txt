@@ -1,50 +1,44 @@
 YueChan_Live IPTV,#genre#
-CCTV-1,https://itv.lat/tv/live.php?&line=1&id=cctv1
-CCTV-2,https://itv.lat/tv/live.php?&line=1&id=cctv2
-CCTV-3,https://itv.lat/tv/live.php?&line=1&id=cctv3
-CCTV-4,https://itv.lat/tv/live.php?&line=1&id=cctv4
-CCTV-5,https://itv.lat/tv/live.php?&line=1&id=cctv5
-CCTV-5+,https://itv.lat/tv/live.php?&line=1&id=cctv5p
-CCTV-6,https://itv.lat/tv/live.php?&line=1&id=cctv6
-CCTV-7,https://itv.lat/tv/live.php?&line=1&id=cctv7
-CCTV-8,https://itv.lat/tv/live.php?&line=1&id=cctv8
-CCTV-9,https://itv.lat/tv/live.php?&line=1&id=cctv9
-CCTV-10,https://itv.lat/tv/live.php?&line=1&id=cctv10
-CCTV-11,https://itv.lat/tv/live.php?&line=1&id=cctv11
-CCTV-12,https://itv.lat/tv/live.php?&line=1&id=cctv12
-CCTV-13,https://itv.lat/tv/live.php?&line=1&id=cctv13
-CCTV-14,https://itv.lat/tv/live.php?&line=1&id=cctv14
-CCTV-15,https://itv.lat/tv/live.php?&line=1&id=cctv15
-CCTV-16,https://itv.lat/tv/live.php?&line=1&id=cctv16
-CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
-CCTV-4K,https://itv.lat/tv/live.php?&line=1&id=cctv4K
+CCTV-1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV-2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV-12,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV-14,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV-16,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
+CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 澳门澳视,https://iptv.hiper25.com/TDM/video.m3u8
-北京卫视,https://itv.lat/tv/live.php?&line=1&id=bjws
-东方卫视,https://itv.lat/tv/live.php?&line=1&id=dfws
-天津卫视,https://itv.lat/tv/live.php?&line=1&id=tjws
-重庆卫视,https://itv.lat/tv/live.php?&line=1&id=cqws
-龙江卫视,https://itv.lat/tv/live.php?&line=1&id=hljws
-辽宁卫视,https://itv.lat/tv/live.php?&line=1&id=lnws
-甘肃卫视,https://itv.lat/tv/live.php?&line=1&id=gsws
-山东卫视,https://itv.lat/tv/live.php?&line=1&id=sdws
-安徽卫视,https://itv.lat/tv/live.php?&line=1&id=ahws
-湖南卫视,https://itv.lat/tv/live.php?&line=1&id=hunws
-江苏卫视,https://itv.lat/tv/live.php?&line=1&id=jsws
-浙江卫视,https://itv.lat/tv/live.php?&line=1&id=zjws
-海峡卫视,https://itv.lat/tv/live.php?&line=1&id=hxws
-广东卫视,https://itv.lat/tv/live.php?&line=1&id=gdws
-深圳卫视,https://itv.lat/tv/live.php?&line=1&id=szws
-广西卫视,https://itv.lat/tv/live.php?&line=1&id=gxws
-云南卫视,https://itv.lat/tv/live.php?&line=1&id=ynws
-四川卫视,https://itv.lat/tv/live.php?&line=1&id=scws
-三沙卫视,https://itv.lat/tv/live.php?&line=1&id=ssws
-CETV1,https://itv.lat/tv/live.php?&line=1&id=cetv1
-CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
+北京卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+东方卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+天津卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+辽宁卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+山东卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+安徽卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+湖南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+江苏卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+广东卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+深圳卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+广西卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+四川卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+湖北卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
@@ -52,7 +46,7 @@ CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
+金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 湖南视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
@@ -61,24 +55,6 @@ CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 湖南教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
-上海新综,https://itv.lat/tv/live.php?&line=1&id=shxwzh
-上海都市,https://itv.lat/tv/live.php?&line=1&id=shds
-上海外语,https://itv.lat/tv/live.php?&line=1&id=shics
-东方影视,https://itv.lat/tv/live.php?&line=1&id=dfys
-七彩戏剧,https://itv.lat/tv/live.php?&line=1&id=qcxj
-第一财经,https://itv.lat/tv/live.php?&line=1&id=dycj
-法治天地,https://itv.lat/tv/live.php?&line=1&id=fztd
-东方财经,https://itv.lat/tv/live.php?&line=1&id=dfcj
-上海教育,https://itv.lat/tv/live.php?&line=1&id=shjy
-福建综合,https://itv.lat/tv/live.php?&line=1&id=fjzh
-福建新闻,https://itv.lat/tv/live.php?&line=1&id=fjxw
-福建视剧,https://itv.lat/tv/live.php?&line=1&id=fjdsj
-福建文体,https://itv.lat/tv/live.php?&line=1&id=fjwt
-福建少儿,https://itv.lat/tv/live.php?&line=1&id=fjse
-福建旅游,https://itv.lat/tv/live.php?&line=1&id=fjly
-福建经济,https://itv.lat/tv/live.php?&line=1&id=fjjj
-福建公共,https://itv.lat/tv/live.php?&line=1&id=fjgg
-福建教育,https://itv.lat/tv/live.php?&line=1&id=fjjy
 湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
@@ -98,32 +74,6 @@ CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-纪实科教,https://itv.lat/tv/live.php?&line=1&id=bjjskj
-纪实人文,https://itv.lat/tv/live.php?&line=1&id=shjsrw
-动漫秀场,https://itv.lat/tv/live.php?&line=1&id=dmxc
-哈哈炫动,https://itv.lat/tv/live.php?&line=1&id=hhxd
-欢笑剧场,https://itv.lat/tv/live.php?&line=1&id=hxjc
-都市剧场,https://itv.lat/tv/live.php?&line=1&id=dsjc
-五星体育,https://itv.lat/tv/live.php?&line=1&id=wxty
-劲爆体育,https://itv.lat/tv/live.php?&line=1&id=jbty
-新视觉,https://itv.lat/tv/live.php?&line=1&id=xsj
-游戏风云,https://itv.lat/tv/live.php?&line=1&id=yxfy
-生活时尚,https://itv.lat/tv/live.php?&line=1&id=shss
-金色学堂,https://itv.lat/tv/live.php?&line=1&id=jspd
-乐游频道,https://itv.lat/tv/live.php?&line=1&id=qjs
-魅力足球,https://itv.lat/tv/live.php?&line=1&id=mlzq
-茶友频道,https://itv.lat/tv/live.php?&line=1&id=cpd
-快乐垂钓,https://itv.lat/tv/live.php?&line=1&id=klcd
-金鹰纪实,https://itv.lat/tv/live.php?&line=1&id=jyjs
-华语影院,https://itv.lat/tv/live.php?&line=1&id=hyyy
-电竞天堂,https://itv.lat/tv/live.php?&line=1&id=djtt
-青春动漫,https://itv.lat/tv/live.php?&line=1&id=qcdm
-星光影院,https://itv.lat/tv/live.php?&line=1&id=xgyy
-谍战剧场,https://itv.lat/tv/live.php?&line=1&id=dzjc
-全球大片,https://itv.lat/tv/live.php?&line=1&id=qqdp
-热门剧场,https://itv.lat/tv/live.php?&line=1&id=rmjc
-热门综艺,https://itv.lat/tv/live.php?&line=1&id=rmzy
-戏曲精选,https://itv.lat/tv/live.php?&line=1&id=xqjx
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -180,9 +130,6 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Disney International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-Star Movies,http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
-BBC America,https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 Cinemax East,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 HBO Plus,http://170.254.18.106/HBO_PLUS/index.m3u8
@@ -224,3 +171,6 @@ Documentary+,https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
 Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 Travelxp,https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
+The Guardian,https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
+The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
+NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
