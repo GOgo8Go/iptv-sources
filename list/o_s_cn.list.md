@@ -557,5 +557,6 @@
 | 551 | 山西法治 | [山西法治](http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8) |
 | 552 | 山西文体 | [山西文体](http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8) |
 | 553 | Ando TV (576p) | [Ando TV (576p)](http://119.1.122.186:4022/rtp/238.255.2.189:5999) |
+| 554 | Liangshan TV | [Liangshan TV](http://118.122.2.29:9999/hls/47/index.m3u8) |
 
-Updated at **Thu Apr 11 2024 08:18:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 11 2024 16:16:26 GMT+0000 (Coordinated Universal Time)**
