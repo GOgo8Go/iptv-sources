@@ -4,129 +4,68 @@
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | CCTV-1 综合 | [CCTV-1 综合](https://itv.lat/tv/live.php?&line=1&id=cctv1) |
-| 2 | CCTV-2 财经 | [CCTV-2 财经](https://itv.lat/tv/live.php?&line=1&id=cctv2) |
-| 3 | CCTV-3 综艺 | [CCTV-3 综艺](https://itv.lat/tv/live.php?&line=1&id=cctv3) |
-| 4 | CCTV-4 中文国际 | [CCTV-4 中文国际](https://itv.lat/tv/live.php?&line=1&id=cctv4) |
-| 5 | CCTV-5 体育 | [CCTV-5 体育](https://itv.lat/tv/live.php?&line=1&id=cctv5) |
-| 6 | CCTV-5+ 体育赛事 | [CCTV-5+ 体育赛事](https://itv.lat/tv/live.php?&line=1&id=cctv5p) |
-| 7 | CCTV-6 电影 | [CCTV-6 电影](https://itv.lat/tv/live.php?&line=1&id=cctv6) |
-| 8 | CCTV-7 国防军事 | [CCTV-7 国防军事](https://itv.lat/tv/live.php?&line=1&id=cctv7) |
-| 9 | CCTV-8 电视剧 | [CCTV-8 电视剧](https://itv.lat/tv/live.php?&line=1&id=cctv8) |
-| 10 | CCTV-9 纪录 | [CCTV-9 纪录](https://itv.lat/tv/live.php?&line=1&id=cctv9) |
-| 11 | CCTV-10 科教 | [CCTV-10 科教](https://itv.lat/tv/live.php?&line=1&id=cctv10) |
-| 12 | CCTV-11 戏曲 | [CCTV-11 戏曲](https://itv.lat/tv/live.php?&line=1&id=cctv11) |
-| 13 | CCTV-12 社会与法 | [CCTV-12 社会与法](https://itv.lat/tv/live.php?&line=1&id=cctv12) |
-| 14 | CCTV-13 新闻 | [CCTV-13 新闻](https://itv.lat/tv/live.php?&line=1&id=cctv13) |
-| 15 | CCTV-14 少儿 | [CCTV-14 少儿](https://itv.lat/tv/live.php?&line=1&id=cctv14) |
-| 16 | CCTV-15 音乐 | [CCTV-15 音乐](https://itv.lat/tv/live.php?&line=1&id=cctv15) |
-| 17 | CCTV-16 奥林匹克 | [CCTV-16 奥林匹克](https://itv.lat/tv/live.php?&line=1&id=cctv16) |
-| 18 | CCTV-17 农业农村 | [CCTV-17 农业农村](https://itv.lat/tv/live.php?&line=1&id=cctv17) |
-| 19 | CCTV-4K 超高清 | [CCTV-4K 超高清](https://itv.lat/tv/live.php?&line=1&id=cctv4k) |
-| 20 | CCTV-16 奥林匹克 4K | [CCTV-16 奥林匹克 4K](https://itv.lat/tv/live.php?&line=1&id=cctv164k) |
-| 21 | CGTN | [CGTN](https://itv.lat/tv/live.php?&line=1&id=cgtn) |
-| 22 | 北京卫视 | [北京卫视](https://itv.lat/tv/live.php?&line=1&id=bjws) |
-| 23 | 东方卫视 | [东方卫视](https://itv.lat/tv/live.php?&line=1&id=dfws) |
-| 24 | 天津卫视 | [天津卫视](https://itv.lat/tv/live.php?&line=1&id=tjws) |
-| 25 | 重庆卫视 | [重庆卫视](https://itv.lat/tv/live.php?&line=1&id=cqws) |
-| 26 | 黑龙江卫视 | [黑龙江卫视](https://itv.lat/tv/live.php?&line=1&id=hljws) |
-| 27 | 吉林卫视 | [吉林卫视](https://itv.lat/tv/live.php?&line=1&id=jlws) |
-| 28 | 辽宁卫视 | [辽宁卫视](https://itv.lat/tv/live.php?&line=1&id=lnws) |
-| 29 | 内蒙古卫视 | [内蒙古卫视](https://itv.lat/tv/live.php?&line=1&id=nmws) |
-| 30 | 宁夏卫视 | [宁夏卫视](https://itv.lat/tv/live.php?&line=1&id=nxws) |
-| 31 | 甘肃卫视 | [甘肃卫视](https://itv.lat/tv/live.php?&line=1&id=gsws) |
-| 32 | 青海卫视 | [青海卫视](https://itv.lat/tv/live.php?&line=1&id=qhws) |
-| 33 | 陕西卫视 | [陕西卫视](https://itv.lat/tv/live.php?&line=1&id=sxws) |
-| 34 | 河北卫视 | [河北卫视](https://itv.lat/tv/live.php?&line=1&id=hbws) |
-| 35 | 山西卫视 | [山西卫视](https://itv.lat/tv/live.php?&line=1&id=sxiws) |
-| 36 | 山东卫视 | [山东卫视](https://itv.lat/tv/live.php?&line=1&id=sdws) |
-| 37 | 安徽卫视 | [安徽卫视](https://itv.lat/tv/live.php?&line=1&id=ahws) |
-| 38 | 河南卫视 | [河南卫视](https://itv.lat/tv/live.php?&line=1&id=hnws) |
-| 39 | 湖北卫视 | [湖北卫视](https://itv.lat/tv/live.php?&line=1&id=hubws) |
-| 40 | 湖南卫视 | [湖南卫视](https://itv.lat/tv/live.php?&line=1&id=hunws) |
-| 41 | 江西卫视 | [江西卫视](https://itv.lat/tv/live.php?&line=1&id=jxws) |
-| 42 | 江苏卫视 | [江苏卫视](https://itv.lat/tv/live.php?&line=1&id=jsws) |
-| 43 | 浙江卫视 | [浙江卫视](https://itv.lat/tv/live.php?&line=1&id=zjws) |
-| 44 | 东南卫视 | [东南卫视](https://itv.lat/tv/live.php?&line=1&id=dnws) |
-| 45 | 海峡卫视 | [海峡卫视](https://itv.lat/tv/live.php?&line=1&id=hxws) |
-| 46 | 厦门卫视 | [厦门卫视](https://itv.lat/tv/live.php?&line=1&id=xmws) |
-| 47 | 广东卫视 | [广东卫视](https://itv.lat/tv/live.php?&line=1&id=gdws) |
-| 48 | 深圳卫视 | [深圳卫视](https://itv.lat/tv/live.php?&line=1&id=szws) |
-| 49 | 广西卫视 | [广西卫视](https://itv.lat/tv/live.php?&line=1&id=gxws) |
-| 50 | 云南卫视 | [云南卫视](https://itv.lat/tv/live.php?&line=1&id=ynws) |
-| 51 | 贵州卫视 | [贵州卫视](https://itv.lat/tv/live.php?&line=1&id=gzws) |
-| 52 | 四川卫视 | [四川卫视](https://itv.lat/tv/live.php?&line=1&id=scws) |
-| 53 | 康巴卫视 | [康巴卫视](https://itv.lat/tv/live.php?&line=1&id=kbws) |
-| 54 | 海南卫视 | [海南卫视](https://itv.lat/tv/live.php?&line=1&id=hinws) |
-| 55 | 三沙卫视 | [三沙卫视](https://itv.lat/tv/live.php?&line=1&id=ssws) |
-| 56 | 新疆卫视 | [新疆卫视](https://itv.lat/tv/live.php?&line=1&id=xjws) |
-| 57 | 兵团卫视 | [兵团卫视](https://itv.lat/tv/live.php?&line=1&id=btws) |
-| 58 | 西藏卫视 | [西藏卫视](https://itv.lat/tv/live.php?&line=1&id=xzws) |
-| 59 | 西藏藏语卫视 | [西藏藏语卫视](https://itv.lat/tv/live.php?&line=1&id=xzzyws) |
-| 60 | CETV1 | [CETV1](https://itv.lat/tv/live.php?&line=1&id=cetv1) |
-| 61 | CETV2 | [CETV2](https://itv.lat/tv/live.php?&line=1&id=cetv2) |
-| 62 | CETV4 | [CETV4](https://itv.lat/tv/live.php?&line=1&id=cetv4) |
-| 63 | 北京纪实科教 | [北京纪实科教](https://itv.lat/tv/live.php?&line=1&id=bjjskj) |
-| 64 | 纪实人文 | [纪实人文](https://itv.lat/tv/live.php?&line=1&id=shjsrw) |
-| 65 | 动漫秀场 | [动漫秀场](https://itv.lat/tv/live.php?&line=1&id=dmxc) |
-| 66 | 哈哈炫动 | [哈哈炫动](https://itv.lat/tv/live.php?&line=1&id=hhxd) |
-| 67 | 欢笑剧场 | [欢笑剧场](https://itv.lat/tv/live.php?&line=1&id=hxjc) |
-| 68 | 欢笑剧场 4K | [欢笑剧场 4K](https://itv.lat/tv/live.php?&line=1&id=hxjc4k) |
-| 69 | 都市剧场 | [都市剧场](https://itv.lat/tv/live.php?&line=1&id=dsjc) |
-| 70 | 五星体育 | [五星体育](https://itv.lat/tv/live.php?&line=1&id=wxty) |
-| 71 | 劲爆体育 | [劲爆体育](https://itv.lat/tv/live.php?&line=1&id=jbty) |
-| 72 | 新视觉 | [新视觉](https://itv.lat/tv/live.php?&line=1&id=xsj) |
-| 73 | 游戏风云 | [游戏风云](https://itv.lat/tv/live.php?&line=1&id=yxfy) |
-| 74 | 生活时尚 | [生活时尚](https://itv.lat/tv/live.php?&line=1&id=shss) |
-| 75 | 金色学堂 | [金色学堂](https://itv.lat/tv/live.php?&line=1&id=jspd) |
-| 76 | 乐游 | [乐游](https://itv.lat/tv/live.php?&line=1&id=qjs) |
-| 77 | 魅力足球 | [魅力足球](https://itv.lat/tv/live.php?&line=1&id=mlzq) |
-| 78 | 茶频道 | [茶频道](https://itv.lat/tv/live.php?&line=1&id=cpd) |
-| 79 | 快乐垂钓 | [快乐垂钓](https://itv.lat/tv/live.php?&line=1&id=klcd) |
-| 80 | 金鹰纪实 | [金鹰纪实](https://itv.lat/tv/live.php?&line=1&id=jyjs) |
-| 81 | 金鹰卡通 | [金鹰卡通](https://itv.lat/tv/live.php?&line=1&id=jykt) |
-| 82 | 嘉佳卡通 | [嘉佳卡通](https://itv.lat/tv/live.php?&line=1&id=jjkt) |
-| 83 | 财富天下 | [财富天下](https://itv.lat/tv/live.php?&line=1&id=cftx) |
-| 84 | 中国天气 | [中国天气](https://itv.lat/tv/live.php?&line=1&id=zgtq) |
-| 85 | 上海新闻综合 | [上海新闻综合](https://itv.lat/tv/live.php?&line=1&id=shxwzh) |
-| 86 | 上海都市 | [上海都市](https://itv.lat/tv/live.php?&line=1&id=shds) |
-| 87 | 上海ICS外语 | [上海ICS外语](https://itv.lat/tv/live.php?&line=1&id=shics) |
-| 88 | 东方影视 | [东方影视](https://itv.lat/tv/live.php?&line=1&id=dfys) |
-| 89 | 七彩戏剧 | [七彩戏剧](https://itv.lat/tv/live.php?&line=1&id=qcxj) |
-| 90 | 第一财经 | [第一财经](https://itv.lat/tv/live.php?&line=1&id=dycj) |
-| 91 | 法治天地 | [法治天地](https://itv.lat/tv/live.php?&line=1&id=fztd) |
-| 92 | 东方财经 | [东方财经](https://itv.lat/tv/live.php?&line=1&id=dfcj) |
-| 93 | 上海教育 | [上海教育](https://itv.lat/tv/live.php?&line=1&id=shjy) |
-| 94 | 东方购物 | [东方购物](https://itv.lat/tv/live.php?&line=1&id=dfgw) |
-| 95 | 浦东电视台 | [浦东电视台](https://itv.lat/tv/live.php?&line=1&id=pdtv) |
-| 96 | 福建综合 | [福建综合](https://itv.lat/tv/live.php?&line=1&id=fjzh) |
-| 97 | 福建新闻 | [福建新闻](https://itv.lat/tv/live.php?&line=1&id=fjxw) |
-| 98 | 福建电视剧 | [福建电视剧](https://itv.lat/tv/live.php?&line=1&id=fjdsj) |
-| 99 | 福建文体 | [福建文体](https://itv.lat/tv/live.php?&line=1&id=fjwt) |
-| 100 | 福建少儿 | [福建少儿](https://itv.lat/tv/live.php?&line=1&id=fjse) |
-| 101 | 福建旅游 | [福建旅游](https://itv.lat/tv/live.php?&line=1&id=fjly) |
-| 102 | 福建经济 | [福建经济](https://itv.lat/tv/live.php?&line=1&id=fjjj) |
-| 103 | 福建公共 | [福建公共](https://itv.lat/tv/live.php?&line=1&id=fjgg) |
-| 104 | 福建教育 | [福建教育](https://itv.lat/tv/live.php?&line=1&id=fjjy) |
-| 105 | 看天下精选 | [看天下精选](https://itv.lat/tv/live.php?&line=1&id=ktxjx) |
-| 106 | 华语影院 | [华语影院](https://itv.lat/tv/live.php?&line=1&id=hyyy) |
-| 107 | 电竞天堂 | [电竞天堂](https://itv.lat/tv/live.php?&line=1&id=djtt) |
-| 108 | 青春动漫 | [青春动漫](https://itv.lat/tv/live.php?&line=1&id=qcdm) |
-| 109 | 星光影院 | [星光影院](https://itv.lat/tv/live.php?&line=1&id=xgyy) |
-| 110 | 谍战剧场 | [谍战剧场](https://itv.lat/tv/live.php?&line=1&id=dzjc) |
-| 111 | 全球大片 | [全球大片](https://itv.lat/tv/live.php?&line=1&id=qqdp) |
-| 112 | 热门剧场 | [热门剧场](https://itv.lat/tv/live.php?&line=1&id=rmjc) |
-| 113 | 热门综艺 | [热门综艺](https://itv.lat/tv/live.php?&line=1&id=rmzy) |
-| 114 | 戏曲精选 | [戏曲精选](https://itv.lat/tv/live.php?&line=1&id=xqjx) |
-| 115 | 健康养生 | [健康养生](https://itv.lat/tv/live.php?&line=1&id=jkys) |
-| 116 | 百变课堂 | [百变课堂](https://itv.lat/tv/live.php?&line=1&id=bbkt) |
-| 117 | 宝宝动画 | [宝宝动画](https://itv.lat/tv/live.php?&line=1&id=bbdh) |
-| 118 | 百视通体育1 | [百视通体育1](https://itv.lat/tv/live.php?&line=1&id=sport1) |
-| 119 | 百视通体育2 | [百视通体育2](https://itv.lat/tv/live.php?&line=1&id=sport2) |
-| 120 | 百视通体育3 | [百视通体育3](https://itv.lat/tv/live.php?&line=1&id=sport3) |
-| 121 | 百视通体育4 | [百视通体育4](https://itv.lat/tv/live.php?&line=1&id=sport4) |
-| 122 | 百视通体育5 | [百视通体育5](https://itv.lat/tv/live.php?&line=1&id=sport5) |
-| 123 | 百视通体育6 | [百视通体育6](https://itv.lat/tv/live.php?&line=1&id=sport6) |
-| 124 | 百视通体育7 | [百视通体育7](https://itv.lat/tv/live.php?&line=1&id=sport7) |
+| 1 | CCTV-1 综合 | [CCTV-1 综合](https://pi.0472.org/live/cctv1.m3u8?token=240411) |
+| 2 | CCTV-2 财经 | [CCTV-2 财经](https://pi.0472.org/live/cctv2.m3u8?token=240411) |
+| 3 | CCTV-3 综艺 | [CCTV-3 综艺](https://pi.0472.org/live/cctv3.m3u8?token=240411) |
+| 4 | CCTV-4 国际 | [CCTV-4 国际](https://pi.0472.org/live/cctv4.m3u8?token=240411) |
+| 5 | CCTV-5 体育 | [CCTV-5 体育](https://pi.0472.org/live/cctv5.m3u8?token=240411) |
+| 6 | CCTV-5+ 体育赛事 | [CCTV-5+ 体育赛事](https://pi.0472.org/live/cctv5p.m3u8?token=240411) |
+| 7 | CCTV-6 电影 | [CCTV-6 电影](https://pi.0472.org/live/cctv6.m3u8?token=240411) |
+| 8 | CCTV-7 国防军事 | [CCTV-7 国防军事](https://pi.0472.org/live/cctv7.m3u8?token=240411) |
+| 9 | CCTV-8 电视剧 | [CCTV-8 电视剧](https://pi.0472.org/live/cctv8.m3u8?token=240411) |
+| 10 | CCTV-9 记录 | [CCTV-9 记录](https://pi.0472.org/live/cctv9.m3u8?token=240411) |
+| 11 | CCTV-10 科教 | [CCTV-10 科教](https://pi.0472.org/live/cctv10.m3u8?token=240411) |
+| 12 | CCTV-11 戏曲 | [CCTV-11 戏曲](https://pi.0472.org/live/cctv11.m3u8?token=240411) |
+| 13 | CCTV-12 社会与法 | [CCTV-12 社会与法](https://pi.0472.org/live/cctv12.m3u8?token=240411) |
+| 14 | CCTV-13 新闻 | [CCTV-13 新闻](https://pi.0472.org/live/cctv13.m3u8?token=240411) |
+| 15 | CCTV-14 少儿 | [CCTV-14 少儿](https://pi.0472.org/live/cctv14.m3u8?token=240411) |
+| 16 | CCTV-15 音乐 | [CCTV-15 音乐](https://pi.0472.org/live/cctv15.m3u8?token=240411) |
+| 17 | CCTV-16 奥林匹克 | [CCTV-16 奥林匹克](https://pi.0472.org/live/cctv16.m3u8?token=240411) |
+| 18 | CCTV-16 奥林匹克4K | [CCTV-16 奥林匹克4K](https://pi.0472.org/live/cctv16-4k.m3u8?token=240411) |
+| 19 | CCTV-17 农业农村 | [CCTV-17 农业农村](https://pi.0472.org/live/cctv17.m3u8?token=240411) |
+| 20 | CCTV-4K 超高清 | [CCTV-4K 超高清](https://pi.0472.org/live/cctv4k.m3u8?token=240411) |
+| 21 | CCTV-8K 超高清 | [CCTV-8K 超高清](https://pi.0472.org/live/cctv8k.m3u8?token=240411) |
+| 22 | CCTV兵器科技 | [CCTV兵器科技](https://pi.0472.org/live/bqkj.m3u8?token=240411) |
+| 23 | CCTV第一剧场 | [CCTV第一剧场](https://pi.0472.org/live/dyjc.m3u8?token=240411) |
+| 24 | CCTV怀旧剧场 | [CCTV怀旧剧场](https://pi.0472.org/live/hjjc.m3u8?token=240411) |
+| 25 | CCTV风云剧场 | [CCTV风云剧场](https://pi.0472.org/live/fyjc.m3u8?token=240411) |
+| 26 | CCTV风云音乐 | [CCTV风云音乐](https://pi.0472.org/live/fyyy.m3u8?token=240411) |
+| 27 | CCTV风云足球 | [CCTV风云足球](https://pi.0472.org/live/fyzq.m3u8?token=240411) |
+| 28 | CCTV电视指南 | [CCTV电视指南](https://pi.0472.org/live/dszn.m3u8?token=240411) |
+| 29 | CCTV女性时尚 | [CCTV女性时尚](https://pi.0472.org/live/nxss.m3u8?token=240411) |
+| 30 | CCTV央视文化精品 | [CCTV央视文化精品](https://pi.0472.org/live/whjp.m3u8?token=240411) |
+| 31 | CCTV世界地理 | [CCTV世界地理](https://pi.0472.org/live/sjdl.m3u8?token=240411) |
+| 32 | CCTV高尔夫网球 | [CCTV高尔夫网球](https://pi.0472.org/live/gefwq.m3u8?token=240411) |
+| 33 | CCTV央视台球 | [CCTV央视台球](https://pi.0472.org/live/ystq.m3u8?token=240411) |
+| 34 | CCTV卫生健康 | [CCTV卫生健康](https://pi.0472.org/live/wsjk.m3u8?token=240411) |
+| 35 | CGTN英语 | [CGTN英语](https://pi.0472.org/live/cgtn.m3u8?token=240411) |
+| 36 | CGTN纪录 | [CGTN纪录](https://pi.0472.org/live/cgtnjl.m3u8?token=240411) |
+| 37 | CGTN西语 | [CGTN西语](https://pi.0472.org/live/cgtne.m3u8?token=240411) |
+| 38 | CGTN法语 | [CGTN法语](https://pi.0472.org/live/cgtnf.m3u8?token=240411) |
+| 39 | CGTN阿语 | [CGTN阿语](https://pi.0472.org/live/cgtna.m3u8?token=240411) |
+| 40 | CGTN俄语 | [CGTN俄语](https://pi.0472.org/live/cgtnr.m3u8?token=240411) |
+| 41 | 北京卫视 | [北京卫视](https://pi.0472.org/live/bjws.m3u8?token=240411) |
+| 42 | 东方卫视 | [东方卫视](https://pi.0472.org/live/dfws.m3u8?token=240411) |
+| 43 | 天津卫视 | [天津卫视](https://pi.0472.org/live/tjws.m3u8?token=240411) |
+| 44 | 重庆卫视 | [重庆卫视](https://pi.0472.org/live/cqws.m3u8?token=240411) |
+| 45 | 黑龙江卫视 | [黑龙江卫视](https://pi.0472.org/live/hljws.m3u8?token=240411) |
+| 46 | 辽宁卫视 | [辽宁卫视](https://pi.0472.org/live/lnws.m3u8?token=240411) |
+| 47 | 河北卫视 | [河北卫视](https://pi.0472.org/live/hbws.m3u8?token=240411) |
+| 48 | 山东卫视 | [山东卫视](https://pi.0472.org/live/sdws.m3u8?token=240411) |
+| 49 | 安徽卫视 | [安徽卫视](https://pi.0472.org/live/ahws.m3u8?token=240411) |
+| 50 | 河南卫视 | [河南卫视](https://pi.0472.org/live/hnws.m3u8?token=240411) |
+| 51 | 湖北卫视 | [湖北卫视](https://pi.0472.org/live/hubws.m3u8?token=240411) |
+| 52 | 湖南卫视 | [湖南卫视](https://pi.0472.org/live/hunws.m3u8?token=240411) |
+| 53 | 江西卫视 | [江西卫视](https://pi.0472.org/live/jxws.m3u8?token=240411) |
+| 54 | 江苏卫视 | [江苏卫视](https://pi.0472.org/live/jsws.m3u8?token=240411) |
+| 55 | 浙江卫视 | [浙江卫视](https://pi.0472.org/live/zjws.m3u8?token=240411) |
+| 56 | 东南卫视 | [东南卫视](https://pi.0472.org/live/dnws.m3u8?token=240411) |
+| 57 | 广东卫视 | [广东卫视](https://pi.0472.org/live/gdws.m3u8?token=240411) |
+| 58 | 深圳卫视 | [深圳卫视](https://pi.0472.org/live/szws.m3u8?token=240411) |
+| 59 | 广西卫视 | [广西卫视](https://pi.0472.org/live/gxws.m3u8?token=240411) |
+| 60 | 贵州卫视 | [贵州卫视](https://pi.0472.org/live/gzws.m3u8?token=240411) |
+| 61 | 四川卫视 | [四川卫视](https://pi.0472.org/live/scws.m3u8?token=240411) |
+| 62 | 新疆卫视 | [新疆卫视](https://pi.0472.org/live/xjws.m3u8?token=240411) |
+| 63 | 海南卫视 | [海南卫视](https://pi.0472.org/live/hinws.m3u8?token=240411) |
 
-Updated at **Thu Apr 11 2024 16:16:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 12 2024 01:03:49 GMT+0000 (Coordinated Universal Time)**
