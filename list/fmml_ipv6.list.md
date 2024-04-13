@@ -68,4 +68,4 @@
 | 62 | 新疆卫视 | [新疆卫视](https://pi.0472.org/live/xjws.m3u8?token=240411) |
 | 63 | 海南卫视 | [海南卫视](https://pi.0472.org/live/hinws.m3u8?token=240411) |
 
-Updated at **Sat Apr 13 2024 00:53:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 13 2024 08:13:48 GMT+0000 (Coordinated Universal Time)**
