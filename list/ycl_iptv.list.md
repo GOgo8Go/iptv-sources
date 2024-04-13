@@ -180,4 +180,4 @@
 | 174 | The Lego Channel | [The Lego Channel](https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8) |
 | 175 | NextUp Live Comedy | [NextUp Live Comedy](https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8) |
 
-Updated at **Sat Apr 13 2024 08:13:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 13 2024 16:17:49 GMT+0000 (Coordinated Universal Time)**
