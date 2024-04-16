@@ -965,6 +965,7 @@ Cartoon Network FreeLive Latam (720p),https://playout.cdn.cartoonnetwork.com.br/
 Cartoon Network Japan (400p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 Cartoon Network México (720p),https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 Cartoon Network Russia (576p),http://bkm.beetv.kz/btv/live/hls/000000015.m3u8
+Cartoon Network Southeast Asia (1080p),https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 Cartoonito,http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 Cartoonito FreeLive Brazil (720p),https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 Cartoonito FreeLive Latam (720p),https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
@@ -1281,6 +1282,8 @@ DepEd TV (480p),https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlis
 DeporTV (1080p) [Not 24/7],https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 Der Aktionär TV (720p),https://live2.telvi.de/hls/aktionaertv.m3u8
 Derakhte Zendegi TV (404p),http://iran620.com:1935/derakhte-zendegi/test/playlist.m3u8
+DerryTV 17,https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+DerryTV 23,https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Dersim62 TV (720p),http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
 DesheBideshe TV (720p),https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
 Desi Channel (720p),https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
@@ -2298,6 +2301,7 @@ Los Altos Televisión (720p),https://stream.oursnetworktv.com/latin/encoder1/pla
 Los Angeles Local Television Channel 36 (1080p),https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
 Los Santos TV (720p),https://lstv.duckdns.org:449/hls/lstv.m3u8
 Lotte Home Shopping (720p),https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+Lotus Macau HD (1080p) [Not 24/7],https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 Lou'Bess TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCkEyFrOg61vOOEfG6pdRINg.m3u8
 Louga TV (480p),https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
@@ -3853,6 +3857,7 @@ Royal TV (720p),http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 Roze News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCfULVYTlFOpgb5B_bchTz3Q.m3u8
 RPL TV Woerden (720p),https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 RPM (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
+RPTV HD (1080p) [Not 24/7],https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnnph_qp.m3u8
 RRI Net (1080p),https://rrinet.rri.co.id/hls/live.m3u8
 RT Arabic (1080p),https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 RT DE (1080p) [Not 24/7],https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
@@ -3917,6 +3922,11 @@ RTV Maastricht (720p) [Not 24/7],http://stream.rtvmaastricht.nl:8081/rtvm_live/t
 RTVCE (1080p),https://cdnlivevlc.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
 RTД,https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 Sony Sports Ten 1 (1080p),https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+Sony Sports TEN 2 HD (1080p),https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+Sony Sports Ten 3 HD (1080p),https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+Sony Sports Ten 4 HD (1080p),https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+Sony Wah (1080p),https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+Sony Yay! (1080p),https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 Sooriyan TV,https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 Sophia TV (720p),https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
 Sophia TV (720p),https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
@@ -4406,6 +4416,7 @@ TRT Spor Yildiz (720p),https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 TRT Turk,https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
 TRT World (1080p) [Not 24/7],https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 Tru TV,http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
+TV5 HD (1080p),https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 TV5 Kannada (720p) [Not 24/7],https://ythls.armelin.one/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 TV5 Linares (720p),https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 TV5 Monde Asia (Asie) (1080p),https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
