@@ -558,5 +558,6 @@
 | 552 | 山西文体 | [山西文体](http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8) |
 | 553 | Ando TV (576p) | [Ando TV (576p)](http://119.1.122.186:4022/rtp/238.255.2.189:5999) |
 | 554 | Liangshan TV | [Liangshan TV](http://118.122.2.29:9999/hls/47/index.m3u8) |
+| 555 | CCTV4K | [CCTV4K](http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8) |
 
-Updated at **Tue Apr 16 2024 01:02:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 16 2024 08:18:09 GMT+0000 (Coordinated Universal Time)**
