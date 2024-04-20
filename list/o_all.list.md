@@ -89,7 +89,7 @@
 | 83 | 20 Minutes TV | [20 Minutes TV](https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8) |
 | 84 | 23 ABC Bakersfield CA (KERO) (720p) | [23 ABC Bakersfield CA (KERO) (720p)](https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8) |
 | 85 | 24/7 Canal de Noticias (720p) | [24/7 Canal de Noticias (720p)](https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8) |
-| 86 | 24h | [24h](http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8) |
+| 86 | 24h | [24h](http://stream.flynetwifi.com:1936/live/mobile-100/playlist.m3u8) |
 | 87 | 24 Horas (720p) [Not 24/7] | [24 Horas (720p)  Not 24/7](https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8) |
 | 88 | 24 Hour Free Movies (720p) [Not 24/7] | [24 Hour Free Movies (720p)  Not 24/7](https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8) |
 | 89 | 24KZ (720p) [Not 24/7] | [24KZ (720p)  Not 24/7](http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8) |
@@ -157,8 +157,8 @@
 | 151 | A2i Naija (720p) [Not 24/7] | [A2i Naija (720p)  Not 24/7](https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8) |
 | 152 | A2i Religion (720p) [Not 24/7] | [A2i Religion (720p)  Not 24/7](https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8) |
 | 153 | A2i TV (1080p) | [A2i TV (1080p)](https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8) |
-| 154 | A3CINE | [A3CINE](http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8) |
-| 155 | A3 Series | [A3 Series](http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8) |
+| 154 | A3CINE | [A3CINE](http://stream.flynetwifi.com:1936/live/mobile-028/playlist.m3u8) |
+| 155 | A3 Series | [A3 Series](http://stream.flynetwifi.com:1936/live/mobile-047/playlist.m3u8) |
 | 156 | A7TV (1080p) [Not 24/7] | [A7TV (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCWZxOfINa92_vDXXsHZygKA.m3u8) |
 | 157 | A12 TV (720p) | [A12 TV (720p)](https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8) |
 | 158 | A21 Network  Russian Motorsport Television | [A21 Network  Russian Motorsport Television](https://autopilot.catcast.tv/content/37909/index.m3u8) |
@@ -170,7 +170,7 @@
 | 164 | À Punt (720p) | [À Punt (720p)](https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8) |
 | 165 | A Spor (1080p) [Not 24/7] | [A Spor (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8) |
 | 166 | A Türk Izmir (360p) | [A Türk Izmir (360p)](https://vdo.digitalbox.xyz:3807/stream/play.m3u8) |
-| 167 | A&E | [A&E](http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8) |
+| 167 | A&E | [A&E](http://stream.flynetwifi.com:1936/live/mobile-158/playlist.m3u8) |
 | 168 | A&R Canal Adventista (720p) | [A&R Canal Adventista (720p)](http://51.222.9.192:3589/stream/play.m3u8) |
 | 169 | A+ (480p) | [A+ (480p)](https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8) |
 | 170 | A+ Guate (720p) | [A+ Guate (720p)](https://ch2-tva.duin.dev/hls/stream.m3u8) |
@@ -760,14 +760,14 @@
 | 754 | Canal 2 Alpavisión Neiva (720p) [Not 24/7] | [Canal 2 Alpavisión Neiva (720p)  Not 24/7](https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8) |
 | 755 | Canal 2 Cali (720p) | [Canal 2 Cali (720p)](https://video13.virtualtronics.com/streamer/canal2.m3u8) |
 | 756 | Canal 2 de Ushuaia (1080p) | [Canal 2 de Ushuaia (1080p)](https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8) |
-| 757 | Canal 2 ESA | [Canal 2 ESA](http://stream.flynetwifi.com:1935/live/mobile-110/playlist.m3u8) |
+| 757 | Canal 2 ESA | [Canal 2 ESA](http://stream.flynetwifi.com:1936/live/mobile-110/playlist.m3u8) |
 | 758 | Canal 2 International (360p) [Not 24/7] | [Canal 2 International (360p)  Not 24/7](https://rpn3.bozztv.com/ssh101/ssh101/canal2live/playlist.m3u8) |
 | 759 | Canal 2 Jujuy (720p) [Not 24/7] | [Canal 2 Jujuy (720p)  Not 24/7](https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8) |
 | 760 | Canal 2 Misiones (1080p) | [Canal 2 Misiones (1080p)](https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8) |
 | 761 | Canal 2 Perico (480p) | [Canal 2 Perico (480p)](https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8) |
 | 762 | Canal 2 Salta (480p) | [Canal 2 Salta (480p)](https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8) |
 | 763 | Canal 2 Sanagasta (720p) | [Canal 2 Sanagasta (720p)](https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8) |
-| 764 | Canal 3 | [Canal 3](http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8) |
+| 764 | Canal 3 | [Canal 3](http://stream.flynetwifi.com:1936/live/mobile-114/playlist.m3u8) |
 | 765 | Canal 3 (480p) [Not 24/7] | [Canal 3 (480p)  Not 24/7](https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8) |
 | 766 | Canal 3 Bénin (720p) | [Canal 3 Bénin (720p)](https://live.creacast.com/bluediamond/stream/playlist.m3u8) |
 | 767 | Canal 3 Biar (480p) [Not 24/7] | [Canal 3 Biar (480p)  Not 24/7](https://avantstreaming.es/hls/canal3.m3u8) |
@@ -777,7 +777,7 @@
 | 771 | Canal 3 La Pampa (1080p) | [Canal 3 La Pampa (1080p)](https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8) |
 | 772 | Canal 3 Las Heras (720p) | [Canal 3 Las Heras (720p)](https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8) |
 | 773 | Canal 3 Rosario (704p) | [Canal 3 Rosario (704p)](https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8) |
-| 774 | Canal 4 | [Canal 4](http://stream.flynetwifi.com:1935/live/mobile-036/playlist.m3u8) |
+| 774 | Canal 4 | [Canal 4](http://stream.flynetwifi.com:1936/live/mobile-036/playlist.m3u8) |
 | 775 | Canal 4 (480p) [Not 24/7] | [Canal 4 (480p)  Not 24/7](http://138.117.4.70:8075/Canal04_CooTel/playlist.m3u8) |
 | 776 | Canal 4 (720p) [Not 24/7] | [Canal 4 (720p)  Not 24/7](https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8) |
 | 777 | Canal 4 Balcarce (360p) | [Canal 4 Balcarce (360p)](https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8) |
@@ -800,7 +800,7 @@
 | 794 | Canal 5 Puerto Montt (1080p) | [Canal 5 Puerto Montt (1080p)](https://stmv2.zcasthn.com.br/canal5/canal5/playlist.m3u8) |
 | 795 | Canal 5 Santa Fe (240p) | [Canal 5 Santa Fe (240p)](https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8) |
 | 796 | Canal 5 Tucumán (480p) | [Canal 5 Tucumán (480p)](https://videohd.live:19360/8090/8090.m3u8) |
-| 797 | Canal 6 | [Canal 6](http://stream.flynetwifi.com:1935/live/mobile-111/playlist.m3u8) |
+| 797 | Canal 6 | [Canal 6](http://stream.flynetwifi.com:1936/live/mobile-111/playlist.m3u8) |
 | 798 | Canal 6 (480p) | [Canal 6 (480p)](https://envivo.canal6.com.hn/hls/0/stream.m3u8) |
 | 799 | Canal 6 (720p) [Not 24/7] | [Canal 6 (720p)  Not 24/7](https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8) |
 | 800 | Canal 6 CDMX | [Canal 6 CDMX](https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true) |
@@ -812,7 +812,7 @@
 | 806 | Canal 6 Panadish (720p) | [Canal 6 Panadish (720p)](https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8) |
 | 807 | Canal 6 Posadas (1080p) | [Canal 6 Posadas (1080p)](https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8) |
 | 808 | Canal 6 Tecpán (720p) [Not 24/7] | [Canal 6 Tecpán (720p)  Not 24/7](https://stream.oursnetworktv.com/latin/encoder6tecpan/playlist.m3u8) |
-| 809 | Canal 7 | [Canal 7](http://stream.flynetwifi.com:1935/live/mobile-131/playlist.m3u8) |
+| 809 | Canal 7 | [Canal 7](http://stream.flynetwifi.com:1936/live/mobile-131/playlist.m3u8) |
 | 810 | Canal 7 Chubut (720p) [Not 24/7] | [Canal 7 Chubut (720p)  Not 24/7](https://ythls.armelin.one/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8) |
 | 811 | Canal 7 Jujuy (720p) | [Canal 7 Jujuy (720p)](https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8) |
 | 812 | Canal 7 Neuquén (1080p) | [Canal 7 Neuquén (1080p)](https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8) |
@@ -853,7 +853,7 @@
 | 847 | Canal 10 Rio Negro (720p) [Not 24/7] | [Canal 10 Rio Negro (720p)  Not 24/7](http://panel.dattalive.com:1935/8204/8204/playlist.m3u8) |
 | 848 | Canal 10 San Rafael (480p) | [Canal 10 San Rafael (480p)](https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8) |
 | 849 | Canal 10 Televisión Salteña (720p) | [Canal 10 Televisión Salteña (720p)](https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8) |
-| 850 | Canal 11 | [Canal 11](http://stream.flynetwifi.com:1935/live/mobile-132/playlist.m3u8) |
+| 850 | Canal 11 | [Canal 11](http://stream.flynetwifi.com:1936/live/mobile-132/playlist.m3u8) |
 | 851 | Canal 11 (720p) [Not 24/7] | [Canal 11 (720p)  Not 24/7](https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8) |
 | 852 | Canal 11 (720p) [Not 24/7] | [Canal 11 (720p)  Not 24/7](https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8) |
 | 853 | Canal 11 (1080p) | [Canal 11 (1080p)](https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8) |
@@ -862,7 +862,7 @@
 | 856 | Canal 11 Damoa TV Regional (900p) [Not 24/7] | [Canal 11 Damoa TV Regional (900p)  Not 24/7](https://59ce1298bfb98.streamlock.net/damoatv/damoatv/playlist.m3u8) |
 | 857 | Canal 11 de la Costa (720p) | [Canal 11 de la Costa (720p)](https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8) |
 | 858 | Canal 11 La Rioja (Fénix Multiplataforma) (360p) | [Canal 11 La Rioja (Fénix Multiplataforma) (360p)](http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8) |
-| 859 | Canal 12 | [Canal 12](http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8) |
+| 859 | Canal 12 | [Canal 12](http://stream.flynetwifi.com:1936/live/mobile-082/playlist.m3u8) |
 | 860 | Canal 29 TVA (1080p) | [Canal 29 TVA (1080p)](https://vdo.grupolimalive.com:3089/live/tvelive.m3u8) |
 | 861 | Canal 30 Cintalapa (720p) [Not 24/7] | [Canal 30 Cintalapa (720p)  Not 24/7](https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8) |
 | 862 | Canal 30 TV Bethel (720p) [Not 24/7] | [Canal 30 TV Bethel (720p)  Not 24/7](https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8) |
@@ -962,7 +962,7 @@
 | 956 | Canal Sur Andalucía 2 (720p) | [Canal Sur Andalucía 2 (720p)](https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8) |
 | 957 | Canal Sur Andalucía (1080p) [Not 24/7] | [Canal Sur Andalucía (1080p)  Not 24/7](https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8) |
 | 958 | Canal Sur Patagonia (720p) | [Canal Sur Patagonia (720p)](https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8) |
-| 959 | Cartoon Network Español | [Cartoon Network Español](http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8) |
+| 959 | Cartoon Network Español | [Cartoon Network Español](http://stream.flynetwifi.com:1936/live/mobile-029/playlist.m3u8) |
 | 960 | Cartoon Network FreeLive Brazil 2 (720p) | [Cartoon Network FreeLive Brazil 2 (720p)](https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8) |
 | 961 | Cartoon Network FreeLive Brazil (720p) | [Cartoon Network FreeLive Brazil (720p)](https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8) |
 | 962 | Cartoon Network FreeLive Latam 2 (720p) | [Cartoon Network FreeLive Latam 2 (720p)](https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8) |
@@ -971,7 +971,7 @@
 | 965 | Cartoon Network México (720p) | [Cartoon Network México (720p)](https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8) |
 | 966 | Cartoon Network Russia (576p) | [Cartoon Network Russia (576p)](http://bkm.beetv.kz/btv/live/hls/000000015.m3u8) |
 | 967 | Cartoon Network Southeast Asia (1080p) | [Cartoon Network Southeast Asia (1080p)](https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8) |
-| 968 | Cartoonito | [Cartoonito](http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8) |
+| 968 | Cartoonito | [Cartoonito](http://stream.flynetwifi.com:1936/live/mobile-055/playlist.m3u8) |
 | 969 | Cartoonito FreeLive Brazil (720p) | [Cartoonito FreeLive Brazil (720p)](https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8) |
 | 970 | Cartoonito FreeLive Latam (720p) | [Cartoonito FreeLive Latam (720p)](https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8) |
 | 971 | Cartoonito Italy | [Cartoonito Italy](https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8) |
@@ -1077,7 +1077,7 @@
 | 1071 | Cine Sony (720p) | [Cine Sony (720p)](https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8) |
 | 1072 | Cine Sureño (1080p) | [Cine Sureño (1080p)](https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8) |
 | 1073 | CINE.AR (720p) [Not 24/7] | [CINE.AR (720p)  Not 24/7](https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8) |
-| 1074 | Cinecanal | [Cinecanal](http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8) |
+| 1074 | Cinecanal | [Cinecanal](http://stream.flynetwifi.com:1936/live/mobile-016/playlist.m3u8) |
 | 1075 | CineLife | [CineLife](https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8) |
 | 1076 | Cinema Classic | [Cinema Classic](https://api.alpaca.t62a.com/hls/9114/index.m3u8) |
 | 1077 | Cinema Hausa (720p) | [Cinema Hausa (720p)](https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8) |
@@ -1164,7 +1164,7 @@
 | 1158 | Comedy Central | [Comedy Central](http://170.254.18.106/COMEDY_CENTRAL/index.m3u8) |
 | 1159 | Comedy Central East (720p) [Not 24/7] | [Comedy Central East (720p)  Not 24/7](https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4947590ba40f75dc29c26b&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=400&terminate=false&userId=) |
 | 1160 | Comedy Central India (1080p) | [Comedy Central India (1080p)](https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8) |
-| 1161 | Comedy Central LA | [Comedy Central LA](http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8) |
+| 1161 | Comedy Central LA | [Comedy Central LA](http://stream.flynetwifi.com:1936/live/mobile-001/playlist.m3u8) |
 | 1162 | Comedy Channel (1080p) | [Comedy Channel (1080p)](https://uksono1-samsunguk.amagi.tv/playlist.m3u8) |
 | 1163 | Comedy Classics | [Comedy Classics](https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7D8WMUS89AUJL8LS2FEM/hls3/now_-1m_15s/m.m3u8) |
 | 1164 | Comedy Dynamics | [Comedy Dynamics](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8) |
@@ -1359,7 +1359,7 @@
 | 1353 | Esan TV (720p) | [Esan TV (720p)](http://183.89.246.119:8881/play/a0a0/index.m3u8) |
 | 1354 | Escambia County TV ECTV (Escambia County FL) (720p) | [Escambia County TV ECTV (Escambia County FL) (720p)](https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8) |
 | 1355 | Eslah TV (720p) | [Eslah TV (720p)](https://eslahtvhls.wns.live/hls/stream.m3u8) |
-| 1356 | ESNE | [ESNE](http://stream.flynetwifi.com:1935/live/mobile-124/playlist.m3u8) |
+| 1356 | ESNE | [ESNE](http://stream.flynetwifi.com:1936/live/mobile-124/playlist.m3u8) |
 | 1357 | Espace TV (720p) [Not 24/7] | [Espace TV (720p)  Not 24/7](https://ythls.armelin.one/channel/UCMsFKwxfosayYR73hhFyf2Q.m3u8) |
 | 1358 | Esperia TV (480p) | [Esperia TV (480p)](http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8) |
 | 1359 | Espíritu Santo Y Fuego TV (480p) | [Espíritu Santo Y Fuego TV (480p)](https://inliveserver.com:1936/8392/8392/playlist.m3u8) |
@@ -1431,7 +1431,7 @@
 | 1425 | FightBox | [FightBox](http://stream01.vnet.am/Fightbox/mono.m3u8) |
 | 1426 | FightTVPlus | [FightTVPlus](https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/ZXY8N7D0P26W4DNY1WHH/hls3/now_-1m_15s/m.m3u8) |
 | 1427 | Fiji TV (720p) [Not 24/7] | [Fiji TV (720p)  Not 24/7](https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8) |
-| 1428 | Film & Arts | [Film & Arts](http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8) |
+| 1428 | Film & Arts | [Film & Arts](http://stream.flynetwifi.com:1936/live/mobile-142/playlist.m3u8) |
 | 1429 | Film Hub (720p) | [Film Hub (720p)](https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8) |
 | 1430 | Filmeraa (720p) | [Filmeraa (720p)](https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8) |
 | 1431 | Filmex (Xumo) (1080p) | [Filmex (Xumo) (1080p)](https://filmex-filmex-xumo.amagi.tv/playlist.m3u8) |
@@ -1521,15 +1521,15 @@
 | 1515 | Fox 54.1 Huntsville | [Fox 54.1 Huntsville](https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8) |
 | 1516 | Fox 61 News Hartford CT (WTIC-TV) | [Fox 61 News Hartford CT (WTIC-TV)](https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8) |
 | 1517 | FOX Business (1080p) | [FOX Business (1080p)](http://41.205.93.154/FOXBUSINESS/index.m3u8) |
-| 1518 | Fox Deportes | [Fox Deportes](http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8) |
+| 1518 | Fox Deportes | [Fox Deportes](http://stream.flynetwifi.com:1936/live/mobile-104/playlist.m3u8) |
 | 1519 | Fox Life | [Fox Life](https://woobl.ru/hls987/Fox_Life.m3u8) |
 | 1520 | Fox News Channel | [Fox News Channel](http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8) |
 | 1521 | FOX News Now (720p) | [FOX News Now (720p)](https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8) |
 | 1522 | Fox Soul (1080p) | [Fox Soul (1080p)](https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8) |
-| 1523 | Fox Sports 2 | [Fox Sports 2](http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8) |
-| 1524 | Fox Sports 3 | [Fox Sports 3](http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8) |
+| 1523 | Fox Sports 2 | [Fox Sports 2](http://stream.flynetwifi.com:1936/live/mobile-031/playlist.m3u8) |
+| 1524 | Fox Sports 3 | [Fox Sports 3](http://stream.flynetwifi.com:1936/live/mobile-108/playlist.m3u8) |
 | 1525 | Fox Sports (720p) | [Fox Sports (720p)](https://lnc-fox-sports2.tubi.video/index.m3u8) |
-| 1526 | Fox Sports Mexico | [Fox Sports Mexico](http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8) |
+| 1526 | Fox Sports Mexico | [Fox Sports Mexico](http://stream.flynetwifi.com:1936/live/mobile-010/playlist.m3u8) |
 | 1527 | Fox Türkiye (720p) | [Fox Türkiye (720p)](https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8) |
 | 1528 | Fox TV (720p) [Not 24/7] | [Fox TV (720p)  Not 24/7](http://stream-live.in:11037/hls/foxtv.m3u8) |
 | 1529 | Fox Weather | [Fox Weather](https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8) |
@@ -1594,7 +1594,7 @@
 | 1588 | FX | [FX](http://170.254.18.106/FX/index.m3u8) |
 | 1589 | FX1 Farsi (720p) | [FX1 Farsi (720p)](https://fxtvhls.wns.live/hls/stream.m3u8) |
 | 1590 | FX2 Farsi | [FX2 Farsi](https://toonixhls.wns.live/hls/stream.m3u8) |
-| 1591 | FX Español | [FX Español](http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8) |
+| 1591 | FX Español | [FX Español](http://stream.flynetwifi.com:1936/live/mobile-123/playlist.m3u8) |
 | 1592 | Gaan Bangla (720p) [Not 24/7] | [Gaan Bangla (720p)  Not 24/7](https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8) |
 | 1593 | Gabon 24 (1080p) [Not 24/7] | [Gabon 24 (1080p)  Not 24/7](https://ythls.armelin.one/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8) |
 | 1594 | Gabon Premiére TV | [Gabon Premiére TV](https://vps73918.serveur-vps.net/hls/ggtv.m3u8) |
@@ -1676,7 +1676,7 @@
 | 1670 | Gold 78 (1080p) | [Gold 78 (1080p)](https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8) |
 | 1671 | Gold TV (576p) | [Gold TV (576p)](https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8) |
 | 1672 | Gold TV Sat (576p) | [Gold TV Sat (576p)](https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8) |
-| 1673 | Golden | [Golden](http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8) |
+| 1673 | Golden | [Golden](http://stream.flynetwifi.com:1936/live/mobile-141/playlist.m3u8) |
 | 1674 | Golden Boy | [Golden Boy](https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8) |
 | 1675 | Golden Community Television (GCO.tv) (Golden CO) (1080p) | [Golden Community Television (GCO.tv) (Golden CO) (1080p)](https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8) |
 | 1676 | Golden Edge Panregional (576p) | [Golden Edge Panregional (576p)](https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8) |
@@ -1774,7 +1774,7 @@
 | 1768 | Guada TV (720p) [Not 24/7] | [Guada TV (720p)  Not 24/7](https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8) |
 | 1769 | Guadalupe TV (720p) [Not 24/7] | [Guadalupe TV (720p)  Not 24/7](https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/playlist.m3u8) |
 | 1770 | Guaro TV (1080p) | [Guaro TV (1080p)](https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8) |
-| 1771 | Guatevision | [Guatevision](http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8) |
+| 1771 | Guatevision | [Guatevision](http://stream.flynetwifi.com:1936/live/mobile-149/playlist.m3u8) |
 | 1772 | Guatuso TV (720p) | [Guatuso TV (720p)](https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8) |
 | 1773 | Guaymate TV (360p) | [Guaymate TV (360p)](https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8) |
 | 1774 | GugakTV 국악방송 (1080p) | [GugakTV 국악방송 (1080p)](https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8) |
@@ -1798,7 +1798,7 @@
 | 1792 | Gyöngyösi TV (576p) | [Gyöngyösi TV (576p)](https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8) |
 | 1793 | H1 Fernsehen (1080p) | [H1 Fernsehen (1080p)](https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8) |
 | 1794 | H!T Music Channel (480p) | [H!T Music Channel (480p)](http://hitmusic.hu/hitmusic.m3u8) |
-| 1795 | H&H | [H&H](http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8) |
+| 1795 | H&H | [H&H](http://stream.flynetwifi.com:1936/live/mobile-107/playlist.m3u8) |
 | 1796 | Ha Giang TV (406p) | [Ha Giang TV (406p)](http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=) |
 | 1797 | Ha Tinh TV (720p) | [Ha Tinh TV (720p)](https://wse.hatinhtv.net/live/httv1/playlist.m3u8) |
 | 1798 | Haarlem105 RTV (720p) | [Haarlem105 RTV (720p)](https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8) |
@@ -1855,7 +1855,7 @@
 | 1849 | Hauptstadt.TV (Potsdam) (720p) [Not 24/7] | [Hauptstadt.TV (Potsdam) (720p)  Not 24/7](https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8) |
 | 1850 | Haz Clic! | [Haz Clic!](https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310) |
 | 1851 | HBC Hokkaido News 24 (1080p) [Not 24/7] | [HBC Hokkaido News 24 (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8) |
-| 1852 | HBO | [HBO](http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8) |
+| 1852 | HBO | [HBO](http://stream.flynetwifi.com:1936/live/mobile-015/playlist.m3u8) |
 | 1853 | HSE24 Extra (1080p) | [HSE24 Extra (1080p)](https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8) |
 | 1854 | HSE24 Trend (576p) | [HSE24 Trend (576p)](https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8) |
 | 1855 | HSE (1080p) | [HSE (1080p)](https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8) |
@@ -1975,7 +1975,7 @@
 | 1969 | ITV HD | [ITV HD](http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8) |
 | 1970 | ITV Patagonia (720p) | [ITV Patagonia (720p)](https://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8) |
 | 1971 | Iunior TV (720p) [Not 24/7] | [Iunior TV (720p)  Not 24/7](https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8) |
-| 1972 | IVC | [IVC](http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8) |
+| 1972 | IVC | [IVC](http://stream.flynetwifi.com:1936/live/mobile-153/playlist.m3u8) |
 | 1973 | Ivoire Channel (720p) | [Ivoire Channel (720p)](https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8) |
 | 1974 | Iwate Menkoi Television (1080p) [Not 24/7] | [Iwate Menkoi Television (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCw14eNQAUDqCg-fX3Uvd07w.m3u8) |
 | 1975 | Izabal TV (720p) | [Izabal TV (720p)](https://cdn.streamhispanatv.net:3718/live/izabaltvlive.m3u8) |
@@ -2243,7 +2243,7 @@
 | 2237 | Lifestyle by Binge | [Lifestyle by Binge](https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TGHMDGWK71ARM14CUY4P/hls3/now_-1m_15s/m.m3u8) |
 | 2238 | LifeStyleTV (1080p) | [LifeStyleTV (1080p)](https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8) |
 | 2239 | Lifetime | [Lifetime](http://170.254.18.106/LIFETIME/index.m3u8) |
-| 2240 | Lifetime | [Lifetime](http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8) |
+| 2240 | Lifetime | [Lifetime](http://stream.flynetwifi.com:1936/live/mobile-154/playlist.m3u8) |
 | 2241 | LifeTv (1080p) | [LifeTv (1080p)](https://lifetv.mpks.sk/s.m3u8) |
 | 2242 | LifevisionTV (406p) [Not 24/7] | [LifevisionTV (406p)  Not 24/7](https://tgn.bozztv.com/lifevision/lifevision/index.m3u8) |
 | 2243 | Light Channel (480p) [Not 24/7] | [Light Channel (480p)  Not 24/7](https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8) |
@@ -2359,7 +2359,7 @@
 | 2353 | Martinique la 1ère (720p) [Not 24/7] | [Martinique la 1ère (720p)  Not 24/7](https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8) |
 | 2354 | Marvisión TV (720p) | [Marvisión TV (720p)](https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8) |
 | 2355 | Mas23 TV (1080p) | [Mas23 TV (1080p)](https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8) |
-| 2356 | Más Chic | [Más Chic](http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8) |
+| 2356 | Más Chic | [Más Chic](http://stream.flynetwifi.com:1936/live/mobile-146/playlist.m3u8) |
 | 2357 | Más Ciclismo TV (720p) | [Más Ciclismo TV (720p)](https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8) |
 | 2358 | Más FM 95.9 (720p) | [Más FM 95.9 (720p)](https://vivo.solumedia.com:19360/masfm/masfm.m3u8) |
 | 2359 | Más Música TV (360p) | [Más Música TV (360p)](https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8) |
@@ -2471,7 +2471,7 @@
 | 2465 | MNTV Music (1080p) | [MNTV Music (1080p)](https://mntv.livebox.co.in/musichls/live.m3u8) |
 | 2466 | MO Channel | [MO Channel](https://cloudvideo.servers10.com:8081/8070/index.m3u8) |
 | 2467 | Mobile County Public Schools TV Network (MCPSS) | [Mobile County Public Schools TV Network (MCPSS)](https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8) |
-| 2468 | Modo Cine | [Modo Cine](http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8) |
+| 2468 | Modo Cine | [Modo Cine](http://stream.flynetwifi.com:1936/live/mobile-140/playlist.m3u8) |
 | 2469 | MOGPA TV (720p) | [MOGPA TV (720p)](https://media.mogpapublication.com/website/stream/playlist.m3u8) |
 | 2470 | Mohabat TV (540p) | [Mohabat TV (540p)](http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8) |
 | 2471 | Mohabat TV (540p) | [Mohabat TV (540p)](http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8) |
@@ -2519,7 +2519,7 @@
 | 2513 | MTV HD | [MTV HD](http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8) |
 | 2514 | MTV Hits France (720p) | [MTV Hits France (720p)](http://178.170.47.109/MTVHITS/index.m3u8) |
 | 2515 | MTV Japan (720p) | [MTV Japan (720p)](http://jp.vthanhnetwork.com/MTV/index.m3u8) |
-| 2516 | MTV LA Español | [MTV LA Español](http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8) |
+| 2516 | MTV LA Español | [MTV LA Español](http://stream.flynetwifi.com:1936/live/mobile-063/playlist.m3u8) |
 | 2517 | Musayof (Israel) (240p) [Not 24/7] | [Musayof (Israel) (240p)  Not 24/7](http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8) |
 | 2518 | Muscel TV (1080p) | [Muscel TV (1080p)](http://188.27.135.199:8099/hls/musceltv/index.m3u8) |
 | 2519 | Museum TV | [Museum TV](https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8) |
@@ -3814,7 +3814,7 @@
 | 3808 | RCK TV (720p) | [RCK TV (720p)](https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8) |
 | 3809 | RCM TV (1080p) [Not 24/7] | [RCM TV (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCnPwQV0-W7S02i_omPEpJBg.m3u8) |
 | 3810 | RCN Mas | [RCN Mas](https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8) |
-| 3811 | RCN Novelas | [RCN Novelas](http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8) |
+| 3811 | RCN Novelas | [RCN Novelas](http://stream.flynetwifi.com:1936/live/mobile-066/playlist.m3u8) |
 | 3812 | RCN Xtra (1080p) | [RCN Xtra (1080p)](https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8) |
 | 3813 | RCTV (720p) [Not 24/7] | [RCTV (720p)  Not 24/7](http://122.248.43.138:1935/ch9/myStream/playlist.m3u8) |
 | 3814 | RCTV Digital (1080p) [Not 24/7] | [RCTV Digital (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCvB04bwxAyvBf2CiU0eDN0A.m3u8) |
@@ -4051,8 +4051,8 @@
 | 4045 | teleMonteneve (480p) [Not 24/7] | [teleMonteneve (480p)  Not 24/7](http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8) |
 | 4046 | Telemotril (720p) [Not 24/7] | [Telemotril (720p)  Not 24/7](https://5940924978228.streamlock.net/8431/8431/playlist.m3u8) |
 | 4047 | Telemundo Corpus Christi | [Telemundo Corpus Christi](https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8) |
-| 4048 | Telemundo Internacional | [Telemundo Internacional](http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8) |
-| 4049 | Telemundo US | [Telemundo US](http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8) |
+| 4048 | Telemundo Internacional | [Telemundo Internacional](http://stream.flynetwifi.com:1936/live/mobile-152/playlist.m3u8) |
+| 4049 | Telemundo US | [Telemundo US](http://stream.flynetwifi.com:1936/live/mobile-040/playlist.m3u8) |
 | 4050 | Telemundo West (720p) | [Telemundo West (720p)](https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800) |
 | 4051 | Telemúsica TV (540p) | [Telemúsica TV (540p)](https://canal.mediaserver.com.co/live/telemusica.m3u8) |
 | 4052 | TeleMusik Sénégal (720p) | [TeleMusik Sénégal (720p)](https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8) |
@@ -4105,7 +4105,7 @@
 | 4099 | TeleSud | [TeleSud](https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/TeleSud.m3u8) |
 | 4100 | Telesud (720p) | [Telesud (720p)](https://webtv.pugliaservice.it:1936/telesud-webtv/telesud-webtv/playlist.m3u8) |
 | 4101 | Telesud Trapani (720p) [Not 24/7] | [Telesud Trapani (720p)  Not 24/7](http://5cbd3bc28341f.streamlock.net:1935/telesud/live/playlist.m3u8) |
-| 4102 | Telesur | [Telesur](http://stream.flynetwifi.com:1935/live/mobile-116/playlist.m3u8) |
+| 4102 | Telesur | [Telesur](http://stream.flynetwifi.com:1936/live/mobile-116/playlist.m3u8) |
 | 4103 | Telesur Camana (720p) | [Telesur Camana (720p)](https://1667517699.rsc.cdn77.org/hls/camana.m3u8) |
 | 4104 | Telesur Canal 10 (720p) | [Telesur Canal 10 (720p)](https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8) |
 | 4105 | TeleSUR Costa Rica (720p) [Not 24/7] | [TeleSUR Costa Rica (720p)  Not 24/7](https://s1.tvdatta.com:3582/live/telesurlive.m3u8) |
@@ -4289,16 +4289,16 @@
 | 4283 | Tigrai TV (1080p) [Not 24/7] | [Tigrai TV (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCW0FmkMO7KkYdIiNKXpY9Ng.m3u8) |
 | 4284 | TNO Radio (720p) | [TNO Radio (720p)](https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8) |
 | 4285 | TNT | [TNT](http://170.254.18.106/TNT/index.m3u8) |
-| 4286 | TNT | [TNT](http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8) |
+| 4286 | TNT | [TNT](http://stream.flynetwifi.com:1936/live/mobile-074/playlist.m3u8) |
 | 4287 | TNT East (720p) | [TNT East (720p)](https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8) |
 | 4288 | TNT Kids (288p) | [TNT Kids (288p)](https://restreamer1.tnt.ba/hls/tntkids.m3u8) |
-| 4289 | TNT Series | [TNT Series](http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8) |
+| 4289 | TNT Series | [TNT Series](http://stream.flynetwifi.com:1936/live/mobile-046/playlist.m3u8) |
 | 4290 | TNT Sports 2 Brasil (720p) [Not 24/7] | [TNT Sports 2 Brasil (720p)  Not 24/7](https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8) |
 | 4291 | TNT Sports 3 Brasil (720p) [Not 24/7] | [TNT Sports 3 Brasil (720p)  Not 24/7](https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8) |
 | 4292 | TNT Sports 4 Brasil (720p) [Not 24/7] | [TNT Sports 4 Brasil (720p)  Not 24/7](https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8) |
 | 4293 | TNT Sports 5 Brasil (720p) [Not 24/7] | [TNT Sports 5 Brasil (720p)  Not 24/7](https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8) |
 | 4294 | TNT Sports Brasil (720p) [Not 24/7] | [TNT Sports Brasil (720p)  Not 24/7](https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8) |
-| 4295 | TNT Sports HD | [TNT Sports HD](http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8) |
+| 4295 | TNT Sports HD | [TNT Sports HD](http://stream.flynetwifi.com:1936/live/mobile-143/playlist.m3u8) |
 | 4296 | TNT West (720p) | [TNT West (720p)](https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8) |
 | 4297 | TNTV (1080p) | [TNTV (1080p)](https://tntv-samsung-fr.amagi.tv/playlist.m3u8) |
 | 4298 | Today All Day (1080p) | [Today All Day (1080p)](https://lnc-today.tubi.video/master.m3u8) |
@@ -4320,7 +4320,7 @@
 | 4314 | Toonami Aftermath East (480p) | [Toonami Aftermath East (480p)](http://api.toonamiaftermath.com:3000/est/playlist.m3u8) |
 | 4315 | Toonami Aftermath Movies (540p) | [Toonami Aftermath Movies (540p)](http://api.toonamiaftermath.com:3000/movies/playlist.m3u8) |
 | 4316 | Toonami Aftermath Radio (480p) | [Toonami Aftermath Radio (480p)](http://api.toonamiaftermath.com:3000/radio/playlist.m3u8) |
-| 4317 | Tooncast | [Tooncast](http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8) |
+| 4317 | Tooncast | [Tooncast](http://stream.flynetwifi.com:1936/live/mobile-002/playlist.m3u8) |
 | 4318 | Toonmax TV (576p) | [Toonmax TV (576p)](http://210.210.155.37/qwr9ew/s/s50/index.m3u8) |
 | 4319 | Toonz Kids (Indonesian dub) (360p) | [Toonz Kids (Indonesian dub) (360p)](http://210.210.155.37/x6bnqe/s/s81/02.m3u8) |
 | 4320 | Toonz Kids (Indonesian dub) (576p) | [Toonz Kids (Indonesian dub) (576p)](http://210.210.155.37/x6bnqe/s/s81/01.m3u8) |
@@ -4420,7 +4420,7 @@
 | 4414 | TRT Spor Yildiz (720p) | [TRT Spor Yildiz (720p)](https://tv-trtspor2.medya.trt.com.tr/master.m3u8) |
 | 4415 | TRT Turk | [TRT Turk](https://trtturk.blutv.com/blutv_trtturk2/live.m3u8) |
 | 4416 | TRT World (1080p) [Not 24/7] | [TRT World (1080p)  Not 24/7](https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8) |
-| 4417 | Tru TV | [Tru TV](http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8) |
+| 4417 | Tru TV | [Tru TV](http://stream.flynetwifi.com:1936/live/mobile-041/playlist.m3u8) |
 | 4418 | TV5 HD (1080p) | [TV5 HD (1080p)](https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8) |
 | 4419 | TV5 Kannada (720p) [Not 24/7] | [TV5 Kannada (720p)  Not 24/7](https://ythls.armelin.one/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8) |
 | 4420 | TV5 Linares (720p) | [TV5 Linares (720p)](https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8) |
@@ -4590,11 +4590,11 @@
 | 4584 | Univalle Televisión (1080p) | [Univalle Televisión (1080p)](https://master.tucableip.com/univalletv/playlist.m3u8) |
 | 4585 | Univer TV (1080p) | [Univer TV (1080p)](https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8) |
 | 4586 | Univers TV (720p) | [Univers TV (720p)](https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8) |
-| 4587 | Universal TV | [Universal TV](http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8) |
+| 4587 | Universal TV | [Universal TV](http://stream.flynetwifi.com:1936/live/mobile-064/playlist.m3u8) |
 | 4588 | UniversCiné Le Meilleur du Cinéma (1080p) | [UniversCiné Le Meilleur du Cinéma (1080p)](https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8) |
 | 4589 | Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7] | [Universidad Autónoma Temuco (UATV) (1080p)  Not 24/7](https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8) |
 | 4590 | Üniversite TV (720p) [Not 24/7] | [Üniversite TV (720p)  Not 24/7](https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8) |
-| 4591 | Universo | [Universo](http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8) |
+| 4591 | Universo | [Universo](http://stream.flynetwifi.com:1936/live/mobile-065/playlist.m3u8) |
 | 4592 | Univision East | [Univision East](https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=) |
 | 4593 | Univision Panregional (576p) | [Univision Panregional (576p)](https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8) |
 | 4594 | UNTV (576p) | [UNTV (576p)](https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8) |
@@ -4610,7 +4610,7 @@
 | 4604 | Urola Telebista (416p) | [Urola Telebista (416p)](https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8) |
 | 4605 | Uruguay Presidencia (1080p) [Not 24/7] | [Uruguay Presidencia (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCz1Li9JcQB9XP-HfgN0IYLQ.m3u8) |
 | 4606 | US Weekly TV | [US Weekly TV](https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8) |
-| 4607 | USA Español | [USA Español](http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8) |
+| 4607 | USA Español | [USA Español](http://stream.flynetwifi.com:1936/live/mobile-059/playlist.m3u8) |
 | 4608 | USA Today (720p) | [USA Today (720p)](https://lnc-usa-today.tubi.video/playlist.m3u8) |
 | 4609 | USA Today SportsWire | [USA Today SportsWire](https://lnc-sportswire.tubi.video/playlist.m3u8) |
 | 4610 | USIL TV (720p) [Not 24/7] | [USIL TV (720p)  Not 24/7](https://per01-lim01.servidor.stream/usiltv/index.m3u8) |
@@ -4747,7 +4747,7 @@
 | 4741 | WAPA-DT1 (WAPA-TV) (1080p) | [WAPA-DT1 (WAPA-TV) (1080p)](https://live.field59.com/wapa/wapa1/playlist.m3u8) |
 | 4742 | WAPA-DT2 (WAPA Deportes) (1080p) | [WAPA-DT2 (WAPA Deportes) (1080p)](https://live.field59.com/wapa/wapa2/playlist.m3u8) |
 | 4743 | Wapp (1080p) | [Wapp (1080p)](https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8) |
-| 4744 | Warner TV | [Warner TV](http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8) |
+| 4744 | Warner TV | [Warner TV](http://stream.flynetwifi.com:1936/live/mobile-030/playlist.m3u8) |
 | 4745 | Washington Post TV (720p) | [Washington Post TV (720p)](https://amg01655-thewashingtonpo-washingtonpost-klowdtv-fxhac.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-klowdtv/playlist.m3u8) |
 | 4746 | Watan TV (1080p) | [Watan TV (1080p)](https://n101.stream.tactivemedia.com/watantv/live/playlist.m3u8) |
 | 4747 | Watan-e-Maa TV (720p) | [Watan-e-Maa TV (720p)](https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8) |
@@ -4935,7 +4935,7 @@
 | 4929 | Zona Music TV (720p) | [Zona Music TV (720p)](https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8) |
 | 4930 | Zona Play TV (720p) | [Zona Play TV (720p)](https://paneltv.online:1936/8100/8100/playlist.m3u8) |
 | 4931 | Zonda TV (432p) | [Zonda TV (432p)](https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8) |
-| 4932 | Zoo Moo | [Zoo Moo](http://stream.flynetwifi.com:1935/live/mobile-069/playlist.m3u8) |
+| 4932 | Zoo Moo | [Zoo Moo](http://stream.flynetwifi.com:1936/live/mobile-069/playlist.m3u8) |
 | 4933 | Zoo Moo (Australia) (1080p) | [Zoo Moo (Australia) (1080p)](https://zoomoo-samsungau.amagi.tv/playlist.m3u8) |
 | 4934 | Аверс | [Аверс](http://portal.ott.pink/watch/356/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6) |
 | 4935 | Аист ТВ | [Аист ТВ](http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8) |
@@ -5644,4 +5644,4 @@
 | 5638 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5639 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Fri Apr 19 2024 16:19:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 20 2024 01:03:43 GMT+0000 (Coordinated Universal Time)**
