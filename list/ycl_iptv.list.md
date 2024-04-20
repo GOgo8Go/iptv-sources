@@ -113,106 +113,106 @@
 | 107 | CETV-1 | [CETV-1](http://221.219.66.252:18888/rtp/239.3.1.57:8152) |
 | 108 | CETV-4 | [CETV-4](http://118.254.203.236:8888/rtp/239.76.252.254:9000) |
 | 109 | 纪实人文 | [纪实人文](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8) |
-| 110 | 梨园频道 | [梨园频道](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ) |
-| 111 | 超级体育 | [超级体育](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8) |
-| 112 | 超级电影 | [超级电影](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8) |
-| 113 | 超级视剧 | [超级视剧](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8) |
-| 114 | 东北热剧 | [东北热剧](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8) |
-| 115 | 海外剧场 | [海外剧场](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8) |
-| 116 | 中国功夫 | [中国功夫](http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8) |
-| 117 | 军旅剧场 | [军旅剧场](http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8) |
-| 118 | 惊悚悬疑 | [惊悚悬疑](http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8) |
-| 119 | 潮妈辣婆 | [潮妈辣婆](http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8) |
-| 120 | 精品体育 | [精品体育](http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8) |
-| 121 | 精品纪录 | [精品纪录](http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8) |
-| 122 | 家庭剧场 | [家庭剧场](http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8) |
-| 123 | 精品大剧 | [精品大剧](http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8) |
-| 124 | 军事评论 | [军事评论](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8) |
-| 125 | 明星大片 | [明星大片](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8) |
-| 126 | 欢乐剧场 | [欢乐剧场](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8) |
-| 127 | CNN | [CNN](https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8) |
-| 128 | BBC | [BBC](https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8) |
-| 129 | CNA | [CNA](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8) |
-| 130 | ABC News Live | [ABC News Live](https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8) |
-| 131 | Live Now FOX | [Live Now FOX](https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8) |
-| 132 | NBC News Now | [NBC News Now](https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8) |
-| 133 | Sky News | [Sky News](https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8) |
-| 134 | ABC7 Bay Area | [ABC7 Bay Area](https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8) |
-| 135 | CBS News Bay Area | [CBS News Bay Area](https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8) |
-| 136 | Euronews Live | [Euronews Live](https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8) |
-| 137 | AXS TV Now | [AXS TV Now](https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8) |
-| 138 | ABC Australia | [ABC Australia](https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8) |
-| 139 | Newsmax | [Newsmax](http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8) |
-| 140 | Dubai One | [Dubai One](http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8) |
-| 141 | Al Jazeera | [Al Jazeera](http://live-hls-web-aje.getaj.net/AJE/01.m3u8) |
-| 142 | NHK World | [NHK World](https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8) |
-| 143 | Arirang | [Arirang](https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8) |
-| 144 | KBS World | [KBS World](https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8) |
-| 145 | Bloomberg Asia | [Bloomberg Asia](https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8) |
-| 146 | Bloomberg Originals | [Bloomberg Originals](https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8) |
-| 147 | CBN News | [CBN News](https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8) |
-| 148 | GB News | [GB News](https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8) |
-| 149 | RT News | [RT News](https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8) |
-| 150 | TBS | [TBS](http://143.244.60.30/TBS/index.m3u8) |
-| 151 | FXX | [FXX](http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8) |
-| 152 | A&E | [A&E](http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404) |
-| 153 | AMC | [AMC](http://170.254.18.106/AMC/index.m3u8) |
-| 154 | Star | [Star](http://170.254.18.106/STAR/index.m3u8) |
-| 155 | BET | [BET](http://170.254.18.106/BET/index.m3u8) |
-| 156 | TNT | [TNT](http://170.254.18.106/TNT/index.m3u8) |
-| 157 | Red Bull TV | [Red Bull TV](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) |
-| 158 | RT Documentary | [RT Documentary](https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8) |
-| 159 | TRT World | [TRT World](https://tv-trtworld.live.trt.com.tr/master_1080.m3u8) |
-| 160 | Taiwan Plus | [Taiwan Plus](https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8) |
-| 161 | ION Plus | [ION Plus](https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8) |
-| 162 | ION | [ION](https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8) |
-| 163 | Love Nature | [Love Nature](https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8) |
-| 164 | Disney International | [Disney International](http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284) |
-| 165 | Fashion TV | [Fashion TV](http://91.247.68.229:8000/play/Fashion/index.m3u8) |
-| 166 | Fight Network | [Fight Network](https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8) |
-| 167 | Cinemax East | [Cinemax East](http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816) |
-| 168 | HBO | [HBO](http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848) |
-| 169 | HBO Plus | [HBO Plus](http://170.254.18.106/HBO_PLUS/index.m3u8) |
-| 170 | HBO West | [HBO West](http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849) |
-| 171 | HBO 2 | [HBO 2](http://170.254.18.106/HBO2/index.m3u8) |
-| 172 | HBO Family | [HBO Family](http://170.254.18.106/HBO_FAMILY/index.m3u8) |
-| 173 | HBO Signature | [HBO Signature](http://170.254.18.106/HBO_SIG/index.m3u8) |
-| 174 | &Flix HD | [&Flix HD](http://89.187.177.137:8081/&FLIX/index.m3u8) |
-| 175 | Wild Earth | [Wild Earth](https://wildearth-plex.amagi.tv/masterR1080p.m3u8) |
-| 176 | Wild Planet | [Wild Planet](https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8) |
-| 177 | Clarity 4K | [Clarity 4K](https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8) |
-| 178 | Comedy Central | [Comedy Central](http://170.254.18.106/COMEDY_CENTRAL/index.m3u8) |
-| 179 | Nickelodeon | [Nickelodeon](http://143.244.60.30/NICKELODEON/index.m3u8) |
-| 180 | History | [History](http://170.254.18.106/HISTORY/index.m3u8) |
-| 181 | Paramount Network | [Paramount Network](http://170.254.18.106/PARAMOUNT/index.m3u8) |
-| 182 | HBO Xtreme | [HBO Xtreme](http://170.254.18.106/HBO_XTREME/index.m3u8) |
-| 183 | Cinemax | [Cinemax](http://170.254.18.106/CINEMAX/index.m3u8) |
-| 184 | Rakuten Comedy | [Rakuten Comedy](https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8) |
-| 185 | Rakuten Family | [Rakuten Family](https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8) |
-| 186 | Rakuten Action | [Rakuten Action](https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8) |
-| 187 | Sky Sport | [Sky Sport](https://donelfantastic.github.io/live/skysportsNz8.m3u8) |
-| 188 | Stadium | [Stadium](https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8) |
-| 189 | FIFA+ | [FIFA+](https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8) |
-| 190 | Trace Sports | [Trace Sports](https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8) |
-| 191 | BBC Earth | [BBC Earth](https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8) |
-| 192 | BBC Food | [BBC Food](https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8) |
-| 193 | BBC Home | [BBC Home](https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8) |
-| 194 | NBA TV | [NBA TV](http://streamsy.online:2999/coachj88/N93DPKS9pJ/136) |
-| 195 | Universal Kids | [Universal Kids](http://streamsy.online:2999/coachj88/N93DPKS9pJ/252) |
-| 196 | Nat Geo | [Nat Geo](http://streamsy.online:2999/coachj88/N93DPKS9pJ/141) |
-| 197 | NASA | [NASA](https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?) |
-| 198 | Start TV | [Start TV](http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467) |
-| 199 | The Weather Channel | [The Weather Channel](http://streamsy.online:2999/coachj88/N93DPKS9pJ/301) |
-| 200 | Pop | [Pop](http://streamsy.online:2999/coachj88/N93DPKS9pJ/226) |
-| 201 | WE TV | [WE TV](http://streamsy.online:2999/coachj88/N93DPKS9pJ/247) |
-| 202 | Me TV | [Me TV](http://streamsy.online:2999/coachj88/N93DPKS9pJ/744) |
-| 203 | SNY | [SNY](http://streamsy.online:2999/coachj88/N93DPKS9pJ/330) |
-| 204 | Documentary+ | [Documentary+](https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8) |
-| 205 | Tastemade | [Tastemade](https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8) |
-| 206 | MovieSphere | [MovieSphere](https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8) |
-| 207 | Travelxp | [Travelxp](https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8) |
-| 208 | The Guardian | [The Guardian](https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8) |
+| 110 | 五星体育 | [五星体育](http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS) |
+| 111 | 梨园频道 | [梨园频道](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ) |
+| 112 | 超级体育 | [超级体育](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8) |
+| 113 | 超级电影 | [超级电影](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8) |
+| 114 | 超级视剧 | [超级视剧](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8) |
+| 115 | 东北热剧 | [东北热剧](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8) |
+| 116 | 海外剧场 | [海外剧场](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8) |
+| 117 | 中国功夫 | [中国功夫](http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8) |
+| 118 | 军旅剧场 | [军旅剧场](http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8) |
+| 119 | 惊悚悬疑 | [惊悚悬疑](http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8) |
+| 120 | 潮妈辣婆 | [潮妈辣婆](http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8) |
+| 121 | 精品体育 | [精品体育](http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8) |
+| 122 | 精品纪录 | [精品纪录](http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8) |
+| 123 | 家庭剧场 | [家庭剧场](http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8) |
+| 124 | 精品大剧 | [精品大剧](http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8) |
+| 125 | 军事评论 | [军事评论](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8) |
+| 126 | 明星大片 | [明星大片](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8) |
+| 127 | 欢乐剧场 | [欢乐剧场](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8) |
+| 128 | CNN | [CNN](https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8) |
+| 129 | BBC | [BBC](https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8) |
+| 130 | CNA | [CNA](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8) |
+| 131 | ABC News Live | [ABC News Live](https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8) |
+| 132 | Live Now FOX | [Live Now FOX](https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8) |
+| 133 | NBC News Now | [NBC News Now](https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8) |
+| 134 | Sky News | [Sky News](https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8) |
+| 135 | ABC7 Bay Area | [ABC7 Bay Area](https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8) |
+| 136 | CBS News Bay Area | [CBS News Bay Area](https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8) |
+| 137 | Euronews Live | [Euronews Live](https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8) |
+| 138 | AXS TV Now | [AXS TV Now](https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8) |
+| 139 | ABC Australia | [ABC Australia](https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8) |
+| 140 | Newsmax | [Newsmax](http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8) |
+| 141 | Dubai One | [Dubai One](http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8) |
+| 142 | Al Jazeera | [Al Jazeera](http://live-hls-web-aje.getaj.net/AJE/01.m3u8) |
+| 143 | NHK World | [NHK World](https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8) |
+| 144 | Arirang | [Arirang](https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8) |
+| 145 | KBS World | [KBS World](https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8) |
+| 146 | Bloomberg Asia | [Bloomberg Asia](https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8) |
+| 147 | Bloomberg Originals | [Bloomberg Originals](https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8) |
+| 148 | CBN News | [CBN News](https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8) |
+| 149 | GB News | [GB News](https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8) |
+| 150 | RT News | [RT News](https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8) |
+| 151 | TBS | [TBS](http://143.244.60.30/TBS/index.m3u8) |
+| 152 | FXX | [FXX](http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8) |
+| 153 | A&E | [A&E](http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404) |
+| 154 | AMC | [AMC](http://170.254.18.106/AMC/index.m3u8) |
+| 155 | Star | [Star](http://170.254.18.106/STAR/index.m3u8) |
+| 156 | BET | [BET](http://170.254.18.106/BET/index.m3u8) |
+| 157 | TNT | [TNT](http://170.254.18.106/TNT/index.m3u8) |
+| 158 | Red Bull TV | [Red Bull TV](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) |
+| 159 | RT Documentary | [RT Documentary](https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8) |
+| 160 | TRT World | [TRT World](https://tv-trtworld.live.trt.com.tr/master_1080.m3u8) |
+| 161 | Taiwan Plus | [Taiwan Plus](https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8) |
+| 162 | ION Plus | [ION Plus](https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8) |
+| 163 | ION | [ION](https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8) |
+| 164 | Love Nature | [Love Nature](https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8) |
+| 165 | Disney International | [Disney International](http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284) |
+| 166 | Fashion TV | [Fashion TV](http://91.247.68.229:8000/play/Fashion/index.m3u8) |
+| 167 | Fight Network | [Fight Network](https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8) |
+| 168 | Cinemax East | [Cinemax East](http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816) |
+| 169 | HBO | [HBO](http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848) |
+| 170 | HBO Plus | [HBO Plus](http://170.254.18.106/HBO_PLUS/index.m3u8) |
+| 171 | HBO West | [HBO West](http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849) |
+| 172 | HBO 2 | [HBO 2](http://170.254.18.106/HBO2/index.m3u8) |
+| 173 | HBO Family | [HBO Family](http://170.254.18.106/HBO_FAMILY/index.m3u8) |
+| 174 | HBO Signature | [HBO Signature](http://170.254.18.106/HBO_SIG/index.m3u8) |
+| 175 | &Flix HD | [&Flix HD](http://89.187.177.137:8081/&FLIX/index.m3u8) |
+| 176 | Wild Earth | [Wild Earth](https://wildearth-plex.amagi.tv/masterR1080p.m3u8) |
+| 177 | Wild Planet | [Wild Planet](https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8) |
+| 178 | Clarity 4K | [Clarity 4K](https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8) |
+| 179 | Comedy Central | [Comedy Central](http://170.254.18.106/COMEDY_CENTRAL/index.m3u8) |
+| 180 | Nickelodeon | [Nickelodeon](http://143.244.60.30/NICKELODEON/index.m3u8) |
+| 181 | History | [History](http://170.254.18.106/HISTORY/index.m3u8) |
+| 182 | Paramount Network | [Paramount Network](http://170.254.18.106/PARAMOUNT/index.m3u8) |
+| 183 | HBO Xtreme | [HBO Xtreme](http://170.254.18.106/HBO_XTREME/index.m3u8) |
+| 184 | Cinemax | [Cinemax](http://170.254.18.106/CINEMAX/index.m3u8) |
+| 185 | Rakuten Comedy | [Rakuten Comedy](https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8) |
+| 186 | Rakuten Family | [Rakuten Family](https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8) |
+| 187 | Rakuten Action | [Rakuten Action](https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8) |
+| 188 | Sky Sport | [Sky Sport](https://donelfantastic.github.io/live/skysportsNz8.m3u8) |
+| 189 | Stadium | [Stadium](https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8) |
+| 190 | FIFA+ | [FIFA+](https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8) |
+| 191 | Trace Sports | [Trace Sports](https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8) |
+| 192 | BBC Earth | [BBC Earth](https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8) |
+| 193 | BBC Food | [BBC Food](https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8) |
+| 194 | BBC Home | [BBC Home](https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8) |
+| 195 | NBA TV | [NBA TV](http://streamsy.online:2999/coachj88/N93DPKS9pJ/136) |
+| 196 | Universal Kids | [Universal Kids](http://streamsy.online:2999/coachj88/N93DPKS9pJ/252) |
+| 197 | Nat Geo | [Nat Geo](http://streamsy.online:2999/coachj88/N93DPKS9pJ/141) |
+| 198 | NASA | [NASA](https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?) |
+| 199 | Start TV | [Start TV](http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467) |
+| 200 | The Weather Channel | [The Weather Channel](http://streamsy.online:2999/coachj88/N93DPKS9pJ/301) |
+| 201 | Pop | [Pop](http://streamsy.online:2999/coachj88/N93DPKS9pJ/226) |
+| 202 | WE TV | [WE TV](http://streamsy.online:2999/coachj88/N93DPKS9pJ/247) |
+| 203 | Me TV | [Me TV](http://streamsy.online:2999/coachj88/N93DPKS9pJ/744) |
+| 204 | SNY | [SNY](http://streamsy.online:2999/coachj88/N93DPKS9pJ/330) |
+| 205 | Documentary+ | [Documentary+](https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8) |
+| 206 | Tastemade | [Tastemade](https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8) |
+| 207 | MovieSphere | [MovieSphere](https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8) |
+| 208 | Travelxp | [Travelxp](https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8) |
 | 209 | The Lego Channel | [The Lego Channel](https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8) |
 | 210 | NextUp Live Comedy | [NextUp Live Comedy](https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8) |
 
-Updated at **Sat Apr 20 2024 01:03:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 20 2024 08:16:28 GMT+0000 (Coordinated Universal Time)**
