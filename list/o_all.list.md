@@ -4899,15 +4899,15 @@
 | 4893 | Zed TV | [Zed TV](http://190.2.148.141:8080/bar7657/index.m3u8) |
 | 4894 | Zee 24 Ghanta (720p) [Not 24/7] | [Zee 24 Ghanta (720p)  Not 24/7](https://ythls.armelin.one/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8) |
 | 4895 | Zee 24 Kalak (720p) | [Zee 24 Kalak (720p)](https://livetv-channels.b-cdn.net/8077/playlist.m3u8) |
-| 4896 | Zee 24 Taas (720p) [Not 24/7] | [Zee 24 Taas (720p)  Not 24/7](https://ythls.armelin.one/channel/UCVbsFo8aCgvIRIO9RYwsQMA.m3u8) |
+| 4896 | Zee 24 Taas | [Zee 24 Taas](https://news.codeautoplay.workers.dev/?codeby=nd&channel=zee24taas) |
 | 4897 | Zee Aflam (720p) | [Zee Aflam (720p)](https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8) |
 | 4898 | Zee Alwan (720p) | [Zee Alwan (720p)](https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8) |
-| 4899 | Zee Bihar Jharkhand (720p) | [Zee Bihar Jharkhand (720p)](https://d3dxf2v5wg5rcy.cloudfront.net/out/v1/349f643193e347609b16671d8e0bfb4a/index.m3u8) |
+| 4899 | Zee Bihar Jharkhand | [Zee Bihar Jharkhand](https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeebiharjharkhand) |
 | 4900 | Zee Bioskop (360p) | [Zee Bioskop (360p)](http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8) |
 | 4901 | Zee Business | [Zee Business](https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeebusiness) |
 | 4902 | Zee Delhi NCR Haryana (720p) [Not 24/7] | [Zee Delhi NCR Haryana (720p)  Not 24/7](https://ythls.armelin.one/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8) |
-| 4903 | Zee Hindustan (720p) | [Zee Hindustan (720p)](https://d336l5u76wvq7j.cloudfront.net/out/v1/5990b42d2b7b40bc8e581e90afe6ef94/index_4.m3u8) |
-| 4904 | Zee Kannada News (1080p) [Not 24/7] | [Zee Kannada News (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8) |
+| 4903 | Zee Hindustan | [Zee Hindustan](https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeebharat) |
+| 4904 | Zee Kannada News | [Zee Kannada News](https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeekannada) |
 | 4905 | Zee Keralam (576p) | [Zee Keralam (576p)](https://cflive-esports-hindi.zee5.com/out/v1/c2a01fab468b452d9af1a1aa66644d9d/Zee_Keralam_ME_SD/index.m3u8) |
 | 4906 | Zee Madhya Pradesh Chhattisgarh | [Zee Madhya Pradesh Chhattisgarh](https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeemadhyapradeshchattisgarh) |
 | 4907 | Zee Marathi (720p) | [Zee Marathi (720p)](https://d3vy3je10jkn7h.cloudfront.net/out/v1/f610383ba97c47e3b04d2e1593ff8549/index_4.m3u8) |
@@ -4918,7 +4918,7 @@
 | 4912 | Zee Rajasthan (720p) | [Zee Rajasthan (720p)](https://d3596fuob34tr0.cloudfront.net/out/v1/dc9cd568b52340d9a694877ad4b103a8/index.m3u8) |
 | 4913 | Zee Salaam (720p) | [Zee Salaam (720p)](https://d3i8oqsdv88b3m.cloudfront.net/out/v1/08f6360f9104421f90319460c0e03f11/index.m3u8) |
 | 4914 | Zee Tamil (1080p) [Not 24/7] | [Zee Tamil (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8) |
-| 4915 | Zee Telugu News (720p) [Not 24/7] | [Zee Telugu News (720p)  Not 24/7](https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8) |
+| 4915 | Zee Telugu News | [Zee Telugu News](https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeetelugu) |
 | 4916 | Zee Thirai (576p) | [Zee Thirai (576p)](http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&play_token=oOPicFfGrH&stream=941587) |
 | 4917 | Zee Uttar Pradesh/Uttarakhand (720p) | [Zee Uttar Pradesh/Uttarakhand (720p)](https://livetv-channels.b-cdn.net/8076/playlist.m3u8) |
 | 4918 | Zerouno TV (720p) | [Zerouno TV (720p)](http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8) |
@@ -5648,4 +5648,4 @@
 | 5642 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5643 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Fri Apr 26 2024 16:19:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 27 2024 01:03:20 GMT+0000 (Coordinated Universal Time)**
