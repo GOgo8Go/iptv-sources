@@ -33,8 +33,8 @@
 | 27 | 世界地理 | [世界地理](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2) |
 | 28 | 央视台球 | [央视台球](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2) |
 | 29 | 央视高网 | [央视高网](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2) |
-| 30 | 凤凰中文 | [凤凰中文](http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8) |
-| 31 | 凤凰资讯 | [凤凰资讯](http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8) |
+| 30 | 凤凰中文 | [凤凰中文](https://tv.iill.top/jd/fhzw) |
+| 31 | 凤凰资讯 | [凤凰资讯](https://tv.iill.top/jd/fhzx) |
 | 32 | 凤凰香港 | [凤凰香港](http://103.95.24.37:880/fhxgt.m3u8) |
 | 33 | 北京卫视 | [北京卫视](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8) |
 | 34 | 东方卫视 | [东方卫视](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8) |
@@ -195,4 +195,4 @@
 | 189 | The Lego Channel | [The Lego Channel](https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8) |
 | 190 | NextUp Live Comedy | [NextUp Live Comedy](https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8) |
 
-Updated at **Sat Apr 27 2024 08:18:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 27 2024 16:16:33 GMT+0000 (Coordinated Universal Time)**
