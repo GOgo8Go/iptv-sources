@@ -48,6 +48,7 @@ iptv.org All,#genre#
 8 La Marina TV (576p),https://streaming005.gestec-video.com/hls/canal24.m3u8
 8NTV (1080p),https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 8TV (1080p),http://89.254.128.5:22280/8tv_hd/index.m3u8
+8TV (1080p),https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
 8 канал (Витебск) (576p) [Not 24/7],http://95.46.208.8:24433/art
 9Gem (720p),https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 9Go! (720p),https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
