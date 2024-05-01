@@ -5735,7 +5735,6 @@ Zylo ScreamIN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenA
 Твое ТВ Юмор,http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 ТНТ Exclusiv TV (576p),http://89.28.25.122/hls/tnt_md.m3u8
 ТНТ MUSIC,https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-Толк,https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 Толк HD,http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 Точка ТВ,https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 Три Ангела (720p),https://hls.tv.3angels.ru/stream.m3u8

@@ -5740,22 +5740,21 @@
 | 5734 | Твое ТВ Юмор | [Твое ТВ Юмор](http://tvoetv.space:8080/tvoetv_humor/index.m3u8) |
 | 5735 | ТНТ Exclusiv TV (576p) | [ТНТ Exclusiv TV (576p)](http://89.28.25.122/hls/tnt_md.m3u8) |
 | 5736 | ТНТ MUSIC | [ТНТ MUSIC](https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8) |
-| 5737 | Толк | [Толк](https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8) |
-| 5738 | Толк HD | [Толк HD](http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8) |
-| 5739 | Точка ТВ | [Точка ТВ](https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8) |
-| 5740 | Три Ангела (720p) | [Три Ангела (720p)](https://hls.tv.3angels.ru/stream.m3u8) |
-| 5741 | ТРК Алекс (576p) | [ТРК Алекс (576p)](http://46.46.112.223/live/livestream1.m3u8) |
-| 5742 | ТРК Юнион | [ТРК Юнион](https://streaming.televizor-24-tochka.ru/live/27.m3u8) |
-| 5743 | Тюменское время | [Тюменское время](https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8) |
-| 5744 | Хузур ТВ (1080p) [Not 24/7] | [Хузур ТВ (1080p)  Not 24/7](https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8) |
-| 5745 | Центр (1080p) [Not 24/7] | [Центр (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8) |
-| 5746 | Центр (Красноярск) | [Центр (Красноярск)](https://stream.tck.tv/hd.m3u8) |
-| 5747 | Шаян ТВ (Татарстан) | [Шаян ТВ (Татарстан)](https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8) |
-| 5748 | Щёлковское ТВ (576p) [Not 24/7] | [Щёлковское ТВ (576p)  Not 24/7](http://stream0.tv41.ru/live.m3u8) |
-| 5749 | ЭлТР (480p) [Not 24/7] | [ЭлТР (480p)  Not 24/7](http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8) |
-| 5750 | ЭлТР Билим Илим (480p) [Not 24/7] | [ЭлТР Билим Илим (480p)  Not 24/7](http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8) |
-| 5751 | Эхо TV (Рязань) (576p) [Not 24/7] | [Эхо TV (Рязань) (576p)  Not 24/7](https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8) |
-| 5752 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
-| 5753 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
+| 5737 | Толк HD | [Толк HD](http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8) |
+| 5738 | Точка ТВ | [Точка ТВ](https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8) |
+| 5739 | Три Ангела (720p) | [Три Ангела (720p)](https://hls.tv.3angels.ru/stream.m3u8) |
+| 5740 | ТРК Алекс (576p) | [ТРК Алекс (576p)](http://46.46.112.223/live/livestream1.m3u8) |
+| 5741 | ТРК Юнион | [ТРК Юнион](https://streaming.televizor-24-tochka.ru/live/27.m3u8) |
+| 5742 | Тюменское время | [Тюменское время](https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8) |
+| 5743 | Хузур ТВ (1080p) [Not 24/7] | [Хузур ТВ (1080p)  Not 24/7](https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8) |
+| 5744 | Центр (1080p) [Not 24/7] | [Центр (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8) |
+| 5745 | Центр (Красноярск) | [Центр (Красноярск)](https://stream.tck.tv/hd.m3u8) |
+| 5746 | Шаян ТВ (Татарстан) | [Шаян ТВ (Татарстан)](https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8) |
+| 5747 | Щёлковское ТВ (576p) [Not 24/7] | [Щёлковское ТВ (576p)  Not 24/7](http://stream0.tv41.ru/live.m3u8) |
+| 5748 | ЭлТР (480p) [Not 24/7] | [ЭлТР (480p)  Not 24/7](http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8) |
+| 5749 | ЭлТР Билим Илим (480p) [Not 24/7] | [ЭлТР Билим Илим (480p)  Not 24/7](http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8) |
+| 5750 | Эхо TV (Рязань) (576p) [Not 24/7] | [Эхо TV (Рязань) (576p)  Not 24/7](https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8) |
+| 5751 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
+| 5752 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Tue Apr 30 2024 16:19:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 01 2024 01:09:06 GMT+0000 (Coordinated Universal Time)**
