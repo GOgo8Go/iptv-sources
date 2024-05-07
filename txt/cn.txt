@@ -29,7 +29,7 @@ China,#genre#
 [BD]cctv怀旧剧场,https://epg.pw/stream/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.m3u8
 [BD]cctv 第一剧场,https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
 [BD]cctv卫生健康,https://epg.pw/stream/5b0709566705d2f8eef48aca237e5ab600f07363f759fabcce40528c3e2374cf.m3u8
-[BD]cctv电视指南,https://epg.pw/stream/b8e394cc5ff1448dedc3638a10994d8bb02eefca9c56e70f323df8f4a55e4aaa.m3u8
+[BD]cctv 电视指南,https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40815499.m3u8
 [BD]cctv 风云剧场,https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.m3u8
 [BD]cctv 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 [SD]cctv音乐,https://epg.pw/stream/2b8d7f241cc69b8f2c05743118d1c67efc21054e38b4578509d60df27ba88a31.m3u8
@@ -97,7 +97,7 @@ China,#genre#
 [BD]北京淘剧场,https://epg.pw/stream/6a4d00df7e820e3e344d3fbf0323a207c5e3e2560b1f7cd7a6fc3fd46fa0cd8f.ctv
 [BD]北京淘娱乐,https://epg.pw/stream/e93a3535ca2eaef6df3ae49285187f14b011563bab377a0ad4a9b05896f2fa6e.ctv
 [BD]北京淘电影,https://epg.pw/stream/8f9c6cc958f8727b3d4292a016d1fd96f54576616fa08d90116ec3f33dc9f9f4.ctv
-[BD]北京生活,https://epg.pw/stream/967122466244033e999ef448c46aa608c240231b17852bd2a6e53ac1fcc1fadb.ctv
+[BD]北京生活,https://epg.pw/stream/eee2f771439b02e1c67272b823e65fdedb4905421c47151e48570f3cf5f86ed1.ctv
 [BD]北京纪实科教,https://epg.pw/stream/cc7f8d91f16724d656d8fdbbc8c52042928674b696e1deb4cbb336a27a722079.ctv
 [BD]北京萌宠tv,https://epg.pw/stream/c871a2ebe67246b5409ae8224141887715f400fe39508bb2d21fdf60ddecfaa9.ctv
 [BD]北京卫视,https://epg.pw/stream/58ada9296c1cd8c98929d12386749a6748a6ed09bda28980e0909fff792e95fc.m3u8
@@ -187,7 +187,7 @@ China,#genre#
 [BD]广西卫视[ipv6],https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
 [BD]广西都市,https://epg.pw/stream/ae3d3280f53207850f9680fb5b490dde80ba29c95db39f5c6bb69212c1e48a64.m3u8
 [HD]延边卫视,https://epg.pw/stream/24327018edd6090d5d0fdcd7966a0902b684df2132f9a4d8307bbb1d6afb84fd.m3u8
-[BD]快乐垂钓,https://epg.pw/stream/59d25314967b9a139debdde5dc70f53598210564d50a0a89bafcc44bb8f905bc.ctv
+[BD]快乐垂钓,https://epg.pw/stream/7cb0483c83dc3ae526125c8357bb3ae38e32b2e3bf6a1b1649a841da9542489f.ctv
 [VGA]爱家购物,https://epg.pw/stream/01920761982e5b5d3bb7002dbc73ba2beb3a012456822a73568c3441289035f3.m3u8
 [BD]数码时代频道,https://epg.pw/stream/c3a8796e15e49a4ff68ae145fed7ba892002425c14b41201faad11adf3e87b9a.m3u8
 [BD]文物宝库[ipv6],https://epg.pw/stream/499ee76d5b019bd5420fbca477643aa01975ae2b9497701fe809c47fe224af68.m3u8
@@ -224,10 +224,10 @@ China,#genre#
 [BD]永嘉新闻综合频道,https://epg.pw/stream/29fc67623c9edde852604acf8f0048e7162ad8dda10d4817ea61788ebd4ae7e5.m3u8
 [BD]求索纪录[ipv6],https://epg.pw/stream/ca7a2161e32c51b69025f99041dfccd2cb16223b2bbadf6f96874dd83a8fd210.m3u8
 [BD]浙江公共新闻,https://epg.pw/stream/52e6b218b89c4eb770a708a7ad50bce31279aa79c1d0f6bed318afb57ae35287.m3u8
-[BD]江苏城市,https://epg.pw/stream/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.m3u8
+[VGA]江苏城市,https://epg.pw/stream/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.m3u8
 [BD]江苏影视,https://epg.pw/stream/ff51b87d5cd5bd439c8c794400e57cef00030333c15716915efdb774a013b129.ctv
 [BD]江苏教育,https://epg.pw/stream/a6f977fadcee5baf352b6d3e066bb39f40ab669b69b66fadef06e3b75c15ccc0.ctv
-[VGA]江苏综艺,https://epg.pw/stream/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.m3u8
+[BD]江苏综艺,https://epg.pw/stream/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.m3u8
 [BD]江苏卫视[ipv6],https://epg.pw/stream/8803542d7a49d90fc141b3373ac76d8caca473c22cd4e19370f290989600b03f.m3u8
 [BD]江苏体育休闲,https://epg.pw/stream/2774b15bf65b63ca7fa60a58f20fe29f3b40c196f507921bca2c726f924ca2c2.ctv
 [BD]江西公共农,https://epg.pw/stream/846dd6ca26b7e70a922b09f7eebbf66b4d6995477ef3886243b8fa67cc07a078.m3u8
@@ -305,16 +305,13 @@ China,#genre#
 [BD]甘肃经济[ipv6],https://epg.pw/stream/95a888c5a60703f6bed79cc722df024e71cadb9b1a4a3464ce0e3f5e557e6201.m3u8
 [VGA]甘肃卫视,https://epg.pw/stream/4b1f13ba4341c2b65fdf4a5cc14cd1406453c98d29972511ebee68262f82c797.m3u8
 [BD]甘肃都市[ipv6],https://epg.pw/stream/46c7df1cdf6f20ac222f2e4e6cd81449767cb9175dffa31f110d520aa9050294.m3u8
-[BD]生活时尚,https://epg.pw/stream/9d62fc46bb74c3eb66fdba1935da47edd87f2751f434f9d082bf0b036503db29.ctv
+[BD]生活时尚[ipv6],https://epg.pw/stream/e8843eefc1937554ba2fd44630eda3d4640478f1bc64b2a1cf44cfa81b0e85d3.m3u8
 [SD]百姓健康,https://epg.pw/stream/4091474341128abc8a6b53badeb1dfe219944284ed2229ed77733530dd3a438a.m3u8
 [SD]河北石家庄娱乐,https://epg.pw/stream/0d76853062be0e91d431e278d8804b0c4720e564a7ff3f8f0ee11c1acb4d6258.m3u8
 [BD]石家庄新闻综合,https://epg.pw/stream/e7cb9300d09219cdf7e4a4c39ab0c9328f0abe0e2b9272d3a2f5afb1576d9a68.m3u8
 [SD]河北石家庄生活,https://epg.pw/stream/0e9a8e1b6d002bd0b389680c3f9f1e32d790b27ce4a9972f315082cfeaa6ddc5.m3u8
 [BD]石家庄都市,https://epg.pw/stream/5c6dc51a858afd7dc98890f21bbb7893b929f7e3bfb5352c1b80eb505246e8c5.m3u8
 [SD]灵石新闻综合,https://epg.pw/stream/755c4ed1a48872d656691c2992106792b2358ad2b13d91bb21dfa9ec10ccd1e6.m3u8
-[BD]福建公共,https://epg.pw/stream/f360921efb0a71c93da96942d59a1978e3c33ed5bec935261543ee749d8a815f.ctv
-[BD]福建少儿,https://epg.pw/stream/d3d5c6629ffc45ab0d90a89af37dd37cbc26efd65978c2086ace2ec67c32c2bd.ctv
-[BD]福建旅游,https://epg.pw/stream/d81f63a76a3547bd8255c5bffc25a2c4b3868792fcec6304b25de1996a048b3e.ctv
 [BD]第一财经,https://epg.pw/stream/5352dff0373e4733222650469366d8f66b108ecf54a5fad617692c4e96159d61.ctv
 [HD]绍兴公共频道,https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8
 [HD]绍兴文化影院,https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8
@@ -325,7 +322,7 @@ China,#genre#
 [VGA]自贡公共,https://epg.pw/stream/a58ab1e69f0c46b04a9a86e5339d71b0f1e2d1ca3ef22cb6634b64578a65547f.ctv
 [VGA]自贡综合,https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv
 [BD]舟山新闻综合,https://epg.pw/stream/90614ad542658061c38d8a45d79d6b13fe73a333541e413081264997404d422b.m3u8
-[BD]茶频道,https://epg.pw/stream/6579e842205608bc06db160c89c6de154a4070e71dd1a6a0e8b029695653125d.ctv
+[HD]茶频道,https://epg.pw/stream/ae7a5c5facb09bb350845514b6f0cd926728ead8425821905f0da1b276b5027b.m3u8
 [BD]荆门新闻综合,https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8
 [SD]万州科教频道,https://epg.pw/stream/7e3fe3daac6d9a8fbc6044d9ec44ee54e74d7daa6fe664a265206c4e72460c89.m3u8
 [HD]苏州文化生活,https://epg.pw/stream/3516d79810c910f94a17902f64a82f94cbc576e868c068a24a75b19f2b853e4d.m3u8
