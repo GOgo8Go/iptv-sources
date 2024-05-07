@@ -465,10 +465,10 @@
 | 459 | BBC Drama (720p) | [BBC Drama (720p)](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS) |
 | 460 | BBC Earth (720p) | [BBC Earth (720p)](https://lnc-bbc-earth.tubi.video/playlist.m3u8) |
 | 461 | BBC Four HD (720p) | [BBC Four HD (720p)](https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd) |
-| 462 | BBC News (North America) (1080p) | [BBC News (North America) (1080p)](https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8) |
-| 463 | BBC News Arabic (1080p) | [BBC News Arabic (1080p)](https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8) |
-| 464 | BBC News Asia Pacific (720p) | [BBC News Asia Pacific (720p)](http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15) |
-| 465 | BBC News HD (720p) | [BBC News HD (720p)](https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd) |
+| 462 | BBC News (720p) | [BBC News (720p)](https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8) |
+| 463 | BBC News (North America) (1080p) | [BBC News (North America) (1080p)](https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8) |
+| 464 | BBC News Arabic (1080p) | [BBC News Arabic (1080p)](https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8) |
+| 465 | BBC News Asia Pacific (720p) | [BBC News Asia Pacific (720p)](http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15) |
 | 466 | BBC One Channel Islands (720p) | [BBC One Channel Islands (720p)](https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd) |
 | 467 | BBC One East (720p) | [BBC One East (720p)](https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd) |
 | 468 | BBC One East Midlands (720p) | [BBC One East Midlands (720p)](https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd) |
@@ -4808,4 +4808,4 @@
 | 4802 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 4803 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Mon May 06 2024 16:20:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue May 07 2024 01:05:30 GMT+0000 (Coordinated Universal Time)**
