@@ -950,6 +950,7 @@ Canal Siete (720p) [Not 24/7],https://vivo.solumedia.com:19360/canalsiete/canals
 Canal Sur Andalucía 2 (720p),https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 Canal Sur Andalucía (1080p) [Not 24/7],https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 Canal Sur Patagonia (720p),https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
+Cartoon Network (1080p),https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 Cartoon Network FreeLive Brazil 2 (720p),https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
 Cartoon Network FreeLive Brazil (720p),https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 Cartoon Network FreeLive Latam 2 (720p),https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
@@ -3220,6 +3221,7 @@ Telemolise (1080p),http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.strea
 teleMonteneve (480p) [Not 24/7],http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 Telemotril (720p) [Not 24/7],https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
 Telemundo Corpus Christi,https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+Telemundo East (480p),https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 Telemundo West (720p),https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
 Telemúsica TV (540p),https://canal.mediaserver.com.co/live/telemusica.m3u8
 TeleMusik Sénégal (720p),https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8
