@@ -2295,8 +2295,8 @@
 | 2289 | MCN6 Music Channel (1080p) [Not 24/7] | [MCN6 Music Channel (1080p)  Not 24/7](https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8) |
 | 2290 | MCN Televisión (768p) | [MCN Televisión (768p)](https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8) |
 | 2291 | MCN TV (1080p) [Not 24/7] | [MCN TV (1080p)  Not 24/7](http://141.95.145.70:8088/hls/mcn.m3u8) |
-| 2292 | Medi 1 TV Afrique (1080p) [Not 24/7] | [Medi 1 TV Afrique (1080p)  Not 24/7](http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8) |
-| 2293 | Medi 1 TV Arabic (1080p) [Not 24/7] | [Medi 1 TV Arabic (1080p)  Not 24/7](http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8) |
+| 2292 | Medi 1 TV Afrique (1080p) [Not 24/7] | [Medi 1 TV Afrique (1080p)  Not 24/7](https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8) |
+| 2293 | Medi 1 TV Arabic (1080p) [Not 24/7] | [Medi 1 TV Arabic (1080p)  Not 24/7](https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8) |
 | 2294 | Medi 1 TV Maghreb (1080p) [Not 24/7] | [Medi 1 TV Maghreb (1080p)  Not 24/7](https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8) |
 | 2295 | Media One (1080p) [Not 24/7] | [Media One (1080p)  Not 24/7](https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8) |
 | 2296 | Media Sunnah Aceh (720p) [Not 24/7] | [Media Sunnah Aceh (720p)  Not 24/7](https://ythls.armelin.one/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8) |
@@ -4810,4 +4810,4 @@
 | 4804 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 4805 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Wed May 08 2024 16:19:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 09 2024 01:05:24 GMT+0000 (Coordinated Universal Time)**
