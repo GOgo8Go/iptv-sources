@@ -4246,6 +4246,7 @@ Famatv (1080p) [Not 24/7],https://streamer-a03.videos.sapo.pt/live/famatv/playli
 Famili Channel (720p),https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 Family Gekijo (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
 Fano TV (1080p),https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8
+Fanpop TV,https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 FAP TV (480p),https://nd106.republicaservers.com/hls/c7284/index.m3u8
 Faro de Santidad TV (720p),https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
 Faro Puntarenas TV (720p) [Not 24/7],https://rpn3.bozztv.com/ssh101/ssh101/faroptv/playlist.m3u8
@@ -5060,6 +5061,7 @@ Men's Up,https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/MenUp.m3u8
 Mercan TV (720p) [Not 24/7],https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
 Mercy TV (1080p),https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 Mereja TV (1080p) [Not 24/7],https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8
+Merit Street (1080p),https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8
 MERU TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
 Merwe TV (720p),https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
 MESat (480p) [Not 24/7],https://ythls.armelin.one/channel/UCg5uHOxrP5GkMWldOavPKGQ.m3u8
@@ -6301,6 +6303,7 @@ TRT Arabi (1080p) [Not 24/7],https://tv-trtarabi.live.trt.com.tr/master.m3u8
 TRT Avaz (720p),https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 TRT Belgesel (720p),https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 TRT Çocuk (720p),https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+TRT Diyanet Çocuk (720p),https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 TRT EBA Ilkokul (720p),https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 TRT EBA Lise (720p),https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 TRT EBA Ortaokul (720p),https://tv-e-okul01.medya.trt.com.tr/master.m3u8
