@@ -97,4 +97,4 @@
 | 91 | 超级综艺 | [超级综艺](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8) |
 | 92 | 金牌综艺 | [金牌综艺](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8) |
 
-Updated at **Tue May 14 2024 01:06:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue May 14 2024 08:20:42 GMT+0000 (Coordinated Universal Time)**
