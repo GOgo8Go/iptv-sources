@@ -751,7 +751,7 @@ https://ythls.armelin.one/channel/UCP_wvXToU5ohFLbTAkatvsw.m3u8
 http://149.255.152.199/arbgunes.m3u8
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="Series",Atreseries (720p)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="AtticaTV.gr" tvg-logo="https://i.imgur.com/s3qWC9W.png" group-title="General",Attica TV (1080p)
+#EXTINF:-1 tvg-id="AtticaTV.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Attica_logo_155.jpg" group-title="General",Attica TV (1080p)
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.co" tvg-logo="https://i.imgur.com/giPOGyi.png" group-title="General",ATV (360p) [Not 24/7]
 https://movil.ejeserver.com/live/verteve.m3u8
