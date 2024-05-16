@@ -517,47 +517,40 @@
 | 511 | Fusung News TV | [Fusung News TV](http://stream8.jlntv.cn/fs/sd/live.m3u8) |
 | 512 | Lasa TV | [Lasa TV](http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
 | 513 | Xizang TV Tibetan | [Xizang TV Tibetan](http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 514 | Nei Monggol TV | [Nei Monggol TV](http://106.124.90.74:8888/udp/238.125.7.93:5140) |
-| 515 | Xinjiang TV 12 | [Xinjiang TV 12](http://106.124.90.74:8888/udp/238.125.3.185:5140) |
-| 516 | Xinjiang TV 9 | [Xinjiang TV 9](http://106.124.90.74:8888/udp/238.125.7.153:5140) |
-| 517 | Xinjiang TV 8 | [Xinjiang TV 8](http://106.124.90.74:8888/udp/238.125.3.181:5140) |
-| 518 | Xinjiang TV 5 | [Xinjiang TV 5](http://106.124.90.74:8888/udp/238.125.7.149:5140) |
-| 519 | Xinjiang TV 3 | [Xinjiang TV 3](http://106.124.90.74:8888/udp/238.125.7.147:5140) |
-| 520 | Xinjiang TV 2 | [Xinjiang TV 2](http://106.124.90.74:8888/udp/238.125.3.175:5140) |
-| 521 | BRTV Kaku Childrens Channel | [BRTV Kaku Childrens Channel](http://office.gofaraway.top:888/udp/238.125.2.216:5140) |
-| 522 | Sichuan Kangba Tibetan TV | [Sichuan Kangba Tibetan TV](http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 523 | 浙江新闻 | [浙江新闻](https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8) |
-| 524 | 浙江国际 | [浙江国际](https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8) |
-| 525 | 浙江少儿 | [浙江少儿](https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8) |
-| 526 | 浙江教科 | [浙江教科](https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8) |
-| 527 | 之江纪录 | [之江纪录](https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8) |
-| 528 | 浙江民生 | [浙江民生](https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8) |
-| 529 | 浙江经济 | [浙江经济](https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8) |
-| 530 | 浙江钱江 | [浙江钱江](https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8) |
-| 531 | CETV-1 | [CETV-1](http://121.19.134.246:808/hls/62/index.m3u8) |
-| 532 | 河北经济 | [河北经济](http://121.19.134.246:808/hls/20/index.m3u8) |
-| 533 | 河北都市 | [河北都市](http://121.19.134.246:808/hls/21/index.m3u8) |
-| 534 | 河北影视 | [河北影视](http://121.19.134.246:808/hls/22/index.m3u8) |
-| 535 | 少儿科教 | [少儿科教](http://121.19.134.246:808/hls/23/index.m3u8) |
-| 536 | 河北公共 | [河北公共](http://121.19.134.246:808/hls/24/index.m3u8) |
-| 537 | 河北农民 | [河北农民](http://121.19.134.246:808/hls/25/index.m3u8) |
-| 538 | 石家庄都市 | [石家庄都市](http://pluslive1.sjzntv.cn/dushi/playlist.m3u8) |
-| 539 | 石家庄生活 | [石家庄生活](http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8) |
-| 540 | 石家庄娱乐 | [石家庄娱乐](http://pluslive1.sjzntv.cn/yule/playlist.m3u8) |
-| 541 | 邯郸科教 | [邯郸科教](https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8) |
-| 542 | 邯郸新闻 | [邯郸新闻](https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8) |
-| 543 | 邯郸公共 | [邯郸公共](https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8) |
-| 544 | 邢台综合 | [邢台综合](http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8) |
-| 545 | 邢台城生 | [邢台城生](http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8) |
-| 546 | 丰宁综合 | [丰宁综合](https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8) |
-| 547 | 任丘文娱 | [任丘文娱](https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8) |
-| 548 | 兴隆综合 | [兴隆综合](https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8) |
-| 549 | 山西经济 | [山西经济](http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8) |
-| 550 | 山西影视 | [山西影视](http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8) |
-| 551 | 山西法治 | [山西法治](http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8) |
-| 552 | 山西文体 | [山西文体](http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8) |
-| 553 | Ando TV (576p) | [Ando TV (576p)](http://119.1.122.186:4022/rtp/238.255.2.189:5999) |
-| 554 | Liangshan TV | [Liangshan TV](http://118.122.2.29:9999/hls/47/index.m3u8) |
-| 555 | CCTV4K | [CCTV4K](http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8) |
+| 514 | Sichuan Kangba Tibetan TV | [Sichuan Kangba Tibetan TV](http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 515 | 浙江新闻 | [浙江新闻](https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8) |
+| 516 | 浙江国际 | [浙江国际](https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8) |
+| 517 | 浙江少儿 | [浙江少儿](https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8) |
+| 518 | 浙江教科 | [浙江教科](https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8) |
+| 519 | 之江纪录 | [之江纪录](https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8) |
+| 520 | 浙江民生 | [浙江民生](https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8) |
+| 521 | 浙江经济 | [浙江经济](https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8) |
+| 522 | 浙江钱江 | [浙江钱江](https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8) |
+| 523 | CETV-1 | [CETV-1](http://121.19.134.246:808/hls/62/index.m3u8) |
+| 524 | 河北经济 | [河北经济](http://121.19.134.246:808/hls/20/index.m3u8) |
+| 525 | 河北都市 | [河北都市](http://121.19.134.246:808/hls/21/index.m3u8) |
+| 526 | 河北影视 | [河北影视](http://121.19.134.246:808/hls/22/index.m3u8) |
+| 527 | 少儿科教 | [少儿科教](http://121.19.134.246:808/hls/23/index.m3u8) |
+| 528 | 河北公共 | [河北公共](http://121.19.134.246:808/hls/24/index.m3u8) |
+| 529 | 河北农民 | [河北农民](http://121.19.134.246:808/hls/25/index.m3u8) |
+| 530 | 石家庄都市 | [石家庄都市](http://pluslive1.sjzntv.cn/dushi/playlist.m3u8) |
+| 531 | 石家庄生活 | [石家庄生活](http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8) |
+| 532 | 石家庄娱乐 | [石家庄娱乐](http://pluslive1.sjzntv.cn/yule/playlist.m3u8) |
+| 533 | 邯郸科教 | [邯郸科教](https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8) |
+| 534 | 邯郸新闻 | [邯郸新闻](https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8) |
+| 535 | 邯郸公共 | [邯郸公共](https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8) |
+| 536 | 邢台综合 | [邢台综合](http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8) |
+| 537 | 邢台城生 | [邢台城生](http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8) |
+| 538 | 丰宁综合 | [丰宁综合](https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8) |
+| 539 | 任丘文娱 | [任丘文娱](https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8) |
+| 540 | 兴隆综合 | [兴隆综合](https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8) |
+| 541 | 山西经济 | [山西经济](http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8) |
+| 542 | 山西影视 | [山西影视](http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8) |
+| 543 | 山西法治 | [山西法治](http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8) |
+| 544 | 山西文体 | [山西文体](http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8) |
+| 545 | BRTV Kaku Childrens Channel | [BRTV Kaku Childrens Channel](http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8) |
+| 546 | Ando TV (576p) | [Ando TV (576p)](http://119.1.122.186:4022/rtp/238.255.2.189:5999) |
+| 547 | Liangshan TV | [Liangshan TV](http://118.122.2.29:9999/hls/47/index.m3u8) |
+| 548 | CCTV4K | [CCTV4K](http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8) |
 
-Updated at **Wed May 15 2024 16:19:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 16 2024 01:07:08 GMT+0000 (Coordinated Universal Time)**

@@ -187,7 +187,7 @@ China,#genre#
 [BD]广州综合,https://epg.pw/stream/a0e9caf340aadd0adb81902a099b7c9463282ea19d60993d3b6a757c4adc3295.m3u8
 [BD]广东少儿频道,https://epg.pw/stream/d18bbaaf970df65cdfd5ac717f7ad75d351dd28b1540d8a5923de2ae1d30105c.m3u8
 [SD]广东影视,https://epg.pw/stream/cf1cb04544b8324a474a732a218abf171a9a5f5df5d9709f683907682348a2b5.m3u8
-[HD]广东文化,https://epg.pw/stream/89a16edf6e3b1e6dbc13289c518f00238187af949c247b78861a8e550fc366a5.m3u8
+[HD]广东文化,https://epg.pw/stream/7b744b420f26b7e05409c912b38ba373d09673a716df66a115e97c48c4e386e5.m3u8
 [SD]广东新闻,https://epg.pw/stream/c094302b2de4bc9600f9ebec67c3f77e247be50a6d1c0a29744b2b3d6f94d571.m3u8
 [BD]广东民生频道,https://epg.pw/stream/a86ba95495fc12646208a35f932b7a879caa7ea319971c201e533a0cce39a737.m3u8
 [SD]广东珠江,https://epg.pw/stream/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.m3u8
@@ -221,7 +221,6 @@ China,#genre#
 [SD]旅游卫视,https://epg.pw/stream/6273623a45f80e74cde334ee5fc4a31c6ae0a95f443725fce3bf5910d0607778.m3u8
 [BD]晋城公共,https://epg.pw/stream/684d6bf385281bf6627900d4df4ccf0936c2f2bdb8834eded5a8d32654b977a7.m3u8
 [BD]晋城新闻,https://epg.pw/stream/b7f44c7cf0937773ca350ff513cb1bb9e8a89a1c39b4834fa72e6c41695ebcc5.m3u8
-[BD]潞城新闻综合,https://epg.pw/stream/7f687d58e94a0f786932a40d1277fc19a5c76aea801a81295121b8251e9a46c3.m3u8
 [SD]霸州少儿频道,https://epg.pw/stream/eb656c9023968966ef3229c21758609dd94753dffc29bb29bb61e444a72a24a1.m3u8
 [VGA]东北戏曲,https://epg.pw/stream/3587d2a664f1ed6cd95d0075b42f605bb091c9dc57a6edd13adfa56e6d9b4294.m3u8
 [BD]东南卫视[ipv6],https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8
@@ -321,7 +320,7 @@ China,#genre#
 [HD]蓬安新闻综合,https://epg.pw/stream/8c5ee0bba6ced1dbcc2a892b8fe4aaaa2a0dcf75e0d618cb21a0944508a5692d.m3u8
 [BD]济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 [BD]滨海影视,https://epg.pw/stream/07686fe556dab33bdd73b741e34c276c481627226c75fc433b9563d3ddba6280.m3u8
-[SD]滨海新闻综合,https://epg.pw/stream/184455cd916a1c5580228ac962bc94daebe8b20037456344b11b3945c147eb49.m3u8
+[HD]滨海新闻综合,https://epg.pw/stream/32cb4e15a80f4d13c36e97c42bf47ee572ba3816d6087bc1e07fecbc2e3a70c8.m3u8
 [SD]富阳新闻综合,https://epg.pw/stream/184765df59a5f2ec47a324d683f98b89feb48a64bfeafeef5702b2aa982c051f.m3u8
 [BD]无锡教育,https://epg.pw/stream/aec6eb3f203182d8a840813fc1768a06366aed043198fbabc086b6971ea0a8b6.m3u8
 [HD]熊猫频道,https://epg.pw/stream/3a3cd6889c336a75c3e5ef438e68f6300bf99e792c1eb9878986aad540468d9c.m3u8
