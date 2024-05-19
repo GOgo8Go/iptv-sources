@@ -1314,7 +1314,6 @@ Duck TV (720p),https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJd
 Dudelange TV (720p),https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
 Due Fantagenitori Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Duende Tv (720p),https://ed29ov.live.opencaster.com/EDokztdeHFwk/index.m3u8
-Duhk Wa Bas (1080p),https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
 Dukh Nivaran (720p) [Not 24/7],http://cdn12.henico.net:8080/live/dncal/index.m3u8
 Dumskaya TV (720p),http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 Duna TV (1080p),http://146.59.85.40:89/dunahd/index.m3u8
@@ -2070,7 +2069,6 @@ Law & Crime (720p),https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3
 Lawndale City TV (720p),http://67.53.122.248/live-4/live/live.m3u8
 LaXitosa Panamá (360p) [Not 24/7],https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
 Lazio TV (576p),http://151.0.207.99:1935/live/LAZIOTV12/playlist.m3u8
-LBC (1080p),https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 LCN,https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 Le Cronache TV (720p),http://77.68.40.210:8888/hls/cronache.m3u8
 Le Figaro IDF,https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
