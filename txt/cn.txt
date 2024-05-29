@@ -151,7 +151,7 @@ China,#genre#
 [BD]太原新闻综合,https://epg.pw/stream/6b653e1856fd229daff2949116fef14416db534e55f710654e305a933291269f.ctv
 [BD]东莞新闻综合,https://epg.pw/stream/43c9c29ffd7ea98ad212c50ca985141fe13dd5608397f3f572141fcdd05ccd3a.m3u8
 [VGA]孝感公共频道,https://epg.pw/stream/0a0699b4d52d9c944c8e9bb7ec09b97d351e5d2be8fbae6c4a2843ccb7d34f9c.m3u8
-[HD]安多卫视,https://epg.pw/stream/64f8d4678019673ff347d3636f9aaa9cb5dcde274672e6d75a25aca77d453a12.m3u8
+[SD]安多卫视,https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8
 [BD]安徽公共,https://epg.pw/stream/4d24a833a077312dd4b99da78588cbfbde827c4f07c41765e1c8fb4381b670f6.ctv
 [BD]安徽国际,https://epg.pw/stream/10bca8f882fc7e52fbbd3fcd70c2705f85cf9ec5e7eb1d4be9bf33d983943c61.m3u8
 [BD]安徽导视,https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8
@@ -212,6 +212,7 @@ China,#genre#
 [BD]郫都新闻综合,https://epg.pw/stream/dafd8355abd04c76f0afda6cd8e2a8c41b0e862f7ee29d53f7a6c88be4c03397.ctv
 [HD]成都经济资讯,https://epg.pw/stream/4f5b430e579348a901ab9b5a9e96554c41c6be9a084c98ea5d592e136069f66a.ctv
 [HD]成都都市生活,https://epg.pw/stream/fa04026fc365e70619db313726cbff31cb46988172b18cc19b2fdb4d3e9d8f4c.ctv
+[SD]收藏天下,https://epg.pw/stream/06721d102fff6bee9be6bc1afc6fcc7b98152ae725c268a17b41b5502b3c7b5c.ctv
 [BD]数码时代频道,https://epg.pw/stream/c3a8796e15e49a4ff68ae145fed7ba892002425c14b41201faad11adf3e87b9a.m3u8
 [BD]文物宝库[ipv6],https://epg.pw/stream/499ee76d5b019bd5420fbca477643aa01975ae2b9497701fe809c47fe224af68.m3u8
 [BD]三新动漫,https://epg.pw/stream/3db55b1054c684fb8a548a10a0d6cb7855c453b8786c8716dbb2c27c917a8c6d.ctv
