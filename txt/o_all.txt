@@ -230,7 +230,6 @@ Al Ghad (720p) [Not 24/7],https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YD
 Al Ghadeer TV,http://63b03f7689049.streamlock.net:1935/live/2/playlist.m3u8
 Al Ghadye (576p),http://82.212.74.3:8000/live/hls/7512.m3u8
 Al Hadath TV (1080p),https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-Al Haqiqa (576p),https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
 Al Hayat TV (720p),http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 Al Horreya TV (1080p),http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
 Al Huda TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCdTAsRrQEp-IVoMzKoRG4ZQ.m3u8
@@ -4591,7 +4590,6 @@ Zylo ScreamIN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenA
 Смотрим Мелодрамы,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 Смотрим Тайны,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
 Смотрим Частный Детектив,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-Сургут 24 (720p) [Not 24/7],https://video1.in-news.ru/c24/index.m3u8
 СургутИнформТВ,https://sitv.ru/vgtrk/stv.m3u8
 Суспільне Київ HD,http://portal.ott.pink/watch/7592/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 Сфера ТВ,http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
