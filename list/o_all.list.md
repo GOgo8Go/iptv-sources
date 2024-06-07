@@ -4623,4 +4623,4 @@
 | 4617 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
 | 4618 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Thu Jun 06 2024 16:20:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 07 2024 01:10:48 GMT+0000 (Coordinated Universal Time)**
