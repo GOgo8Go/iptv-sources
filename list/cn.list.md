@@ -223,9 +223,9 @@
 | 217 | [SD]霸州少儿频道 | [SD 霸州少儿频道](https://epg.pw/stream/eb656c9023968966ef3229c21758609dd94753dffc29bb29bb61e444a72a24a1.m3u8) |
 | 218 | [VGA]东北戏曲 | [VGA 东北戏曲](https://epg.pw/stream/3587d2a664f1ed6cd95d0075b42f605bb091c9dc57a6edd13adfa56e6d9b4294.m3u8) |
 | 219 | [BD]东南卫视[ipv6] | [BD 东南卫视 ipv6](https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8) |
-| 220 | [BD]东方卫视[ipv6] | [BD 东方卫视 ipv6](https://epg.pw/stream/1329aab0c057a65f1395c02e7a8df1bfc02144f0a6328d684398e554494e715e.m3u8) |
+| 220 | [BD]东方卫视 | [BD 东方卫视](https://epg.pw/stream/9e1e70e2658595a0ffea37f1243a80e16b18ab7ae87c1931474e6f79828f05cc.m3u8) |
 | 221 | [BD]东方财经 hd | [BD 东方财经 hd](https://epg.pw/stream/f16d8dfb37a570ed94a1b31d5e64dd6ba1f8f6586a63bf3277eb03794a345a8d.ctv) |
-| 222 | [HD]林正英 | [HD 林正英](https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv) |
+| 222 | [SD]林正英 | [SD 林正英](https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv) |
 | 223 | [SD]万州影视文艺 | [SD 万州影视文艺](https://epg.pw/stream/0db1fe6d9f439ccf06fa6ffcec21201991d909523dcf02f59828ee836c1f226b.m3u8) |
 | 224 | [SD]枣庄公共频道 | [SD 枣庄公共频道](https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8) |
 | 225 | [SD]枣庄教育 | [SD 枣庄教育](https://epg.pw/stream/5c9be548faf8b08d6c887f2037065b56dac729995abfb7e9da64ed34c99fec3d.m3u8) |
@@ -404,4 +404,4 @@
 | 398 | [BD]黑龙江都市[ipv6] | [BD 黑龙江都市 ipv6](https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8) |
 | 399 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8) |
 
-Updated at **Tue Jun 11 2024 01:09:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 11 2024 08:20:27 GMT+0000 (Coordinated Universal Time)**
