@@ -2632,7 +2632,6 @@ Museum TV Fast,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediar
 Music Box Gold (576p),https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 Music India (576p) [Not 24/7],http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 Music Japan TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-Music+ (1080p),https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-79/3fqc-ohua/chunklist_DVR.m3u8
 MusicTop (720p),http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 Mutant X Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Muthingi TV (480p),https://apps.digitaltv.co.ke/live/2005.m3u8
