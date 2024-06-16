@@ -22,7 +22,7 @@
 | 16 | CCTV-15 | [CCTV-15](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8) |
 | 17 | CCTV-16 | [CCTV-16](http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8) |
 | 18 | CCTV-17 | [CCTV-17](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8) |
-| 19 | CCTV-4K | [CCTV-4K](http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8) |
+| 19 | CCTV-4K | [CCTV-4K](http://liveop.cctv.cn/hls/4KHD/playlist.m3u8) |
 | 20 | CGTN新闻 | [CGTN新闻](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2) |
 | 21 | CGTN纪录 | [CGTN纪录](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2) |
 | 22 | 兵器科技 | [兵器科技](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2) |
@@ -185,4 +185,4 @@
 | 179 | MovieSphere | [MovieSphere](https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8) |
 | 180 | The Lego Channel | [The Lego Channel](https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8) |
 
-Updated at **Sun Jun 16 2024 08:19:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 16 2024 16:18:06 GMT+0000 (Coordinated Universal Time)**
