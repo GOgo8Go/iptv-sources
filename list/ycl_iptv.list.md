@@ -152,37 +152,5 @@
 | 146 | 军事评论 | [军事评论](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8) |
 | 147 | 明星大片 | [明星大片](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8) |
 | 148 | 欢乐剧场 | [欢乐剧场](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8) |
-| 149 | CNN | [CNN](https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8) |
-| 150 | BBC | [BBC](https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8) |
-| 151 | CNA | [CNA](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8) |
-| 152 | NBC News Now | [NBC News Now](https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8) |
-| 153 | Sky News | [Sky News](https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8) |
-| 154 | Wion News | [Wion News](https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8) |
-| 155 | AXS TV Now | [AXS TV Now](https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8) |
-| 156 | Newsmax | [Newsmax](http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8) |
-| 157 | Dubai One | [Dubai One](http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8) |
-| 158 | Al Jazeera | [Al Jazeera](http://live-hls-web-aje.getaj.net/AJE/01.m3u8) |
-| 159 | Arirang | [Arirang](https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8) |
-| 160 | Bloomberg Asia | [Bloomberg Asia](https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8) |
-| 161 | Bloomberg Originals | [Bloomberg Originals](https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8) |
-| 162 | CBN News | [CBN News](https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8) |
-| 163 | GB News | [GB News](https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8) |
-| 164 | RT News | [RT News](https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8) |
-| 165 | RT Documentary | [RT Documentary](https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8) |
-| 166 | Taiwan Plus | [Taiwan Plus](https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8) |
-| 167 | ION Plus | [ION Plus](https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8) |
-| 168 | ION | [ION](https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8) |
-| 169 | Love Nature | [Love Nature](https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8) |
-| 170 | Fashion TV | [Fashion TV](http://91.247.68.229:8000/play/Fashion/index.m3u8) |
-| 171 | Fight Network | [Fight Network](https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8) |
-| 172 | Wild Earth | [Wild Earth](https://wildearth-plex.amagi.tv/masterR1080p.m3u8) |
-| 173 | FIFA+ | [FIFA+](https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8) |
-| 174 | Clarity 4K | [Clarity 4K](https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8) |
-| 175 | Stadium | [Stadium](https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8) |
-| 176 | Trace Sports | [Trace Sports](https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8) |
-| 177 | Pop | [Pop](http://streamsy.online:2999/coachj88/N93DPKS9pJ/226) |
-| 178 | Tastemade | [Tastemade](https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8) |
-| 179 | MovieSphere | [MovieSphere](https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8) |
-| 180 | The Lego Channel | [The Lego Channel](https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8) |
 
-Updated at **Tue Jun 18 2024 08:20:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 18 2024 16:20:23 GMT+0000 (Coordinated Universal Time)**
