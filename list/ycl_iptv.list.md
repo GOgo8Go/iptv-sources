@@ -176,7 +176,7 @@
 | 170 | Fashion TV | [Fashion TV](http://91.247.68.229:8000/play/Fashion/index.m3u8) |
 | 171 | Fight Network | [Fight Network](https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8) |
 | 172 | Wild Earth | [Wild Earth](https://wildearth-plex.amagi.tv/masterR1080p.m3u8) |
-| 173 | Wild Planet | [Wild Planet](https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8) |
+| 173 | FIFA+ | [FIFA+](https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8) |
 | 174 | Clarity 4K | [Clarity 4K](https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8) |
 | 175 | Stadium | [Stadium](https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8) |
 | 176 | Trace Sports | [Trace Sports](https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8) |
@@ -185,4 +185,4 @@
 | 179 | MovieSphere | [MovieSphere](https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8) |
 | 180 | The Lego Channel | [The Lego Channel](https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8) |
 
-Updated at **Tue Jun 18 2024 01:09:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 18 2024 08:20:35 GMT+0000 (Coordinated Universal Time)**
