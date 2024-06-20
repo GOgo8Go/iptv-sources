@@ -5289,7 +5289,7 @@
 | 5283 | Наше ТВ (Витебск) (576p) | [Наше ТВ (Витебск) (576p)](http://95.46.208.8:26259/nashe) |
 | 5284 | НВК Саха (1080p) [Not 24/7] | [НВК Саха (1080p)  Not 24/7](https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8) |
 | 5285 | Небеса ТВ7 (720p) | [Небеса ТВ7 (720p)](https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8) |
-| 5286 | Неизвестная Россия | [Неизвестная Россия](http://cdn.ntv.ru/unknown_russia/playlist.m3u8) |
+| 5286 | Неизвестная Россия | [Неизвестная Россия](https://cdn.ntv.ru/unknown_russia/playlist.m3u8) |
 | 5287 | Нижний Новгород 24 | [Нижний Новгород 24](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8) |
 | 5288 | Ника ТВ (576p) [Not 24/7] | [Ника ТВ (576p)  Not 24/7](https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8) |
 | 5289 | Новое телевидение (576p) [Not 24/7] | [Новое телевидение (576p)  Not 24/7](http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8) |
@@ -5906,4 +5906,4 @@
 | 5900 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5901 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Wed Jun 19 2024 16:20:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 20 2024 01:08:13 GMT+0000 (Coordinated Universal Time)**
