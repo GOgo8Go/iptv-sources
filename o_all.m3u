@@ -3342,7 +3342,7 @@ https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/a
 #EXTINF:-1 tvg-id="GalaxiaTeVe.do" tvg-logo="" group-title="Undefined",GalaxiaTeVe (360p)
 https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 #EXTINF:-1 tvg-id="Galaxy.gr" tvg-logo="https://i.imgur.com/YgGSEeT.png" group-title="Undefined",Galaxy (432p)
-https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
+https://ssh101.bozztv.com/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 tvg-id="GalaxyTV.ug" tvg-logo="https://i.imgur.com/Owmof9n.jpg" group-title="Music",Galaxy TV (480p) [Not 24/7]
 https://readymedia.moderntv.cloud:8092/distribute/readymedia/ABS_stream_gy/5-20-hls/live.m3u8
 #EXTINF:-1 tvg-id="GalaxyTV.ng" tvg-logo="https://i.imgur.com/BV0JuyX.png" group-title="Undefined",Galaxy TV (576p)
@@ -7115,6 +7115,8 @@ https://streamer.zapitv.com/PTV-malaga/index.m3u8
 https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8
 #EXTINF:-1 tvg-id="PTVSevilla.es" tvg-logo="https://i.imgur.com/EcinFGu.png" group-title="General",PTV Sevilla (1080p)
 https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PTV Sports
+http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="PTVGlobal.pk" tvg-logo="https://i.imgur.com/CWFI3wg.png" group-title="Undefined",PTV World (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in" tvg-logo="https://i.imgur.com/0xS5lNT.png" group-title="Music",Public Music (576p) [Not 24/7]
