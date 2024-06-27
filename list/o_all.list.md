@@ -3744,7 +3744,7 @@
 | 3738 | TCH (1080p) [Not 24/7] | [TCH (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCXoJ8kY9zpLBEz-8saaT3ew.m3u8) |
 | 3739 | Tchaman TV (720p) | [Tchaman TV (720p)](https://itelema.stream/live/smil:myStream.smil/playlist.m3u8) |
 | 3740 | TCI (1080p) | [TCI (1080p)](https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8) |
-| 3741 | TCS+ (480p) [Not 24/7] | [TCS+ (480p)  Not 24/7](https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8) |
+| 3741 | TCS+ (480p) [Not 24/7] | [TCS+ (480p)  Not 24/7](https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8) |
 | 3742 | TCSM (1080p) | [TCSM (1080p)](https://blueeyecaboverde.com/cam1/memfs/e8e6696b-2102-45b9-9b5c-f9c101266d90.m3u8) |
 | 3743 | TD Ameritrade Network (1080p) | [TD Ameritrade Network (1080p)](https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8) |
 | 3744 | TDI Colombia (720p) [Not 24/7] | [TDI Colombia (720p)  Not 24/7](https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8) |
@@ -5290,4 +5290,4 @@
 | 5284 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5285 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Wed Jun 26 2024 16:20:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 27 2024 01:10:00 GMT+0000 (Coordinated Universal Time)**
