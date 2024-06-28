@@ -155,4 +155,4 @@
 | 149 | 明星大片 | [明星大片](http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8) |
 | 150 | 欢乐剧场 | [欢乐剧场](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8) |
 
-Updated at **Thu Jun 27 2024 16:19:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 28 2024 01:09:57 GMT+0000 (Coordinated Universal Time)**
