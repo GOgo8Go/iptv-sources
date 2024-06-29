@@ -1031,9 +1031,12 @@ Dismar Radio TV (720p),https://rds3.desdeparaguay.net/dismartv/dismartv/playlist
 Disney Channel (432p),https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 Disney Channel (720p),https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 Disney Channel Japan (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+Disney Channel Latin America (480p),http://168.181.122.234:8000/play/a038/index.m3u8
+Disney Channel PL (1080p),http://185.236.229.62:9981/play/a07d
 Disney Jr. (720p),https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-Disney Junior (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 Disney Junior (576p),http://185.236.229.62:9981/play/a06n
+Disney Junior Japan (400p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+Disney XD (576p),http://178.219.128.68:64888/DISNXD
 Disney XD (720p),https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 District of Columbia Network (DCN) (1080p),https://video.oct.dc.gov/out/u/DCN.m3u8
 Distrito Comedia (576p),https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
@@ -1772,6 +1775,7 @@ Kidz Atresmedia (720p),https://fast-channels.atresmedia.com/648c271d2bfab0e4177a
 KienGiangTV1 (1080p),https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 KienGiangTV (1080p),https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 KiKA (1080p),https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+Kilisuci TV,https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 King TV (544p),https://tv1.isi-broadcast.tech/KING_TV/index.m3u8
 King TV (720p) [Not 24/7],https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 Kino 24,http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
@@ -4213,10 +4217,8 @@ UNE TV (720p) [Not 24/7],https://amixtv.live:3395/live/unetvlive.m3u8
 Une Vinalopó (576p) [Not 24/7],https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 UNIANDES TV (720p),https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 Única TV (720p) [Not 24/7],https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
-Unicable (576p),https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 Unicanal (1080p) [Not 24/7],https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 Unife TV (720p),https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u8
-UniMás East,https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
 UniNettuno University TV (720p),https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 UnionTV,https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 Uniquely Thai (720p),https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
@@ -4238,7 +4240,6 @@ Universal Monsters,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/st
 UniversCiné Le Meilleur du Cinéma (1080p),https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8
 Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7],https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 Üniversite TV (720p) [Not 24/7],https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
-Univision East,https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
 Unsolved Mysteries,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc202-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d38cc26-1fa3-46f8-bb13-79fb665ae910&serverSideAds=false
 Unsolved Mysteries 2,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77884314396a00070dfd5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc203-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43b991e6-0072-48e6-9263-1c12782e548b&serverSideAds=false
 UNTV (576p),https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
@@ -4391,7 +4392,6 @@ W14DK-D 14.1 TV Delmarva,https://2-fss-2.streamhoster.com/pl_118/amlst:204972-19
 W14DK-D 14.2 NEWSNET,https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 W14DK-D 14.3 RetroTV,https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 W14DK-D 14.5 All Sports Television Network,https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
-W14DK-D 14.7 Heartland Channel,https://2-fss-2.streamhoster.com/pl_118/amlst:204972-3078008/playlist.m3u8
 W24 (720p) [Not 24/7],https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 W Shopping (720p),https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 Waar TV,https://ca-rt.onetv.app/Waar/index-0.m3u8
