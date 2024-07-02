@@ -12,7 +12,7 @@
 | 6 | [BD]asharq documentary | [BD asharq documentary](https://stream1.freetv.fun/6533e4430f9a9db4767409224aa980b2cb4c8b58deaa849c12ca4b6e644d448d.m3u8) |
 | 7 | [SD]cctv-6电影 | [SD cctv-6电影](https://stream1.freetv.fun/ddd5b427db5db2b4b9f71b8efa5f5c4311c40644553f5b584ffcf7ec138327b8.m3u8) |
 | 8 | [BD]cctv11-戏曲 | [BD cctv11-戏曲](https://stream1.freetv.fun/3c5720a09d1fa7eb4a40e5c37bbf4e65308d5b767513a24d51aa59dd090e385a.m3u8) |
-| 9 | [VGA]cctv1 | [VGA cctv1](https://stream1.freetv.fun/5d284520daa692f05f56035b16d3664f0e1d00c595102fbb480bdd9365d80e12.m3u8) |
+| 9 | [BD]cctv1[ipv6] | [BD cctv1 ipv6](https://stream1.freetv.fun/e8620a40b42350ce6285021d39d2d73a665502cfbfadcb91cd1ca8269f5b492d.m3u8) |
 | 10 | [BD]cctv10[ipv6] | [BD cctv10 ipv6](https://stream1.freetv.fun/42171068f1cd623e711b6a2434af0f7c2aa912dac5cddd30f68d737df451cd90.m3u8) |
 | 11 | [HD]cctv11 | [HD cctv11](https://stream1.freetv.fun/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8) |
 | 12 | [BD]cctv12[ipv6] | [BD cctv12 ipv6](https://stream1.freetv.fun/61ec8e0d4e9bc58f9bcf51be1930765b2a6a982ecd21f383dc33cb85d1422a72.m3u8) |
@@ -134,12 +134,12 @@
 | 128 | [BD]内黄新闻综合频道 | [BD 内黄新闻综合频道](https://stream1.freetv.fun/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8) |
 | 129 | [BD]纪实 | [BD 纪实](https://stream1.freetv.fun/f994c808c0b6a88c82e9c2b842724734ee9a33dc6a1621639b8d55e593424ff7.m3u8) |
 | 130 | [SD]兵团卫视 | [SD 兵团卫视](https://stream1.freetv.fun/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8) |
-| 131 | [SD]刘德华 | [SD 刘德华](https://stream1.freetv.fun/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv) |
+| 131 | [BD]刘德华 | [BD 刘德华](https://stream1.freetv.fun/7beb142ac0e042f1fe010898c410d88a3bd1e0fd260a34d50a08ba80dec005e4.ctv) |
 | 132 | [BD]劲爆体育 | [BD 劲爆体育](https://stream1.freetv.fun/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv) |
 | 133 | [SD]动作影院 | [SD 动作影院](https://stream1.freetv.fun/e39efd26ec96c638496bec71008a13903ddecf2faf0acee9cfeb034efce82d44.ctv) |
 | 134 | [SD]动漫秀场 | [SD 动漫秀场](https://stream1.freetv.fun/3db4e163a68d0e426d82c41072c03763ff9708ec882448590e3096d87f073067.m3u8) |
 | 135 | [SD]动漫[ipv6] | [SD 动漫 ipv6](https://stream1.freetv.fun/e61c6988eb7328137ad20820a9c412c94b96333c04ed44ba02215d1f33e907ef.m3u8) |
-| 136 | [VGA]北京4k超清 | [VGA 北京4k超清](https://stream1.freetv.fun/b560cae438cc020e200e8bf333ec7d90d065168b269b9325f3eb6eec73d87c1b.ctv) |
+| 136 | [BD]北京4k超清 | [BD 北京4k超清](https://stream1.freetv.fun/b560cae438cc020e200e8bf333ec7d90d065168b269b9325f3eb6eec73d87c1b.ctv) |
 | 137 | [SD]卡酷少儿 | [SD 卡酷少儿](https://stream1.freetv.fun/dcbc7525aff33fe5ac2363981c8fc101d4f0d9d7cd0796427ac956214b9230a4.m3u8) |
 | 138 | [BD]北京影视 | [BD 北京影视](https://stream1.freetv.fun/cdcfe3ec6cca2a8ba74df72bc575c307bbc69e2fbf4cce276ef60356af2c472b.ctv) |
 | 139 | [BD]北京文艺 | [BD 北京文艺](https://stream1.freetv.fun/8d1156a87cd9a99a96edea7b1cf2d187504afb3d2308ab656b24f89f57279280.ctv) |
@@ -659,4 +659,4 @@
 | 653 | [BD]黑龙江都市[ipv6] | [BD 黑龙江都市 ipv6](https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8) |
 | 654 | [HD]点掌财经 | [HD 点掌财经](https://stream1.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8) |
 
-Updated at **Tue Jul 02 2024 01:10:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 02 2024 08:20:02 GMT+0000 (Coordinated Universal Time)**
