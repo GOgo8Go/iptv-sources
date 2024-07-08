@@ -1740,6 +1740,7 @@ Gregorian TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UC8ebJ_anG4byfh
 Grit Xtra,https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 Grit Xtra (1080p),https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
 Groningen1 (1080p) [Not 24/7],http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+Groovezzo,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
 Groovy TV (360p),http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 GRP VERATV (576p),https://5cbd3bc28341f.streamlock.net:444/grp/live/playlist.m3u8
 GRT (720p),https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
@@ -3606,6 +3607,7 @@ Scherzi e risate Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls
 Schladming-Dachstein TV (720p),https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
 Schlager Deluxe (1080p),https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 Scientology Network (1080p),https://stream6.scientology.org/master.m3u8
+SCORELIVE 1 HD,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
 Scream Factory TV,https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
 Scripps News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
 SCVTV (Santa Clarita CA) (1080p),https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8

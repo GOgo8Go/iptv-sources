@@ -3481,6 +3481,8 @@ https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
 #EXTINF:-1 tvg-id="Groningen1.nl" tvg-logo="https://i.imgur.com/Ze4uC7j.png" group-title="Undefined",Groningen1 (1080p) [Not 24/7]
 http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Groovezzo
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
 #EXTINF:-1 tvg-id="GroovyTV.gr" tvg-logo="https://i.imgur.com/ZYNQuf1.png" group-title="Movies",Groovy TV (360p)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 tvg-id="GRPVERATV.it" tvg-logo="https://i.imgur.com/jasSHXJ.png" group-title="General",GRP VERATV (576p)
@@ -7213,6 +7215,8 @@ https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.s
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-id="ScientologyNetwork.us" tvg-logo="https://i.imgur.com/HOYF8NA.png" group-title="Undefined",Scientology Network (1080p)
 https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SCORELIVE 1 HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
 #EXTINF:-1 tvg-id="ScreamFactoryTV.us" tvg-logo="https://i.imgur.com/9IsBu9m.png" group-title="Undefined",Scream Factory TV
 https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews.us" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="News",Scripps News
