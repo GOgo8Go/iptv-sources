@@ -4242,6 +4242,7 @@ Tropical TV (Puerto Maldonado) (720p) [Not 24/7],https://tv.oyotunstream.com:193
 Tropoja TV (1080p),https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 TRT 1 (1080p),https://d1u68oyra9spme.cloudfront.net/master.m3u8
 TRT 2,https://trt2.blutv.com/blutv_trt2/live.m3u8
+TRT 4K (2160p),https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 TRT (360p),https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 TRT (410p),https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
 TRT Arabi (1080p) [Not 24/7],https://tv-trtarabi.medya.trt.com.tr/master.m3u8
