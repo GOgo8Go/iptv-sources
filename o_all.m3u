@@ -3061,7 +3061,7 @@ https://reflect-vod-cmac.cablecast.tv/live-11/live/live.m3u8
 https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8
 #EXTINF:-1 tvg-id="CMAC3.us" tvg-logo="https://i.imgur.com/ToZzguz.png" group-title="Legislative",Fresno CMAC 3 Government Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-13/live/live.m3u8
-#EXTINF:-1 tvg-id="FriesischerRundfunkFriedeburg.de" tvg-logo="https://i.imgur.com/jynL4Xl.png" group-title="Undefined",Friesischer Rundfunk Friedeburg (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FriesischerRundfunkFriedeburg.de" tvg-logo="https://i.imgur.com/dGNscPB.png" group-title="General",Friesischer Rundfunk Friedeburg (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCVwFnSaCfUD_UbkmWuZZ7FA.m3u8
 #EXTINF:-1 tvg-id="Frii.fi" tvg-logo="https://i.imgur.com/9sYC2IE.png" group-title="Undefined",Frii (720p)
 https://live-fi.tvkaista.net/frii/live.m3u8
@@ -4453,7 +4453,7 @@ https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-id="LubovnianskaTV.sk" tvg-logo="https://i.imgur.com/ZgHIdGn.jpg" group-title="General",L'ubovnianska TV (1080p)
 https://kamery.kukni.sk:8181/memfs/fb00d981-d2d4-4d69-bb44-a9ff6aa25a76.m3u8
-#EXTINF:-1 tvg-id="LTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24496-1.png" group-title="Undefined",L-TV (720p)
+#EXTINF:-1 tvg-id="LTV.de" tvg-logo="https://i.imgur.com/HuGaMJj.png" group-title="General",L-TV (720p)
 https://live2.telvi.de/hls/l-tv_s1.m3u8
 #EXTINF:-1 tvg-id="LabTV.it" tvg-logo="https://i.imgur.com/bgtw1fu.png" group-title="General",L@b TV (1080p)
 http://live.sloode.com:1935/labtv_live/labtv/playlist.m3u8
@@ -6245,7 +6245,7 @@ https://59ce1298bfb98.streamlock.net/pdstv/pdstv/playlist.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pearl Diffusion (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCvpCjGQASCazC-Vxcp9tgPA.m3u8
-#EXTINF:-1 tvg-id="PearlTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24524-2.png" group-title="Undefined",Pearl TV (2160p) [Not 24/7]
+#EXTINF:-1 tvg-id="PearlTV.de" tvg-logo="https://i.imgur.com/NFj1qjr.png" group-title="Shop",Pearl TV (2160p) [Not 24/7]
 https://ythls.armelin.one/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
 #EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
 https://iptv.peer.biz/live/peertv-it.m3u8
@@ -6671,9 +6671,9 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 https://ythls.armelin.one/channel/UCm4fSpMpPIZ9z6KHoezLUAg.m3u8
 #EXTINF:-1 tvg-id="RFM.sn" tvg-logo="https://i.imgur.com/QeLdzTC.png" group-title="Undefined",RFM (720p)
 https://senrtmp.com/hls/rfm.m3u8
-#EXTINF:-1 tvg-id="RFO.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24538-1.png" group-title="Undefined",RFO (1080p)
+#EXTINF:-1 tvg-id="RFO.de" tvg-logo="https://i.imgur.com/902BHGL.png" group-title="General",RFO (1080p)
 https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RheinMainTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24539-1.png" group-title="Undefined",RheinMain TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RheinMainTV.de" tvg-logo="https://i.imgur.com/CLUmcga.png" group-title="General",RheinMain TV (720p) [Not 24/7]
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RhemaTV.gt" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="Religious",Rhema TV (720p)
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8

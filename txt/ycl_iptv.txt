@@ -56,6 +56,7 @@ CGTN纪录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee6
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 内蒙卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
+第一卫视,http://play2.one-tv.com/live/onetv.m3u8
 纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
 东方财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -76,6 +77,9 @@ CGTN纪录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee6
 湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 湖南教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+东莞生活,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+东莞新闻,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
@@ -118,6 +122,7 @@ CETV-2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 CETV-3,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
 CETV-4,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
@@ -185,7 +190,7 @@ Stadium,https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8
 NBC Sport,https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
-Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+TBS,http://143.244.60.30/TBS/index.m3u8
 Tastemade,https://jmp2.uk/SamsungTVPlus/GBBB38000093D.m3u8
 MovieSphere,https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8
 The Lego Channel,https://jmp2.uk/SamsungTVPlus/GBBC4300005AL.m3u8
@@ -196,7 +201,7 @@ BBC Earth,https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0e
 History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-Mytime,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+Mytime,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 Museum,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
