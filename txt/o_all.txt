@@ -147,6 +147,8 @@ iptv.org All,#genre#
 1001 Noites (720p) [Not 24/7],https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 34100 TV (720p),https://s1.cystream.net/live/34100/playlist.m3u8
 90210,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265960-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b3051db-b19e-4913-a7e9-fddc37302264
+:24 (1080p),http://88.212.7.10/live/test_trojka_25p/playlist.m3u8
+:Šport (1080p),http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
 ¡OPA! (1080p),https://opa.usastreams.com:3101/live/canalopalive.m3u8
 @TV (720p),http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #КТОКУДА,http://camera.global-x.ru/MirUvlecheniy/index.m3u8
@@ -806,7 +808,7 @@ Canela Telenovelas,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 CanelaTV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 Cantina TV (1080p),https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 Cao Bang TV (480p),http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-Cape Town TV (720p),https://capetowntv.net/lvod/6107c8d77d6b693df801ae2e/playlist.m3u8
+Cape Town TV,https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist.m3u8
 Capital 21 (1080p) [Not 24/7],https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
 Capital TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UC-an6pHQfTVZXgrLP0p1EGA.m3u8
 Capital TV (1080p),https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
@@ -1160,6 +1162,7 @@ Dodoma TV (360p) [Not 24/7],https://goliveafrica.media:9998/live/625965017ed69/i
 Dog The Bounty Hunter,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fee72cf13100085d5a18/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0686-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a785777c-53e9-4fa5-bf8d-22125f05159a
 Dog the Bounty Hunter,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c47-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca19e89b-4eb2-4f32-b300-8e26501d6dd2
 Dogs 24/7,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c48-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41e407a0-be68-425f-a832-0d29d7763090
+Doma (1080p),http://88.212.7.11/live/test_doma_hd_hevc/playlist.m3u8
 Đồng Nai 1 (360p) [Not 24/7],http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 Đồng Nai 2 (576p) [Not 24/7],http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 Dong Thap TV (540p),https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
@@ -2161,7 +2164,6 @@ Kanal D Drama (1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahq
 Korean Song Channel (720p),http://live.kytv.co.kr:8080/hls/stream.m3u8
 Kosmo FR,https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
 KotiTV (720p) [Not 24/7],https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8
-KPHTH TV (720p) [Not 24/7],http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 KPNX News Channel 12,https://livevideo.tegnadigital.com/kpnx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KPNX/elvs/live.m3u8
 KpopTV Play,http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 KQSL Channel 8 (720p),https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
@@ -2396,7 +2398,6 @@ Libertas TV (1080p),https://stream.luci.xyz/hls/LTV.m3u8
 Libya 218 News (1080p) [Not 24/7],http://95.85.47.43/libya218news/playlist.m3u8
 LMTV French (720p) [Not 24/7],https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
 LN24,https://live-ln24.digiteka.com/1911668011/index.m3u8
-LN24SA (720p),https://cdnstack.internetmultimediaonline.org/lwsat/lwsatnewsStreamx/playlist.m3u8
 LN247 (1080p),https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
 LNKTV City (1080p),http://5tv.lincoln.ne.gov/live/live.m3u8
 LNKTV Education (1080p),http://80tv.lincoln.ne.gov/live/live.m3u8
@@ -3098,6 +3099,7 @@ Partenope TV (1080p),https://streamlive.arcapuglia.it:8080/live/partenope/index.
 Paryawaran TV (1080p),https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8
 Pasaje TV (1080p),https://canal.pasajetv.com/PasajeTV.m3u8
 Pasco TV (Pasco County FL) (480p),https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
+Passion Novelas,https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
 Passione Lotto (300p),http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
 PAT La Paz (720p) [Not 24/7],https://w8.redpat.tv:7777/play/120/index.m3u8
 PAT Santa Cruz (720p) [Not 24/7],https://w8.redpat.tv:7777/play/110/index.m3u8
@@ -3377,6 +3379,7 @@ RL PRO TV (480p) [Not 24/7],https://rlprotv.vedge.infomaniak.com/livecast/ik:rlp
 RLV TV (720p) [Not 24/7],https://tv.mundostreaming.cl:3083/live/radiolatinavzlalive.m3u8
 RLW TV (576p) [Not 24/7],https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8
 RMC Découverte (1080p),https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+RMC Story,https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 RMTV (288p),https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 Romanza+ Africa (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 Ronahi TV,https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8
