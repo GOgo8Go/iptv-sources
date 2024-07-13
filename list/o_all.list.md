@@ -4969,4 +4969,4 @@
 | 4963 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
 | 4964 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Sat Jul 13 2024 01:11:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 13 2024 08:18:15 GMT+0000 (Coordinated Universal Time)**
