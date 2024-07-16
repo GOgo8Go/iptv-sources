@@ -1433,6 +1433,7 @@ FailArmy,https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
 Fairfield FairTV Education Channel (Fairfield CT) (1080p),https://streams.helnix.com/autoHLS/900735315c2bc38b/900735315c2bc38b.m3u8
 Fairfield FairTV Government Channel (Fairfield CT) (1080p),https://streams.helnix.com/autoHLS/02d8dab006ef9ffd/02d8dab006ef9ffd.m3u8
 Fairfield Government Access Channel 26 (Fairfield CA) (720p),https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
+Faith TV,https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8
 Faith TV Kenya (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCQFnIxX1vwsqW7MPcJdYTeg.m3u8
 Faiz TV Network (720p) [Not 24/7],https://ythls.armelin.one/channel/UCB6hqQBHK-gToq0vKEQU7UQ.m3u8
 Fajar TV (240p) [Not 24/7],http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
