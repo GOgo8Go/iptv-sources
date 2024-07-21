@@ -141,4 +141,4 @@
 | 135 | CGTN西语 | [CGTN西语](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2) |
 | 136 | CGTN阿语 | [CGTN阿语](http://livear.cgtn.com/1000a/prog_index.m3u8) |
 
-Updated at **Sat Jul 20 2024 16:19:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 21 2024 01:17:08 GMT+0000 (Coordinated Universal Time)**
