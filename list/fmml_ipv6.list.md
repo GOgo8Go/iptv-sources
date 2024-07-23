@@ -22,7 +22,7 @@
 | 16 | CCTV-15 音乐 | [CCTV-15 音乐](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Tdo%2FUL80msfbhDYvoWpNl31Dy7jHvMl%2FzVUrNxhL1ek1YEGVDZ7lCg0LtKJY4Ku%2B8) |
 | 17 | CCTV-16 奥林匹克 | [CCTV-16 奥林匹克](http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8) |
 | 18 | CCTV-17 农业农村 | [CCTV-17 农业农村](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM) |
-| 19 | CCTV-4K 超高清 | [CCTV-4K 超高清](http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8) |
+| 19 | CCTV-4K 超高清 | [CCTV-4K 超高清](http://liveop.cctv.cn/hls/4KHD/playlist.m3u8) |
 | 20 | CHC影迷电影 | [CHC影迷电影](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2) |
 | 21 | CHC动作电影 | [CHC动作电影](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2) |
 | 22 | CHC家庭影院 | [CHC家庭影院](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2) |
@@ -141,4 +141,4 @@
 | 135 | CGTN西语 | [CGTN西语](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2) |
 | 136 | CGTN阿语 | [CGTN阿语](http://livear.cgtn.com/1000a/prog_index.m3u8) |
 
-Updated at **Mon Jul 22 2024 16:20:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 23 2024 01:12:28 GMT+0000 (Coordinated Universal Time)**
