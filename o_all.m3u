@@ -7109,8 +7109,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861668-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=55465346-19d5-4828-9cf1-a9dc5950fa5e&serverSideAds=false
 #EXTINF:-1 tvg-id="Scooore.de" tvg-logo="" group-title="Undefined",Scooore
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6874b43e-86f9-4252-b693-af5ccc56dd88&serverSideAds=false
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SCORELIVE 1 HD
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/3.m3u8
 #EXTINF:-1 tvg-id="ScreamFactoryTV.us" tvg-logo="https://i.imgur.com/9IsBu9m.png" group-title="Undefined",Scream Factory TV
 https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews.us" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="News",Scripps News
@@ -9657,8 +9655,6 @@ https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="WorldTurk.tr" tvg-logo="" group-title="Undefined",World Turk (1080p)
 https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",World-1
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/7.m3u8
 #EXTINF:-1 tvg-id="WORLDWIDEMUZZIK.rs" tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="Music",Worldwide Muzzik (720p)
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldVybzTV.jm" tvg-logo="https://i.imgur.com/x6xdqxx.jpg" group-title="Entertainment",WorlVybz TV (360p)
@@ -10027,8 +10023,6 @@ http://portal.ott.pink/watch/7506/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="Undefined",КТК (1080p) [Not 24/7]
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KulinarHD.ru" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png" group-title="Cooking",Кулинар HD
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/14.m3u8
 #EXTINF:-1 tvg-id="KurajTV.ru" tvg-logo="https://i.imgur.com/hZXBD9F.png" group-title="Undefined",Курай (Уфа) (576p)
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" group-title="Cooking",Кухня ТВ HD
