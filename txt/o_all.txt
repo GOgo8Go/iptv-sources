@@ -372,6 +372,7 @@ Arkadag TV (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch000.m3u8
 Arkansas PBS,https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
 ART TV (720p),https://til.pp.ua:3711/live/arttvgr70live.m3u8
 ARTE (720p),https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+Arte (720p),https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 Arthur,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6482f27c17f5e10008c10ff0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794330-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=708b1b6d-b68b-435b-a9fc-551cbc3b51ea
 Artigas TV Online (480p) [Not 24/7],https://ssh101.bozztv.com/ssh101/artigastv/playlist.m3u8
 Artist Aloud (1080p) [Not 24/7],https://live.hungama.com/linear/artist-aloud/playlist.m3u8
