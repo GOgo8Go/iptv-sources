@@ -1140,10 +1140,12 @@ Disney Channel (720p),https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 Disney Channel Japan (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 Disney Channel Latin America (480p),http://168.181.122.234:8000/play/a038/index.m3u8
 Disney Channel PL (1080p),http://185.236.229.62:9981/play/a07d
+Disney Channel Romania (576i),http://193.106.124.204:3000/play/a036
 Disney Jr. (720p),https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 Disney Junior (576p),http://185.236.229.62:9981/play/a06n
 Disney Junior India (576p),http://103.124.251.164:28015/play/a02m/index.m3u8
 Disney Junior Japan (400p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+Disney Junior Romania (576i),http://193.106.124.204:3000/play/a02b
 Disney XD (576p),http://178.219.128.68:64888/DISNXD
 Disney XD (720p),https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 District of Columbia Network (DCN) (1080p),https://video.oct.dc.gov/out/u/DCN.m3u8
@@ -1968,7 +1970,7 @@ Korean Song Channel (720p),http://live.kytv.co.kr:8080/hls/stream.m3u8
 Kosmo FR,https://ythls.armelin.one/channel/UCl-ipFGVotx_Tu5YWMEZgsg.m3u8
 KotiTV (720p) [Not 24/7],https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8
 KPNX News Channel 12,https://livevideo.tegnadigital.com/kpnx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KPNX/elvs/live.m3u8
-KpopTV Play,http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
+KpopTV Play,https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 KQSL Channel 8 (720p),https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 KRAL Pop TV (720p),https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 KRAL TV (720p),https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
@@ -4827,7 +4829,7 @@ World Poker Tour,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stit
 World Poker Tour,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890&serverSideAds=false
 World Poker Tour,https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8
 World Poker Tour Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-World Turk (1080p),https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
+World Turk TV (1080p),https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 Worldwide Muzzik (720p),https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 WorlVybz TV (360p),https://tv.wowzahosting.com:3292/stream/play.m3u8
 WörTV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCQ36NJ8-XNhBDvSSsh8gS2Q.m3u8
