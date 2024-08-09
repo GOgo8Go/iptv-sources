@@ -2779,7 +2779,7 @@
 | 2773 | News X (720p) [Not 24/7] | [News X (720p)  Not 24/7](https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8) |
 | 2774 | NewSignal (1080p) | [NewSignal (1080p)](https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8) |
 | 2775 | Newsmax2 | [Newsmax2](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974) |
-| 2776 | Newsmax (1080p) | [Newsmax (1080p)](https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8) |
+| 2776 | Newsmax TV | [Newsmax TV](https://newsmax.codeautoplaycdn2.workers.dev/) |
 | 2777 | NewsNet (720p) | [NewsNet (720p)](https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8) |
 | 2778 | NewsNet (KCKS-LD2) (480p) [Not 24/7] | [NewsNet (KCKS-LD2) (480p)  Not 24/7](https://cdn.igocast.com/channel2_hls/channel2_master.m3u8) |
 | 2779 | Newsy | [Newsy](https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8) |
@@ -5103,4 +5103,4 @@
 | 5097 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
 | 5098 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Thu Aug 08 2024 16:20:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 09 2024 01:14:08 GMT+0000 (Coordinated Universal Time)**
