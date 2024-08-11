@@ -5150,4 +5150,4 @@
 | 5144 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
 | 5145 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Sun Aug 11 2024 08:19:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 11 2024 16:18:57 GMT+0000 (Coordinated Universal Time)**
