@@ -239,7 +239,7 @@
 | 233 | AMC (1080p) | [AMC (1080p)](https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8) |
 | 234 | AMC Absolute Reality | [AMC Absolute Reality](https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8) |
 | 235 | AMC All Weddings | [AMC All Weddings](https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8) |
-| 236 | AMC East | [AMC East](http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8) |
+| 236 | AMC East (1080p) | [AMC East (1080p)](http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8) |
 | 237 | AMC en español | [AMC en español](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9) |
 | 238 | Amé 47 (720p) | [Amé 47 (720p)](https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8) |
 | 239 | Amedia 1 | [Amedia 1](http://31.148.48.15/A1/index.m3u8) |
@@ -2550,7 +2550,7 @@
 | 2544 | MRT 2 | [MRT 2](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8) |
 | 2545 | MRT Sobraniski kanal | [MRT Sobraniski kanal](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8) |
 | 2546 | MSJ TV (720p) | [MSJ TV (720p)](http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8) |
-| 2547 | MSNBC | [MSNBC](http://fl2.moveonjoy.com/MSNBC/index.m3u8) |
+| 2547 | MSNBC (720p) | [MSNBC (720p)](http://fl2.moveonjoy.com/MSNBC/index.m3u8) |
 | 2548 | MTA1 World (720p) | [MTA1 World (720p)](https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8) |
 | 2549 | MTA2 Europe (720p) | [MTA2 Europe (720p)](https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8) |
 | 2550 | MTA3 Al-Arabia (1080p) | [MTA3 Al-Arabia (1080p)](https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8) |
@@ -2819,7 +2819,7 @@
 | 2813 | NewSignal (1080p) | [NewSignal (1080p)](https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8) |
 | 2814 | Newsmax2 | [Newsmax2](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974) |
 | 2815 | Newsmax TV | [Newsmax TV](https://newsmax.codeautoplaycdn2.workers.dev/) |
-| 2816 | NewsNation East | [NewsNation East](http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8) |
+| 2816 | NewsNation | [NewsNation](https://news.codeautoplayserver1.workers.dev/?codeby=nd&channel=newsnation) |
 | 2817 | NewsNet (720p) | [NewsNet (720p)](https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8) |
 | 2818 | NewsNet (KCKS-LD2) (480p) [Not 24/7] | [NewsNet (KCKS-LD2) (480p)  Not 24/7](https://cdn.igocast.com/channel2_hls/channel2_master.m3u8) |
 | 2819 | Newsy | [Newsy](https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8) |
@@ -5719,4 +5719,4 @@
 | 5713 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5714 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sat Aug 17 2024 16:21:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 18 2024 01:17:42 GMT+0000 (Coordinated Universal Time)**
