@@ -234,7 +234,6 @@ AMC (1080p),https://amchls.wns.live/hls/stream.m3u8
 AMC (1080p),https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 AMC Absolute Reality,https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 AMC All Weddings,https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
-AMC East (1080p),http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 AMC en español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9
 Amé 47 (720p),https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 Amedia 1,http://31.148.48.15/A1/index.m3u8
@@ -513,7 +512,6 @@ Baywatch,https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 Bayyinat TV (404p),https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
 BB 24 (720p) [Not 24/7],https://edge15.vedge.infomaniak.com/livecast/ik:bb24-1/playlist.m3u8
 BBC Alba (720p),https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
-BBC America East,http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 BBC Arabic (720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 BBC Doctor Who,https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
 BBC Doctor Who Classic (720p),https://lnc-dr-who.tubi.video/playlist.m3u8
@@ -650,7 +648,6 @@ BibleVision Français (720p) [Not 24/7],https://ythls.armelin.one/channel/UC5qns
 Bichri TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCrtdAWf9y1D2by4ruhWbllA.m3u8
 Big Brother Canada,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f30c19d5ac4000816e9b3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a43-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7100d07b-f28e-45b2-a51d-6e87563b3fba
 Big City TV,https://bigcitytv.playout.vju.tv/bigcitytv/main.m3u8
-Big Ten Network,http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 Big Time Rush,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663385cd06839f0008e00e93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc774-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6d0aa27c-1d61-4798-84aa-6423e65a4423&serverSideAds=false
 Big Time Rush,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663385cd06839f0008e00e93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc833030-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b826dcb5-d6a4-4aca-9fe8-bfa327685060&serverSideAds=false
 Big Time Rush,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663385cd06839f0008e00e93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4b885ec0-86a3-4a1e-b3cb-90a1f041ddf9&serverSideAds=false
@@ -1078,7 +1075,6 @@ Comedia Made in Spain (720p) [Not 24/7],https://service-stitcher.clusters.pluto.
 Comedy Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac
 Comedy Central Animation,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a949f5b5e4000862467c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b862-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=954a470a-ef46-4375-9079-27408bd93898
 Comedy Central Animation,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280716-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0c5875b8-f67e-402d-97b3-0cf608608acb
-Comedy Central East (720p),http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 Comedy Central en español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
 Comedy Central Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
 Comedy Central South Park,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c716084d842c00085f6e64/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d1594-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fbd5d12a-3038-48f9-8f7c-5231014bff13&serverSideAds=false
@@ -1159,18 +1155,15 @@ DiscoverFilm,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u
 Dismar Radio TV (720p),https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 Disney Channel,http://109.233.89.170/Disney_Channel/mono.m3u8
 Disney Channel (432p),https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-Disney Channel (720p),https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 Disney Channel Japan (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 Disney Channel Latin America (480p),http://168.181.122.234:8000/play/a038/index.m3u8
 Disney Channel Romania (576i),http://193.106.124.204:3000/play/a036
-Disney Jr. (720p),https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 Disney Junior,http://109.233.89.166/Disney_Junior/mono.m3u8
 Disney Junior India (576p),http://103.124.251.164:28015/play/a02m/index.m3u8
 Disney Junior Japan (400p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 Disney Junior Latin America (480p),http://168.181.122.234:8000/play/a037/index.m3u8
 Disney Junior Romania (576i),http://193.106.124.204:3000/play/a02b
 Disney XD (576p),http://178.219.128.68:64888/DISNXD
-Disney XD (720p),https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 District of Columbia Network (DCN) (1080p),https://video.oct.dc.gov/out/u/DCN.m3u8
 Distrito Comedia (576p),https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 Distrito TV (1080p),https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
@@ -1633,12 +1626,10 @@ FOX 47 Lansing MI (WSYM) (720p),https://lnc-wsym.tubi.video/playlist.m3u8
 Fox 54.1 Huntsville,https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
 Fox 61 News Hartford CT (WTIC-TV),https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
 FOX Business (1080p),http://41.205.93.154/FOXBUSINESS/index.m3u8
-FOX News Channel (720p),http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+Fox News Channel (144p),http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX News Now (720p),https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Fox Soul (1080p),https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 FOX Sports,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
-Fox Sports 1,http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-Fox Sports 2,http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 Fox Sports (720p),https://lnc-fox-sports2.tubi.video/index.m3u8
 Fox Sports en Espanol (720p),https://lnc-fox-sports-espanol2.tubi.video/index.m3u8
 Fox TV (720p) [Not 24/7],http://stream-live.in:11037/hls/foxtv.m3u8
@@ -1669,7 +1660,6 @@ Freebie TV (720p),https://d26pp4b7ojtlyn.cloudfront.net/v1/master/9d062541f2ff39
 Freedom Experience TV (720p),https://panel.freedomflixtv.org:3934/hybrid/play.m3u8
 Freedom Love Zone TV (720p),https://panel.freedomflixtv.org:3665/hybrid/play.m3u8
 Freedom Movie Sphere (720p),https://panel.freedomflixtv.org:3311/stream/play.m3u8
-Freeform East (720p),http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 FREEДОМ,http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 Freitag Nacht News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64070e086a0009d7b028/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1dd8e2-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bed1f18d-fc72-4448-ac3d-a21b6f9f8603&serverSideAds=false
 Freitag Nacht News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64070e086a0009d7b028/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83f389-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4033443-ab6c-4bff-8201-bd7eb5aa5780&serverSideAds=false
@@ -2273,7 +2263,6 @@ Lobo TV (720p),https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.
 Localish (720p),https://lnc-localish.tubi.video/index.m3u8
 Locomotion TV (480p) [Not 24/7],http://51.222.85.85:81/hls/loco/index.m3u8
 LOE TV (720p),https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
-Logo East,http://fl3.moveonjoy.com/Logo/index.m3u8
 Logo Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df156d8e-abc9-4542-8940-17058c09347c
 Logo Pluto TV 2,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f778a59b02eb40007f6d70b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3d458a14-5a43-4324-aed5-5fb94d729501
 Logos TV (1080p) [Not 24/7],https://streamer1.streamhost.org/salive/logosH/master.m3u8
@@ -2546,7 +2535,6 @@ MRT 1 (480p),https://s1.teve.mk/tvstanici/6/playlist.m3u8
 MRT 2,https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
 MRT Sobraniski kanal,https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
 MSJ TV (720p),http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
-MSNBC (720p),http://fl2.moveonjoy.com/MSNBC/index.m3u8
 MTA1 World (720p),https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 MTA2 Europe (720p),https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
 MTA3 Al-Arabia (1080p),https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
@@ -2565,7 +2553,6 @@ MTNA TV (720p),https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8
 Mtrspt 1,https://kravemedia-mtrspt1-1-nz.samsung.wurl.tv/playlist.m3u8
 MTürk TV (1080p),https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 MTV,http://170.254.18.106/MTV/index.m3u8
-MTV2 (720p),https://fl5.moveonjoy.com/MTV_2/index.m3u8
 MTV3 (720p),https://live-fi.tvkaista.net/mtv3/live.m3u8
 MTV Approved Hip Hop,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245cf8ac69baf000718295a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e9c31-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e78e88ac-19fa-4fdc-b8fe-881129b2b4b5&serverSideAds=false
 MTV Approved Hip Hop,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245cf8ac69baf000718295a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc1-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21d3cae9-a247-4018-a05d-c78884716643&serverSideAds=false
@@ -2576,7 +2563,6 @@ MTV Catfish TV Show,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/s
 MTV Catfish TV Show,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6b601ebc-3043-4af9-9122-f211b82c8385&serverSideAds=false
 MTV Catfish TV Show,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd34-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d88db7fd-9049-4209-8a4a-b6fb695742ed&serverSideAds=false
 MTV Classic,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
-MTV Classic (360p),https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 MTV CLASSICS,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057887-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=26866fb9-ab48-465b-85a8-8314ba7340fa
 MTV Classics+,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f92-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=457511ca-61ab-4eec-b63a-a8f7fbd11f13
 MTV Cribs,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ea815a515d149000748ee9b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e9c33-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f6ea04b2-3179-4e3d-8606-4abe4d356ac4&serverSideAds=false
@@ -2595,7 +2581,6 @@ MTV German Music,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stit
 MTV German Music,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245ccd9e1977a00079e2fba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc5-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=56c6b070-b046-479c-b2a4-7fefd81b8406&serverSideAds=false
 MTV German Music,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245ccd9e1977a00079e2fba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd37-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b8567899-071c-40d4-a9d1-27e0e8ad160d&serverSideAds=false
 MTV Germany (1080p),https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
-MTV Live (720p),https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 MTV Love Music,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61923ac16d03190008138a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec340-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f187d262-e767-48c6-b6e2-30fa8d8ebdee&serverSideAds=false
 MTV Love Music,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61923ac16d03190008138a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc6-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e74d6646-9f56-44fb-99d3-0ba1c931151e&serverSideAds=false
 MTV Love Music,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61923ac16d03190008138a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd38-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=156eb840-05c4-4f6d-82d6-1f1d007cc69e&serverSideAds=false
@@ -2655,7 +2640,6 @@ MTV Unplugged,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/
 MTV Unplugged,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc84dde4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1406a1ca-e8e3-4148-b048-e6a5a40fe9ea&serverSideAds=false
 MTV Unplugged,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b53-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=81574af2-8af4-46c8-8d63-00cbea99cbf5&serverSideAds=false
 MTV Uutiset (720p),https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-mtvU (480p),https://fl5.moveonjoy.com/MTV_U/index.m3u8
 Mugan TV (1080p) [Not 24/7],https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 Multicanal Catamayo (720p) [Not 24/7],https://multicanal.streamseguro.com/hls/streaming.m3u8
 Multicanal Televisión (720p),https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
@@ -2831,7 +2815,6 @@ Next HD (480p),https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 Next TV (1080p) [Not 24/7],http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
 Nexxo TV (720p) [Not 24/7],https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 NFL Channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
-NFL Network,http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 NG (720p),https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 NG Federal (720p),http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 NG Radio TV (360p),https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
@@ -2859,12 +2842,10 @@ Nick Danger,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hl
 Nick Germany (1080p),https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 Nick HD+ (1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 Nick Jr India (1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
-Nick Jr. East (720p),https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f07-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08e1ba5b-febb-444b-927d-f017f608e57e
 Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
 Nick Jr. Poland (576i),http://178.219.128.68:64888/NICKJR
 Nick Jr. UK (1080p),https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
-Nick Music (480p),http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 Nick Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb6a83c6e37000726823b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f08-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c15d1002-05a1-4c9d-82b6-2c554bbbf97f
 Nick Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1166-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=13c43849-7db8-4ef1-bfef-74e513441e1a&serverSideAds=false
 Nick Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2c0f9a61-5699-4476-a730-228053d9f6b6&serverSideAds=false
@@ -2975,7 +2956,6 @@ Oviedo Press TV (480p) [Not 24/7],https://ssh101.bozztv.com/ssh101/oviedotv/play
 Oviedo TV (720p) [Not 24/7],https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
 Oxigeno TV (360p) [Not 24/7],https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 OXIR TV (720p),https://hls.oxir.live/hls/stream.m3u8
-Oxygen East,http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 Oxygen Music (1080p),https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 Oxygen True Crime Archives,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654930a8346f420008d3b0b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7818-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fedc1ef5-3e5f-4815-b46c-fcf59a9d9b9b
 Ózdi Városi TV (720p) [Not 24/7],http://stream.nmih.hu:7980/live.m3u8
@@ -3020,7 +3000,6 @@ Paraíso TV (720p),https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist
 Paralelo 20 650 AM (1080p) [Not 24/7],https://stream.oursnetworktv.com/latin/paralelo20/playlist.m3u8
 Paramount Movie Channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
 Paramount Network (Indonesia) (720p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-Paramount Network East,http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 Paramount+ Picks,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
 Paras TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC6E1pvhGa55AaZ-svF70ViA.m3u8
 Pardesi TV (720p),http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
@@ -3716,12 +3695,7 @@ Shout! TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/
 Show Plus TV (720p),https://glb.bozztv.com/glb/ssh101/showplus/index.m3u8
 Show Turk,https://showturk.blutv.com/blutv_showturk2/live.m3u8
 Show TV,http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
-Showtime 2 East,http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 Showtime at the Apollo (432p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
-Showtime East,http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-Showtime Extreme East,http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-Showtime Next East,http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-Showtime Women East,http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 ShowVen TV (1080p),https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 Shraddha TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UC1WREaxq8LRhdOOmzSFg2pA.m3u8
 Shubh TV (1080p),https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
@@ -3941,7 +3915,6 @@ SWR 3 Visual Radio (720p),https://swrswr3vr-hls.akamaized.net/hls/live/2018683/s
 SWR Fernsehen Baden-Württemberg (720p),https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 SWR Fernsehen Rheinland-Pfalz (720p),https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 SX3 (1080p),https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
-Syfy East,http://fl2.moveonjoy.com/SYFY/index.m3u8
 Sylt1 (404p),https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8
 Synagogue TV (576p),https://webstreaming.viewmedia.tv/web_038/Stream/playlist.m3u8
 SYNTY TV (720p),https://helga.iptv2022.com/sh/SYNTY_TV/index.m3u8
@@ -4982,7 +4955,6 @@ YATVO (720p),https://rpn3.bozztv.com/ssh101/ssh101/yatvo/playlist.m3u8
 Yemen Shabab Channel (1080p) [Not 24/7],https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 Yemen Today TV (480p),https://video.yementdy.tv/hls/yementoday.m3u8
 Yemenia TV (720p),https://ffs3.gulfsat.com/YEMENIA/video.m3u8
-Yes Network,http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 YLE TV 1 (1080p),https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
 YLE TV 2 (1080p),https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
 YLE TV Teema & Fem (1080p),https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
