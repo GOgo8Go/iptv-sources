@@ -5087,7 +5087,7 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA8America.uk" tvg-logo="https://i.imgur.com/CF6X9wB.png" group-title="Undefined",MTA8 America (1080p)
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
-#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="Undefined",MTA TV (720p)
+#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="Religious",MTA TV (720p)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 #EXTINF:-1 tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/tLtGnJW.png" group-title="Undefined",Mtavari Arkhi (480p)
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
@@ -5495,7 +5495,7 @@ http://80.79.6.221:25461/smash/public/22
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Undefined",NET. [Not 24/7]
 https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
-#EXTINF:-1 tvg-id="NETALKOLETV.ht" tvg-logo="https://i.imgur.com/SdVrpzY.png" group-title="Undefined",NETALKOLE TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NETALKOLETV.ht" tvg-logo="https://i.imgur.com/SdVrpzY.png" group-title="General",NETALKOLE TV (720p) [Not 24/7]
 https://watch.haitilive.net/naktvhd/index.m3u8
 #EXTINF:-1 tvg-id="NethraTV.lk" tvg-logo="https://i.imgur.com/vSrIN1U.jpg" group-title="General",Nethra TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8
