@@ -2798,7 +2798,7 @@ News Tamil 24x7,https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
 News X (720p) [Not 24/7],https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
 NewSignal (1080p),https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8
 Newsmax2,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974
-Newsmax TV,https://newsmax.codeautoplaycdn2.workers.dev/
+Newsmax TV (720p),https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 NewsNet (720p),https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8
 NewsNet (KCKS-LD2) (480p) [Not 24/7],https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
 Newsy,https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
@@ -4300,8 +4300,8 @@ Tu Pop Favorito,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 Tu Tv (720p) [Not 24/7],https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
 Tu Universo TV (720p),https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 Tubi Originals (720p),https://lnc-tubi-originals.tubi.video/index.m3u8
-TUDN (720p),https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 TUDN,https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=test_token
+TUDN México (540p),http://190.61.102.67:2000/play/a08j/index.m3u8
 Tulip TV (Youtube) (720p) [Not 24/7],https://ythls.armelin.one/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
 Tumpis TV (720p),https://servilive.com:3531/stream/play.m3u8
 Tunevisión (1080p) [Not 24/7],https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8

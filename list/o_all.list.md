@@ -2803,7 +2803,7 @@
 | 2797 | News X (720p) [Not 24/7] | [News X (720p)  Not 24/7](https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8) |
 | 2798 | NewSignal (1080p) | [NewSignal (1080p)](https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8) |
 | 2799 | Newsmax2 | [Newsmax2](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974) |
-| 2800 | Newsmax TV | [Newsmax TV](https://newsmax.codeautoplaycdn2.workers.dev/) |
+| 2800 | Newsmax TV (720p) | [Newsmax TV (720p)](https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8) |
 | 2801 | NewsNet (720p) | [NewsNet (720p)](https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8) |
 | 2802 | NewsNet (KCKS-LD2) (480p) [Not 24/7] | [NewsNet (KCKS-LD2) (480p)  Not 24/7](https://cdn.igocast.com/channel2_hls/channel2_master.m3u8) |
 | 2803 | Newsy | [Newsy](https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8) |
@@ -4305,8 +4305,8 @@
 | 4299 | Tu Tv (720p) [Not 24/7] | [Tu Tv (720p)  Not 24/7](https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8) |
 | 4300 | Tu Universo TV (720p) | [Tu Universo TV (720p)](https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8) |
 | 4301 | Tubi Originals (720p) | [Tubi Originals (720p)](https://lnc-tubi-originals.tubi.video/index.m3u8) |
-| 4302 | TUDN (720p) | [TUDN (720p)](https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8) |
-| 4303 | TUDN | [TUDN](https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=test_token) |
+| 4302 | TUDN | [TUDN](https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=test_token) |
+| 4303 | TUDN México (540p) | [TUDN México (540p)](http://190.61.102.67:2000/play/a08j/index.m3u8) |
 | 4304 | Tulip TV (Youtube) (720p) [Not 24/7] | [Tulip TV (Youtube) (720p)  Not 24/7](https://ythls.armelin.one/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8) |
 | 4305 | Tumpis TV (720p) | [Tumpis TV (720p)](https://servilive.com:3531/stream/play.m3u8) |
 | 4306 | Tunevisión (1080p) [Not 24/7] | [Tunevisión (1080p)  Not 24/7](https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8) |
@@ -5650,4 +5650,4 @@
 | 5644 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5645 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sun Aug 25 2024 16:18:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 26 2024 01:14:53 GMT+0000 (Coordinated Universal Time)**
