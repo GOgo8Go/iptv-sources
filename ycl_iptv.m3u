@@ -91,7 +91,7 @@ https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
-#EXTINF:-1 tvg-id="第一卫视" tvg-name="第一卫视" tvg-logo="https://live.fanmingming.com/tv/第一卫视.png" group-title="卫视",第一卫视
+#EXTINF:-1 tvg-id="第一卫视" tvg-name="第一卫视" tvg-logo="https://live.fanmingming.com/tv/第一卫视.png" group-title="地方",第一卫视
 http://play2.one-tv.com/live/onetv.m3u8
 #EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="地方",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
