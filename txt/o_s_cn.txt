@@ -4,7 +4,7 @@ Beijing Traffic Radio TV,http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u
 Beijing Youth Radio,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
-CCTV1 (1080p),http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=3
+CCTV1 (1080p),http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
 CCTV2 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.102:10250
 CCTV3 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.122:10370
 CCTV4 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.138:10466
@@ -13,7 +13,6 @@ CCTV5+ (1080p),http://bl.dchwtq.asia:10000/rtp/239.254.96.234:9484
 CCTV6 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.124:10382
 CCTV7 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.103:10256
 CCTV8 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.125:10388
-CCTV TV Guide (576p),http://117.161.133.51:81/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8?p=GITV
 CCTV9 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.104:10262
 CCTV10 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.105:10268
 CCTV11 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.154:10560
@@ -24,16 +23,17 @@ CCTV15 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.155:10566
 CCTV16 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.247:11124
 CCTV16-4K (2160p),http://bl.dchwtq.asia:10000/rtp/239.69.1.249:11136
 CCTV17 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.152:10548
-CCTV 兵器科技,http://117.161.133.51:81/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?p=GITV
-CCTV 高尔夫网球,http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
-CCTV 央视精品,http://117.161.133.51:81/gitv_live/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ.m3u8?p=GITV
-CCTV 第一剧场,http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV
-CCTV 风云足球,http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
-CCTV 风云剧场,http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV
-CCTV 风云音乐,http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV
-CCTV 女性时尚,http://117.161.133.51:81/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8?p=GITV
+CCTV TV Guide (576p),http://117.161.133.51:81/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8?p=GITV
 CCTV 世界地理,http://117.161.133.51:81/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8?p=GITV
+CCTV 兵器科技,http://117.161.133.51:81/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?p=GITV
 CCTV 央视台球,http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=GITV
+CCTV 央视精品,http://117.161.133.51:81/gitv_live/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ.m3u8?p=GITV
+CCTV 女性时尚,http://117.161.133.51:81/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8?p=GITV
+CCTV 第一剧场,http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV
+CCTV 风云剧场,http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV
+CCTV 风云足球,http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
+CCTV 风云音乐,http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV
+CCTV 高尔夫网球,http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
 CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 CETV-1,http://121.19.134.246:808/hls/62/index.m3u8
@@ -316,15 +316,14 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 浙江 Ⅰ 浙江经济 (720p),https://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 浙江 Ⅰ 绍兴影视 (720p),http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 浙江 Ⅰ 绍兴综合 (576p),http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-浙江公共 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江公共 (1080p),https://ct-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际 (1080p),https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江影视 (720p),https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江数码时代 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8

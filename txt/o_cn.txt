@@ -9,7 +9,7 @@ Bloomberg TV Asia (720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
 Bloomberg TV Asia Live Event (720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
-CCTV1 (1080p),http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=3
+CCTV1 (1080p),http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
 CCTV2 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.102:10250
 CCTV3 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.122:10370
 CCTV4 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.138:10466
@@ -368,6 +368,7 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 浙江 Ⅰ 浙江休闲 (720p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 浙江 Ⅰ 浙江国际 (720p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8
 浙江 Ⅰ 浙江少儿 (720p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
+浙江 Ⅰ 浙江教育 (720p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江 Ⅰ 浙江新闻 (720p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
 浙江 Ⅰ 浙江易购 (720p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel11/720p.m3u8
 浙江 Ⅰ 浙江留学 (720p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel09/720p.m3u8
@@ -378,8 +379,8 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 浙江公共 (1080p) [Not 24/7],https://qiniup-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际 (1080p),https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江影视 (720p),https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
