@@ -77,13 +77,13 @@
 | 71 | 咪咕直播 𝟚「IPV6」 | [咪咕直播 𝟚「IPV6」](http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8) |
 | 72 | 咪咕直播 𝟛「IPV6」 | [咪咕直播 𝟛「IPV6」](http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8) |
 | 73 | 咪咕直播 𝟜「IPV6」 | [咪咕直播 𝟜「IPV6」](http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8) |
-| 74 | BesTV 𝟙「IPV6」 | [BesTV 𝟙「IPV6」](http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
-| 75 | BesTV 𝟚「IPV6」 | [BesTV 𝟚「IPV6」](http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
-| 76 | BesTV 𝟛「IPV6」 | [BesTV 𝟛「IPV6」](http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
-| 77 | BesTV 𝟜「IPV6」 | [BesTV 𝟜「IPV6」](http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
-| 78 | BesTV 𝟝「IPV6」 | [BesTV 𝟝「IPV6」](http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
-| 79 | BesTV 𝟞「IPV6」 | [BesTV 𝟞「IPV6」](http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
-| 80 | BesTV 𝟟「IPV6」 | [BesTV 𝟟「IPV6」](http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
+| 74 | BesTV 𝟙「IPV6」 | [BesTV 𝟙「IPV6」](http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
+| 75 | BesTV 𝟚「IPV6」 | [BesTV 𝟚「IPV6」](http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
+| 76 | BesTV 𝟛「IPV6」 | [BesTV 𝟛「IPV6」](http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
+| 77 | BesTV 𝟜「IPV6」 | [BesTV 𝟜「IPV6」](http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
+| 78 | BesTV 𝟝「IPV6」 | [BesTV 𝟝「IPV6」](http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
+| 79 | BesTV 𝟞「IPV6」 | [BesTV 𝟞「IPV6」](http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
+| 80 | BesTV 𝟟「IPV6」 | [BesTV 𝟟「IPV6」](http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989) |
 | 81 | 「B站」CS 2 | [「B站」CS 2](http://live.iill.top/bilibili.php?id=21622811) |
 | 82 | 「B站」英雄联盟 | [「B站」英雄联盟](http://live.iill.top/bilibili.php?id=6) |
 | 83 | 「虎牙」英雄联盟 𝟙 | [「虎牙」英雄联盟 𝟙](http://live.iill.top/huya.php?id=660000) |
@@ -190,4 +190,4 @@
 | 184 | 猫和老鼠「动漫」 | [猫和老鼠「动漫」](http://live.iill.top/huya.php?id=11352879) |
 | 185 | 中华小当家「动漫」 | [中华小当家「动漫」](http://live.iill.top/huya.php?id=11342413) |
 
-Updated at **Mon Sep 02 2024 08:22:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 02 2024 16:23:06 GMT+0000 (Coordinated Universal Time)**
