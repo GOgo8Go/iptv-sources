@@ -6009,4 +6009,4 @@
 | 6003 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
 | 6004 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Wed Sep 11 2024 01:17:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 11 2024 08:22:33 GMT+0000 (Coordinated Universal Time)**
