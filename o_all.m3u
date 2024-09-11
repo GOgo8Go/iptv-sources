@@ -1307,6 +1307,8 @@ https://bst.buin.cl/0.m3u8
 https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
 #EXTINF:-1 tvg-id="BukeddeTV2.ug" tvg-logo="https://i.imgur.com/ukwPZeY.png" group-title="Undefined",Bukedde TV 2 (576p) [Not 24/7]
 https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
+#EXTINF:-1 tvg-id="BulshoTV.so" tvg-logo="https://i.imgur.com/7qo4rb7.png" group-title="Undefined",Bulsho TV
+https://cdn.mediavisionuk.com:9000/bulshotv/index.m3u8
 #EXTINF:-1 tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="Undefined",Bungo TV (480p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheBurbankChannel.us" tvg-logo="https://i.imgur.com/SpkR1Fb.png" group-title="General",Burbank Channel (720p)
@@ -4479,6 +4481,8 @@ https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8
 https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 #EXTINF:-1 tvg-id="HillsboroughTV.us" tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="Legislative",Hillsborough County TV HTV (Hillsborough County FL) (360p)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
+#EXTINF:-1 tvg-id="HimalayaTV.np" tvg-logo="https://i.imgur.com/a62DiwH.png" group-title="Culture",Himalaya TV
+http://103.213.31.243:8081/livepull/ottHIMALAYA480.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HimlenTV7.fi" tvg-logo="https://i.imgur.com/k8a7KNn.png" group-title="Religious",Himlen TV7 (720p)
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in" tvg-logo="https://i.imgur.com/iuz6K6i.png" group-title="News",Hindi Khabar (720p)
@@ -5267,6 +5271,8 @@ https://stream.oursnetworktv.com/radio/luperrongdgzman/playlist.m3u8
 https://stream.oursnetworktv.com/radio/luperrona415/playlist.m3u8
 #EXTINF:-1 tvg-id="LaLuperronaOcotlan.mx" tvg-logo="https://i.imgur.com/URMA6lE.jpg" group-title="Music",La Luperrona Ocotlán (300p)
 https://stream.oursnetworktv.com/radio/luperronaocotlan/playlist.m3u8
+#EXTINF:-1 tvg-id="LaMegaMundial.us" tvg-logo="https://i.imgur.com/UdMsgkt.png" group-title="Music",La Mega Mundial
+https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1 tvg-id="LAMIATV.do" tvg-logo="https://i.imgur.com/XIwTM1h.png" group-title="Music",LA MIA TV (720p) [Not 24/7]
 https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="General",La Nación+ (720p) [Not 24/7]
@@ -6427,8 +6433,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://soportedvb.click:3827/live/musavisiontvlive.m3u8
 #EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Undefined",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NBSTV.ug" tvg-logo="https://i.imgur.com/DmM8jH6.png" group-title="Undefined",NBS TV (480p)
-https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBS_Live_stream_ze/5-20-hls/live.m3u8
+#EXTINF:-1 tvg-id="NBSTV.ug" tvg-logo="https://i.imgur.com/DmM8jH6.png" group-title="Undefined",NBS TV
+http://197.239.30.29/readymedia/stream/tvnbs_tv/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBT
 https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://i.imgur.com/IJh6SHb.png" group-title="Undefined",NBT 2HD (720p)

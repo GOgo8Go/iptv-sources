@@ -653,6 +653,7 @@ Buenísima Radio TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCk20Py
 Buin Somos Todos (720p) [Not 24/7],https://bst.buin.cl/0.m3u8
 Bukedde TV 1 (576p),https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
 Bukedde TV 2 (576p) [Not 24/7],https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
+Bulsho TV,https://cdn.mediavisionuk.com:9000/bulshotv/index.m3u8
 Bungo TV (480p) [Not 24/7],https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 Burbank Channel (720p),https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 Burkina Info TV (540p),http://69.64.57.208/burkinainfo/index.m3u8
@@ -2239,6 +2240,7 @@ High Vision (1080p) [Not 24/7],https://streamer1.connectto.com/HIGHVISION_WEB_12
 Hilaal TV (576p),https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8
 Hilando Fino TV (1080p),https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 Hillsborough County TV HTV (Hillsborough County FL) (360p),https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
+Himalaya TV,http://103.213.31.243:8081/livepull/ottHIMALAYA480.stream/playlist.m3u8
 Himlen TV7 (720p),https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 Hindi Khabar (720p),https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8
 Hindu Dharmam (720p) [Not 24/7],https://ythls.armelin.one/channel/UCMg2yY8OzHhw6mOvgIkaXYg.m3u8
@@ -2633,6 +2635,7 @@ La Imagen de Tierra Caliente (768p),https://stream.oursnetworktv.com/latin/encod
 La Luperrona Ciudad Guzmán (240p),https://stream.oursnetworktv.com/radio/luperrongdgzman/playlist.m3u8
 La Luperrona Colima (256p),https://stream.oursnetworktv.com/radio/luperrona415/playlist.m3u8
 La Luperrona Ocotlán (300p),https://stream.oursnetworktv.com/radio/luperronaocotlan/playlist.m3u8
+La Mega Mundial,https://server40.servistreaming.com:3477/stream/play.m3u8
 LA MIA TV (720p) [Not 24/7],https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
 La Nación+ (720p) [Not 24/7],https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 La Nueva Radio TV 97.7 (720p),https://cp.panelchs.com:1936/8112/8112/playlist.m3u8
@@ -3213,7 +3216,7 @@ Mundo viajero,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/
 Murder She Wrote,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b79f9ba-6021-48dd-b1ca-e60b7396018c
 Musavision (1080p),https://soportedvb.click:3827/live/musavisiontvlive.m3u8
 NBS Korea Agricultural Broadcasting (720p),https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-NBS TV (480p),https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBS_Live_stream_ze/5-20-hls/live.m3u8
+NBS TV,http://197.239.30.29/readymedia/stream/tvnbs_tv/20-hls/live-media.m3u8
 NBT,https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 NBT 2HD (720p),https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8
 NBT 11 Central (720p),https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
