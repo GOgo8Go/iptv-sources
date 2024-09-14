@@ -504,3 +504,43 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 龙口新闻综合 (576p),http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
 龙口生活 (576p),http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
 龙岩综合 (540p),http://stream.lytv.net.cn/2/sd/live.m3u8
+Lifestyle Channel,http://49.113.179.174:4022/udp/238.125.5.113:5140
+Yanbian TV 1,https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
+Yanbian Cinese Comprehensive Channel,https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8
+Yicai TV,http://49.113.179.174:4022/udp/238.125.0.165:5140
+Xinjiang TV 12,http://49.113.179.174:4022/udp/238.125.3.185:5140
+World Economy Channel,http://49.113.179.174:4022/udp/238.125.2.205:5140
+SMG Football Channel,http://49.113.179.174:4022/udp/238.125.2.142:5140
+Shaanxi Agroforestry Satellite TV,http://49.113.179.174:4022/udp/238.125.4.154:5140
+Hunan Ping Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
+CETV-4,http://49.113.179.174:4022/udp/238.125.3.92:5140
+BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
+Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
+City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
+JiaJia Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
+Sihai Fishing Channel,http://49.113.179.174:4022/udp/238.125.2.172:5140
+Ecology & Environment TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
+Laughter Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
+Toonmax TV,http://49.113.179.174:4022/udp/238.125.4.28:5140
+Nei Monggol TV,http://49.113.179.174:4022/udp/238.125.7.93:5140
+Shandong Education TV,http://49.113.179.174:4022/udp/238.125.0.156:5140
+Ugo Shop TV,http://49.113.179.174:4022/udp/238.125.4.184:5140
+Game Channel,http://49.113.179.174:4022/udp/238.125.1.36:5140
+Documentary Humanities Channel,http://49.113.179.174:4022/udp/238.125.3.135:5140
+Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
+Xizang TV Tibetan,http://49.113.179.174:4022/udp/238.125.3.94:5140
+Xinjiang TV 9,http://49.113.179.174:4022/udp/238.125.7.153:5140
+Xinjiang TV 8,http://49.113.179.174:4022/udp/238.125.3.181:5140
+Xinjiang TV 5,http://49.113.179.174:4022/udp/238.125.7.149:5140
+Xinjiang TV 3,http://49.113.179.174:4022/udp/238.125.7.147:5140
+Xinjiang TV 2,http://222.80.13.33:4022/udp/238.125.3.175:5140
+Weihai Ocean Channel,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
+Weihai Public Channel,http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
+Weihai Comprehensive News Channel,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+Lanzhou Comprehensive News Channel,https://liveplus.lztv.tv/xwzh/HD/live.m3u8
