@@ -179,6 +179,10 @@ https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=d5a1fe0898512f4a1d5
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="国际",Sky News
+https://i.mjh.nz/sky-news-now.m3u8
+#EXTINF:-1 group-title="国际",CNN Fast
+https://i.mjh.nz/discovery-ptcn.m3u8
 #EXTINF:-1 group-title="国际",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="国际",Newsmax
@@ -207,8 +211,6 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="国际",SportsGrid
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Pop
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",Taiwan Plus
@@ -221,8 +223,8 @@ https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 #EXTINF:-1 group-title="国际",TED Talks
 https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Kids TV
-https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",The Graham Norton Show
+https://i.mjh.nz/discovery-ptgn.m3u8
 #EXTINF:-1 group-title="国际",Mytime
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",Museum
@@ -233,14 +235,12 @@ https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Ondemand China
 https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Yu-Gi-Oh
-https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Young Hollywood
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",Food
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",La La Life
-https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
+#EXTINF:-1 group-title="国际",MovieSphere
+https://i.mjh.nz/discovery-ptms.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Viki
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Comedy
