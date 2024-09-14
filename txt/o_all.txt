@@ -531,6 +531,7 @@ Billiard TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hl
 Billiard TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6a5c7ba-51fa-40bf-ba59-05a9daef6fd5
 Billiard TV (720p),https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8
 Billiards+ (1080p),https://lte.wiseplayout.com/WiseM3U8_18/master.m3u8
+Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
 Bío Bío TV (1080p),https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8
 Biosfera TV (720p) [Not 24/7],https://tvdatta.com:3021/live/biosferatvlive.m3u8
 BIP TV (480p) [Not 24/7],https://biptv.tv/live/biptvstream_orig/index.m3u8
@@ -622,6 +623,7 @@ BRT (360p),http://113.163.216.23:1935/live/ngrp:tv2.stream_all/playlist.m3u8
 BRTV (720p),https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 BRTV (1080p) [Not 24/7],https://e1.siar.us/badartv/live/playlist.m3u8
 BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
 Bruno Masi TV (720p),https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 BS Asahi (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 BS Fuji TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
@@ -1075,6 +1077,7 @@ Cetelmón TV (404p),http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8
 CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 CETV-1,http://121.19.134.246:808/hls/62/index.m3u8
+CETV-4,http://49.113.179.174:4022/udp/238.125.3.92:5140
 CFM TV Channel 98 (360p),https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8
 CFN Catholic Faith Network (720p),https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 CG Entertainment,https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
@@ -1125,6 +1128,7 @@ Channel Fight (1080p),https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2
 Channel Ginga (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 Channel I,https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 Channel K (720p),https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
+Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
 Channel S (576p) [Not 24/7],https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 Channel S (1080p),https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 Channel WIN (360p),https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
@@ -1228,6 +1232,7 @@ City Channel (720p) [Not 24/7],https://dev.aftermind.xyz/edge-hls/unitrust/cityc
 City Music TV (720p),https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 City News HD (1080p),http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8
 City of Oakland (KTOP) (480p),https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
+City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
 City TV (576p),https://citytv.hu/media/live/stream.m3u8
 City TV (576p) [Not 24/7],https://tv.city.bg/play/tshls/citytv/index.m3u8
 City TV (1080p) [Not 24/7],https://vs.sednastream.com:1936/citytv/citytv/playlist.m3u8
@@ -1431,6 +1436,7 @@ Doctor Who Classic,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/st
 Doctor Who Classic,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c46-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bae93de-a4f6-4506-b033-58665f52d2fd
 Doctor Who Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Docu Vision (1080p),https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Documentary/title-DOCUVISION-ENG/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
+Documentary Humanities Channel,http://49.113.179.174:4022/udp/238.125.3.135:5140
 Docurama,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docurama-cineverse/playlist.m3u8
 Dodoma TV (360p) [Not 24/7],https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
 Dog The Bounty Hunter,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fee72cf13100085d5a18/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0686-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a785777c-53e9-4fa5-bf8d-22125f05159a
@@ -2678,6 +2684,7 @@ Lanco TV (1080p),https://lancotv.ngrok.app/hls/stream.m3u8
 Ländle TV (1080p) [Not 24/7],https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 Langstraat TV (720p),https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
 Lansingerland TV (720p),https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
+Lanzhou Comprehensive News Channel,https://liveplus.lztv.tv/xwzh/HD/live.m3u8
 Lao Cai TV (1080p) [Not 24/7],https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 Lao Champa TV 2 (720p) [Not 24/7],https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/playlist.m3u8
 Lao Champa TV (720p),https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
@@ -2708,6 +2715,7 @@ Latvijas Radio 2 (240p),https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/pl
 Latvijas Radio 3 Klasika (240p),https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
 Latvijas Šlāgerkanāls (720p),https://stream.onlive-media.com/live/streams/smk.m3u8
 Laudato TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCMNltXN6fWur0K8Z1oubFPA.m3u8
+Laughter Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
 Lausitzwelle (1080p),https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
 Lavras CE TV (480p),https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 Law & Crime (720p),https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
@@ -4141,6 +4149,12 @@ QPVN (720p),http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
 QS24.tv (1080p),https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
 QT Televisión (720p) [Not 24/7],https://servilive.com:3753/live/qosqotimeslive.m3u8
 QTV Gambia (720p) [Not 24/7],https://player.qtv.gm/hls/live.stream.m3u8
+QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 Quang Ngai TV (720p),http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
 Quarto Canale Flegreo (720p),https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
 Quassar TV (720p),https://gnstreammedia.com:19360/4000/4000.m3u8
@@ -5348,6 +5362,7 @@ UDG TV Canal 44 (720p) [Not 24/7],https://d1sx1b16qowo88.cloudfront.net/out/v1/c
 UEBI TV Online (720p) [Not 24/7],https://cloud2.streaminglivehd.com:1936/uebi/uebi/playlist.m3u8
 UESTV (720p),http://edge1.cl.grupoz.cl/uestv/live/playlist.m3u8
 UGF TV (720p) [Not 24/7],https://ugftv.stream/live/myStream/playlist.m3u8
+Ugo Shop TV,http://49.113.179.174:4022/udp/238.125.4.184:5140
 UGTV (720p),https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 Ukraine World News (1440p) [Not 24/7],https://ythls.armelin.one/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
 Ülke TV (720p),https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
