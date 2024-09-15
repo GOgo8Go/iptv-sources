@@ -175,14 +175,22 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=70072e9dff1f4042fcefde5b001af668&txTime=771E8800
 #EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://live.fanmingming.com/tv/包头新闻综合.png" group-title="地方",包头新综
 https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=d5a1fe0898512f4a1d513bc0f9c5b751&txTime=771E8800
+#EXTINF:-1 group-title="国际",BBC News
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="国际",CNN Fast
+https://i.mjh.nz/discovery-ptcn.m3u8
+#EXTINF:-1 group-title="国际",CBC News
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+#EXTINF:-1 group-title="国际",NBC News Now
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99992212
+#EXTINF:-1 group-title="国际",ABC News Live
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 group-title="国际",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="国际",Sky News
 https://i.mjh.nz/sky-news-now.m3u8
-#EXTINF:-1 group-title="国际",CNN Fast
-https://i.mjh.nz/discovery-ptcn.m3u8
 #EXTINF:-1 group-title="国际",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="国际",Newsmax
@@ -221,12 +229,26 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamic
 https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
 #EXTINF:-1 group-title="国际",History
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
-#EXTINF:-1 group-title="国际",TED Talks
+#EXTINF:-1 group-title="国际",TED Conference
 https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Ted Talks 
+https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",The Graham Norton Show
 https://i.mjh.nz/discovery-ptgn.m3u8
 #EXTINF:-1 group-title="国际",Mytime
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="国际",La LA Life 
+https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
+#EXTINF:-1 group-title="国际",Inwonder
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="国际",Tastemade 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="国际",Yu-Gi-Oh 
+https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",ION Plus
+https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
+#EXTINF:-1 group-title="国际",Today Allday
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
 #EXTINF:-1 group-title="国际",Museum
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",LoveStories
@@ -241,8 +263,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywoo
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",MovieSphere
 https://i.mjh.nz/discovery-ptms.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Viki
+#EXTINF:-1 group-title="国际",Rakuten Viki 
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten TV Shows 
+https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Comedy
 https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Action
