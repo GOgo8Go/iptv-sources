@@ -2662,7 +2662,6 @@ Label TV (480p),https://live3.acangroup.org:1929/publiclive/labeltv/chunks.m3u8
 LaC News 24 (720p),https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 Lacrosse TV (720p),https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 Ladány TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCnG322MGBA4q5QWwDzUTh0Q.m3u8
-Lagos Television (360p) [Not 24/7],https://video.servoserver.com.ng/ltv/livestream.m3u8
 Lahore News (720p) [Not 24/7],https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 Lakewood Channel 8 (Lakewood CO) (720p),https://live8fd.lakewood.org/live-2/live/live.m3u8
 Lakewood CityTV (720p),https://s3-us-west-2.amazonaws.com/lakewood.castus-vod/live/ch1/video.m3u8
