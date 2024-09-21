@@ -2106,7 +2106,7 @@
 | 2100 | Guadalupe TV (720p) [Not 24/7] | [Guadalupe TV (720p)  Not 24/7](https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/playlist.m3u8) |
 | 2101 | Guaro TV (1080p) | [Guaro TV (1080p)](https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8) |
 | 2102 | Guatuso TV (720p) | [Guatuso TV (720p)](https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8) |
-| 2103 | Guaymate TV (360p) | [Guaymate TV (360p)](https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8) |
+| 2103 | Guaymate TV (1080p) [Not 24/7] | [Guaymate TV (1080p)  Not 24/7](https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8) |
 | 2104 | GugakTV 국악방송 (1080p) | [GugakTV 국악방송 (1080p)](https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8) |
 | 2105 | Gugbang TV (1080p) [Not 24/7] | [Gugbang TV (1080p)  Not 24/7](http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8) |
 | 2106 | Gugudde TV (480p) | [Gugudde TV (480p)](https://readymedia.moderntv.cloud:8092/distribute/readymedia/GUGUDDETV_stream_tj/5-20-hls/live.m3u8) |
@@ -5790,4 +5790,4 @@
 | 5784 | Эхо TV (Рязань) (576p) [Not 24/7] | [Эхо TV (Рязань) (576p)  Not 24/7](https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8) |
 | 5785 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Fri Sep 20 2024 16:21:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 21 2024 01:17:54 GMT+0000 (Coordinated Universal Time)**

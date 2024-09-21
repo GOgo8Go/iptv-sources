@@ -2101,7 +2101,7 @@ Guada TV (720p) [Not 24/7],https://cloud.streamingconnect.tv/hls/guadatv/guadatv
 Guadalupe TV (720p) [Not 24/7],https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/playlist.m3u8
 Guaro TV (1080p),https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
 Guatuso TV (720p),https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
-Guaymate TV (360p),https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+Guaymate TV (1080p) [Not 24/7],https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8
 GugakTV 국악방송 (1080p),https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 Gugbang TV (1080p) [Not 24/7],http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 Gugudde TV (480p),https://readymedia.moderntv.cloud:8092/distribute/readymedia/GUGUDDETV_stream_tj/5-20-hls/live.m3u8
