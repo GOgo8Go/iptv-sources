@@ -4725,6 +4725,7 @@ TVP Dokument (1080p),https://irylek.ct8.pl/stream/tvpdokument
 TVP Historia 2 (1080p),https://irylek.ct8.pl/stream/tvphistoria2
 TVP Historia (1080p),https://irylek.ct8.pl/stream/tvphistoria
 TVP Info (1080p),https://irylek.ct8.pl/stream/tvpinfo
+TVP Kobieta (1080p),https://irylek.ct8.pl/stream/tvpkobieta
 TVP Kultura 2 (1080p),https://irylek.ct8.pl/stream/tvpkultura2
 TVP Kultura (1080p),https://irylek.ct8.pl/stream/tvpkultura
 TVP Los Mochis (720p) [Not 24/7],https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
