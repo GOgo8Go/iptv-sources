@@ -2332,12 +2332,27 @@ NBC 12 Winston-Salem NC (WXII) (720p),https://lnc-wxii.tubi.video/playlist.m3u8
 NBC 13 Birmingham Al (WVTM) (720p),https://lnc-wvtm.tubi.video/playlist.m3u8
 NBC 18 Lexington KY (WLEX) (720p),https://lnc-wlex.tubi.video/playlist.m3u8
 NBC 26 Green Bay WI (WGBA-DT1) (720p),https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+NBC Boston News,https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
+NBC Chicago News,https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
 NBC Chicago News 24/7 (1080p),https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
+NBC Connecticut News,https://nbcu-nbcconnecticutnews-firetv.amagi.tv/playlist.m3u8
+NBC Dallas Fortworth News,https://nbcu-nbcdallasfortworthnews-firetv.amagi.tv/playlist.m3u8
+NBC Los Angeles News,https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
+NBC New York News,https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
 NBC New York News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8
 NBC News NOW,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
+NBC Philadelphia News,https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
+NBC San Diego News,https://nbcu-nbcsandiegonews-firetv.amagi.tv/playlist.m3u8
+NBC San Francisco News,https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
+NBC South Florida News,https://nbcu-nbcsouthfloridanews-firetv.amagi.tv/playlist.m3u8
 NBC Sports,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586
+NBC Washington News,https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 NBC West (San Diego) (1080p) [Not 24/7],https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 NBCLX,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+NBCU Telemundo Florida,https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
+NBCU Telemundo North East,https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
+NBCU Telemundo Texas,https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
+NBCU Telemundo West,https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
 Nos Païs (720p) [Not 24/7],http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 Nos TV Bonaire (1080p),http://streaming.flamingotv.net/nostv/live.m3u8
 Nosey,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e93d0a80d8d10008a0181e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6613-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1fbd0fc2-487d-4b2e-8f46-ca423dcfe679
@@ -2727,6 +2742,7 @@ Ploiesti TV (1080p),https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
 Plovdivska Pravoslavna TV (1080p),http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
 PLP,https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 PLTV (614p),https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
+Plus TV (720p) [Not 24/7],https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 Plus TV (720p) [Not 24/7],https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
 Plus TV Africa (720p) [Not 24/7],https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8
 PLUSPLUS,http://45.153.35.237:8000/play/a01y
@@ -3721,6 +3737,7 @@ Sports Connect (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/sportscon
 Sports First (1080p),https://d4ddgdmj1cvnm.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-SportsFirstTV/409.m3u8
 Sports News Highlights (720p),https://amg01756-newsnet-amg01756c2-klowdtv-us-1123.playouts.now.amagi.tv/playlist/amg01756-newsnetfast-sportsnewshighlightsklowdtv-klowdtvus/playlist.m3u8
 Sports TV (720p),https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 SportsGrid (1080p),https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 SQCS Canal 4 (720p),https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
 SQOOL TV (STK),https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
@@ -5003,6 +5020,7 @@ Wapp (1080p),https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3
 Warner Bros. TV Say Yes to the Dress,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e8342cf13100083b404c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1026-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f2a7d6f8-3ba5-4ec9-acb3-0ba652bd6b1a
 Warner Bros. TV Sweet Escapes,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7fa045c3d0008514ca7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1027-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ef9213e0-68a9-467b-a8ec-30b182841c0b
 Wasabi la chaîne anime,https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
+Washington Post,https://washingtonpost-firetv.amagi.tv/playlist.m3u8
 Washington Post TV (720p),https://amg01655-thewashingtonpo-washingtonpost-klowdtv-fxhac.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-klowdtv/playlist.m3u8
 Watan TV (1080p),https://n101.stream.tactivemedia.com/watantv/live/playlist.m3u8
 Watan-e-Maa TV (720p),https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
