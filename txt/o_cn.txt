@@ -79,7 +79,6 @@ Lanzhou Comprehensive News Channel,https://liveplus.lztv.tv/xwzh/HD/live.m3u8
 Lasa TV,https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
 Laughter Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
 Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
-Lifestyle Channel,http://49.113.179.174:4022/udp/238.125.5.113:5140
 Nei Monggol TV,http://49.113.179.174:4022/udp/238.125.7.93:5140
 NHK Chinese Vision (720p),https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
