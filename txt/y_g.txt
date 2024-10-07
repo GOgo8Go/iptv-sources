@@ -75,6 +75,7 @@ NewTV 精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 「全球总决赛」英雄联盟 4K,http://live.iill.top/huya.php?id=18524915
 「全球总决赛」英雄联盟 4K,http://live.iill.top/bilibili.php?id=10
 「B站」CS 2,http://live.iill.top/bilibili.php?id=21622811
+「虎牙」CS 2,http://live.iill.top/huya.php?id=483917
 「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
 「虎牙」英雄联盟 𝟙,http://live.iill.top/huya.php?id=660000
 「虎牙」英雄联盟 𝟚,http://live.iill.top/huya.php?id=660001
