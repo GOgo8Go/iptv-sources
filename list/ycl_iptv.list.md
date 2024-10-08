@@ -145,4 +145,4 @@
 | 139 | Global Fashion Channel | [Global Fashion Channel](https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
 | 140 | Billiards TV | [Billiards TV](https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
 
-Updated at **Mon Oct 07 2024 16:22:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 08 2024 01:21:05 GMT+0000 (Coordinated Universal Time)**
