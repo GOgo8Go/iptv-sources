@@ -47,7 +47,7 @@ You can also use the services provided by Mirror Sites Matrix!
 | China Province | [cn_p.m3u](/cn_p.m3u) <br> [cn_p.txt](/txt/cn_p.txt) | [List for China Province](/list/cn_p.list) | 34 | - |
 | All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for All](/list/all.list) | 2309 | - |
 | YueChan_Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan_Live IPTV](/list/ycl_iptv.list) | 140 | - |
-| YanG_1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG_1989 Gather](/list/y_g.list) | 181 | - |
+| YanG_1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG_1989 Gather](/list/y_g.list) | 180 | - |
 
 ## EPG
 
@@ -59,7 +59,7 @@ You can also use the services provided by Mirror Sites Matrix!
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Wed Oct 09 2024 08:24:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 09 2024 16:22:03 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
