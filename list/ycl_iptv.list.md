@@ -123,7 +123,7 @@
 | 117 | Ted Talks | [Ted Talks](https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
 | 118 | The Graham Norton Show | [The Graham Norton Show](https://i.mjh.nz/discovery-ptgn.m3u8) |
 | 119 | Mytime | [Mytime](https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8) |
-| 120 | La LA Life | [La LA Life](https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8) |
+| 120 | La La Life | [La La Life](https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8) |
 | 121 | MovieDome | [MovieDome](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8) |
 | 122 | Tastemade | [Tastemade](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8) |
 | 123 | Yu-Gi-Oh | [Yu-Gi-Oh](https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8) |
@@ -145,4 +145,4 @@
 | 139 | Global Fashion Channel | [Global Fashion Channel](https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
 | 140 | Billiards TV | [Billiards TV](https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
 
-Updated at **Wed Oct 09 2024 01:20:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 09 2024 08:24:29 GMT+0000 (Coordinated Universal Time)**
