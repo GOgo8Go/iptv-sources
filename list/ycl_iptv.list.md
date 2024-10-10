@@ -92,55 +92,5 @@
 | 86 | 内蒙农牧 | [内蒙农牧](https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800) |
 | 87 | 呼市新综 | [呼市新综](https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=70072e9dff1f4042fcefde5b001af668&txTime=771E8800) |
 | 88 | 包头新综 | [包头新综](https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=d5a1fe0898512f4a1d513bc0f9c5b751&txTime=771E8800) |
-| 89 | BBC News | [BBC News](https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298) |
-| 90 | CNA | [CNA](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8) |
-| 91 | CNN Fast | [CNN Fast](https://i.mjh.nz/discovery-ptcn.m3u8) |
-| 92 | CBC News | [CBC News](https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276) |
-| 93 | NBC News Now | [NBC News Now](https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99992212) |
-| 94 | ABC News Live | [ABC News Live](https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626) |
-| 95 | WionNews | [WionNews](https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8) |
-| 96 | Sky News | [Sky News](https://i.mjh.nz/sky-news-now.m3u8) |
-| 97 | AXS TV Now | [AXS TV Now](https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8) |
-| 98 | Newsmax | [Newsmax](http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8) |
-| 99 | CBN News | [CBN News](https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8) |
-| 100 | RT News | [RT News](https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8) |
-| 101 | Africa News | [Africa News](https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
-| 102 | Al Jazeera | [Al Jazeera](http://live-hls-web-aje.getaj.net/AJE/01.m3u8) |
-| 103 | Arirang | [Arirang](https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8) |
-| 104 | Love Nature | [Love Nature](https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8) |
-| 105 | Fashion TV | [Fashion TV](http://91.247.68.229:8000/play/Fashion/index.m3u8) |
-| 106 | Kids TV | [Kids TV](https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8) |
-| 107 | Wild Earth | [Wild Earth](https://wildearth-plex.amagi.tv/masterR1080p.m3u8) |
-| 108 | Trace Sports | [Trace Sports](https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8) |
-| 109 | SportsGrid | [SportsGrid](https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8) |
-| 110 | RT Documentary | [RT Documentary](https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8) |
-| 111 | Taiwan Plus | [Taiwan Plus](https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8) |
-| 112 | ComedyDynamics | [ComedyDynamics](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8) |
-| 113 | BBC Earth | [BBC Earth](https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8) |
-| 114 | History | [History](https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8) |
-| 115 | TED Conference | [TED Conference](https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8) |
-| 116 | Ted Talks | [Ted Talks](https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
-| 117 | The Graham Norton Show | [The Graham Norton Show](https://i.mjh.nz/discovery-ptgn.m3u8) |
-| 118 | Mytime | [Mytime](https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8) |
-| 119 | La La Life | [La La Life](https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8) |
-| 120 | MovieDome | [MovieDome](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8) |
-| 121 | Tastemade | [Tastemade](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8) |
-| 122 | Yu-Gi-Oh | [Yu-Gi-Oh](https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8) |
-| 123 | ION Plus | [ION Plus](https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614) |
-| 124 | Today Allday | [Today Allday](https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245) |
-| 125 | LoveStories | [LoveStories](https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
-| 126 | Travel XP | [Travel XP](https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
-| 127 | Museum TV | [Museum TV](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8) |
-| 128 | Ondemand China | [Ondemand China](https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8) |
-| 129 | Young Hollywood | [Young Hollywood](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8) |
-| 130 | Food | [Food](https://food-eu.xiaomi.wurl.tv/playlist.m3u8) |
-| 131 | MovieSphere | [MovieSphere](https://i.mjh.nz/discovery-ptms.m3u8) |
-| 132 | Rakuten Viki | [Rakuten Viki](https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8) |
-| 133 | Rakuten TV Shows | [Rakuten TV Shows](https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8) |
-| 134 | Rakuten Comedy | [Rakuten Comedy](https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8) |
-| 135 | Rakuten Thriller | [Rakuten Thriller](https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8) |
-| 136 | Rakuten British Films | [Rakuten British Films](https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8) |
-| 137 | Global Fashion Channel | [Global Fashion Channel](https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
-| 138 | Billiards TV | [Billiards TV](https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8) |
 
-Updated at **Thu Oct 10 2024 01:20:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 10 2024 08:23:01 GMT+0000 (Coordinated Universal Time)**
