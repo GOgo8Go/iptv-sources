@@ -105,7 +105,6 @@ Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
@@ -124,9 +123,9 @@ Tastemade,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng
 Yu-Gi-Oh,https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
 ION Plus,https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
 Today Allday,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
-Museum,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Museum TV,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 Ondemand China,https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 Food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -134,7 +133,6 @@ MovieSphere,https://i.mjh.nz/discovery-ptms.m3u8
 Rakuten Viki,https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 Rakuten TV Shows,https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
 Rakuten Comedy,https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
-Rakuten Action,https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
 Rakuten Thriller,https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
 Rakuten British Films,https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
 Global Fashion Channel,https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8

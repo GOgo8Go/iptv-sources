@@ -211,8 +211,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",Kids TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="国际",Trace Sports
@@ -249,12 +247,12 @@ https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
 #EXTINF:-1 group-title="国际",Today Allday
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
-#EXTINF:-1 group-title="国际",Museum
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",LoveStories
 https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Travel XP
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Museum TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",Ondemand China
 https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Young Hollywood
@@ -269,8 +267,6 @@ https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Comedy
 https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Action
-https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Thriller
 https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Rakuten British Films
