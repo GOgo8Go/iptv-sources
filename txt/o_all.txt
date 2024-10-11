@@ -936,25 +936,29 @@ Canal Sur Andalucía 2 (720p),https://cdnlive.codev8.net/rtvalive/smil:channel22
 Canal Sur Andalucía (1080p) [Not 24/7],https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 Canal Sur Patagonia (720p),https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
 CBC (720p) [Not 24/7],https://ythls.armelin.one/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
-CBC Calgary (CBRT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
-CBC Comedy (1080p),https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
-CBC Edmonton (CBXT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
-CBC Manitoba (CBWT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
-CBC Montréal (CBMT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-CBC New Brunswick (CBAT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-CBC Newfoundland and Labrador (CBNT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
-CBC News Explore  (720p),https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/master.m3u8
+CBC Calgary (CBRT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+CBC Comedy (1080p),https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
+CBC Edmonton (CBXT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+CBC Heartland (1080p),https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8
+CBC Manitoba (CBWT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+CBC Montréal (CBMT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+CBC Murdoch Mysteries (1080p),https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8
+CBC New Brunswick (CBAT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+CBC Newfoundland and Labrador (CBNT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+CBC News BC (1080p),https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
+CBC News Explore (1080p),https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 CBC News Network (1080p),https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
-CBC North (CFYK-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
-CBC Nova Scotia (CBHT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-CBC Ottawa (CBOT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
-CBC Prince Edward Island (CBCT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-CBC Saskatchewan (CBKT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+CBC News Toronto (1080p),https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
+CBC North (CFYK-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
+CBC Nova Scotia (CBHT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+CBC Ottawa (CBOT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+CBC Prince Edward Island (CBCT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+CBC Saskatchewan (CBKT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
 CBC Sofra (720p) [Not 24/7],https://ythls.armelin.one/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
-CBC Toronto (CBLT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+CBC Toronto (CBLT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 CBC TV8 (1080p) [Not 24/7],https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
-CBC Vancouver (CBUT-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-CBC Windsor (CBET-DT),https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+CBC Vancouver (CBUT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+CBC Windsor (CBET-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
 CBeebies HD (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 CBN Español (1080p),https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 CBN Family (1080p),https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
