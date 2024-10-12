@@ -550,4 +550,4 @@
 | 544 | Lanzhou Comprehensive News Channel | [Lanzhou Comprehensive News Channel](https://liveplus.lztv.tv/xwzh/HD/live.m3u8) |
 | 545 | Lasa TV | [Lasa TV](https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8) |
 
-Updated at **Fri Oct 11 2024 16:22:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 12 2024 01:19:12 GMT+0000 (Coordinated Universal Time)**
