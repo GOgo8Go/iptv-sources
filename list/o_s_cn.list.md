@@ -549,4 +549,4 @@
 | 543 | QTV-1 | [QTV-1](http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8) |
 | 544 | Lanzhou Comprehensive News Channel | [Lanzhou Comprehensive News Channel](https://liveplus.lztv.tv/xwzh/HD/live.m3u8) |
 
-Updated at **Sun Oct 13 2024 08:21:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 13 2024 16:20:42 GMT+0000 (Coordinated Universal Time)**
