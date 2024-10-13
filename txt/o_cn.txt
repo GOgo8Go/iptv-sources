@@ -76,7 +76,6 @@ HOY资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac
 Hunan Ping Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
 JiaJia Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
 Lanzhou Comprehensive News Channel,https://liveplus.lztv.tv/xwzh/HD/live.m3u8
-Lasa TV,https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
 Laughter Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
 Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Nei Monggol TV,http://49.113.179.174:4022/udp/238.125.7.93:5140
