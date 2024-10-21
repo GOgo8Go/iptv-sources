@@ -129,7 +129,7 @@
 | 123 | A2i Naija (720p) [Not 24/7] | [A2i Naija (720p)  Not 24/7](https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8) |
 | 124 | A2i Religion (720p) [Not 24/7] | [A2i Religion (720p)  Not 24/7](https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8) |
 | 125 | A2i TV (1080p) | [A2i TV (1080p)](https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8) |
-| 126 | A2Z (360p) | [A2Z (360p)](https://tv-noyzkie.serv00.net/streams/A2Z.m3u8) |
+| 126 | A2Z [Not 24/7] | [A2Z  Not 24/7](https://wag.ika.lat/stream/944313137​) |
 | 127 | A7TV (1080p) [Not 24/7] | [A7TV (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCWZxOfINa92_vDXXsHZygKA.m3u8) |
 | 128 | A12 TV (720p) | [A12 TV (720p)](https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8) |
 | 129 | A21 Network  Russian Motorsport Television | [A21 Network  Russian Motorsport Television](https://autopilot.catcast.tv/content/37909/index.m3u8) |
@@ -1487,7 +1487,7 @@
 | 1481 | Fox 54.1 Huntsville | [Fox 54.1 Huntsville](https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8) |
 | 1482 | Fox 61 News Hartford CT (WTIC-TV) | [Fox 61 News Hartford CT (WTIC-TV)](https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8) |
 | 1483 | FOX Business (1080p) | [FOX Business (1080p)](http://41.205.93.154/FOXBUSINESS/index.m3u8) |
-| 1484 | FOX News Channel (720p) | [FOX News Channel (720p)](http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8) |
+| 1484 | Fox News Channel (144p) | [Fox News Channel (144p)](http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8) |
 | 1485 | FOX News Now (720p) | [FOX News Now (720p)](https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8) |
 | 1486 | Fox Soul (1080p) | [Fox Soul (1080p)](https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8) |
 | 1487 | FOX Sports | [FOX Sports](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54) |
@@ -6380,4 +6380,4 @@
 | 6374 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 6375 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sun Oct 20 2024 16:20:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 21 2024 01:23:28 GMT+0000 (Coordinated Universal Time)**
