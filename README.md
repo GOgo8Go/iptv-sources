@@ -45,7 +45,7 @@ You can also use the services provided by Mirror Sites Matrix!
 | China National | [cn_n.m3u](/cn_n.m3u) <br> [cn_n.txt](/txt/cn_n.txt) | [List for China National](/list/cn_n.list) | 8 | - |
 | China Country | [cn_c.m3u](/cn_c.m3u) <br> [cn_c.txt](/txt/cn_c.txt) | [List for China Country](/list/cn_c.list) | 104 | - |
 | China Province | [cn_p.m3u](/cn_p.m3u) <br> [cn_p.txt](/txt/cn_p.txt) | [List for China Province](/list/cn_p.list) | 34 | - |
-| All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for All](/list/all.list) | 2239 | - |
+| All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for All](/list/all.list) | 2241 | - |
 | YueChan_Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan_Live IPTV](/list/ycl_iptv.list) | 85 | - |
 | YanG_1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG_1989 Gather](/list/y_g.list) | 274 | - |
 
@@ -59,7 +59,7 @@ You can also use the services provided by Mirror Sites Matrix!
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Mon Oct 21 2024 01:23:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 21 2024 08:24:16 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
