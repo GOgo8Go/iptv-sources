@@ -1147,8 +1147,8 @@
 | 1141 | Dubai One (1080p) | [Dubai One (1080p)](https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8) |
 | 1142 | Dubai Racing 2 (1080p) | [Dubai Racing 2 (1080p)](https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8) |
 | 1143 | Dubai Racing 3 (1080p) | [Dubai Racing 3 (1080p)](https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8) |
-| 1144 | Dubai Racing (1080p) | [Dubai Racing (1080p)](https://dmisvthvllta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8) |
-| 1145 | Dubai Sports 1 (1080p) | [Dubai Sports 1 (1080p)](https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8) |
+| 1144 | Dubai Racing (1080p) | [Dubai Racing (1080p)](https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8) |
+| 1145 | Dubai Sports 1 (1080p) | [Dubai Sports 1 (1080p)](https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8) |
 | 1146 | Dubai Sports 2 (720p) | [Dubai Sports 2 (720p)](https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8) |
 | 1147 | Dubai Sports 3 (1080p) [Not 24/7] | [Dubai Sports 3 (1080p)  Not 24/7](https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8) |
 | 1148 | Dubai TV (1080p) | [Dubai TV (1080p)](https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8) |
@@ -6380,4 +6380,4 @@
 | 6374 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 6375 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Tue Oct 22 2024 16:23:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 23 2024 01:21:17 GMT+0000 (Coordinated Universal Time)**
