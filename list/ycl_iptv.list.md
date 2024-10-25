@@ -28,8 +28,8 @@
 | 22 | 中国教育 | [中国教育](rtp://239.3.1.57:8152) |
 | 23 | CGTN新闻 | [CGTN新闻](rtp://239.3.1.215:4220) |
 | 24 | CGTN纪录 | [CGTN纪录](rtp://239.3.1.216:4220) |
-| 25 | CHC动作电影 | [CHC动作电影](http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D) |
-| 26 | CHC家庭影院 | [CHC家庭影院](http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D) |
+| 25 | 动作电影 | [动作电影](http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D) |
+| 26 | 家庭影院 | [家庭影院](http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D) |
 | 27 | 北京卫视 | [北京卫视](rtp://239.3.1.241:8000) |
 | 28 | 东方卫视 | [东方卫视](rtp://239.3.1.136:8032) |
 | 29 | 湖南卫视 | [湖南卫视](rtp://239.3.1.132:8012) |
@@ -79,4 +79,4 @@
 | 73 | 睛彩青少 | [睛彩青少](rtp://239.3.1.127:8001) |
 | 74 | 睛彩场舞 | [睛彩场舞](rtp://239.3.1.128:8001) |
 
-Updated at **Thu Oct 24 2024 16:21:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 25 2024 01:22:08 GMT+0000 (Coordinated Universal Time)**
