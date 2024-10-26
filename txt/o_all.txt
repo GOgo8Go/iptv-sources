@@ -296,6 +296,7 @@ AXN,https://streamer1.nexgen.bz/AXN/index.m3u8
 AXN (1080p),https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 AXN (Indonesia) (720p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 AXN HD (Mandarin Chinese Subtitles) (1080p),https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
+AXN Southeast Asia (1080p),https://wag.ika.lat/stream/2084767267
 AXS TV NOW,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 Ayaat (720p),https://ythls.armelin.one/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8
 AYNI TV (720p),https://stmvideo3.livecastv.com/aynitv/aynitv/playlist.m3u8
@@ -1730,6 +1731,7 @@ GTN South Florida (1080p),https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-a
 GTN TV (1080p) [Not 24/7],https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8
 GTV (360p) [Not 24/7],http://91.220.221.60/gtv_hls/gtv_03.m3u8
 GTV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCm8MfVSyDrrB34TZhU3YVBA.m3u8
+GTV HD (1080p) [Not 24/7],https://wag.ika.lat/stream/872206966
 GTV Network (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC6XLG5YjZfK1p5oY5MJ3NMw.m3u8
 Guacara TV (720p),https://imagenuniversaltv.net:3820/live/guacaratvlive.m3u8
 Guada TV (720p) [Not 24/7],https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
@@ -3809,6 +3811,7 @@ Royal TV (720p),http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 Roze News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCfULVYTlFOpgb5B_bchTz3Q.m3u8
 RPL TV Woerden (720p),https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 RPM (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
+RPTV HD (1080p) [Not 24/7],https://wag.ika.lat/stream/2043888238
 RRI Net (1080p),https://rrinet.rri.co.id/hls/live.m3u8
 RT Arabic (1080p),https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 RT DE (1080p) [Not 24/7],https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
