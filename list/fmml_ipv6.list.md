@@ -152,4 +152,4 @@
 | 146 | CGTN西语 | [CGTN西语](https://0472.org/hls/cgtnx.m3u8) |
 | 147 | CGTN阿语 | [CGTN阿语](https://0472.org/hls/cgtna.m3u8) |
 
-Updated at **Wed Oct 30 2024 16:23:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 31 2024 01:23:15 GMT+0000 (Coordinated Universal Time)**
