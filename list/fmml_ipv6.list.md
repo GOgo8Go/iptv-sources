@@ -4,23 +4,23 @@
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | CCTV-1 综合 | [CCTV-1 综合](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8) |
+| 1 | CCTV-1 综合 | [CCTV-1 综合](http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8) |
 | 2 | CCTV-2 财经 | [CCTV-2 财经](http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8) |
-| 3 | CCTV-3 综艺 | [CCTV-3 综艺](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8) |
-| 4 | CCTV-4 中文国际 | [CCTV-4 中文国际](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8) |
-| 5 | CCTV-5 体育 | [CCTV-5 体育](http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8) |
-| 6 | CCTV-5+ 体育赛事 | [CCTV-5+ 体育赛事](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8) |
-| 7 | CCTV-6 电影 | [CCTV-6 电影](http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8) |
-| 8 | CCTV-7 国防军事 | [CCTV-7 国防军事](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8) |
-| 9 | CCTV-8 电视剧 | [CCTV-8 电视剧](http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8) |
-| 10 | CCTV-9 纪录 | [CCTV-9 纪录](http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8) |
-| 11 | CCTV-10 科教 | [CCTV-10 科教](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8) |
-| 12 | CCTV-11 戏曲 | [CCTV-11 戏曲](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8) |
-| 13 | CCTV-12 社会与法 | [CCTV-12 社会与法](http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8) |
-| 14 | CCTV-13 新闻 | [CCTV-13 新闻](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8) |
-| 15 | CCTV-14 少儿 | [CCTV-14 少儿](http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8) |
-| 16 | CCTV-15 音乐 | [CCTV-15 音乐](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8) |
-| 17 | CCTV-16 奥林匹克 | [CCTV-16 奥林匹克](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8) |
+| 3 | CCTV-3 综艺 | [CCTV-3 综艺](http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8) |
+| 4 | CCTV-4 中文国际 | [CCTV-4 中文国际](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226539/index.m3u8) |
+| 5 | CCTV-5 体育 | [CCTV-5 体育](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226146/index.m3u8) |
+| 6 | CCTV-5+ 体育赛事 | [CCTV-5+ 体育赛事](http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002139/index.m3u8) |
+| 7 | CCTV-6 电影 | [CCTV-6 电影](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226148/index.m3u8) |
+| 8 | CCTV-7 国防军事 | [CCTV-7 国防军事](http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002141/index.m3u8) |
+| 9 | CCTV-8 电视剧 | [CCTV-8 电视剧](http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8) |
+| 10 | CCTV-9 纪录 | [CCTV-9 纪录](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226434/index.m3u8) |
+| 11 | CCTV-10 科教 | [CCTV-10 科教](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226164/index.m3u8) |
+| 12 | CCTV-11 戏曲 | [CCTV-11 戏曲](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226541/index.m3u8) |
+| 13 | CCTV-12 社会与法 | [CCTV-12 社会与法](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226436/index.m3u8) |
+| 14 | CCTV-13 新闻 | [CCTV-13 新闻](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226438/index.m3u8) |
+| 15 | CCTV-14 少儿 | [CCTV-14 少儿](http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002148/index.m3u8) |
+| 16 | CCTV-15 音乐 | [CCTV-15 音乐](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226616/index.m3u8) |
+| 17 | CCTV-16 奥林匹克 | [CCTV-16 奥林匹克](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8) |
 | 18 | CCTV-17 农业农村 | [CCTV-17 农业农村](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8) |
 | 19 | CHC影迷电影 | [CHC影迷电影](http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D) |
 | 20 | CHC动作电影 | [CHC动作电影](http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D) |
@@ -152,4 +152,4 @@
 | 146 | CGTN西语 | [CGTN西语](https://0472.org/hls/cgtnx.m3u8) |
 | 147 | CGTN阿语 | [CGTN阿语](https://0472.org/hls/cgtna.m3u8) |
 
-Updated at **Sat Nov 02 2024 01:20:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 02 2024 08:21:27 GMT+0000 (Coordinated Universal Time)**
