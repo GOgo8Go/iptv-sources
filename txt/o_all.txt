@@ -294,7 +294,6 @@ Awkward,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/ch
 Ax Men,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fe4bbdf3cf0008aa2cdd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794331-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=334b8ad2-5361-4ae2-a1fd-41fb46bc4c2d
 AXN,https://streamer1.nexgen.bz/AXN/index.m3u8
 AXN (1080p),https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
-AXN (Indonesia) (720p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 AXN HD (Mandarin Chinese Subtitles) (1080p),https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
 AXN Southeast Asia (1080p),https://wag.ika.lat/stream/2084767267
 AXS TV NOW,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
@@ -3810,7 +3809,6 @@ Royal TV (720p),http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 Roze News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCfULVYTlFOpgb5B_bchTz3Q.m3u8
 RPL TV Woerden (720p),https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 RPM (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
-RPTV HD (1080p) [Not 24/7],https://wag.ika.lat/stream/2043888238
 RRI Net (1080p),https://rrinet.rri.co.id/hls/live.m3u8
 RT Arabic (1080p),https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 RT DE (1080p) [Not 24/7],https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
@@ -4127,7 +4125,6 @@ Shades of Black,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitc
 Shalom TV (360p),https://media.streambrothers.com:1936/8400/8400/playlist.m3u8
 Shalom TV (720p) [Not 24/7],https://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
 Shalom TV (720p) [Not 24/7],https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
-Shamshad TV [Not 24/7],https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
 Shandong Education TV,http://49.113.179.174:4022/udp/238.125.0.156:5140
 Sharjah 2 (1080p),https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 Sharjah Radio Quran (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCn8lMRYDANs_1yAL3iuw7_g.m3u8
@@ -4549,8 +4546,6 @@ TeleGenova (404p),https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/pla
 TeleGilena (360p) [Not 24/7],https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
 TéléGohelle,https://videas.agglo-lenslievin.fr/index.m3u8
 Telegranda (720p) [Not 24/7],http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
-Telehit (576p),https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-Telehit Música (576p),https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 Teleimpacto (720p) [Not 24/7],https://vpss2003.streamprolive.com/hls/live.m3u8
 Teleislas (486p) [Not 24/7],https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 Telejato (720p),https://telejato.liberotratto.com/hls/0/stream.m3u8
@@ -5077,7 +5072,7 @@ TV4 La Vall (1080p),https://limited09.todostreaming.es/live/tarson-livestream.m3
 TV5 (720p) [Not 24/7],https://live-fi.tvkaista.net/tv5/live.m3u8
 TV5 (1080p),https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
 TV5 (1080p) [Not 24/7],https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-TV5 Cambodia (720p),https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+TV5 Cambodia (720p),https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 TV5 HD (720p),https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 TV5 Kannada (720p) [Not 24/7],https://ythls.armelin.one/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
 TV5 Linares (720p),https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
