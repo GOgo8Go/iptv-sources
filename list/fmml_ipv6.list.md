@@ -45,7 +45,7 @@
 | 39 | 辽宁卫视 | [辽宁卫视](http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002201/index.m3u8) |
 | 40 | 重庆卫视 | [重庆卫视](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226551/index.m3u8) |
 | 41 | 黑龙江卫视 | [黑龙江卫视](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226142/index.m3u8) |
-| 42 | 内蒙古卫视 | [内蒙古卫视](https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880) |
+| 42 | 内蒙古卫视 | [内蒙古卫视](https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680) |
 | 43 | 宁夏卫视 | [宁夏卫视](http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8) |
 | 44 | 陕西卫视 | [陕西卫视](http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226444/index.m3u8) |
 | 45 | 吉林卫视 | [吉林卫视](http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8) |
@@ -111,19 +111,19 @@
 | 105 | 浙江民生 | [浙江民生](https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8) |
 | 106 | 浙江经济 | [浙江经济](https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8) |
 | 107 | 浙江钱江 | [浙江钱江](https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8) |
-| 108 | 内蒙新闻 | [内蒙新闻](https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800) |
-| 109 | 内蒙经济 | [内蒙经济](https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800) |
-| 110 | 内蒙少儿 | [内蒙少儿](https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800) |
-| 111 | 内蒙文体 | [内蒙文体](https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800) |
-| 112 | 内蒙农牧 | [内蒙农牧](https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800) |
-| 113 | 蒙语卫视 | [蒙语卫视](https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880) |
-| 114 | 蒙语文化 | [蒙语文化](https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800) |
-| 115 | 呼市新闻综合 | [呼市新闻综合](https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=70072e9dff1f4042fcefde5b001af668&txTime=771E8800) |
-| 116 | 包头新闻综合 | [包头新闻综合](https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=d5a1fe0898512f4a1d513bc0f9c5b751&txTime=771E8800) |
-| 117 | 鄂尔多斯新闻 | [鄂尔多斯新闻](https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=b7f46f8c1bcd9e2db3aa285e7afd6255&txTime=771E8800) |
-| 118 | 巴彦淖尔新闻 | [巴彦淖尔新闻](https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=7b16e82a11c42b867ae27383922ef7f9&txTime=771E8800) |
-| 119 | 赤峰新闻综合 | [赤峰新闻综合](https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=08be8d464e60db2c3aa1e8e7d742f71d&txTime=771E8800) |
-| 120 | 乌兰察布新闻 | [乌兰察布新闻](https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=8bca81250fd7df3b633efcbb6150b0c6&txTime=771E8800) |
+| 108 | 内蒙新闻 | [内蒙新闻](https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800) |
+| 109 | 内蒙经济 | [内蒙经济](https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800) |
+| 110 | 内蒙少儿 | [内蒙少儿](https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800) |
+| 111 | 内蒙文体 | [内蒙文体](https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800) |
+| 112 | 内蒙农牧 | [内蒙农牧](https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800) |
+| 113 | 蒙语卫视 | [蒙语卫视](https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880) |
+| 114 | 蒙语文化 | [蒙语文化](https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800) |
+| 115 | 呼市新闻综合 | [呼市新闻综合](https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800) |
+| 116 | 包头新闻综合 | [包头新闻综合](https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800) |
+| 117 | 鄂尔多斯新闻 | [鄂尔多斯新闻](https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800) |
+| 118 | 巴彦淖尔新闻 | [巴彦淖尔新闻](https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800) |
+| 119 | 赤峰新闻综合 | [赤峰新闻综合](https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800) |
+| 120 | 乌兰察布新闻 | [乌兰察布新闻](https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800) |
 | 121 | CGTN英语 | [CGTN英语](https://0472.org/hls/cgtn.m3u8) |
 | 122 | CGTN记录 | [CGTN记录](https://0472.org/hls/cgtnd.m3u8) |
 | 123 | CGTN俄语 | [CGTN俄语](https://0472.org/hls/cgtne.m3u8) |
@@ -131,4 +131,4 @@
 | 125 | CGTN西语 | [CGTN西语](https://0472.org/hls/cgtnx.m3u8) |
 | 126 | CGTN阿语 | [CGTN阿语](https://0472.org/hls/cgtna.m3u8) |
 
-Updated at **Sun Nov 10 2024 16:19:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Nov 11 2024 01:23:53 GMT+0000 (Coordinated Universal Time)**
