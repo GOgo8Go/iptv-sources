@@ -288,7 +288,7 @@
 | 282 | Awapa Sports TV (1080p) [Not 24/7] | [Awapa Sports TV (1080p)  Not 24/7](https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8) |
 | 283 | Awaz TV (1080p) [Not 24/7] | [Awaz TV (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCd0sEeyvD_K9YYw0yPTKDhw.m3u8) |
 | 284 | Awdah TV (480p) | [Awdah TV (480p)](http://htvpalsat.mada.ps:8888/audeh/index.m3u8) |
-| 285 | AWE (720p) | [AWE (720p)](https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/awe_720p/playlist.m3u8) |
+| 285 | AWE (720p) | [AWE (720p)](https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8) |
 | 286 | AWE Encore (720p) | [AWE Encore (720p)](https://aweencore-vizio.amagi.tv/playlist.m3u8) |
 | 287 | Awesome TV | [Awesome TV](https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8) |
 | 288 | Awkward | [Awkward](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1784120ba80007935aaa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca062-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50a5387f-9836-4d86-abe5-44dbc233ba2e) |
@@ -825,7 +825,7 @@
 | 819 | Cine Mo! (720p) | [Cine Mo! (720p)](https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8) |
 | 820 | Cine Premiere | [Cine Premiere](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec) |
 | 821 | Cine Romantico | [Cine Romantico](https://stream.ads.ottera.tv/playlist.m3u8?network_id=656) |
-| 822 | Cine Sony (720p) | [Cine Sony (720p)](https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8) |
+| 822 | Cine Sony (720p) | [Cine Sony (720p)](https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8) |
 | 823 | Cine Sureño (1080p) | [Cine Sureño (1080p)](https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8) |
 | 824 | Cine terror | [Cine terror](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f) |
 | 825 | Cine XOXO | [Cine XOXO](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7) |
@@ -1037,7 +1037,7 @@
 | 1031 | Divin Amour TV (720p) | [Divin Amour TV (720p)](https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8) |
 | 1032 | Divinity (432p) | [Divinity (432p)](https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8) |
 | 1033 | Divya Darshan TV (720p) | [Divya Darshan TV (720p)](http://live.divyadarshantv.com/hls/stream.m3u8) |
-| 1034 | Diya TV (720p) | [Diya TV (720p)](https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/diyatv_720p/playlist.m3u8) |
+| 1034 | Diya TV (720p) | [Diya TV (720p)](https://a-cdn.klowdtv.com/live2/diyatv_720p/playlist.m3u8) |
 | 1035 | Diyanet TV (1080p) | [Diyanet TV (1080p)](https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8) |
 | 1036 | Diyar TV (720p) | [Diyar TV (720p)](https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8) |
 | 1037 | DJ Loncho TV (720p) | [DJ Loncho TV (720p)](https://srv5.zcast.com.br/djlonchtv/djlonchtv/playlist.m3u8) |
@@ -1560,7 +1560,7 @@
 | 1554 | Full Música (720p) | [Full Música (720p)](https://eu1.servers10.com:8081/8060/index.m3u8) |
 | 1555 | Fun Radio (720p) | [Fun Radio (720p)](https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8) |
 | 1556 | Fun Radio Vision (720p) [Not 24/7] | [Fun Radio Vision (720p)  Not 24/7](https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/be/FunRadio.m3u8) |
-| 1557 | Fun Roads TV (720p) | [Fun Roads TV (720p)](https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/funroads_720p/playlist.m3u8) |
+| 1557 | Fun Roads TV (720p) | [Fun Roads TV (720p)](https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8) |
 | 1558 | Funny AF | [Funny AF](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f174-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbaba395-2ecd-414c-971c-2d705e4b67d5) |
 | 1559 | Funny or Die (720p) | [Funny or Die (720p)](https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8) |
 | 1560 | Fury | [Fury](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6270ea4345f5bc0007823048/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1dd8e3-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f07a444e-29fd-47ca-b83b-18fc0a00d4a5) |
@@ -1955,7 +1955,7 @@
 | 1949 | Horrify (1080p) | [Horrify (1080p)](https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8) |
 | 1950 | Horror Machine (720p) | [Horror Machine (720p)](https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8) |
 | 1951 | Horse and Country Free | [Horse and Country Free](https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8) |
-| 1952 | HorseTV (720p) | [HorseTV (720p)](https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/horsetv_720p/playlist.m3u8) |
+| 1952 | HorseTV (720p) | [HorseTV (720p)](https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8) |
 | 1953 | Hosanna Vision (720p) [Not 24/7] | [Hosanna Vision (720p)  Not 24/7](https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8) |
 | 1954 | Host TV (720p) | [Host TV (720p)](https://panel.freedomflixtv.org:3994/hybrid/play.m3u8) |
 | 1955 | Hot Bench | [Hot Bench](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f94-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7b2a6dda-f21b-4de6-9d06-1457daf9aa31) |
@@ -2765,7 +2765,7 @@
 | 2759 | Naturescape | [Naturescape](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a5760903-3730-493d-a240-f38538ed67ca) |
 | 2760 | Naturescape | [Naturescape](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ac7255b-3bb1-4cd4-80c9-afb0bcb127dd) |
 | 2761 | NatureTime | [NatureTime](https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8) |
-| 2762 | Nautical Channel (720p) | [Nautical Channel (720p)](https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/nautical_720p/playlist.m3u8) |
+| 2762 | Nautical Channel (720p) | [Nautical Channel (720p)](https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8) |
 | 2763 | Navahang TV (720p) | [Navahang TV (720p)](https://hls.navahang.live/hls/stream.m3u8) |
 | 2764 | Navo (480p) | [Navo (480p)](http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8) |
 | 2765 | Naxatra News (720p) | [Naxatra News (720p)](https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8) |
@@ -3678,7 +3678,7 @@
 | 3672 | Redemption TV Ministry (720p) | [Redemption TV Ministry (720p)](https://live.nixsat.com/play/rtm/index.m3u8) |
 | 3673 | RedeTV! Tocantins (720p) [Not 24/7] | [RedeTV! Tocantins (720p)  Not 24/7](https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8) |
 | 3674 | RedMusic (720p) | [RedMusic (720p)](https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8) |
-| 3675 | Redseat The First (720p) | [Redseat The First (720p)](https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/thefirst_720p/playlist.m3u8) |
+| 3675 | Redseat The First (720p) | [Redseat The First (720p)](https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8) |
 | 3676 | Reelz | [Reelz](https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8) |
 | 3677 | Reelz Channel (XUMO) (720p) | [Reelz Channel (XUMO) (720p)](https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8) |
 | 3678 | REFLET TV (1080p) | [REFLET TV (1080p)](https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8) |
@@ -3777,7 +3777,7 @@
 | 3771 | Ridiculousness Italy (720p) | [Ridiculousness Italy (720p)](https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY) |
 | 3772 | RiffTrax | [RiffTrax](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8982-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ae8efba-578b-4c2b-a7a1-ec96f6d4bf26) |
 | 3773 | Rifle Community TV RCTV (Rifle CO) (720p) | [Rifle Community TV RCTV (Rifle CO) (720p)](https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8) |
-| 3774 | RightNow TV (720p) | [RightNow TV (720p)](https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/rightnowtv_720p/playlist.m3u8) |
+| 3774 | RightNow TV (720p) | [RightNow TV (720p)](https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8) |
 | 3775 | Riigikogu (720p) | [Riigikogu (720p)](https://le02.euddn.net/6487956abb8faf0706d8c4c2465f54cb3625b812fec8e13d11668907ff00f44b004ea22691a9216c71ebda22b7e6e57c8b923aeee9e1e6aa447947c014b7a3babd73ab865562f4ae463ce0c617da65805296ed52a0af64d7d881781d282ea970de7a1ab524c1ea73e271a8df71d43212f4850e2d81241308886184db1abf516f2d6d0b9965402fc7c960e27fa968eabb077474e7493c278ebae58d614923fb2f5c76c2865cb681763ffd765a39a629ce/smil:rk_live_1.smil/playlist.m3u8) |
 | 3776 | RIK 1 | [RIK 1](http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts) |
 | 3777 | RIK 2 | [RIK 2](http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts) |
@@ -4914,7 +4914,7 @@
 | 4908 | Toshkent (480p) | [Toshkent (480p)](http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8) |
 | 4909 | Total Bhakti (1080p) | [Total Bhakti (1080p)](https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8) |
 | 4910 | Total Crime (1080p) | [Total Crime (1080p)](https://livetv-fa.tubi.video/total-crime/playlist.m3u8) |
-| 4911 | Total Nonstop Action (720p) | [Total Nonstop Action (720p)](https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/tna_720p/playlist.m3u8) |
+| 4911 | Total Nonstop Action (720p) | [Total Nonstop Action (720p)](https://a-cdn.klowdtv.com/live2/tna_720p/playlist.m3u8) |
 | 4912 | Totally Teen | [Totally Teen](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3011d79f-9b94-4386-8a0a-53a1bea6724e) |
 | 4913 | Totally Turtles | [Totally Turtles](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b215b52-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5daca1df-3fee-4d6a-bb51-db90cf28ee93) |
 | 4914 | Totally Turtles | [Totally Turtles](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e95265c9fd030007268fb9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e91-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46f7cece-d4f5-4869-a9e4-bba83d8e7e96) |
@@ -5781,4 +5781,4 @@
 | 5775 | Эхо TV (Рязань) (576p) [Not 24/7] | [Эхо TV (Рязань) (576p)  Not 24/7](https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8) |
 | 5776 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Mon Nov 11 2024 16:23:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Nov 12 2024 01:19:38 GMT+0000 (Coordinated Universal Time)**
