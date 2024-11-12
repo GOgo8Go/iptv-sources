@@ -23,13 +23,6 @@ CCTV-4K,rtp://239.3.1.245:2000
 中国教育,rtp://239.3.1.57:8152
 CGTN新闻,rtp://239.3.1.215:4220
 CGTN纪录,rtp://239.3.1.216:4220
-CGTN俄语,rtp://239.3.1.220:4220
-CGTN法语,rtp://239.3.1.218:4220
-CGTN西语,rtp://239.3.1.217:4220
-CGTN阿语,rtp://239.3.1.219:4220
-动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 北京卫视,rtp://239.3.1.241:8000
 东方卫视,rtp://239.3.1.136:8032
 湖南卫视,rtp://239.3.1.132:8012
@@ -49,9 +42,6 @@ CGTN阿语,rtp://239.3.1.219:4220
 龙江卫视,rtp://239.3.1.133:8016
 吉林卫视,rtp://239.3.1.240:8172
 东南卫视,rtp://239.3.1.156:8148
-宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
-内蒙卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 北京新闻,rtp://239.3.1.159:8000
 北京财经,rtp://239.3.1.115:8000
 北京生活,rtp://239.3.1.117:8000
