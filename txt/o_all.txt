@@ -724,7 +724,7 @@ Channel 3,http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.
 Channel 5 (1080p),https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 Channel 5,https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
 Channel 7,http://streaming-hwc.ch7.com/livech7hd/HD.m3u8
-Channel 7 (480p),https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
+Channel 7 (720p),https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 Channel 7 (720p),https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 Channel 7 Belize,https://kalends.anl.bz/localchannels/channel7.stream/playlist.m3u8
 Channel 7 Ukraine (720p),http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
@@ -879,7 +879,6 @@ Clan TVE Internacional (1080p),https://rtvelivestream.akamaized.net/rtvesec/int/
 Clarissa,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1957e4da730007195dc3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d1590-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67b4ae5a-ee93-4db5-8ab7-942fde0da3c5
 Clarissa,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1957e4da730007195dc3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc835745-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8fec7709-f957-4c32-ae6d-2dde8020c4e6
 Clarissa,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1957e4da730007195dc3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84accbc1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1e3c23ed-3d87-4733-9ff1-947db55c9d2d
-Clarity 4K (2160p),https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 Claro Sports Chile,https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Claro Televisión Dominicana (360p),https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 Claro Visión TV (720p),https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
@@ -3812,6 +3811,7 @@ Roze News (720p) [Not 24/7],https://ythls.armelin.one/channel/UCfULVYTlFOpgb5B_b
 RPL TV Woerden (720p),https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 RPM (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 RRI Net (1080p),https://rrinet.rri.co.id/hls/live.m3u8
+RSelvaTV,https://live.obslivestream.com/selvatv/index.m3u8
 RT Arabic (1080p),https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 RT DE (1080p) [Not 24/7],https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 RT Documentary English (1080p),https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -5365,6 +5365,7 @@ TV Yes Italia (720p),https://stream1.aswifi.it/radioyes/live/index.m3u8
 TV Zagora (576p),http://zagoratv.ddns.net:8080/tvzagora.m3u8
 TV Zapad (1080p) [Not 24/7],http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
 TV Zdravkin (400p),http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+TV Zimbo (1080p),https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 TV Zoom (720p),https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 TV+ (720p),https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 TV+ Canal 54 (480p),https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
