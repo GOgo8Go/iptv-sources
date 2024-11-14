@@ -4302,7 +4302,6 @@ Sozcu Televizyonu (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCOulx_re
 STAR HD [Non geo blocked],http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 STAR International (720p),https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 Super Simple Songs (1080p),https://app.viloud.tv/hls/channel/fb6891b829df2ea6dd6968b506a8c393.m3u8
-Super Tennis (1080p),https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 Super Truck Français,https://ythls.armelin.one/channel/UC4u2o6tyE4vTrErXY9AN6Rw.m3u8
 Super TV 55 (Santiago) (720p) [Not 24/7],https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
 Super TV (576p),http://iptv.supertv.ro:8000/play/a001/index.m3u8
@@ -4422,7 +4421,6 @@ TBN Smile (480p),https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/.m3u8
 TBN TV (720p) [Not 24/7],https://live.suricloud.com/hls/tbntv/index.m3u8
 TBN UK (720p),https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8
 TBN Україна (720p),https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8
-TBS (540p),https://tbs4.mov3.co/hls/tbs.m3u8
 TBS eFM (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
 TBS News Dig (720p) [Not 24/7],https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 TBS Seoul (720p),https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
