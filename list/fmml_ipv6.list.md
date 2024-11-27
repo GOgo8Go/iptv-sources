@@ -163,4 +163,4 @@
 | 157 | CGTN西语 | [CGTN西语](https://0472.org/hls/cgtnx.m3u8) |
 | 158 | CGTN阿语 | [CGTN阿语](https://0472.org/hls/cgtna.m3u8) |
 
-Updated at **Wed Nov 27 2024 08:27:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 27 2024 16:24:13 GMT+0000 (Coordinated Universal Time)**
