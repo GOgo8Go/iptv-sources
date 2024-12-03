@@ -111,8 +111,9 @@ China,#genre#
 [BD]四川卫视高清,https://stream1.freetv.fun/d0c0e944b8aac68a1c9603f5b6af0f73079e36b61cee4fa7e087838f7f652cbb.m3u8
 [BD]大庆新闻综合,https://stream1.freetv.fun/72078ced53b6a4f440c82744225c37ee6c2a3bf00ad47642a128e82f252474f9.m3u8
 [SD]大湾区卫视[ipv6],https://stream1.freetv.fun/0145ca2307f8d893f530788e5841ea7107ec248287e61a994599b4c5a247e8f6.m3u8
-[BD]天津影视,https://stream1.freetv.fun/de734db67c02771bd31d6ab20f6ecf37a82d74b744138c9ea5115408bbee08e9.ctv
+[BD]天津文艺,https://stream1.freetv.fun/f621c2251ec34e33ea6301819db20339b7c03d4553656916f37338ebc211c3fb.ctv
 [BD]天津卫视[ipv6],https://stream1.freetv.fun/a700de96dc13188f1532d89bbb699c4232e8c8c62418eaca13e737017ea8eec7.m3u8
+[VGA]天津体育,https://stream1.freetv.fun/c6b4c9e054f4a00fb94a7b9b7616b9ff2acf7f9aca0988efb050b3930123f7d8.ctv
 [HD]东莞新闻综合,https://stream1.freetv.fun/43c9c29ffd7ea98ad212c50ca985141fe13dd5608397f3f572141fcdd05ccd3a.m3u8
 [VGA]孝感公共频道,https://stream1.freetv.fun/0a0699b4d52d9c944c8e9bb7ec09b97d351e5d2be8fbae6c4a2843ccb7d34f9c.m3u8
 [SD]安多卫视[ipv6],https://stream1.freetv.fun/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8
