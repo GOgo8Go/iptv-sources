@@ -2720,7 +2720,7 @@
 | 2714 | N24 Doku | [N24 Doku](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc84dde6-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=19d88c8a-4d61-404c-9863-a7693bd2f7d0) |
 | 2715 | N24 Doku | [N24 Doku](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0) |
 | 2716 | n TV (US Eastern) (720p) [Not 24/7] | [n TV (US Eastern) (720p)  Not 24/7](https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8) |
-| 2717 | Nabaa TV (720p) [Not 24/7] | [Nabaa TV (720p)  Not 24/7](http://31.14.40.237:1935/live/Nabaa/playlist.m3u8) |
+| 2717 | Nabaa TV (720p) [Not 24/7] | [Nabaa TV (720p)  Not 24/7](https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8) |
 | 2718 | Nablus TV (720p) [Not 24/7] | [Nablus TV (720p)  Not 24/7](http://htvmada.mada.ps:8888/nabluslive/index.m3u8) |
 | 2719 | Nacional Tv Peru | [Nacional Tv Peru](https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8) |
 | 2720 | NACTV (720p) [Not 24/7] | [NACTV (720p)  Not 24/7](https://stream.pivotalelements.com/nactv/stream.m3u8) |
@@ -5794,4 +5794,4 @@
 | 5788 | Эхо TV (Рязань) (576p) [Not 24/7] | [Эхо TV (Рязань) (576p)  Not 24/7](https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8) |
 | 5789 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Mon Dec 02 2024 16:25:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 03 2024 01:36:33 GMT+0000 (Coordinated Universal Time)**
