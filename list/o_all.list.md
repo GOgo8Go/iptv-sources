@@ -128,7 +128,7 @@
 | 122 | A2i Naija (720p) [Not 24/7] | [A2i Naija (720p)  Not 24/7](https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8) |
 | 123 | A2i Religion (720p) [Not 24/7] | [A2i Religion (720p)  Not 24/7](https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8) |
 | 124 | A2i TV (1080p) | [A2i TV (1080p)](https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8) |
-| 125 | A2Z [Not 24/7] | [A2Z  Not 24/7](https://wag.ika.lat/stream/944313137​) |
+| 125 | A2Z (360p) [Not 24/7] | [A2Z (360p)  Not 24/7](https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8) |
 | 126 | A7TV (1080p) [Not 24/7] | [A7TV (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCWZxOfINa92_vDXXsHZygKA.m3u8) |
 | 127 | A12 TV (720p) | [A12 TV (720p)](https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8) |
 | 128 | A21 VITAL AUTOSPORT [Not 24/7] | [A21 VITAL AUTOSPORT  Not 24/7](https://autopilot.catcast.tv/content/37909/index.m3u8) |
@@ -5794,4 +5794,4 @@
 | 5788 | Эхо TV (Рязань) (576p) [Not 24/7] | [Эхо TV (Рязань) (576p)  Not 24/7](https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8) |
 | 5789 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Tue Dec 03 2024 16:24:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 04 2024 01:37:47 GMT+0000 (Coordinated Universal Time)**
