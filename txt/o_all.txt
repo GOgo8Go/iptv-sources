@@ -3390,7 +3390,7 @@ Radio Aalsmeer TV (720p) [Not 24/7],https://radioaalsmeer.nl:4443/live/tv.m3u8
 Radio Aktual (1080p),https://vr1.radioaktual.si/hls/stream.m3u8
 Radio Albalad TV (720p),http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
 Radio Alegria 98.5 FM (720p),https://video.compuwebecuador.com:3880/stream/play.m3u8
-Radio Alkul TV (1080p) [Not 24/7],https://ffs.gulfsat.com/AlkulTV/video.m3u8
+Radio Alkul TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCXUagbNx2e23ADuNWXnlSLw.m3u8
 Radio Ancón (720p),https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 Radio Birikina TV (720p) [Not 24/7],https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 Ràdio Bocairent TV (1080p) [Not 24/7],http://185.81.77.4/BocairentTV/index.m3u8

@@ -4011,7 +4011,7 @@ https://live.aionet.ir/hls/tv5/tv5.m3u8
 https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
 #EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-logo="https://i.imgur.com/TN7B7tB.png" group-title="General",IRIB Mostanad (540p)
 https://live.aionet.ir/hls/mostanad/mostanad.m3u8
-#EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://i.imgur.com/fXgwiRu.png" group-title="Undefined",IRIB Namayesh (540p)
+#EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://i.imgur.com/fXgwiRu.png" group-title="Entertainment",IRIB Namayesh (540p)
 https://live.aionet.ir/hls/namayesh/namayesh.m3u8
 #EXTINF:-1 tvg-id="Nasim.ir" tvg-logo="https://i.imgur.com/jNaABGG.png" group-title="Entertainment",IRIB Nasim (540p)
 https://live.aionet.ir/hls/nasim/nasim.m3u8
@@ -5623,9 +5623,9 @@ https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 https://fl5.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-id="MuganTV.az" tvg-logo="https://i.imgur.com/HMT5vZA.png" group-title="General",Mugan TV (1080p) [Not 24/7]
 https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
-#EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Undefined",Multicanal Catamayo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="General",Multicanal Catamayo (720p) [Not 24/7]
 https://multicanal.streamseguro.com/hls/streaming.m3u8
-#EXTINF:-1 tvg-id="MulticanalTelevision.co" tvg-logo="https://i.imgur.com/hPxt2OK.png" group-title="Undefined",Multicanal Televisión (720p)
+#EXTINF:-1 tvg-id="MulticanalTelevision.co" tvg-logo="https://i.imgur.com/hPxt2OK.png" group-title="General",Multicanal Televisión (720p)
 https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
 #EXTINF:-1 tvg-id="Multimania.lv" tvg-logo="https://i.imgur.com/J9Lwc0T.png" group-title="Animation;Kids",Multimania (Latvia) (576p)
 https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
@@ -5645,7 +5645,7 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-id="MultivisionCanal3.gt" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="General",Multivisión Canal 3 (720p) [Not 24/7]
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
-#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Undefined",Multivisión Federal (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="News",Multivisión Federal (720p) [Not 24/7]
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="MultivisionSports.gt" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Sports",Multivisión Sports (720p) [Not 24/7]
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
@@ -5655,7 +5655,7 @@ https://cloudvideo.servers10.com:8081/8068/index.m3u8
 https://play.amelbasoluciones.co:19360/mun2tvlive/passthru.m3u8
 #EXTINF:-1 tvg-id="MunaraTV.kz" tvg-logo="https://i.imgur.com/SEka37S.jpg" group-title="Religious",Munara TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC4tTvzqFKK2Dpfp-qP47b1w.m3u8
-#EXTINF:-1 tvg-id="MunchenTV.de" tvg-logo="https://i.imgur.com/lt7xNWW.png" group-title="Undefined",München TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MunchenTV.de" tvg-logo="https://i.imgur.com/lt7xNWW.png" group-title="General",München TV (1080p) [Not 24/7]
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="MundodelaMusica.cl" tvg-logo="https://i.imgur.com/wak2YOo.png" group-title="Music",Mundo de la Música (480p)
 https://videostreaming.cloudserverlatam.com/8078/8078/playlist.m3u8
@@ -6782,7 +6782,7 @@ http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioAlegria985FM.ec" tvg-logo="https://i.imgur.com/N00aS3x.png" group-title="Music",Radio Alegria 98.5 FM (720p)
 https://video.compuwebecuador.com:3880/stream/play.m3u8
 #EXTINF:-1 tvg-id="RadioAlkulTV.sy" tvg-logo="https://i.imgur.com/Dj9UNFd.png" group-title="News",Radio Alkul TV (1080p) [Not 24/7]
-https://ffs.gulfsat.com/AlkulTV/video.m3u8
+https://ythls.armelin.one/channel/UCXUagbNx2e23ADuNWXnlSLw.m3u8
 #EXTINF:-1 tvg-id="RadioAncon.pa" tvg-logo="https://i.imgur.com/xum8PNe.jpg" group-title="News",Radio Ancón (720p)
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 #EXTINF:-1 tvg-id="RadioBirikinaTV.it" tvg-logo="https://i.imgur.com/CFAx6m5.png" group-title="Undefined",Radio Birikina TV (720p) [Not 24/7]
@@ -8521,9 +8521,9 @@ https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 https://ls.tves.gob.ve/hls/tves.m3u8
 #EXTINF:-1 tvg-id="TVFlorida.uy" tvg-logo="https://i.imgur.com/ORjoLdw.png" group-title="Undefined",TVFlorida (1080p)
 https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8
-#EXTINF:-1 tvg-id="TVG2.es" tvg-logo="https://i.imgur.com/JpFmekJ.png" group-title="Undefined",TVG2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVG2.es" tvg-logo="https://i.imgur.com/brsE5Ow.png" group-title="General",TVG2 (720p) [Not 24/7]
 https://events2-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisiondeGalicia.es" tvg-logo="https://i.imgur.com/YBaxWQC.png" group-title="Undefined",TVG (720p)
+#EXTINF:-1 tvg-id="TelevisiondeGalicia.es" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="General",TVG (720p)
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGCativos.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="Kids",TVG Cativ@s (720p)
 https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8
@@ -8537,13 +8537,13 @@ https://events1-crtvg.flumotion.com/playlist.m3u8
 https://events4-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGEvento5.es" tvg-logo="https://i.imgur.com/XBwebY0.png" group-title="Undefined",TVG Evento 5 (720p) [Not 24/7]
 https://amodino-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGInfantil.es" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Kids",TVG Infantil (720p)
+#EXTINF:-1 tvg-id="TVGInfantil.es" tvg-logo="https://i.imgur.com/brsE5Ow.png" group-title="Kids",TVG Infantil (720p)
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGMocinos.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="Kids",TVG Mociñ@s (720p)
 https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGMomento.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="Undefined",TVG Momentos G (720p)
 https://momentog-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGMusigal.es" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Music",TVG Musigal (480p)
+#EXTINF:-1 tvg-id="TVGMusigal.es" tvg-logo="https://i.imgur.com/brsE5Ow.png" group-title="Music",TVG Musigal (480p)
 https://musigal-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGPequerrechos.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="Kids",TVG Pequerrech@s (720p)
 https://xabarintv-r1-crtvg.flumotion.com/playlist.m3u8
