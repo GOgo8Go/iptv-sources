@@ -706,12 +706,12 @@ CFN Catholic Faith Network (720p),https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist
 CG Entertainment,https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 CGNTV (720p),https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8
 CGNTV Japan (1080p),https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
-CGTN (576p),http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
-CGTN Arabic (576p) [Not 24/7],https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-CGTN Documentary (576p) [Not 24/7],https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-CGTN Español (576p),https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN Français (576p) [Not 24/7],https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-CGTN Русский (576p),https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+CGTN (1080p),https://english-livebkws.cgtn.com/live/encgtn.m3u8
+CGTN Arabic (1080p) [Not 24/7],https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CGTN Documentary (1080p) [Not 24/7],https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+CGTN Español (1080p),https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN Français (1080p) [Not 24/7],https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN Русский (1080p),https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 ch 21 ערוץ הקניות (360p),https://shoppingil-rewriter.vidnt.com/index.m3u8
 Chabiba TV (360p) [Not 24/7],https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
 Chaco TV (720p) [Not 24/7],https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8

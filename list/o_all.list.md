@@ -711,12 +711,12 @@
 | 705 | CG Entertainment | [CG Entertainment](https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8) |
 | 706 | CGNTV (720p) | [CGNTV (720p)](https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8) |
 | 707 | CGNTV Japan (1080p) | [CGNTV Japan (1080p)](https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8) |
-| 708 | CGTN (576p) | [CGTN (576p)](http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8) |
-| 709 | CGTN Arabic (576p) [Not 24/7] | [CGTN Arabic (576p)  Not 24/7](https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8) |
-| 710 | CGTN Documentary (576p) [Not 24/7] | [CGTN Documentary (576p)  Not 24/7](https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8) |
-| 711 | CGTN Español (576p) | [CGTN Español (576p)](https://livees.cgtn.com/1000e/prog_index.m3u8) |
-| 712 | CGTN Français (576p) [Not 24/7] | [CGTN Français (576p)  Not 24/7](https://news.cgtn.com/resource/live/french/cgtn-f.m3u8) |
-| 713 | CGTN Русский (576p) | [CGTN Русский (576p)](https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8) |
+| 708 | CGTN (1080p) | [CGTN (1080p)](https://english-livebkws.cgtn.com/live/encgtn.m3u8) |
+| 709 | CGTN Arabic (1080p) [Not 24/7] | [CGTN Arabic (1080p)  Not 24/7](https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8) |
+| 710 | CGTN Documentary (1080p) [Not 24/7] | [CGTN Documentary (1080p)  Not 24/7](https://english-livebkali.cgtn.com/live/doccgtn.m3u8) |
+| 711 | CGTN Español (1080p) | [CGTN Español (1080p)](https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8) |
+| 712 | CGTN Français (1080p) [Not 24/7] | [CGTN Français (1080p)  Not 24/7](https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8) |
+| 713 | CGTN Русский (1080p) | [CGTN Русский (1080p)](https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8) |
 | 714 | ch 21 ערוץ הקניות (360p) | [ch 21 ערוץ הקניות (360p)](https://shoppingil-rewriter.vidnt.com/index.m3u8) |
 | 715 | Chabiba TV (360p) [Not 24/7] | [Chabiba TV (360p)  Not 24/7](https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8) |
 | 716 | Chaco TV (720p) [Not 24/7] | [Chaco TV (720p)  Not 24/7](https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8) |
@@ -5625,4 +5625,4 @@
 | 5619 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5620 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Fri Dec 06 2024 16:23:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 07 2024 01:27:34 GMT+0000 (Coordinated Universal Time)**
