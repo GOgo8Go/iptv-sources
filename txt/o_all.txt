@@ -3840,6 +3840,7 @@ Sports First (1080p),https://d4ddgdmj1cvnm.cloudfront.net/v1/master/9d062541f2ff
 Sports TV (720p),https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 SportsGrid (1080p),https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+SPOTV (Indonesia),https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 SQCS Canal 4 (720p),https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
 SQOOL TV (STK),https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 Squadra Speciale Cobra 11 Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY

@@ -1007,7 +1007,7 @@ https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal27.gt" tvg-logo="https://i.imgur.com/eA4vt8A.png" group-title="Religious",Canal 27 (1080p)
 https://live.canal27.tv:3633/live/canal27live.m3u8
-#EXTINF:-1 tvg-id="CanalCatorce.do" tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="Undefined",Canal Catorce (720p)
+#EXTINF:-1 tvg-id="CanalCatorce.do" tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="General",Canal Catorce (720p)
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-id="CanalChilote.cl" tvg-logo="https://i.imgur.com/mdYIKyt.png" group-title="Entertainment",Canal Chilote
 https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8
@@ -5853,7 +5853,7 @@ https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="News",Newsmax TV (720p)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="NewsNationEast.us" tvg-logo="https://i.imgur.com/jfWF7h3.png" group-title="News",NewsNation East
+#EXTINF:-1 tvg-id="NewsNationEast.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91097/s91097_ll_h15_ae.png?w=512" group-title="News",NewsNation East
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="NewsNet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="News",NewsNet (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
@@ -7681,6 +7681,8 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Sports",SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV (Indonesia)
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-id="SQCSCanal4.mx" tvg-logo="https://i.imgur.com/qnx8nBP.png" group-title="Undefined",SQCS Canal 4 (720p)
 https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
 #EXTINF:-1 tvg-id="SQOOLTV.fr" tvg-logo="https://i.imgur.com/iujcGiI.png" group-title="Education",SQOOL TV (STK)
@@ -8521,7 +8523,7 @@ https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 https://ls.tves.gob.ve/hls/tves.m3u8
 #EXTINF:-1 tvg-id="TVFlorida.uy" tvg-logo="https://i.imgur.com/ORjoLdw.png" group-title="Undefined",TVFlorida (1080p)
 https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8
-#EXTINF:-1 tvg-id="TVG2.es" tvg-logo="https://i.imgur.com/brsE5Ow.png" group-title="General",TVG2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVG2.es" tvg-logo="https://i.imgur.com/yFy6gxg.png" group-title="General",TVG2 (720p) [Not 24/7]
 https://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisiondeGalicia.es" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="General",TVG (720p)
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
@@ -10027,7 +10029,7 @@ http://nadiya.home-net.com.ua/mob/mystream.m3u8
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="Undefined",Наука 2.0
 http://stream01.vnet.am/Nauka/mono.m3u8
-#EXTINF:-1 tvg-id="NasheTV.by" tvg-logo="https://i.imgur.com/FnoSJdh.png" group-title="Undefined",Наше ТВ (Витебск) (576p)
+#EXTINF:-1 tvg-id="NasheTV.by" tvg-logo="https://i.imgur.com/FnoSJdh.png" group-title="General",Наше ТВ (Витебск) (576p)
 http://95.46.208.8:26259/nashe
 #EXTINF:-1 tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="Undefined",НВК Саха (1080p) [Not 24/7]
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
