@@ -98,7 +98,7 @@
 | 92 | [BD]原阳新闻综合频道 | [BD 原阳新闻综合频道](https://stream1.freetv.fun/34035d18278d3b4ea7b4ed4f94547d75a3440e5f74490c99458d9e881c990bf2.m3u8) |
 | 93 | [HD]漳州新闻综合 | [HD 漳州新闻综合](https://stream1.freetv.fun/8aedf201890b0ba56f070e84708aa5418c7eaec7735d091c1c3769226025759f.m3u8) |
 | 94 | [BD]吉林卫视 | [BD 吉林卫视](https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8) |
-| 95 | [BD]名侦探柯南 | [BD 名侦探柯南](https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv) |
+| 95 | [VGA]名侦探柯南 | [VGA 名侦探柯南](https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv) |
 | 96 | [BD]咪咕体育1[ipv6] | [BD 咪咕体育1 ipv6](https://stream1.freetv.fun/02fe198a83aa414e103fe7a4c39254f73ea01a042d6dae3e22bb94259bd9961b.m3u8) |
 | 97 | [SD]哈哈炫动 | [SD 哈哈炫动](https://stream1.freetv.fun/eb5f5043576df8dd2010842c01a50be553e41c876df908dd14018ed306f35411.m3u8) |
 | 98 | [VGA]哈尔滨娱乐 | [VGA 哈尔滨娱乐](https://stream1.freetv.fun/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1c6bb23.m3u8) |
@@ -180,7 +180,7 @@
 | 174 | [BD]广西影视 | [BD 广西影视](https://stream1.freetv.fun/397ad4626ff6079e13990bc6474d9a855c149a7fdf3c827d83bd1277547dc025.m3u8) |
 | 175 | [BD]广西新闻 | [BD 广西新闻](https://stream1.freetv.fun/5a63df536f2a1772e2dc5847f58a13b84f3c0ba095d266fc9f27c1e392eaf2d4.m3u8) |
 | 176 | [BD]广西综艺 | [BD 广西综艺](https://stream1.freetv.fun/a4b4f68ce7c6d859538a85ef14d38f2123e370799943ed95fd21f7c6d2e37463.m3u8) |
-| 177 | [BD]广西卫视 | [BD 广西卫视](https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.ctv) |
+| 177 | [SD]广西卫视 | [SD 广西卫视](https://stream1.freetv.fun/eeb0f67095bd72341e7d6894c1c605b986628afee8f69174845095fc7bff093e.m3u8) |
 | 178 | [BD]广西都市 | [BD 广西都市](https://stream1.freetv.fun/ae3d3280f53207850f9680fb5b490dde80ba29c95db39f5c6bb69212c1e48a64.m3u8) |
 | 179 | [HD]延边卫视 | [HD 延边卫视](https://stream1.freetv.fun/24327018edd6090d5d0fdcd7966a0902b684df2132f9a4d8307bbb1d6afb84fd.m3u8) |
 | 180 | [BD]阳新综合 | [BD 阳新综合](https://stream1.freetv.fun/c921b6ba2c89b88b40b916fe7fa9d570e27442961192a39defd2ca440cf1ab34.ctv) |
@@ -384,4 +384,4 @@
 | 378 | [BD]黑龙江视 | [BD 黑龙江视](https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8) |
 | 379 | [BD]黑龙江都市[ipv6] | [BD 黑龙江都市 ipv6](https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8) |
 
-Updated at **Sun Dec 08 2024 16:21:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 09 2024 01:39:37 GMT+0000 (Coordinated Universal Time)**

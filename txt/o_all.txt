@@ -193,6 +193,7 @@ Al Anwar 2,http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
 Al Aqsa Channel (416p) [Not 24/7],http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 Al Arabiya (1080p),https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 Al Arabiya Business (1080p),https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+Al Arabiya Programs (1080p),https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
 Al Ayyam TV,http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
 Al Binaa TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCdq-DJ5MS7qjd1aXPFg71Yg.m3u8
 Al Ehsaan TV (720p),https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8
@@ -3840,6 +3841,7 @@ Sports First (1080p),https://d4ddgdmj1cvnm.cloudfront.net/v1/master/9d062541f2ff
 Sports TV (720p),https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 SportsGrid (1080p),https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+SPOTV 2 (Indonesia),https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 SPOTV (Indonesia),https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 SQCS Canal 4 (720p),https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
 SQOOL TV (STK),https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
