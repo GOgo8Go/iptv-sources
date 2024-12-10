@@ -3514,7 +3514,6 @@ Rai 4 (576p),https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=74
 RAI 4K,https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 Rai 5 (576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 Rai Gulp (576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
-Rai Italia America (360p),http://210.210.155.69/s/s63/S4/mnf.m3u8
 RAI Italia Asia (576p),http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 Rai Movie (576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
 Rai News 24 (720p),https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
