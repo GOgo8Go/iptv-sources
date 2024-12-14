@@ -2325,7 +2325,7 @@
 | 2319 | Lao SV TV (480p) | [Lao SV TV (480p)](https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8) |
 | 2320 | Lao-Thai TV (720p) | [Lao-Thai TV (720p)](https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8) |
 | 2321 | Laos Planet TV (720p) | [Laos Planet TV (720p)](https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8) |
-| 2322 | LaOtra (720p) | [LaOtra (720p)](https://laotra-1-23.secure2.footprint.net/master.m3u8) |
+| 2322 | LaOtra (720p) | [LaOtra (720p)](https://laotra-1-23-secure2.akamaized.net/master.m3u8) |
 | 2323 | Lapacho TV Canal 11 (720p) | [Lapacho TV Canal 11 (720p)](https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8) |
 | 2324 | Las Estrellas (1080p) | [Las Estrellas (1080p)](https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8) |
 | 2325 | Las Estrellas +1 (1080p) | [Las Estrellas +1 (1080p)](https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8) |
@@ -5627,4 +5627,4 @@
 | 5621 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5622 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Fri Dec 13 2024 16:24:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 14 2024 01:26:07 GMT+0000 (Coordinated Universal Time)**

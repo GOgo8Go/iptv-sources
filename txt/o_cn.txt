@@ -88,6 +88,7 @@ QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 Shaanxi Agroforestry Satellite TV,http://49.113.179.174:4022/udp/238.125.4.154:5140
 Shandong Education TV,http://49.113.179.174:4022/udp/238.125.0.156:5140
+Shanghai Education Television Station,http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
 Sihai Fishing Channel,http://49.113.179.174:4022/udp/238.125.2.172:5140
 SMG Football Channel,http://49.113.179.174:4022/udp/238.125.2.142:5140
 Toonmax TV,http://49.113.179.174:4022/udp/238.125.4.28:5140
