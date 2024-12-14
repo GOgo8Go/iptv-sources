@@ -548,5 +548,6 @@
 | 542 | 龙口新闻综合 (576p) | [龙口新闻综合 (576p)](http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8) |
 | 543 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 544 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
+| 545 | Shanghai Education Television Station | [Shanghai Education Television Station](http://223.166.234.114:7777/tsfile/live/1033_1.m3u8) |
 
-Updated at **Sat Dec 14 2024 01:26:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 14 2024 08:22:37 GMT+0000 (Coordinated Universal Time)**
