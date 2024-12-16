@@ -1503,10 +1503,10 @@ France 2 (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/strea
 France 3 (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
 France 4 (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
 France 5 (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
-France 24 Arabic (1080p),https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
-France 24 English (1080p),http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-France 24 Español (1080p),https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-France 24 French (1080p),https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+France 24 Arabic (1080p),https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+France 24 English (1080p),https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+France 24 Español (1080p),https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+France 24 French (1080p),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 France Inter (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8
 Franceinfo (720p),https://ythls.armelin.one/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8
 Franchs TV (720p),https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
@@ -2553,15 +2553,13 @@ Mayavisión (720p),https://www.amixtv.com:8081/mayavision/index.m3u8
 Mayotte One TV (1080p),https://live.mytv.yt:3946/multi_web/play.m3u8
 Mayyazhi (720p) [Not 24/7],http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
 Mazhavil Manorama (396p),https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-MBC 1,https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
 MBC 1 (1080p),https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+MBC 1 USA (1080p),https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 MBC 2 (720p) [Not 24/7],https://glb.bozztv.com/glb/ssh101/mbctv2mw/playlist.m3u8
-MBC 3,https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 MBC 3 KSA (1080p),https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 MBC 4 (1080p),https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 MBC 5 (1080p),https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 MBC (720p) [Not 24/7],https://glb.bozztv.com/glb/ssh101/mbcmalawi/playlist.m3u8
-MBC America (480p),https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 MBC Andong (안동 MBC) (360p) [Not 24/7],http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 MBC Bollywood (1080p),https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 MBC Busan (부산MBC) (360p) [Not 24/7],https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
@@ -3616,7 +3614,7 @@ Rapha TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCYo1cBqDWMAQ-_krJd
 Rapsodia TV (576p),http://92.86.248.141:8080/ram/playlist.m3u8
 Raquel Daruech TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCxZ7Z0-z9EnTZAyKmeP2_MQ.m3u8
 Rararadio (720p),https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
-RASD TV (404p),https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
+RASD TV (404p),https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8
 Rasmey Hang Meas HDTV (720p),http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 Rasyaad TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
 Rauchende Colts,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2bc7bc363100072f02dd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2070f0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=751c767c-10d2-4a8e-8886-f29909f0090e
