@@ -332,7 +332,7 @@
 | 326 | B4U Music India (576p) | [B4U Music India (576p)](http://183.89.246.119:8881/play/a08o/index.m3u8) |
 | 327 | B4U Plus (576p) | [B4U Plus (576p)](http://183.89.246.119:8881/play/a08l/index.m3u8) |
 | 328 | B15 (1080p) | [B15 (1080p)](https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8) |
-| 329 | B+ TV (576p) [Not 24/7] | [B+ TV (576p)  Not 24/7](https://tv.livebcm.com:3596/live/bplustvrwandalive.m3u8) |
+| 329 | B+ TV | [B+ TV](https://tv.btnrwanda.com:3432/live/bpluslive.m3u8) |
 | 330 | Bábolnai TV (360p) | [Bábolnai TV (360p)](https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8) |
 | 331 | Baby Alive Français | [Baby Alive Français](https://ythls.armelin.one/channel/UCj_YP8My20fYnXbe8B0ziUA.m3u8) |
 | 332 | Baby Shark TV | [Baby Shark TV](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795) |
@@ -5625,4 +5625,4 @@
 | 5619 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5620 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Tue Dec 17 2024 16:25:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 18 2024 01:25:32 GMT+0000 (Coordinated Universal Time)**
