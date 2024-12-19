@@ -550,4 +550,4 @@
 | 544 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 | 545 | Shanghai Education Television Station | [Shanghai Education Television Station](http://223.166.234.114:7777/tsfile/live/1033_1.m3u8) |
 
-Updated at **Thu Dec 19 2024 01:26:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 19 2024 08:24:52 GMT+0000 (Coordinated Universal Time)**
