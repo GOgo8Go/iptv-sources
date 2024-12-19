@@ -1718,8 +1718,6 @@ Greek TV London (720p) [Not 24/7],https://vdo3.alphaserver.gr:3466/stream/play.m
 Greensboro TV (Greensboro NC) (720p),https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
 Gregorian TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
 Grit Xtra,https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
-Grit Xtra (1080p),https://apollo.production-public.tubi.io/live/grit-extra.m3u8
-Grit Xtra (1080p),https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
 Groningen1 (1080p) [Not 24/7],http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
 Groovy TV (360p),http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 GRP VERATV (576p),https://5cbd3bc28341f.streamlock.net:444/grp/live/playlist.m3u8
@@ -2537,7 +2535,6 @@ Maverick Black Cinema (720p),https://apollo.production-public.tubi.io/live/ac-ma
 MaviKaradeniz (1080p) [Not 24/7],https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 MAVTV Motor Sports IN,https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8
 MAVTV Motor Sports UK,https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8
-MavTV Select (720p),https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 Mawwal (720p) [Not 24/7],http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
 Max2U (720p),https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
 MAX4 (576p),http://146.59.85.40:89/max4/index.m3u8
@@ -3682,7 +3679,6 @@ Rock TV (720p),https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f6768
 Rock TV (1080p) [Not 24/7],https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 Rockland TV (480p) [Not 24/7],https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 Rocky Hill Community TV (1080p),https://streams.helnix.com/autoHLS/62a406ce43acb676/62a406ce43acb676.m3u8
-Rocky Hill Government Access Channel 16 (480p),https://securestream7.champds.com/hlssstc/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
 Rodja TV (720p),https://rodjatv.com/rodjatv/live.m3u8
 Rohi (720p) [Not 24/7],https://ythls.armelin.one/channel/UCHlCp7kL8jC9HJrSVJuNJzA.m3u8
 Rojava TV,https://rojava-tv.akamaized.net/hls/rojava-tv.m3u8
@@ -3762,7 +3758,6 @@ SOS Kanal Plus (720p),https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanal
 SOU TV (720p),https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
 Sound View Community Media Education (480p),https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Sound View Community Media Government (480p),https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-Sound View Community Media Public (480p),https://livestream.telvue.com/soundviewcmt1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 South Park,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501
 South Park,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/618e34ac4a270700077b1f32/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0d7bbd81-5b0c-45a3-b97c-c2ac8161fb85
 South Park Armageddon,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ccd2173ef47d000863a72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d45-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0be489df-0535-4784-92a8-e44498d16455
@@ -4326,7 +4321,7 @@ TVNZ Duke,https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97b
 TVO (720p),https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8
 TVO (CH) (720p),https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
 TVO San Vicente (720p) [Not 24/7],https://5e3483cba9114.streamlock.net/8014/8014/playlist.m3u8
-TVOE TV HD,http://tvoetv.space:8080/tvoetv/index.m3u8
+Tvoe TV HD,http://tvoetv.space:8080/tvoetv/index.m3u8
 TVOKids,https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 tvOne (1080p),https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 TVONE Nicaragua (720p) [Not 24/7],https://hdbox.chunklistv.com/live?stream=tvone
