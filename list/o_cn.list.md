@@ -113,8 +113,8 @@
 | 107 | Xinjiang TV 9 | [Xinjiang TV 9](http://49.113.179.174:4022/udp/238.125.7.153:5140) |
 | 108 | Xinjiang TV 12 | [Xinjiang TV 12](http://49.113.179.174:4022/udp/238.125.3.185:5140) |
 | 109 | Xizang TV Tibetan | [Xizang TV Tibetan](http://49.113.179.174:4022/udp/238.125.3.94:5140) |
-| 110 | Yanbian Cinese Comprehensive Channel | [Yanbian Cinese Comprehensive Channel](https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8) |
-| 111 | Yanbian TV 1 | [Yanbian TV 1](https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8) |
+| 110 | Yanbian Cinese Comprehensive Channel | [Yanbian Cinese Comprehensive Channel](https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8) |
+| 111 | Yanbian TV 1 | [Yanbian TV 1](https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8) |
 | 112 | Yicai TV | [Yicai TV](http://49.113.179.174:4022/udp/238.125.0.165:5140) |
 | 113 | Zarok TV Sorani (720p) | [Zarok TV Sorani (720p)](https://zindisorani.zaroktv.com.tr/hls/stream.m3u8) |
 | 114 | Zhejiang TV International | [Zhejiang TV International](https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8) |
@@ -630,4 +630,4 @@
 | 624 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 625 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sun Dec 22 2024 16:19:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 23 2024 01:23:18 GMT+0000 (Coordinated Universal Time)**

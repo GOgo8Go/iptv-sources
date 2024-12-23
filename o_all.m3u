@@ -344,7 +344,7 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-logo="https://i.imgur.com/K81vNbk.png" group-title="Religious",Akaal Channel (396p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 #EXTINF:-1 tvg-id="Akaku53.us" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel53-147x150-square.png" group-title="General",Akaku 53 (Hawaii) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="Akaku54.us" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel54-147x150-square.png" group-title="General",Akaku 54 (Hawaii) (1080p)
@@ -587,8 +587,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXN.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN (1080p)
 https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Southeast Asia (1080p)
-https://wag.ika.lat/stream/2084767267
 #EXTINF:-1 tvg-id="AXSTVNOW.us" tvg-logo="https://i.imgur.com/lYa793q.png" group-title="Documentary",AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="Ayat.sa" tvg-logo="https://i.imgur.com/PUUb1gI.png" group-title="Undefined",Ayaat (720p)
@@ -2673,7 +2671,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35bcaf1ff4a00078af0a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90bc590c-c00a-4ff4-b9e2-ad20ea686992
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Euronews
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsAlbania.al" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="News",Euronews Albania (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
@@ -2681,8 +2679,8 @@ https://ythls.armelin.one/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
 https://ythls.armelin.one/channel/UCU1i6qBMjY9El6q5L2OK8hA.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p)
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Français (720p)
-https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews English
+https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German (720p)
 https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Greek (720p) [Not 24/7]
@@ -3673,8 +3671,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 https://ffs3.gulfsat.com/hbc/index.m3u8
 #EXTINF:-1 tvg-id="HBCHokkaidoNews24.jp" tvg-logo="https://i.imgur.com/vcGsZVD.png" group-title="News",HBC Hokkaido News 24 (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
-#EXTINF:-1 tvg-id="HBOAsiaHD.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO (1080p)
-https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 #EXTINF:-1 tvg-id="HBTV.vn" tvg-logo="https://i.imgur.com/nyfysP7.png" group-title="General",HBTV (406p) [Not 24/7]
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TicaVision.cr" tvg-logo="https://i.imgur.com/mev90pC.jpg" group-title="General",HBTV TicaVisión (1080p)
@@ -4927,7 +4923,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Religious",Madani Channel Urdu (720p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
-#EXTINF:-1 tvg-id="Madaniyatvamarifat.uz" tvg-logo="https://i.imgur.com/eeNLXCP.png" group-title="Undefined",Madaniyat va ma'rifat (480p)
+#EXTINF:-1 tvg-id="Madaniyatvamarifat.uz" tvg-logo="https://i.imgur.com/eeNLXCP.png" group-title="General",Madaniyat va ma'rifat (480p)
 http://gohoski.fvds.ru:3000/mediabay/146/playlist.m3u8
 #EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Movies",Made in Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
@@ -6809,12 +6805,6 @@ https://ythls.armelin.one/channel/UCtwMP_IzEm3r9PDuaYRUKLA.m3u8
 https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
 #EXTINF:-1 tvg-id="RadioElSembrador.cl" tvg-logo="https://i.imgur.com/gBpMAc3.png" group-title="Religious",Radio El Sembrador (1080p)
 https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8
-#EXTINF:-1 tvg-id="RadioFannJordanCityView.jo" tvg-logo="https://i.imgur.com/kyUtYM4.png" group-title="Undefined",Radio Fann Jordan: City View (180p) [Not 24/7]
-http://188.247.86.66/RadioFann/CityView1/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioFannJordanControlStudio.jo" tvg-logo="https://i.imgur.com/WHhZTIe.png" group-title="Undefined",Radio Fann Jordan: Control Studio (220p) [Not 24/7]
-http://188.247.86.66/RadioFann/ControlStudio1/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioFannJordanStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" group-title="Undefined",Radio Fann Jordan: Studio (180p) [Not 24/7]
-http://188.247.86.66/RadioFann/OnAirStudio1/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioFantastica989FM.ec" tvg-logo="https://i.imgur.com/mpcIbrH.jpg" group-title="Music",Radio Fantástica 98.9 FM (1080p)
 http://190.107.232.9:8082/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="RadioFMTrujui.ar" tvg-logo="https://i.imgur.com/xPUQ17D.png" group-title="Undefined",Radio FM Trujui (720p)
@@ -6975,12 +6965,6 @@ https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
 https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8
 #EXTINF:-1 tvg-id="RadioyTelevisionMarti.us" tvg-logo="https://i.imgur.com/Y7E5OTy.png" group-title="Undefined",Radio y Televisión Martí (720p)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo" tvg-logo="https://i.imgur.com/wHOQU0R.png" group-title="Undefined",Radio Yaqeen Jordan: City View (180p) [Not 24/7]
-http://188.247.86.66/MixFM/CityView1/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioYaqeenJordanControlStudio.jo" tvg-logo="https://i.imgur.com/s5VHg9W.png" group-title="Undefined",Radio Yaqeen Jordan: Control Studio (180p) [Not 24/7]
-http://188.247.86.66/MixFM/ControlStudio1/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioYaqeenJordanStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s199080/images/logod.png" group-title="Undefined",Radio Yaqeen Jordan: Studio (180p) [Not 24/7]
-http://188.247.86.66/MixFM/OnAirStudio1/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioYaucanaTV.pr" tvg-logo="https://i.imgur.com/QT0UgZk.png" group-title="Entertainment",Radio Yaucana TV (720p)
 https://stmvideo6.livecastv.com/rytv2015/rytv2015/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioYguazuTV.ar" tvg-logo="https://i.imgur.com/kVi0ICm.png" group-title="Entertainment",Radio Yguazú TV (480p)
@@ -7343,8 +7327,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ff1ce298020f000849ff20/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072634-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65a59c6b-2c76-49f3-97a2-43e9a41020c6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rocavision TV
 https://vsrv2.az-streamingserver.com:3331/live/rocavisiontvlive.m3u8
-#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Entertainment",Rock Action Southeast Asia (1080p)
-https://wag.ika.lat/stream/507371538
 #EXTINF:-1 tvg-id="RockAntenne.de" tvg-logo="https://i.imgur.com/nvFXRjH.png" group-title="Undefined",Rock Antenne [Not 24/7]
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rock Classics (Radio)
@@ -9788,9 +9770,9 @@ https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YanahitsTV.gf" tvg-logo="https://i.imgur.com/DLvH5LX.png" group-title="Music",Yanahits TV (1080p)
 https://rpn3.bozztv.com/ssh101/ssh101/clip/playlist.m3u8
 #EXTINF:-1 tvg-id="YanbianCineseComprehensiveChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/ybtv2.jpg" group-title="General",Yanbian Cinese Comprehensive Channel
-https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8
+https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 #EXTINF:-1 tvg-id="YanbianTV1.cn" tvg-logo="https://i.imgur.com/gBUlAfX.png" group-title="Undefined",Yanbian TV 1
-https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
+https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
 #EXTINF:-1 tvg-id="YangiKulguTV.uz" tvg-logo="https://i.ibb.co/FbRG58b/channels4-profile.jpg" group-title="Comedy",YangiKulgu TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC9OpmkDt-iR0sNAL29_zPJw.m3u8
 #EXTINF:-1 tvg-id="YasTV.ae" tvg-logo="https://i.imgur.com/B7OiXCB.png" group-title="Undefined",Yas TV (1080p)

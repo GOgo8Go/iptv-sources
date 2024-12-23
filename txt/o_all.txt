@@ -171,7 +171,7 @@ AIT TV (720p),https://livetv.tvait.com:1935/hls/stream1.m3u8
 AJ Net News [Not 24/7],http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8
 Ajman TV (1080p),https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 Ajyal TV,http://htvajyal.mada.ps:8888/ajyal/index.m3u8
-Akaal Channel (396p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+Akaal Channel (396p),https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 Akaku 53 (Hawaii) (1080p),https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 Akaku 54 (Hawaii) (1080p),https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 Akaku 55 (Hawaii) (1080p),https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
@@ -293,7 +293,6 @@ Awkward,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/ch
 Ax Men,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fe4bbdf3cf0008aa2cdd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794331-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=334b8ad2-5361-4ae2-a1fd-41fb46bc4c2d
 AXN,https://streamer1.nexgen.bz/AXN/index.m3u8
 AXN (1080p),https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
-AXN Southeast Asia (1080p),https://wag.ika.lat/stream/2084767267
 AXS TV NOW,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 Ayaat (720p),https://ythls.armelin.one/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8
 AYNI TV (720p),https://stmvideo3.livecastv.com/aynitv/aynitv/playlist.m3u8
@@ -1340,7 +1339,7 @@ Euronews,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 Euronews Albania (1080p) [Not 24/7],https://ythls.armelin.one/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
 Euronews Bulgaria (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCU1i6qBMjY9El6q5L2OK8hA.m3u8
 Euronews en Español (720p),https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
-Euronews Français (720p),https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+Euronews English,https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8
 Euronews German (720p),https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8
 Euronews Greek (720p) [Not 24/7],https://ythls.armelin.one/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
 Euronews Hungary (720p) [Not 24/7],https://ythls.armelin.one/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
@@ -1836,7 +1835,6 @@ Hawaii Fünf-Null,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/sti
 Haz Clic!,https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 HBC,https://ffs3.gulfsat.com/hbc/index.m3u8
 HBC Hokkaido News 24 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
-HBO (1080p),https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 HBTV (406p) [Not 24/7],http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 HBTV TicaVisión (1080p),https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 HD365 TV (576p),https://testcam.go.ro:8080/hls/hd365.m3u8
@@ -3404,9 +3402,6 @@ Radio Czwórka (1080p),https://stream14.polskieradio.pl/pr4_video/video_pr4.stre
 Radio e Televisao Timor Leste (RTTL.EP) [Not 24/7],https://ythls.armelin.one/channel/UCtwMP_IzEm3r9PDuaYRUKLA.m3u8
 Radio El Pueblo (480p),https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
 Radio El Sembrador (1080p),https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8
-Radio Fann Jordan: City View (180p) [Not 24/7],http://188.247.86.66/RadioFann/CityView1/playlist.m3u8
-Radio Fann Jordan: Control Studio (220p) [Not 24/7],http://188.247.86.66/RadioFann/ControlStudio1/playlist.m3u8
-Radio Fann Jordan: Studio (180p) [Not 24/7],http://188.247.86.66/RadioFann/OnAirStudio1/playlist.m3u8
 Radio Fantástica 98.9 FM (1080p),http://190.107.232.9:8082/livestream/stream.m3u8
 Radio FM Trujui (720p),https://inliveserver.com:1936/14102/14102/playlist.m3u8
 Radio Freccia TV (1080p),https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
@@ -3487,9 +3482,6 @@ Radio Weser TV Bremen (576p),https://5857499ee635b.streamlock.net/radiowesertv-l
 Radio y Televisión Budokan (352p),https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
 Radio y Televisión Crisol de la Alegría (1080p) [Not 24/7],https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8
 Radio y Televisión Martí (720p),https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
-Radio Yaqeen Jordan: City View (180p) [Not 24/7],http://188.247.86.66/MixFM/CityView1/playlist.m3u8
-Radio Yaqeen Jordan: Control Studio (180p) [Not 24/7],http://188.247.86.66/MixFM/ControlStudio1/playlist.m3u8
-Radio Yaqeen Jordan: Studio (180p) [Not 24/7],http://188.247.86.66/MixFM/OnAirStudio1/playlist.m3u8
 Radio Yaucana TV (720p),https://stmvideo6.livecastv.com/rytv2015/rytv2015/playlist.m3u8
 Radio Yguazú TV (480p),https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 Radio Zeta TV (480p),https://unlimited1-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
@@ -3671,7 +3663,6 @@ RoboCop,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/ch
 RoboCop,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b31d1fa6-f169-481e-a79c-8a778111e034
 Robot Wars by MECH+,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ff1ce298020f000849ff20/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072634-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65a59c6b-2c76-49f3-97a2-43e9a41020c6
 Rocavision TV,https://vsrv2.az-streamingserver.com:3331/live/rocavisiontvlive.m3u8
-Rock Action Southeast Asia (1080p),https://wag.ika.lat/stream/507371538
 Rock Antenne [Not 24/7],https://stream.rockantenne.de/rockantenne/stream/mp3
 Rock Classics (Radio),http://80.79.6.221:25461/smash/public/24
 Rock TV (720p),https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
@@ -4893,8 +4884,8 @@ Yahoo! Finance (1080p),https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 Yakaar TV (1080p),https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8
 Yamato Animation,https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 Yanahits TV (1080p),https://rpn3.bozztv.com/ssh101/ssh101/clip/playlist.m3u8
-Yanbian Cinese Comprehensive Channel,https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8
-Yanbian TV 1,https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
+Yanbian Cinese Comprehensive Channel,https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
+Yanbian TV 1,https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
 YangiKulgu TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UC9OpmkDt-iR0sNAL29_zPJw.m3u8
 Yas TV (1080p),https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 Ýaşlyk (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch002.m3u8
