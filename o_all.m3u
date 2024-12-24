@@ -815,7 +815,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://yayin30.haber100.com/live/beykenttv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Beyond History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb9844db5a4a0007ebc2a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a42-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3e7f565-b65d-418f-9f3a-1da5e2c255f3
-#EXTINF:-1 tvg-id="BF1.bf" tvg-logo="https://i.imgur.com/ufNURAC.png" group-title="Undefined",BF1 (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="BF1.bf" tvg-logo="https://i.imgur.com/9xx1Tss.png" group-title="General",BF1 (540p) [Not 24/7]
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
 #EXTINF:-1 tvg-id="BloombergAdria.rs" tvg-logo="https://i.imgur.com/A5ui53C.png" group-title="Business",Bloomberg Adria (1080p)
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
@@ -8299,7 +8299,7 @@ https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlBayane.ci" tvg-logo="https://i.imgur.com/Xs9oEG8.png" group-title="Undefined",TV Al Bayane (360p)
 http://69.64.57.208/albayanetv/index.m3u8
-#EXTINF:-1 tvg-id="TVAlHouda.bf" tvg-logo="https://i.imgur.com/UNSTUOP.png" group-title="Undefined",TV Al Houda (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVAlHouda.bf" tvg-logo="https://i.imgur.com/UNSTUOP.png" group-title="Religious",TV Al Houda (720p) [Not 24/7]
 https://ssh101.bozztv.com/ssh101/alhoudatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlagonet.br" tvg-logo="https://i.imgur.com/Bpmqjmo.png" group-title="News",TV Alagonet (360p)
 https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
