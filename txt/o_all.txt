@@ -4028,7 +4028,6 @@ Télé Sahel (576p),http://69.64.57.208/telesahel/playlist.m3u8
 Tele San Jacinto (720p),https://movil.ejeserver.com/live/telesanjacinto.m3u8
 Télé Sénégal (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCfwCPzdT1i87xWYh1P3suTw.m3u8
 Tele Sondrio News (480p) [Not 24/7],https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
-Télé Tchad (1080p),https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 Tele Uno (720p) [Not 24/7],http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 TeleBari (1080p),http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8
 TeleBärn (720p),https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
