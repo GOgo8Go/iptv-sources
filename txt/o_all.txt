@@ -905,7 +905,7 @@ CTS (HUA-CHI CTS) (1080p),rtmp://59.124.75.138:1935/sat/tv111
 CTS News (华视新闻资讯),http://seb.sason.top/sc/hsxw_fhd.m3u8
 CTS기독교TV (720p),https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 CTV8 HD,http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
-CTV 9 (720p),https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
+CTV 9,https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 CTV (720p),https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 CTV Afrique (720p),https://stream.it-innov.com/ctv/index.m3u8
 CTV Barranquilla (1080p) [Not 24/7],https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
@@ -2296,7 +2296,6 @@ Nayarit Comunica,https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 Nazali's HDTV (1080p),http://194.163.135.238:5080/WebRTCApp/streams/590264631485484547459082.m3u8
 Nazarenas TV (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 Nazrana (720p) [Not 24/7],https://live.hungama.com/linear/nazrana/playlist.m3u8
-NBA TV (480p),https://tx2.nexgen.bz/NBA/index.m3u8
 NBC 2 Orlando FL (WESH) (720p),https://apollo.production-public.tubi.io/live/ac-wesh.m3u8
 NBC 2 Tulsa OK (KJRH) (720p),https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8
 NBC 3 Sacramento CA (KCRA) (720p),https://apollo.production-public.tubi.io/live/ac-kcra.m3u8
@@ -2316,13 +2315,11 @@ NBC 12 Winston-Salem NC (WXII) (720p),https://apollo.production-public.tubi.io/l
 NBC 13 Birmingham Al (WVTM) (720p),https://apollo.production-public.tubi.io/live/ac-wvtm.m3u8
 NBC 18 Lexington KY (WLEX) (720p),https://apollo.production-public.tubi.io/live/ac-wlex.m3u8
 NBC 26 Green Bay WI (WGBA-DT1) (720p),https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-NBC (WTVJ) (480p),https://tx1.nexgen.bz/NBC/index.m3u8
 NBC Boston News,https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
 NBC Chicago News,https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
 NBC Chicago News 24/7 (1080p),https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
 NBC Connecticut News,https://nbcu-nbcconnecticutnews-firetv.amagi.tv/playlist.m3u8
 NBC Dallas Fortworth News,https://nbcu-nbcdallasfortworthnews-firetv.amagi.tv/playlist.m3u8
-NBC Golf (480p),https://tx1.nexgen.bz/GOLF/index.m3u8
 NBC Los Angeles News,https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 NBC New York News,https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
 NBC New York News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8
