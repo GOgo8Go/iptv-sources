@@ -35,7 +35,7 @@
 | 29 | 3 Stones TV (240p) [Not 24/7] | [3 Stones TV (240p)  Not 24/7](https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8) |
 | 30 | 3 Tamil TV (720p) [Not 24/7] | [3 Tamil TV (720p)  Not 24/7](https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8) |
 | 31 | 4DmásNoticias TV (1080p) [Not 24/7] | [4DmásNoticias TV (1080p)  Not 24/7](https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8) |
-| 32 | 4E (720p) | [4E (720p)](http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8) |
+| 32 | 4E (1080p) | [4E (1080p)](http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8) |
 | 33 | 4FUN TV (576p) [Not 24/7] | [4FUN TV (576p)  Not 24/7](https://stream.4fun.tv:8888/hls/4f.m3u8) |
 | 34 | 4K Travel TV (1080p) | [4K Travel TV (1080p)](https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8) |
 | 35 | 4U TV (720p) | [4U TV (720p)](https://hls.4utv.live/hls/stream.m3u8) |
@@ -5323,4 +5323,4 @@
 | 5317 | Эхо TV (Рязань) (576p) [Not 24/7] | [Эхо TV (Рязань) (576p)  Not 24/7](https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8) |
 | 5318 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Sun Dec 29 2024 16:19:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 30 2024 01:23:56 GMT+0000 (Coordinated Universal Time)**
