@@ -7817,7 +7817,7 @@ https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="SuMundoTV.do" tvg-logo="https://i.imgur.com/twGGfJr.png" group-title="Undefined",Su Mundo TV (1080p)
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
-#EXTINF:-1 tvg-id="Sub.fi" tvg-logo="https://i.imgur.com/769lYEd.png" group-title="Undefined",Sub (720p)
+#EXTINF:-1 tvg-id="Sub.fi" tvg-logo="" group-title="Undefined",Sub (720p)
 https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:-1 tvg-id="Subela.cl" tvg-logo="https://i2.paste.pics/f481e57821baed274d68c5b0c954cd96.png" group-title="Undefined",Súbela (720p)
 https://mdstrm.com/live-stream-playlist/5fad9b1d978fe1080e3ac4a8.m3u8
