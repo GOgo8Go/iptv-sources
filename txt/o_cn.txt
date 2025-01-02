@@ -74,12 +74,14 @@ Foshan News TV,http://dslive.grtn.cn/fszh/sd/live.m3u8
 Fusung News TV,http://stream8.jlntv.cn/fs/sd/live.m3u8
 Game Channel,http://49.113.179.174:4022/udp/238.125.1.36:5140
 HOY资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8
+Hunan Entertainment Channel,http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8
 Hunan Ping Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
 JiaJia Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
 Lanzhou Comprehensive News Channel,https://liveplus.lztv.tv/xwzh/HD/live.m3u8
 Laughter Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
 Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Nei Monggol TV,http://49.113.179.174:4022/udp/238.125.7.93:5140
+Nei Monggol TV 2 Mongolian Culture Channel,http://1.183.141.194:8001/hls/54/index.m3u8
 NHK Chinese Vision (720p),https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
@@ -92,6 +94,8 @@ Shandong Education TV,http://49.113.179.174:4022/udp/238.125.0.156:5140
 Shanghai Education Television Station,http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
 Sihai Fishing Channel,http://49.113.179.174:4022/udp/238.125.2.172:5140
 SMG Football Channel,http://49.113.179.174:4022/udp/238.125.2.142:5140
+STV City,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+STV News and General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 Toonmax TV,http://49.113.179.174:4022/udp/238.125.4.28:5140
 TV5Monde Pacifique (1080p),https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 TV BRICS Chinese (1080p) [Not 24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
