@@ -1056,7 +1056,7 @@
 | 1050 | [HD]planeta tv | [HD planeta tv](https://stream1.freetv.fun/c2bb9e6bf010d614df65fede87d1d2f25214f61d3284d9a849e28192c8df3e1a.m3u8) |
 | 1051 | [HD]polo tv | [HD polo tv](https://stream1.freetv.fun/2402d00e9546ce5d083cb31bfa079e7bfaa243dc6d3029292a27e990e5122507.m3u8) |
 | 1052 | [HD]polsat 2 | [HD polsat 2](https://stream1.freetv.fun/8203a0cae6226a27707941fd2c3953393ce3a61bf8a47ec5d8c91173ad9c4a51.m3u8) |
-| 1053 | [HD]polsat sport fight hd pl | [HD polsat sport fight hd pl](https://stream1.freetv.fun/06c7756743fe1118f5422793e8807f587085702f549bee59f4f169f074067a4b.m3u8) |
+| 1053 | [HD]polsat sport fhd pl | [HD polsat sport fhd pl](https://stream1.freetv.fun/51d90d0c7683e7014db84f75d86f87b57508bf244285e7110d0c9ceacf4361db.m3u8) |
 | 1054 | [BD]Popc | [BD Popc](https://stream1.freetv.fun/5451114a4079ab3b1962cbb9d007987f20a40daa3ddadac8387cb9c3f7f0f9b3.m3u8) |
 | 1055 | [BD]美国positivtv | [BD 美国positivtv](https://stream1.freetv.fun/cd7edd9bdd3e11225434a7bab43802e070d7060762c214330ee4a30a277b33bd.m3u8) |
 | 1056 | [HD]power türk | [HD power türk](https://stream1.freetv.fun/4fa20b2931c1d04378126eebce612e3ed0abe7c4297186faddb3b5dc9cb1fb22.m3u8) |
@@ -2197,4 +2197,4 @@
 | 2191 | [BD]소상공인방송 | [BD 소상공인방송](https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8) |
 | 2192 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 
-Updated at **Mon Jan 06 2025 01:25:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 06 2025 08:23:55 GMT+0000 (Coordinated Universal Time)**
