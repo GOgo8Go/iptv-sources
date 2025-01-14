@@ -635,4 +635,4 @@
 | 629 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 630 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Mon Jan 13 2025 16:24:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 14 2025 01:18:26 GMT+0000 (Coordinated Universal Time)**
