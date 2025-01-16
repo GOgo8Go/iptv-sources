@@ -5387,4 +5387,4 @@
 | 5381 | Эхо TV (Рязань) (576p) [Not 24/7] | [Эхо TV (Рязань) (576p)  Not 24/7](https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8) |
 | 5382 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Thu Jan 16 2025 01:19:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 16 2025 08:22:00 GMT+0000 (Coordinated Universal Time)**
