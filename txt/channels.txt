@@ -6009,6 +6009,7 @@ ORBIT TV (480p) [Not 24/7],https://ss3.domint.net:3134/otv_str/orbittv/playlist.
 Órbita FM (720p),https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
 Órbita TV (720p),https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 ORF 1 HD (720p),https://s6.hopslan.com/orfx12/index.m3u8?token=cf047287f41e1ab2866bf517eb314b80f26ea1c4-9d0c133dedf3dd368c452f391b3bc18c-1733949261-173393
+ORF 2 (720p),https://strm.hdtvizlecanli.com/live/orf2.m3u8
 Origen TV (480p),https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 Orler TV (420p) [Not 24/7],https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 Oromar TV (720p),https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
