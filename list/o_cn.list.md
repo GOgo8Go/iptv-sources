@@ -85,7 +85,7 @@
 | 79 | Lanzhou Comprehensive News Channel | [Lanzhou Comprehensive News Channel](https://liveplus.lztv.tv/xwzh/HD/live.m3u8) |
 | 80 | Laughter Theater | [Laughter Theater](http://49.113.179.174:4022/udp/238.125.2.159:5140) |
 | 81 | Liangshan TV [Not 24/7] | [Liangshan TV  Not 24/7](http://118.122.2.29:9999/hls/47/index.m3u8) |
-| 82 | Nei Monggol TV | [Nei Monggol TV](http://49.113.179.174:4022/udp/238.125.7.93:5140) |
+| 82 | Nei Monggol TV | [Nei Monggol TV](http://1.183.141.194:8001/hls/55/index.m3u8) |
 | 83 | Nei Monggol TV 2 Mongolian Culture Channel | [Nei Monggol TV 2 Mongolian Culture Channel](http://1.183.141.194:8001/hls/54/index.m3u8) |
 | 84 | NHK Chinese Vision (720p) | [NHK Chinese Vision (720p)](https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8) |
 | 85 | QTV-1 | [QTV-1](http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8) |
@@ -99,8 +99,8 @@
 | 93 | Shanghai Education Television Station | [Shanghai Education Television Station](http://223.166.234.114:7777/tsfile/live/1033_1.m3u8) |
 | 94 | Sihai Fishing Channel | [Sihai Fishing Channel](http://49.113.179.174:4022/udp/238.125.2.172:5140) |
 | 95 | SMG Football Channel | [SMG Football Channel](http://49.113.179.174:4022/udp/238.125.2.142:5140) |
-| 96 | STV City | [STV City](http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 97 | STV News and General | [STV News and General](http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 96 | STV City | [STV City](http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1) |
+| 97 | STV News and General | [STV News and General](http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1) |
 | 98 | Toonmax TV | [Toonmax TV](http://49.113.179.174:4022/udp/238.125.4.28:5140) |
 | 99 | TV5Monde Pacifique (1080p) | [TV5Monde Pacifique (1080p)](https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8) |
 | 100 | TV BRICS Chinese (1080p) [Not 24/7] | [TV BRICS Chinese (1080p)  Not 24/7](https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8) |
@@ -635,4 +635,4 @@
 | 629 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 630 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Mon Jan 27 2025 16:22:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 28 2025 01:19:29 GMT+0000 (Coordinated Universal Time)**
