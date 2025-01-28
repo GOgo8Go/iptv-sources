@@ -111,6 +111,8 @@ http://dslive.grtn.cn/fszh/sd/live.m3u8
 http://stream8.jlntv.cn/fs/sd/live.m3u8
 #EXTINF:-1 tvg-id="GameChannel.cn",Game Channel
 http://49.113.179.174:4022/udp/238.125.1.36:5140
+#EXTINF:-1 tvg-id="HunanEntertainmentChannel.cn",Hunan Entertainment Channel
+http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="HunanPingYu.cn",Hunan Ping Yu
 http://49.113.179.174:4022/udp/238.125.5.102:5140
 #EXTINF:-1 tvg-id="JiaJiaCartoon.cn",JiaJia Cartoon
@@ -122,7 +124,9 @@ http://49.113.179.174:4022/udp/238.125.2.159:5140
 #EXTINF:-1 tvg-id="LiangshanTV.cn",Liangshan TV
 http://118.122.2.29:9999/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="NeiMonggolTV.cn",Nei Monggol TV
-http://49.113.179.174:4022/udp/238.125.7.93:5140
+http://1.183.141.194:8001/hls/55/index.m3u8
+#EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn",Nei Monggol TV 2 Mongolian Culture Channel
+http://1.183.141.194:8001/hls/54/index.m3u8
 #EXTINF:-1 tvg-id="QTV1.cn",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 #EXTINF:-1 tvg-id="QTV2.cn",QTV-2
@@ -145,6 +149,10 @@ http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
 http://49.113.179.174:4022/udp/238.125.2.172:5140
 #EXTINF:-1 tvg-id="SMGFootballChannel.cn",SMG Football Channel
 http://49.113.179.174:4022/udp/238.125.2.142:5140
+#EXTINF:-1 tvg-id="STVCity.cn",STV City
+http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 tvg-id="STVNewsandGeneral.cn",STV News and General
+http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="ToonmaxTV.cn",Toonmax TV
 http://49.113.179.174:4022/udp/238.125.4.28:5140
 #EXTINF:-1 tvg-id="UgoShopTV.cn",Ugo Shop TV
@@ -1089,11 +1097,3 @@ http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
 http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="",龙岩综合 (540p)
 http://stream.lytv.net.cn/2/sd/live.m3u8
-#EXTINF:-1 tvg-id="STVNewsandGeneral.cn",STV News and General
-http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="STVCity.cn",STV City
-http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn",Nei Monggol TV 2 Mongolian Culture Channel
-http://1.183.141.194:8001/hls/54/index.m3u8
-#EXTINF:-1 tvg-id="HunanEntertainmentChannel.cn",Hunan Entertainment Channel
-http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8
