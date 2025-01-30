@@ -553,5 +553,7 @@
 | 547 | 龙口新闻综合 (576p) | [龙口新闻综合 (576p)](http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8) |
 | 548 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 549 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
+| 550 | CGTN (1080p) | [CGTN (1080p)](https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8) |
+| 551 | CGTN Documentary (1080p) | [CGTN Documentary (1080p)](https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8) |
 
-Updated at **Thu Jan 30 2025 08:21:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 30 2025 16:22:21 GMT+0000 (Coordinated Universal Time)**
