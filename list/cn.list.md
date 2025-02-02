@@ -361,23 +361,22 @@
 | 355 | [SD]开封公共 | [SD 开封公共](https://stream1.freetv.fun/86f3b76beb6122838ce3043e47974bd622715afaea497fe1170a1769f2106ff6.m3u8) |
 | 356 | [SD]开封文化 | [SD 开封文化](https://stream1.freetv.fun/c817b2785a751056c51b23f2b26173b0f0bb6aac43c1cd0fe8ef5bf94112e97a.m3u8) |
 | 357 | [SD]开封新闻 | [SD 开封新闻](https://stream1.freetv.fun/7e313a04ad9bce7036cde740f399b4c0ace760f66a5e6865ebd3807acb146b5d.m3u8) |
-| 358 | [SD]陕西六套 | [SD 陕西六套](https://stream1.freetv.fun/acd420a5554b00617c67d439e8b4b0dc4ae1678aa1dd7e073d60efb4955c1ee0.m3u8) |
-| 359 | [BD]西平新闻综合频道 | [BD 西平新闻综合频道](https://stream1.freetv.fun/402b19b10a340d4324332c2a1fcbb98357c2a29b4d0949cf4629cb5f78bb2805.m3u8) |
-| 360 | [SD]陕西卫视 | [SD 陕西卫视](https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.ctv) |
-| 361 | [VGA]体育休闲 | [VGA 体育休闲](https://stream1.freetv.fun/bfd986e2dd43a875359274630b9a4bfc8b8ff7aaca0fa64ac9429684926f2154.m3u8) |
-| 362 | [BD]云南卫视高清 | [BD 云南卫视高清](https://stream1.freetv.fun/5d38358bc62df1a2943c5eda23a566e4b6f07e4c93d30da2bc5f688320b643af.ctv) |
-| 363 | [HD]电影 | [HD 电影](https://stream1.freetv.fun/a0da0d1da0301b782ac9ca46bcf45f2d01961853ed569b7c13b71144def58704.ctv) |
-| 364 | [HD]青海经视 | [HD 青海经视](https://stream1.freetv.fun/03e1e02577811b993390d7e8c0a9e061b847c3aaf344af8042569a48e12da9b5.m3u8) |
-| 365 | [HD]青海卫视 | [HD 青海卫视](https://stream1.freetv.fun/e0551db6bc9512b248a2da5f2455dee2c1d3164fb9ece82daa77b0c1b7ffb8a4.m3u8) |
-| 366 | [HD]青海都市 | [HD 青海都市](https://stream1.freetv.fun/9b0c1cc4f4f67d65e60ca6be16028a33859c142adc2c8fd58751075565c54102.m3u8) |
-| 367 | [BD]盐城大丰公共 | [BD 盐城大丰公共](https://stream1.freetv.fun/ca28dbf645caea3f5228310ee60bf3385c2cf8d4112a70844f5f00fb5e08dd22.m3u8) |
-| 368 | [BD]永城新闻综合频道 | [BD 永城新闻综合频道](https://stream1.freetv.fun/f6c03f19692823d066b7bed8d72c52941b3cd675869e6fcc09d82d0a5fae81c8.m3u8) |
-| 369 | [HD]黑龙江公共农业 | [HD 黑龙江公共农业](https://stream1.freetv.fun/aaf86631fecb626df6b5ea5cff67cc94689cb2cca651f6c912c230d41ffdcd1d.m3u8) |
-| 370 | [HD]黑龙江少儿 | [HD 黑龙江少儿](https://stream1.freetv.fun/6f4cb5c9e41e23171ee84e73bdc7c28fa3bbe73e291f122dfa3b9d68c018fe7a.m3u8) |
-| 371 | [SD]黑龙江影视 | [SD 黑龙江影视](https://stream1.freetv.fun/5aa13d0b84257000c999f97fb9b77649d0eecc3f391c330f922e3161616150c1.m3u8) |
-| 372 | [HD]黑龙江文体 | [HD 黑龙江文体](https://stream1.freetv.fun/2b1ed3b140ac74d8ecf7587c3b2dcc350332ae09805186cbdbd3e7e7c7cccb82.m3u8) |
-| 373 | [HD]黑龙江新闻法治 | [HD 黑龙江新闻法治](https://stream1.freetv.fun/6fa84147aa9a9981e4ad84aa4cb21c255f1ff6287fcf1201d1a97f7d4144ea54.m3u8) |
-| 374 | [BD]黑龙江视 | [BD 黑龙江视](https://stream1.freetv.fun/6e7e2ce60b35f196871c0dbc89fc0adaea8f23d50baadfb76c8cd769821d150a.ctv) |
-| 375 | [SD]黑龙江都市 | [SD 黑龙江都市](https://stream1.freetv.fun/94d03a6c6397805046161297bb2e0e23493fa49311e5aad1c467e550a6c1b8ff.m3u8) |
+| 358 | [BD]西平新闻综合频道 | [BD 西平新闻综合频道](https://stream1.freetv.fun/402b19b10a340d4324332c2a1fcbb98357c2a29b4d0949cf4629cb5f78bb2805.m3u8) |
+| 359 | [SD]陕西卫视 | [SD 陕西卫视](https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.ctv) |
+| 360 | [VGA]体育休闲 | [VGA 体育休闲](https://stream1.freetv.fun/bfd986e2dd43a875359274630b9a4bfc8b8ff7aaca0fa64ac9429684926f2154.m3u8) |
+| 361 | [BD]云南卫视高清 | [BD 云南卫视高清](https://stream1.freetv.fun/5d38358bc62df1a2943c5eda23a566e4b6f07e4c93d30da2bc5f688320b643af.ctv) |
+| 362 | [HD]电影 | [HD 电影](https://stream1.freetv.fun/a0da0d1da0301b782ac9ca46bcf45f2d01961853ed569b7c13b71144def58704.ctv) |
+| 363 | [HD]青海经视 | [HD 青海经视](https://stream1.freetv.fun/03e1e02577811b993390d7e8c0a9e061b847c3aaf344af8042569a48e12da9b5.m3u8) |
+| 364 | [HD]青海卫视 | [HD 青海卫视](https://stream1.freetv.fun/e0551db6bc9512b248a2da5f2455dee2c1d3164fb9ece82daa77b0c1b7ffb8a4.m3u8) |
+| 365 | [HD]青海都市 | [HD 青海都市](https://stream1.freetv.fun/9b0c1cc4f4f67d65e60ca6be16028a33859c142adc2c8fd58751075565c54102.m3u8) |
+| 366 | [BD]盐城大丰公共 | [BD 盐城大丰公共](https://stream1.freetv.fun/ca28dbf645caea3f5228310ee60bf3385c2cf8d4112a70844f5f00fb5e08dd22.m3u8) |
+| 367 | [BD]永城新闻综合频道 | [BD 永城新闻综合频道](https://stream1.freetv.fun/f6c03f19692823d066b7bed8d72c52941b3cd675869e6fcc09d82d0a5fae81c8.m3u8) |
+| 368 | [HD]黑龙江公共农业 | [HD 黑龙江公共农业](https://stream1.freetv.fun/aaf86631fecb626df6b5ea5cff67cc94689cb2cca651f6c912c230d41ffdcd1d.m3u8) |
+| 369 | [HD]黑龙江少儿 | [HD 黑龙江少儿](https://stream1.freetv.fun/6f4cb5c9e41e23171ee84e73bdc7c28fa3bbe73e291f122dfa3b9d68c018fe7a.m3u8) |
+| 370 | [SD]黑龙江影视 | [SD 黑龙江影视](https://stream1.freetv.fun/5aa13d0b84257000c999f97fb9b77649d0eecc3f391c330f922e3161616150c1.m3u8) |
+| 371 | [HD]黑龙江文体 | [HD 黑龙江文体](https://stream1.freetv.fun/2b1ed3b140ac74d8ecf7587c3b2dcc350332ae09805186cbdbd3e7e7c7cccb82.m3u8) |
+| 372 | [HD]黑龙江新闻法治 | [HD 黑龙江新闻法治](https://stream1.freetv.fun/6fa84147aa9a9981e4ad84aa4cb21c255f1ff6287fcf1201d1a97f7d4144ea54.m3u8) |
+| 373 | [BD]黑龙江视 | [BD 黑龙江视](https://stream1.freetv.fun/6e7e2ce60b35f196871c0dbc89fc0adaea8f23d50baadfb76c8cd769821d150a.ctv) |
+| 374 | [SD]黑龙江都市 | [SD 黑龙江都市](https://stream1.freetv.fun/94d03a6c6397805046161297bb2e0e23493fa49311e5aad1c467e550a6c1b8ff.m3u8) |
 
-Updated at **Sun Feb 02 2025 01:24:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 02 2025 08:19:40 GMT+0000 (Coordinated Universal Time)**
