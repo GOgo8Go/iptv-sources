@@ -556,4 +556,4 @@
 | 550 | CGTN (1080p) | [CGTN (1080p)](https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8) |
 | 551 | CGTN Documentary (1080p) | [CGTN Documentary (1080p)](https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8) |
 
-Updated at **Thu Feb 06 2025 08:23:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 06 2025 16:20:51 GMT+0000 (Coordinated Universal Time)**
