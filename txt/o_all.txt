@@ -406,7 +406,7 @@ ANT1 Cyprus (1080p),http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 Antares Televisión (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 Antena 3 (1080p),https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 Antena 3 CNN,https://live3vox.antenaplay.ro/a3free/a3free.m3u8
-Antena 7,https://u.tvabierta.net/memfs/8aefe158-abbf-498b-825c-02695a69fa7f.m3u8
+Antena 7 (480p) [Not 24/7],https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 Antena 21,https://d1p8txxph783az.cloudfront.net/index.m3u8
 Antena 91 (720p),https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 Antena Monden (720p),https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
@@ -441,6 +441,7 @@ Asharq Discovery (1080p),https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.
 Asharq Documentary (1080p),https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 Asharq News (1080p),https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 Asharq News Portrait (1280p),https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+Asharq Radio (1080p),https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 Ashrafi Channel (484p) [Not 24/7],https://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 Así Sucede Guanajuato (720p) [Not 24/7],https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 Asian TV (720p),https://mtlivestream.site/asian/ytlive/index.m3u8
@@ -686,6 +687,7 @@ Black Sea TV (432p),https://stream.skyvision.com.ua/blackseatv/stream/main/playl
 Black Throwbacks,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61326275b3c86a00078e4833/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=16224f18-2a57-4fa3-bf6a-994524fcf480
 Black Visionaries,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66439ee041af640008ccaa98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c7f3cba7-ccb6-4cd5-928e-0b45fd0f9223
 Black Visionaries,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663946c1b18d700008d9c168/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=836943b4-0ad8-4701-9506-748ebd01f06f
+Blaze (576p),https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
 Blaze Live,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=70bd007d-e40d-4b1d-9a2b-bdc5dfd3741f
 Blaze und die Monstermaschinen,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc776-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6481e761-19c2-4479-848a-03b08cd2ee8e
 Blaze und die Monstermaschinen,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc833032-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6651ade0-7e17-4dfd-b123-6e44ad87b240
@@ -1802,6 +1804,7 @@ Fashion TV PG16 (144p),https://fash1043.cloudycdn.services/slive/ftv_pg16_adapti
 Fashion TV UHD (2160p),https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FashionTV Czech&Slovak (450p) [Not 24/7],http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 Fasso TV Kankan (720p) [Not 24/7],https://cageu.bozztv.com/ssh101/ssh101/fassotv1/playlist.m3u8
+Fast Sports (1080p),http://stream01.vnet.am/Channel_131/index.m3u8
 First Channel News (1080p),https://amtv1-2.livestreamingcdn.com/am3abr/index.m3u8
 First India News (360p) [Not 24/7],https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 Firstlight (576p),https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
@@ -2656,6 +2659,7 @@ ML5 TV (480p),https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
 MLB,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
 MLB Network,http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 MM Somali TV (720p),https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8
+MMTV (1080p),https://sendlive.online:443/hls/mmtv.m3u8
 MN25 (1080p),https://cdn2.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
 MN TV (720p),https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 Mňau TV (1080p),https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
@@ -4798,10 +4802,6 @@ VIP TV (720p),https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
 Viper,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad6a5aa2d690008ea6d96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b218263-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0162be0e-f4f2-43a7-b854-e6dce2dd1d3d
 Viper,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad6a5aa2d690008ea6d96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc86b2a5-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e89a01ba-5a4a-4a04-a778-9544de2600fd
 Viper,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad6a5aa2d690008ea6d96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afd900-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8c651043-654e-44a1-b9c1-e1a3e1bea2c8
-Virgin Media Four (1080p),https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
-Virgin Media One (1080p),https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
-Virgin Media Three (1080p),https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
-Virgin Media Two (1080p),https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
 Virtual TV (720p),https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
 Vision 4 (360p),https://cdn-globecast.akamaized.net/live/eds/vision4/hls_video/index.m3u8
 Vision 3000 TV,https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8
