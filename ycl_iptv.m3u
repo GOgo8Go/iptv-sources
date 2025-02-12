@@ -135,3 +135,17 @@ rtp://239.3.1.127:8001
 rtp://239.3.1.128:8001
 #EXTINF:-1 group-title="地方",中国交通
 rtp://239.3.1.188:8001
+#EXTINF:-1 group-title="数字",4K超清
+rtp://239.3.1.249:8001
+#EXTINF:-1 group-title="数字",爱上4K
+rtp://239.3.1.236:2000
+#EXTINF:-1 group-title="数字",淘电影
+rtp://239.3.1.250:8001
+#EXTINF:-1 group-title="数字",淘剧场
+rtp://239.3.1.95:8001
+#EXTINF:-1 group-title="数字",淘娱乐
+rtp://239.3.1.100:8001
+#EXTINF:-1 group-title="数字",淘Baby
+rtp://239.3.1.238:8001
+#EXTINF:-1 group-title="数字",萌宠TV
+rtp://239.3.1.102:8001
