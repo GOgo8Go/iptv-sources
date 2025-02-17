@@ -4779,7 +4779,7 @@ Tropical Music TV (720p),https://server80.servistreaming.com:3074/hybrid/play.m3
 Tropical TV (480p) [Not 24/7],https://rpn3.bozztv.com/ssh101/ssh101/estvco/playlist.m3u8
 Tropical TV (Puerto Maldonado) (720p) [Not 24/7],https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 Tropoja TV (1080p),https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-TRT 1 (1080p),https://trt1.persona.video/master.m3u8?hls=1
+TRT 1 (1080p),https://tv-trt1.medya.trt.com.tr/master.m3u8
 TRT 2,https://trt2.blutv.com/blutv_trt2/live.m3u8
 TRT 4K (2160p),https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 TRT (360p),https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8

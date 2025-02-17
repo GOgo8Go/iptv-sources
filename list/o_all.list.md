@@ -4784,7 +4784,7 @@
 | 4778 | Tropical TV (480p) [Not 24/7] | [Tropical TV (480p)  Not 24/7](https://rpn3.bozztv.com/ssh101/ssh101/estvco/playlist.m3u8) |
 | 4779 | Tropical TV (Puerto Maldonado) (720p) [Not 24/7] | [Tropical TV (Puerto Maldonado) (720p)  Not 24/7](https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8) |
 | 4780 | Tropoja TV (1080p) | [Tropoja TV (1080p)](https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8) |
-| 4781 | TRT 1 (1080p) | [TRT 1 (1080p)](https://trt1.persona.video/master.m3u8?hls=1) |
+| 4781 | TRT 1 (1080p) | [TRT 1 (1080p)](https://tv-trt1.medya.trt.com.tr/master.m3u8) |
 | 4782 | TRT 2 | [TRT 2](https://trt2.blutv.com/blutv_trt2/live.m3u8) |
 | 4783 | TRT 4K (2160p) | [TRT 4K (2160p)](https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8) |
 | 4784 | TRT (360p) | [TRT (360p)](https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8) |
@@ -6112,4 +6112,4 @@
 | 6106 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 6107 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sun Feb 16 2025 16:19:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 17 2025 01:24:11 GMT+0000 (Coordinated Universal Time)**

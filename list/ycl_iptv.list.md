@@ -75,4 +75,4 @@
 | 69 | 华数高清 | [华数高清](rtp://239.3.1.236:2000) |
 | 70 | 超清电影 | [超清电影](rtp://239.3.1.249:8001) |
 
-Updated at **Sun Feb 16 2025 16:19:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 17 2025 01:24:11 GMT+0000 (Coordinated Universal Time)**
