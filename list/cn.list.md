@@ -361,4 +361,4 @@
 | 355 | [BD]黑龙江卫视 50 fps | [BD 黑龙江卫视 50 fps](https://stream1.freetv.fun/7e118a9a23ec7f770a7bb9646a05267e59cf45f1da34bad27223781c1e1a9644.m3u8) |
 | 356 | [SD]黑龙江都市 | [SD 黑龙江都市](https://stream1.freetv.fun/94d03a6c6397805046161297bb2e0e23493fa49311e5aad1c467e550a6c1b8ff.m3u8) |
 
-Updated at **Tue Feb 18 2025 16:23:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 19 2025 01:21:49 GMT+0000 (Coordinated Universal Time)**
