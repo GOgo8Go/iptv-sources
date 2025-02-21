@@ -51,7 +51,7 @@
 | 45 | [BD]aaj tak | [BD aaj tak](https://stream1.freetv.fun/6798a0d2bb6bfff6b14b4c3e8a6aeda087e8d98438ffbe72a34424a9836cd929.m3u8) |
 | 46 | [HD]sahara 24 | [HD sahara 24](https://stream1.freetv.fun/e2f8d6891c5896b6835823de9eca9d172f6efe4d4c12cda3c617e58e4750c39e.m3u8) |
 | 47 | [VGA]kab 1 | [VGA kab 1](https://stream1.freetv.fun/3e69add0cbb7c4fae29a614d6b999557b630eb85ce66fdce1de1cb27119a015a.m3u8) |
-| 48 | [SD]abc news australia | [SD abc news australia](https://stream1.freetv.fun/6fea37cf10648190254d3befb117d9930ba70cac5f9939cfec4e7071c8662432.ctv) |
+| 48 | [HD]abc news australia | [HD abc news australia](https://stream1.freetv.fun/6fea37cf10648190254d3befb117d9930ba70cac5f9939cfec4e7071c8662432.ctv) |
 | 49 | [HD]23 abc (kero) | [HD 23 abc (kero)](https://stream1.freetv.fun/ea48fd6a6ccf4b3cfdb0db91c4ea913429bae67ce10ad4172a34329f42447732.m3u8) |
 | 50 | [BD]abc australia | [BD abc australia](https://stream1.freetv.fun/1b6285653f4fe5545e4e4aa4811354a8f5cd2f673fff51e9eb7ed879c91f450a.ctv) |
 | 51 | [BD]a news | [BD a news](https://stream1.freetv.fun/589c998000702792d939bfa687e064d5bf96d7147257c91c75474d79be05841b.ctv) |
@@ -1109,7 +1109,7 @@
 | 1103 | [HD]sport club | [HD sport club](https://stream1.freetv.fun/f56c508acac01b299ef869ac175f82a0b28e71e7bc511b108ffb58ebd18914e3.m3u8) |
 | 1104 | [HD]радио шансон | [HD радио шансон](https://stream1.freetv.fun/a6734f930d0f0ef65579f3406f6941510f2692d2daf088c2ba5cfe86fb995396.m3u8) |
 | 1105 | [HD]star channel 1 | [HD star channel 1](https://stream1.freetv.fun/d914470c8cde0bbc180e79f50dc52727b08ab5b9312ec84d72f96e06d6f9632c.ctv) |
-| 1106 | [BD]star movies select | [BD star movies select](https://stream1.freetv.fun/be9981e91090b93ef0f07fbd2206f433030d127e55b72625697c5c2bcbd0d5fd.m3u8) |
+| 1106 | [HD]star movies india | [HD star movies india](https://stream1.freetv.fun/8e90ce3c8078667bcf5f6839657cfc7bd094f3b824ea7f0dbab23cbcfb71dde7.m3u8) |
 | 1107 | [HD]studio universal | [HD studio universal](https://stream1.freetv.fun/9cd4f78ed67f68e3cebfafec0d291a3bfda93f793679f8cbadacfc4daa169185.ctv) |
 | 1108 | [HD]istv | [HD istv](https://stream1.freetv.fun/17df60c7176900a6638d68427be5484424b7de8bafdb2403e4c02a0b77a0239f.m3u8) |
 | 1109 | [HD]埃及safatv | [HD 埃及safatv](https://stream1.freetv.fun/020065a5572d68a59845e61612cedd43d73cdc161a75bc8aa450f1052330b190.m3u8) |
@@ -2008,4 +2008,4 @@
 | 2002 | [BD]소상공인방송 | [BD 소상공인방송](https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8) |
 | 2003 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 
-Updated at **Thu Feb 20 2025 16:24:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 21 2025 01:22:20 GMT+0000 (Coordinated Universal Time)**

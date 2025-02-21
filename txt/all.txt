@@ -46,7 +46,7 @@ All,#genre#
 [BD]aaj tak,https://stream1.freetv.fun/6798a0d2bb6bfff6b14b4c3e8a6aeda087e8d98438ffbe72a34424a9836cd929.m3u8
 [HD]sahara 24,https://stream1.freetv.fun/e2f8d6891c5896b6835823de9eca9d172f6efe4d4c12cda3c617e58e4750c39e.m3u8
 [VGA]kab 1,https://stream1.freetv.fun/3e69add0cbb7c4fae29a614d6b999557b630eb85ce66fdce1de1cb27119a015a.m3u8
-[SD]abc news australia,https://stream1.freetv.fun/6fea37cf10648190254d3befb117d9930ba70cac5f9939cfec4e7071c8662432.ctv
+[HD]abc news australia,https://stream1.freetv.fun/6fea37cf10648190254d3befb117d9930ba70cac5f9939cfec4e7071c8662432.ctv
 [HD]23 abc (kero),https://stream1.freetv.fun/ea48fd6a6ccf4b3cfdb0db91c4ea913429bae67ce10ad4172a34329f42447732.m3u8
 [BD]abc australia,https://stream1.freetv.fun/1b6285653f4fe5545e4e4aa4811354a8f5cd2f673fff51e9eb7ed879c91f450a.ctv
 [BD]a news,https://stream1.freetv.fun/589c998000702792d939bfa687e064d5bf96d7147257c91c75474d79be05841b.ctv
@@ -1104,7 +1104,7 @@ Chile" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://ep
 [HD]sport club,https://stream1.freetv.fun/f56c508acac01b299ef869ac175f82a0b28e71e7bc511b108ffb58ebd18914e3.m3u8
 [HD]радио шансон,https://stream1.freetv.fun/a6734f930d0f0ef65579f3406f6941510f2692d2daf088c2ba5cfe86fb995396.m3u8
 [HD]star channel 1,https://stream1.freetv.fun/d914470c8cde0bbc180e79f50dc52727b08ab5b9312ec84d72f96e06d6f9632c.ctv
-[BD]star movies select,https://stream1.freetv.fun/be9981e91090b93ef0f07fbd2206f433030d127e55b72625697c5c2bcbd0d5fd.m3u8
+[HD]star movies india,https://stream1.freetv.fun/8e90ce3c8078667bcf5f6839657cfc7bd094f3b824ea7f0dbab23cbcfb71dde7.m3u8
 [HD]studio universal,https://stream1.freetv.fun/9cd4f78ed67f68e3cebfafec0d291a3bfda93f793679f8cbadacfc4daa169185.ctv
 [HD]istv,https://stream1.freetv.fun/17df60c7176900a6638d68427be5484424b7de8bafdb2403e4c02a0b77a0239f.m3u8
 [HD]埃及safatv,https://stream1.freetv.fun/020065a5572d68a59845e61612cedd43d73cdc161a75bc8aa450f1052330b190.m3u8
