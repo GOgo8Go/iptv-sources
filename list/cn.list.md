@@ -26,12 +26,12 @@
 | 20 | [BD]cctv250 | [BD cctv250](https://stream1.freetv.fun/65bad272f4d7671e1c904d0a9a4601dd6a0bd3ea71aedcd4051a71d41a8940fa.m3u8) |
 | 21 | [BD]cctv5 plus | [BD cctv5 plus](https://stream1.freetv.fun/0f7997a9c1542d6a120fa0b438502b1d74023e88e38b3555ab20aaa0bf0b591d.m3u8) |
 | 22 | [BD]cctv5 plus | [BD cctv5 plus](https://stream1.freetv.fun/5f45303a6d77de9385fd1a97574caa4f005439d3887012b4adf9712be6e8f7e2.m3u8) |
-| 23 | [BD]cctv6 | [BD cctv6](https://stream1.freetv.fun/2e5fc4027259a7895e949ca4405894da39ea9842f1f81e43d737da4cfd1f4989.m3u8) |
+| 23 | [BD]cctv6 | [BD cctv6](https://stream1.freetv.fun/63c4d2165bc783a83477fb6aef6cb9c5988bfba2551c73da139aab44efa6a96b.m3u8) |
 | 24 | [SD]cctv7 | [SD cctv7](https://stream1.freetv.fun/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8) |
 | 25 | [BD]cctv8 | [BD cctv8](https://stream1.freetv.fun/fe2385c77e93431d17fc9b53171c4c33b8a775d11fcc722eb3de7d43f8a28395.m3u8) |
 | 26 | [BD]cctv9 | [BD cctv9](https://stream1.freetv.fun/703c0af497d666a2d6b6c245e1487acf4a5e1eca1e25c82595bad5cde7bb3600.m3u8) |
 | 27 | [SD]cctv第一剧场 | [SD cctv第一剧场](https://stream1.freetv.fun/31cbe2ad06dc69104322ab8dc32fd094b5bc855f9e9a7f2efbdb34f91a819be0.ctv) |
-| 28 | [SD]cctv风云足球 | [SD cctv风云足球](https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.m3u8) |
+| 28 | [BD]cctv风云足球 | [BD cctv风云足球](https://stream1.freetv.fun/6fd6c5da601b6c9625a4e0a214f061c0f1fd507f6cebde538c652e7b58e01475.m3u8) |
 | 29 | [SD]cctv音乐 | [SD cctv音乐](https://stream1.freetv.fun/2b8d7f241cc69b8f2c05743118d1c67efc21054e38b4578509d60df27ba88a31.m3u8) |
 | 30 | [BD]cetv-1 | [BD cetv-1](https://stream1.freetv.fun/d582d0e0e0629f5b0954cb400a6ceab1559d3feae2de9693a15dfb23ea3587d5.m3u8) |
 | 31 | [HD]cgtn | [HD cgtn](https://stream1.freetv.fun/6121b01fb26a5be3ae517a1ab7310fb51948d1de596bb0f3cead41297bfa84b7.m3u8) |
@@ -354,4 +354,4 @@
 | 348 | [BD]黑龙江卫视 50 fps | [BD 黑龙江卫视 50 fps](https://stream1.freetv.fun/7e118a9a23ec7f770a7bb9646a05267e59cf45f1da34bad27223781c1e1a9644.m3u8) |
 | 349 | [HD]黑龙江都市 | [HD 黑龙江都市](https://stream1.freetv.fun/dc07729bf522e7df81f1254e9bcd017dfd0d0b30bb423ff51d0a01156017a819.m3u8) |
 
-Updated at **Sun Feb 23 2025 08:22:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 23 2025 16:20:02 GMT+0000 (Coordinated Universal Time)**
