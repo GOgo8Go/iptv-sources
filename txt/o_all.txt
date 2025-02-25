@@ -2694,6 +2694,8 @@ MINEDU IPTV 1 (320p) [Not 24/7],http://iptv.perueduca.pe:1935/canal1/canal11/pla
 MINEDU IPTV 2 (320p) [Not 24/7],http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 MINFAV TV (360p),https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
 Minformo TV (720p),https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+Minika Cocuk (480p),https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
+Minika Go (480p),https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
 Minimax (576p) (576p),http://88.212.15.19/live/test_minimax/playlist.m3u8
 MiniMini+ (1080p),http://178.219.128.68:64889/MINIHD
 Moconomy (1080p),https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
@@ -4095,7 +4097,7 @@ Subhavaartha TV (720p),https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/liv
 Suboro TV (1080p),https://suborotv.hibridcdn.net/suborotv/suborotv_abr/playlist.m3u8
 Suceso TV (720p),https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 Sucre tv (360p) [Not 24/7],https://stream.oursnetworktv.com/latin/sucretv/playlist.m3u8
-Sudan TV (360p),https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
+Sudan TV (480p),https://tgn.bozztv.com/trn03/gin-sudantv/index.m3u8
 Sudarshan News (720p),https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
 Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 Sula TV (720p),https://sulatv1.ddns.net/hls/live/index.m3u8
@@ -4796,6 +4798,7 @@ VTV5 (1080p),http://103.47.194.152/VTV5TNB/mpegts
 VTV9 (1080p),https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 VTV (480p) [Not 24/7],https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 VTV (1080p) [Not 24/7],https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+VTV Can Tho (720p),http://125hvt.ddns.net:21585/vtv6/playlist.m3u8
 VTV Canal 17 (720p) [Not 24/7],https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 VTV Canal 32 (1080p),https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 VTV Füzesabony (720p),http://stream.nmih.hu:7960/live.m3u8
@@ -5003,6 +5006,7 @@ WMX Hip-Hop,https://wmx-hiphop-xumo.amagi.tv/playlist.m3u8
 WMX Pop,https://wmx-pop-xumo.amagi.tv/playlist.m3u8
 WMX Rock,https://wmxrock-xumo.amagi.tv/playlist.m3u8
 WNEP-DT1 (1080p),https://livevideo01.wnep.com/hls/live/2011655/elvs/live.m3u8
+WNJU-DT1 (1080p),https://tvpass.org/live/TelemundoEast/hd
 WOI-DT1 (1080p),https://livevideo01.weareiowa.com/hls/live/2011593/elvs/live.m3u8
 Wolcott Governmental TV (Wolcott CT) (720p),https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8
 Woman TV (1080p),https://embedlp.becdn.net/womantv.m3u8
