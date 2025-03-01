@@ -5217,4 +5217,4 @@
 | 5211 | Херсон Плюс (576p) | [Херсон Плюс (576p)](http://46.175.163.130/ks_plus/index.m3u8) |
 | 5212 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Sat Mar 01 2025 08:22:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 01 2025 16:20:23 GMT+0000 (Coordinated Universal Time)**
