@@ -550,6 +550,7 @@ BBC News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/c
 BBC News (720p),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 BBC News (North America) (1080p),https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News Asia Pacific (720p),https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+BBC One,https://x.canlitvapp.com/u-bbc-1/index.m3u8
 BBC One Channel Islands (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
 Bblack! Africa (1080p),http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 Bblack! Caribbean (1080p),http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
