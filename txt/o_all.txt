@@ -255,7 +255,6 @@ Aghapy TV (1080p) [Not 24/7],https://5b622f07944df.streamlock.net/aghapy.tv/agha
 Agro TV (480p),https://restr2.bgtv.bg/agro/hls/agro.m3u8
 Agro TV (1080p),http://185.234.111.229:8000/play/a011
 Agro TV (Apurimac) (720p) [Not 24/7],https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-Agro TV Azerbaijan (1080p) [Not 24/7],https://yayin30.haber100.com/live/agrotv2/playlist.m3u8
 AgroBrasil TV (720p) [Not 24/7],http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 Al Mamlaka TV (1080p),https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 Al Manar (576p) [Not 24/7],https://edge.fastpublish.me/live/index.m3u8
@@ -390,6 +389,7 @@ ANC Televisión (480p) [Not 24/7],https://canal.mediaserver.com.co/live/ANCTELEV
 Andes Televisión (720p) (720p) [Not 24/7],https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 Ando TV (576p),http://119.1.122.186:4022/rtp/238.255.2.189:5999
 Andromeda Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+AnewZ,https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
 Angel TV Africa (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8
 Angel TV America (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelamerica_all/playlist.m3u8
 Angel TV Arabia (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8
@@ -1082,6 +1082,7 @@ CBC Nova Scotia (CBHT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/
 CBC Ottawa (CBOT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
 CBC Prince Edward Island (CBCT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
 CBC Saskatchewan (CBKT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+CBC Sport,https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 CBC Toronto (CBLT-DT) (720p),https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 CBC TV8 (1080p) [Not 24/7],https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 CBC TV (720p),https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8
@@ -1416,6 +1417,7 @@ D13 (1080p),https://jireh-2-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9
 D Television (Antenna 10) (480p),https://ssh101.bozztv.com/ssh101/dtelevision/playlist.m3u8
 Da Nang TV1 (1080p) [Not 24/7],http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 Da Nang TV2 (1080p) [Not 24/7],http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+Da Vinci (1080p),http://109.233.89.170/Da_Vinci_HD/index.m3u8
 DaAi1 (大爱1) (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 DaAi2 (大爱2) (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 DAAI TV (720p),https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
@@ -2141,6 +2143,8 @@ ITN (720p) [Not 24/7],https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf4
 ITN (720p) [Not 24/7],https://itnhls.wns.live/hls/stream.m3u8
 ITSF,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8
 ITV1 Central HD (1080p),http://92.114.85.72:8000/play/a0lu
+ITV2,http://92.114.85.77:8000/play/a041
+ITV3,http://92.114.85.77:8000/play/a05z
 ITV Deportes,https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 ITV Deportes,https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 ITV HD,http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
@@ -5197,6 +5201,7 @@ Vinh Phuc TV (1080p),http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.
 Vintage Music (720p),https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 Vinx TV (1080p),https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 VIO TV (480p),http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
+VIP TV,https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 VIP TV (720p),https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
 Viper,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad6a5aa2d690008ea6d96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b218263-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0162be0e-f4f2-43a7-b854-e6dce2dd1d3d
 Viper,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad6a5aa2d690008ea6d96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc86b2a5-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e89a01ba-5a4a-4a04-a778-9544de2600fd
