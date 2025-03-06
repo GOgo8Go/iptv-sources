@@ -555,5 +555,13 @@
 | 549 | 龙口新闻综合 (576p) | [龙口新闻综合 (576p)](http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8) |
 | 550 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 551 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
+| 552 | Animation Show Channel | [Animation Show Channel](http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 553 | Channel Tea | [Channel Tea](http://180.213.174.225:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 554 | Channel Max | [Channel Max](http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 555 | DOX Surround | [DOX Surround](http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 556 | DOX Yaqu | [DOX Yaqu](http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 557 | DOX Yijia | [DOX Yijia](http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 558 | CHC Action | [CHC Action](http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 559 | CHC Home Theater | [CHC Home Theater](http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0) |
 
-Updated at **Thu Mar 06 2025 08:24:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 06 2025 16:23:50 GMT+0000 (Coordinated Universal Time)**
