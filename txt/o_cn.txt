@@ -2,6 +2,7 @@ iptv.org China,#genre#
 ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 Ando TV (576p),http://119.1.122.186:4022/rtp/238.255.2.189:5999
 Angel TV Chinese (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
+Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 BBC News Asia Pacific (720p),https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 Beijing Traffic Radio TV,http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 Beijing Youth Radio,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
@@ -48,6 +49,10 @@ CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 CETV-1,http://121.19.134.246:808/hls/62/index.m3u8
 CETV-4,http://49.113.179.174:4022/udp/238.125.3.92:5140
 Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
+Channel Max,http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+Channel Tea,http://180.213.174.225:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC Action,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC Home Theater,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
 CNBC Asia HD (720p),https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
 Documentary Humanities Channel,http://49.113.179.174:4022/udp/238.125.3.135:5140
@@ -60,6 +65,9 @@ douyu24,http://epg.112114.xyz/douyu/36337
 douyu25,http://epg.112114.xyz/douyu/8814650
 douyu28,http://epg.112114.xyz/douyu/263824
 douyu44,http://epg.112114.xyz/douyu/323876
+DOX Surround,http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+DOX Yaqu,http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+DOX Yijia,http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 Ecology & Environment TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
 EWTN Africa Asia (720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
