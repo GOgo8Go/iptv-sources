@@ -39,6 +39,7 @@ iptv.org All,#genre#
 5TV Corrientes (480p) [Not 24/7],http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 5 канал,http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 6PR Perth (1080p),https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+6ter,https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
 7/8 TV (1080p),https://ms4.sedemosmi.tv/live/M3E5ajhtdjJkaXBscmZubmUxMmh1cjN1bjZrbm5wZW8/index.m3u8
 7D7 (1080p),https://d7tv.pp.ua/hls/d7tv.m3u8
 7S Music (576p) [Not 24/7],http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
@@ -1460,6 +1461,7 @@ Dynasty,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/ch
 E 24,https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 E Ten TV (1080p) [Not 24/7],https://iptvbd.live/test/1080.m3u8
 E!,https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
+E! (1080p),http://185.236.229.62:9981/play/a03j
 E! East,http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 E! Keeping Up,https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
 Eagle News HD (1080p),https://cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8
@@ -1755,6 +1757,7 @@ Goldstar TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hl
 Goldstar TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6192396135f3910007fc5fc7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc841a93-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=75107b1a-6063-4c0b-ba4a-37ea8ecf5809
 Goldstar TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6192396135f3910007fc5fc7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6806-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9ec1275e-0641-49e2-81e6-6d37a37b7bd3
 Golf Channel,http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+Golf Channel (1080p),http://185.236.229.62:9981/play/a03m
 Golf Network (540p),http://202.60.106.14:8080/1335/playlist.m3u8
 GolfPass,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65493029ab052400089e9d2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291881-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc355a72-e401-4038-a2fd-7378aedc3a6f
 Gólya TV (480p),https://stream.streaming4u.hu/GolyaTV/index.m3u8
@@ -2636,7 +2639,7 @@ Muzzik SENSE (720p),https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 Muzzik TIKTAK (720p),https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 Muzzik ZZ TV (720p),https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 MuzzOne (1080p),https://muzzone-stream.daitsuna.net/muzzondvr/muzzone/playlist_dvr.m3u8
-MV Lao TV,https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
+MV Lao TV,https://edge2a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 MV Mall ดี๊ดี (1080p),https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
 MVS TV,https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 Mwangaza TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8
@@ -4211,6 +4214,7 @@ Tele5 (1080p),http://109.233.89.166/Tele_5_HD/index.m3u8
 Tele Antillas (480p),https://ds.tvabierta.net/memfs/9fe21fdc-a270-425e-acf4-e34eaea644a4_output_0.m3u8?session=bCZB5ZyNEQ2gsFkDSGfZ9x
 Tele Boston (480p),https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 Télé Congo (720p),http://51.254.199.122:8080/telecongo/index.m3u8
+Tele Yucatan,https://5ca3e84a76d30.streamlock.net:443/teleyucatan/videoteleyucatan/playlist.m3u8
 Télé-Québec (720p),https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
 Teleacras (576p),https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8
 Telealtura (720p),https://ssh101-fl.bozztv.com/ssh101/codificador7/playlist.m3u8
@@ -4665,6 +4669,8 @@ TürkHaber (720p),https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 Türkmen Owazy (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch005.m3u8
 Türkmenistan (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch007.m3u8
 Türkmenistan Sport (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch004.m3u8
+Turksat Saat,http://185.234.111.229:8000/play/a01f
+Turksat Tanitim,http://185.234.111.229:8000/play/a01d
 TUTV,https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Tuya La Janda Televisión (1080p),http://185.210.20.13:8080/0.m3u8
 TV1 (360p),https://frn.rtsp.me/jDzHciIUzTOuXiUaI-Vg1w/1738881610/hls/BtBbfbnK.m3u8
