@@ -2876,11 +2876,11 @@ NHK Chinese Vision (720p),https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o
 NHK G (Tokyo) (540p) [Not 24/7],https://nhk4.mov3.co/hls/nhk.m3u8
 NHK General TV (720p),http://vthanh.utako.moe/NHK_G/index.m3u8
 NHK Kishou Saigai (360p) [Not 24/7],https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-NHK World Japan (1080p),https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK World News (French Subs) (720p),https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
 NHK World News (Portuguese Subs) (720p),https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
 NHK World News (Spanish Subs) (720p),https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 NHK World Premium (720p) [Not 24/7],https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+NHK World-Japan (720p),https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 NHL,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHL (1080p),https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 NHRA TV (720p),https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
@@ -3848,6 +3848,7 @@ Showtime 2 East,http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 Showtime East,http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 Showtime Extreme East,http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 Showtime Next East,http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+Showtime West (1080p),http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 Showtime Women East,http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 Shubh TV (1080p),https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
 Shubhsandesh (720p) [Not 24/7],https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
@@ -4023,6 +4024,7 @@ Sports TV (720p),https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 SportsGrid (1080p),https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 Sportsman Channel,http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+SportsNet New York (540p),http://fl2.moveonjoy.com/SNY/index.m3u8
 SPOTV 2 (Indonesia),https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 SPOTV (Indonesia),https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 SQCS Canal 4 (720p),https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
