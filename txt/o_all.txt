@@ -2469,7 +2469,6 @@ KRDO News Colorado Springs CO (720p),https://content.uplynk.com/channel/49fbfb5d
 Krem TV,https://kalends.anl.bz/localchannels/kremtel.stream/playlist.m3u8
 Kriminal (1080p),https://44abd74d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9LcmltaW5hbF9ITFM/playlist.m3u8
 KRIS-DT1 (1080p),https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
-Krolus TV (1080p),https://vcnkrolustv.teleosmedia.com/linear/krolustv/krolustv/playlist.m3u8
 Krone.TV (360p),https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 Kronehit (1080p),https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 KRT (1080p),http://185.234.111.229:8000/play/a06f
@@ -3258,7 +3257,6 @@ Onda 15 TV (224p),https://cloudvideo.servers10.com:8081/8034/index.m3u8
 Onda Algeciras TV (576p),https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 Onda Cádiz 24h (720p),https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
 Onda Digital (720p) [Not 24/7],https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-Onda Gran Canaria (720p),https://live.cloudhostservers.com:3473/stream/play.m3u8
 Onda Madrid (720p),https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 Onda Novara TV (720p) [Not 24/7],https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 Onda Radio TV (1080p),https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
@@ -3306,6 +3304,7 @@ Orange TV3,https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/play
 ORBIT TV (480p) [Not 24/7],https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 Órbita FM (720p),https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
 Órbita TV (720p),https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+ORF 1 HD,https://s6.hopslan.com/orfx1/index.m3u8
 Otto Channel (480p),https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
 OTV (720p) [Not 24/7],https://stream.agatin.hr:3559/live/otvlive.m3u8
 Ou-Mun Macau Satellite Ch. 96 (720p),https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
@@ -4112,7 +4111,7 @@ Roya Comedy (1080p),https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roy
 Roya Drama (1080p),https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 Roya Kids Originals (1080p),https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 Roya Kitchen (1080p),https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
-Roya TV (1080p),https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d
+Roya TV (1080p) [Not 24/7],https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 Royal Time Television (1080p),https://tixbolt.com/royaltv/index.fmp4.m3u8
 RPL TV Woerden (720p),https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 RPM (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
