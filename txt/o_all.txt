@@ -974,6 +974,7 @@ CANAL+ 360 (1080p),http://178.219.128.68:64889/CANAFAMIHD
 Canal+ »1 (1080p),http://178.219.128.68:64889/CANA1HD
 Canal+ Dokument (1080p),http://178.219.128.68:64889/CANADOKUHD
 Canal+ Domo (1080p),http://178.219.128.68:64889/DOMOHD
+Canal+ Extra 4 (1080p),http://195.189.60.33:9012/play/a00s
 Canal+ Film (1080p),http://178.219.128.68:64889/CANAFILMHD
 Canal+ France,http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 Canal+ Kuchnia (1080p),http://178.219.128.68:64889/KUCHHD
@@ -1572,8 +1573,10 @@ El 33 SX3 (1080p),https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/ma
 El 70 (720p),https://glb.bozztv.com/glb/ssh101/el70tv/index.m3u8
 El 75 (720p),https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
 El Camino TV (480p),https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+El Club de la Comedia (1080p),https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 El Confidencial TV (1080p),https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 El Histonauta TV (360p),https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+El Hormiguero (1080p),https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 ElyTV (360p),https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 Em TV (486p),https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 Eman Channel (576p),https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
@@ -1611,6 +1614,7 @@ EPS TV Canal 5 (720p),https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital
 Epsilon TV (720p),https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 Equidia (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 Equidia Racing Mag (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+Equipo de Investigacion (1080p),https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 Equus TV (1080p),https://d2gwqf8gdwq1zs.cloudfront.net/scheduler/scheduleMaster/426.m3u8
 Er TV (1080p),https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 Erbol (720p),https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
@@ -2292,7 +2296,6 @@ KABC-DT1 (720p),https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 kabel eins (576p),https://s6.hopslan.com/kabel1x1/index.m3u8
 Kablo Info (1080p),http://185.234.111.229:8000/play/a01g
 Kadak Hits (1080p) [Not 24/7],https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-Kaif TV (576p) [Not 24/7],http://82.212.74.2:8000/live/hls/7311.m3u8
 Kaifa TV (576p),http://82.212.74.2:8000/live/7311.m3u8
 Kairali We (396p),https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 Kajou TV (480p) [Not 24/7],https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
