@@ -564,4 +564,4 @@
 | 558 | CHC Action | [CHC Action](http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0) |
 | 559 | CHC Home Theater | [CHC Home Theater](http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0) |
 
-Updated at **Sat Mar 15 2025 08:22:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 15 2025 16:20:32 GMT+0000 (Coordinated Universal Time)**
