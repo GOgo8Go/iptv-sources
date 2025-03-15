@@ -3067,6 +3067,7 @@ Novela TV (576p),http://195.189.60.33:9019/play/a008
 Novelas,https://dai.google.com/linear/hls/event/4VaHBXfJSYihkeo7w_T0Qw/master.m3u8
 Novelas con la abuela,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7814-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=00d6c705-94dd-4af1-8f07-d8b02bcc1884
 Novelas Turcas,https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+Novelas+ (1080p),http://195.189.60.33:9012/play/a003
 Novelisima,https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 Novo Tempo (720p),https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 Now 14 (720p),https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
@@ -3493,6 +3494,7 @@ Polsat (1080p),http://109.233.89.166/Polsat_HD/index.m3u8
 Polsat Cafe (1080p),http://109.233.89.170/Polsat_Cafe_HD/index.m3u8
 Polsat Comedy Central Extra HD (1080p),http://195.189.60.33:9015/play/a00b
 Polsat Doku (1080p),http://109.233.89.166/Polsat_Doku_HD/index.m3u8
+Polsat Film 2 (576p),http://195.189.60.33:9016/play/a00m
 Polsat Film (1080p),http://109.233.89.166/Polsat_Film_HD/index.m3u8
 Polsat Games (1080p),http://109.233.89.166/Polsat_Games/mono.m3u8
 Polsat JimJam (576p),http://109.233.89.166/Polsat_JimJam/index.m3u8
@@ -3501,6 +3503,7 @@ Polsat News 2 (1080p),http://109.233.89.166/Polsat_News_2/index.m3u8
 Polsat News (720p),http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 Polsat News Polityka (1080p),http://109.233.89.166/Polsat_News_Polityka/index.m3u8
 Polsat Play (1080p),http://109.233.89.166/Polsat_Play_HD/index.m3u8
+Polsat Reality (576p),http://195.189.60.33:9016/play/a00l
 Polsat Rodzina (1080p),http://109.233.89.170/Polsat_Rodzina_HD/index.m3u8
 Polsat Seriale (1080p),http://109.233.89.166/Polsat_Seriale_HD/index.m3u8
 Polsat Sport (1080p),http://109.233.89.170/Polsat_Sport_HD/index.m3u8
@@ -3515,6 +3518,7 @@ Polsat Sport Premium 5 PPV (1080p),http://195.189.60.33:9013/play/a00m
 Polsat Viasat Explore (1080p),http://178.219.128.68:64888/POLSVIASEXPLHD
 Polsat Viasat History (1080p),http://178.219.128.68:64888/POLSVIASHISTHD
 Polsat Viasat Nature (1080p),http://178.219.128.68:64888/POLSVIASNATUHD
+Polsat X (576p),http://195.189.60.33:9016/play/a00e
 Pomona Internet Streaming Channel (Pomona CA) (720p),https://live.pomonaca.gov/live-3/live/live.m3u8
 Pompano Beach Web Streaming (Pompano Beach FL) (720p),https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8
 Pon TV (360p) [Not 24/7],http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
@@ -5129,6 +5133,7 @@ TV Sul de Minas (720p),https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsulde
 TV Sur Canal 9 (620p) [Not 24/7],http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 TV Sur Canal 14 (1080p),https://k20.usastreams.com:8081/tvsur/index.m3u8
 TV SYD (1080p),https://cdnapi.kaltura.com/p/1956351/sp/195635100/playManifest/entryId/0_e9slj9wh/protocol/https/format/applehttp/a.m3u8
+TV Syri (720p),https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
 TV Szentendre (1080p),https://stream.streaming4u.hu/TVSzentendre/index.m3u8
 TV Tabalong (720p) [Not 24/7],https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 TV Tarn (720p),https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
@@ -5299,7 +5304,7 @@ Visual Radio (576p) [Not 24/7],http://wms.shared.streamshow.it:1935/visualradio/
 Vouli TV (1080p) [Not 24/7],https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 VOX1 (720p) [Not 24/7],https://hls.vox1.live/hls/stream.m3u8
 VOX (576p),https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8
-VOX Music TV (576p),http://109.233.89.166/VOX/index.m3u8
+VOX Music TV (1080p),http://195.189.60.33:9011/play/a00e
 Voyager Documentaries,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1024-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7ab6188-0ea8-4038-b8e2-2865d3dcabd9
 Voyages+,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
 Voz de Poder Television (720p),https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
