@@ -7521,7 +7521,7 @@ https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamT
 https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioyTelevisionCrisoldelaAlegria.mx" tvg-logo="https://i.imgur.com/EW2z5Ko.jpg" group-title="Religious",Radio y Televisión Crisol de la Alegría (1080p) [Not 24/7]
 https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8
-#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us" tvg-logo="https://i.imgur.com/Y7E5OTy.png" group-title="Undefined",Radio y Televisión Martí (720p)
+#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us" tvg-logo="https://i.imgur.com/J2ZMa4g.png" group-title="General",Radio y Televisión Martí (720p)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo" tvg-logo="https://i.imgur.com/wHOQU0R.png" group-title="Undefined",Radio Yaqeen Jordan City View (1080p) [Not 24/7]
 http://45.63.116.205/hls4/stream1.m3u8
@@ -8993,6 +8993,8 @@ https://streamspace.live/hls/tempoafrictv/livestream.m3u8
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TemucoTelevision.cl" tvg-logo="https://i.imgur.com/8cFdw8R.png" group-title="Undefined",Temuco Television
 https://tv.streaming-chile.com:19360/temucotelevision/temucotelevision.m3u8
+#EXTINF:-1 tvg-id="TeN.eg" tvg-logo="https://i.imgur.com/gMnn6PD.png" group-title="General",TeN (720p)
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="TENCanal10.hn" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="Undefined",TEN Canal 10 (720p) [Not 24/7]
 https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8
 #EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-logo="https://i.imgur.com/nnqpYNm.png" group-title="Sports",Ten Sports Pakistan
