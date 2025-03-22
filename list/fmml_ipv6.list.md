@@ -107,4 +107,4 @@
 | 101 | CGTN西语 | [CGTN西语](https://0472.org/hls/cgtnx.m3u8) |
 | 102 | CGTN阿语 | [CGTN阿语](https://0472.org/hls/cgtna.m3u8) |
 
-Updated at **Sat Mar 22 2025 01:25:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 22 2025 08:21:58 GMT+0000 (Coordinated Universal Time)**
