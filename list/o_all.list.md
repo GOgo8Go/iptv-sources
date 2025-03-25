@@ -4282,4 +4282,4 @@
 | 4276 | Центр (Красноярск) | [Центр (Красноярск)](https://stream.tck.tv/hd.m3u8) |
 | 4277 | ЧП Инфо (576p) | [ЧП Инфо (576p)](http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8) |
 
-Updated at **Tue Mar 25 2025 08:25:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 25 2025 16:23:04 GMT+0000 (Coordinated Universal Time)**
