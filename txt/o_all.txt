@@ -1330,6 +1330,7 @@ Global Punjab (720p) [Not 24/7],https://media.streambrothers.com:1936/8522/8522/
 Global Social TV (720p),https://ss9.domint.net:3042/gstv_str/globalsocialtv/playlist.m3u8
 Global TV (720p),https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 Global TV (1080p),https://stmv.video.gmpro.top/global/global/playlist.m3u8
+GlobalTV (480p),https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
 Globo TV (720p),https://stream.streaming4u.hu/GloboTV/index.m3u8
 Globo TV (1080p) [Not 24/7],https://panel.dattalive.com/8122/8122/playlist.m3u8
 Glory Christ Channel (720p),https://stream.it-innov.com/gcc/index.m3u8
@@ -2004,6 +2005,7 @@ MBC 3 USA (1080p),https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0df
 MBC 4 (1080p),https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 MBC 5 (1080p),https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 MBC (720p) [Not 24/7],https://glb.bozztv.com/glb/ssh101/mbcmalawi/playlist.m3u8
+MBC (1080p),https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
 MBC Andong (안동 MBC) (360p) [Not 24/7],http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 MBC Bollywood (1080p),https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 MBC Busan (부산MBC) (360p) [Not 24/7],https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
