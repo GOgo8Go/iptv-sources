@@ -351,4 +351,4 @@
 | 345 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8) |
 | 346 | [HD]黑龙江都市 | [HD 黑龙江都市](https://stream1.freetv.fun/dc07729bf522e7df81f1254e9bcd017dfd0d0b30bb423ff51d0a01156017a819.m3u8) |
 
-Updated at **Fri Mar 28 2025 08:25:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 28 2025 16:24:08 GMT+0000 (Coordinated Universal Time)**
