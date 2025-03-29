@@ -1,5 +1,5 @@
 iptv.org stream China,#genre#
-Ando TV (576p),http://119.1.122.186:4022/rtp/238.255.2.189:5999
+Ando TV,http://stream.qhbtv.com/adws/sd/live.m3u8
 Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
 Beijing Traffic Radio TV,http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 Beijing Youth Radio,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
@@ -99,6 +99,7 @@ Xinjiang TV 5,http://49.113.179.174:4022/udp/238.125.7.149:5140
 Xinjiang TV 8,http://49.113.179.174:4022/udp/238.125.3.181:5140
 Xinjiang TV 9,http://49.113.179.174:4022/udp/238.125.7.153:5140
 Xinjiang TV 12,http://49.113.179.174:4022/udp/238.125.3.185:5140
+Xizang TV Chinese,http://php.jdshipin.com/xztv.php?id=ws
 Xizang TV Tibetan,http://49.113.179.174:4022/udp/238.125.3.94:5140
 Yanbian Cinese Comprehensive Channel,https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 Yanbian TV 1,https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
@@ -558,4 +559,3 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 龙口新闻综合 (576p),http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
 龙口生活 (576p),http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
 龙岩综合 (540p),http://stream.lytv.net.cn/2/sd/live.m3u8
-Xizang TV Chinese,http://php.jdshipin.com/xztv.php?id=ws

@@ -4170,4 +4170,4 @@
 | 4164 | Центр (Красноярск) | [Центр (Красноярск)](https://stream.tck.tv/hd.m3u8) |
 | 4165 | ЧП Инфо (576p) | [ЧП Инфо (576p)](http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8) |
 
-Updated at **Sat Mar 29 2025 08:23:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 29 2025 16:22:10 GMT+0000 (Coordinated Universal Time)**
