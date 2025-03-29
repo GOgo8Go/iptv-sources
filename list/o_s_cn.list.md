@@ -565,4 +565,4 @@
 | 559 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 | 560 | Xizang TV Chinese | [Xizang TV Chinese](http://php.jdshipin.com/xztv.php?id=ws) |
 
-Updated at **Sat Mar 29 2025 01:26:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 29 2025 08:23:10 GMT+0000 (Coordinated Universal Time)**
