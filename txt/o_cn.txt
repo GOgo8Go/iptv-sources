@@ -1,14 +1,10 @@
 iptv.org China,#genre#
 ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 Ando TV (576p),http://119.1.122.186:4022/rtp/238.255.2.189:5999
-Angel TV Chinese (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
 Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
-BBC News Asia Pacific (720p),https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 Beijing Traffic Radio TV,http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 Beijing Youth Radio,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
-Bloomberg TV Asia (720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
-Bloomberg TV Asia Live Event (720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
@@ -70,8 +66,6 @@ DOX Yaqu,http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?authid=0&key=txiptv
 DOX Yijia,http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?authid=0&key=txiptv&playlive=1
 Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 Ecology & Environment TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
-EWTN Africa Asia (720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-EWTN Asia-Pacific (720p) [Not 24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 Fengtai Culture & Life TV,http://60.175.115.119:1935/live/wenhua/playlist.m3u8
 Fengtai News TV,http://60.175.115.119:1935/live/zonghe/playlist.m3u8
 Foochow Children TV,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8

@@ -335,6 +335,7 @@ Amé 47 (720p),https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 Amedia 1,http://31.148.48.15/A1/index.m3u8
 Amedia 2,http://31.148.48.15/A2/index.m3u8
 Atrak,https://ncdn.telewebion.com/atrak/live/playlist.m3u8
+Atreseries (480p),http://181.78.109.48:8000/play/a00l/index.m3u8
 Atresplayer Clasicos (1080p),https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
 Atresplayer Comedia (1080p),https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
 Atresplayer Inquietos (1080p),https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
@@ -407,6 +408,7 @@ Ax Men,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/cha
 Axe Men (1080p),https://335e33e2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9BeE1lbl9ITFM/playlist.m3u8
 AXN,https://streamer1.nexgen.bz/AXN/index.m3u8
 AXN (1080p),https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+AXN (1080p),http://181.78.109.48:8000/play/a05u/index.m3u8
 AXN (1080p),http://178.219.128.68:64888/AXN
 AXN Black (576p),http://185.236.229.62:9981/play/a075
 AXN Spin (1080p),http://185.236.229.62:9981/play/a044
@@ -3396,7 +3398,6 @@ Real Disaster Channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 Real Disaster Channel,https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8
 Real Disaster Channel,https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
 Real Families (1080p),https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
-Real Families (Australia) (720p),https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
 Real Housewives Vault,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549316d2c1d330008631496/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b627a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=848484a3-f7c4-4cf7-a5dc-4fc9d5658a8e
 Real Housewives Vault,https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
 Real Life,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8
@@ -3404,7 +3405,7 @@ Real Life on Verizon,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/
 Real Madrid TV (404p),https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 Real Music TV (720p),https://livetv.streams.ovh:1936/realmusictv/realmusictv/playlist.m3u8
 Real News Kerala (1080p) [Not 24/7],https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-Real Stories (720p),https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+Real Stories (720p),https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 Real TV (720p) [Not 24/7],http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
 Real Wild,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 Realitatea FM (Studio) (1080p) [Not 24/7],https://stream.realitatea.net/realitatea/radio_fq/playlist.m3u8
@@ -3899,6 +3900,7 @@ Show Max,https://canlitvulusal.xyz/live/showmax/index.m3u8
 Show Plus TV (720p),https://glb.bozztv.com/glb/ssh101/showplus/index.m3u8
 Show Türk (720p) [Not 24/7],https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 Show TV (720p) [Not 24/7],https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+ShowBox,https://epiconvh.akamaized.net/live/showbox/master.m3u8
 Showtime 2 East,http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 Showtime East,http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 Showtime Extreme East,http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
