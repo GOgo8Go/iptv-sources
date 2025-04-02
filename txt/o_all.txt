@@ -1206,7 +1206,7 @@ Combate Global,https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 Come Dine with Me,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65367e724f123d000877cfe5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b860-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d8469ee3-a58f-4fb6-931e-e25e07a067a7
 Comedia Made in Spain (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
 Comedy Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac
-Comedy Central (1080p),http://109.233.89.166/Comedy_Central_HD/index.m3u8
+Comedy Central (1080p),http://109.233.89.170/Comedy_Central_HD/index.m3u8
 Comedy Central Animation,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a949f5b5e4000862467c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b862-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=954a470a-ef46-4375-9079-27408bd93898
 Comedy Central Animation,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280716-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0c5875b8-f67e-402d-97b3-0cf608608acb
 Comedy Central East (720p),http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
@@ -2826,7 +2826,6 @@ NRB TV (480p),https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 NRB TV (1080p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
 NRG 91 (720p) [Not 24/7],http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 NRG TV (720p),https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-NRK 1,https://nrk-nrk1.akamaized.net/21/0/hls/nrk_1/playlist.m3u8
 NRK 2,https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/playlist.m3u8
 NRK 3,https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/playlist.m3u8
 NRK Super,https://nrk-nrksuper.akamaized.net/23/0/hls/nrk_super/playlist.m3u8
@@ -3261,7 +3260,7 @@ Qello Concerts,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch
 Qello Concerts by Stingray (1080p),https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 Qmusic (Netherlands) (720p),https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 Qostanai (576p) [Not 24/7],https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
-QPVN (720p),http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
+QPVN (480p),https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
 QS24.tv (1080p),https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
 QT Televisión (720p) [Not 24/7],https://servilive.com:3753/live/qosqotimeslive.m3u8
 QTV Gambia (720p) [Not 24/7],https://player.qtv.gm/hls/live.stream.m3u8
