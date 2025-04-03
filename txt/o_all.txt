@@ -9,7 +9,7 @@ iptv.org All,#genre#
 1Twente TV (1080p),https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
 002 Radio TV (720p),https://cdn.002radio.com:3909/live/radio002live.m3u8
 2GB Sydney (1080p),https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
-2M National (1080p),http://154.197.91.168:7001/play/a0fn/index.m3u8
+2M (720p),https://d3g87jnubafe6a.cloudfront.net/out/v1/1fa0fb3c8dec402994a6f7a7f6492b82/index.m3u8
 2TV (720p),https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 3/24 (1080p),https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 3ABN Canada,https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
@@ -565,7 +565,6 @@ Azteca Valle (KRGV 5.2),https://stream.krgv.com/krgv-english/krgv-somos.smil/pla
 Azufral Canal Regional (720p) [Not 24/7],https://tvlatina.live:1936/8020/8020/playlist.m3u8
 Azzurra TV (576p),https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 B1B Box (720p),https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8
-B1 TV (1080p) [Not 24/7],http://wowza.bihnet.net:88/hls/b1-live.m3u8
 B4U Kadak (576p) [Not 24/7],http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 B4U Movies India (576p),http://183.89.246.119:8881/play/a08n/index.m3u8
 B4U Music India (576p),http://183.89.246.119:8881/play/a08o/index.m3u8
@@ -693,7 +692,6 @@ BEK TV Sports West (720p),https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/
 Bel RTL (1080p),https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 Bel'Afrika Media TV (1080p),https://goccn.cloud/hls/belafrikatv/index.m3u8
 Beladi Satellite TV (540p),http://95.216.180.111:1935/live/68/playlist.m3u8
-Belgian Federal Parliament (720p) [Not 24/7],http://livestream.parolis.be:1935/live/PLN_NL/playlist.m3u8
 Bella Italia (Radio),http://80.79.6.221:25461/smash/public/26
 Bellator MMA,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63ecbedda9957100089ca486/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc770-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ec515b7-6205-4240-a742-81047fffc0a2
 Bellator MMA,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63ecbedda9957100089ca486/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830923-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c19518c-4fb4-408a-9a18-182055bcf473
@@ -1086,7 +1084,6 @@ Citra Drama (720p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Chann
 Citra Muslim,http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
 Cítrico TV (240p),https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 City Channel (720p) [Not 24/7],https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
-City Music TV (720p),https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 City News HD (1080p),http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8
 City of Oakland (KTOP) (480p),https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
 City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
@@ -1518,7 +1515,6 @@ Dynasty,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/ch
 Dynasty,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d1606b4c5ed80008e3b8b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a350-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c4fb05d1-b382-4722-a7d5-66fbce6da394
 E4,https://x.canlitvapp.com/u-e4/index.m3u8
 E 24,https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-E Ten TV (1080p) [Not 24/7],https://iptvbd.live/test/1080.m3u8
 E!,https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
 E! (1080p),http://185.236.229.62:9981/play/a03j
 E! East,http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
@@ -2833,7 +2829,7 @@ NRT México Internacional (720p),https://59e88b197fb16.streamlock.net:4443/live/
 NRT México Región Centro (720p),https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 NRT México Región Sureste (720p),https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
 NRT TV (720p) [Not 24/7],https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-NRWision (1080p),https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+NRWision (1080p),https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
 NS Home Shopping (720p),https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 NS Shop Plus (720p),https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
 NS TV (720p) [Not 24/7],https://til.pp.ua:3262/live/nstv7live.m3u8
@@ -2846,6 +2842,7 @@ NTI TV (720p),https://helga.iptv2022.com/NTI_Television/index.m3u8
 NTN (720p),https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
 NTS TV (1080p),http://62.233.57.226:8001/play/a00d
 NTV,http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+NTV7,https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 NTV (720p),https://marine2.miplay.cl/ntv/playlist.m3u8
 NTV (720p),https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8
 NTV (720p) [Not 24/7],https://dogus-live.daioncdn.net/ntv/ntv.m3u8
@@ -3369,7 +3366,6 @@ Radio Monumental TV (720p) [Not 24/7],https://cloud37.ecuatel.com/monumentaltv/l
 Radio Number One (720p) [Not 24/7],https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 Radio Onda Digital,https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
 Radio Piter Pan TV (720p) [Not 24/7],https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-Radio PROS (720p) [Not 24/7],http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 Radio Puerto TV (720p),https://cloudvideo.servers10.com:8081/8256/index.m3u8
 Radio Pykasú TV (720p),https://59ce1298bfb98.streamlock.net/pykasutv/pykasutv/playlist.m3u8
 Radio Q (1080p),https://panel.miplay.cl:8081/radioq/index.m3u8
@@ -3784,8 +3780,6 @@ RT Arabic (1080p),https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 RT DE (1080p) [Not 24/7],https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 RT Documentary English (1080p),https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 RTM Plus (720p) [Not 24/7],https://www.rtmplus.cz/live/1-playlist.m3u8
-RTM TV 1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-RTM TV 2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 RTM TV (1080p),https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 RTN (Neuquén) (720p) [Not 24/7],https://media.neuquen.gov.ar/rtn/television/media.m3u8
 RTN Chicago (720p) [Not 24/7],https://5bb3298db4821.streamlock.net/3707/live1/playlist.m3u8
@@ -4595,12 +4589,14 @@ Tuya La Janda Televisión (1080p),http://185.210.20.13:8080/0.m3u8
 TV1 (360p),https://frn.rtsp.me/jDzHciIUzTOuXiUaI-Vg1w/1738881610/hls/BtBbfbnK.m3u8
 TV 1 (720p),https://tv1.cloudcdn.bg:8081/stream.m3u8
 TV 1 (720p),https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 TV1 KG (1080p),http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 TV 1 Oberösterreich (1080p),https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 TV1 Samoa (720p),https://anystrument.com:5443/LiveApp/streams/DfywyaY3DcWf1709948634332.m3u8
 TV2 (480p),https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/tracks-v1a1/mono.m3u8
 TV 2 (720p) [Not 24/7],https://helga.iptv2022.com/sh/TV2/index.m3u8
 TV2/Bornholm (1080p) [Not 24/7],https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8
+TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 TV2/Østjylland (720p),https://cdnapi.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3licd/flavorIds/0_pcvatr5k,0_aezqkdsi,0_dkeq429y,0_99pivdxs/deliveryProfileId/10552/protocol/https/format/applehttp/a.m3u8
 TV2 Comedy (576p),http://194.76.186.33:8000/play/a031/index.m3u8
 TV2 Fyn (720p) [Not 24/7],https://cdnapi.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/30288171/a.m3u8
