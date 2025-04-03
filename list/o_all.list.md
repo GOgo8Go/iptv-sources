@@ -5569,4 +5569,4 @@
 | 5563 | Ювелирочка ТВ (576p) | [Ювелирочка ТВ (576p)](https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8) |
 | 5564 | Югра | [Югра](https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8) |
 
-Updated at **Thu Apr 03 2025 08:26:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 03 2025 16:24:11 GMT+0000 (Coordinated Universal Time)**
