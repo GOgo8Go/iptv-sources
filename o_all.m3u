@@ -3559,7 +3559,7 @@ https://stream.streaming4u.hu/GloboTV/index.m3u8
 https://panel.dattalive.com/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="GloryChristChannel.cm" tvg-logo="https://i.imgur.com/m5xH4bL.png" group-title="Religious",Glory Christ Channel (720p)
 https://stream.it-innov.com/gcc/index.m3u8
-#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="Sports",Glory Kickboxing (720p)
+#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDm0LgmuZ6YBLmfnip23dHSVP_cyqFB0kZc5BCrys7YAk=s512-c-k-c0x00ffffff-no-rj" group-title="Sports",Glory Kickboxing (720p)
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="GM24.it" tvg-logo="https://i.imgur.com/PoXd0su.png" group-title="Shop",GM24 (480p)
 https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
@@ -3983,7 +3983,7 @@ https://live.hastitv.com/hls/livetv.m3u8
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="HauGiangTV.vn" tvg-logo="https://i.imgur.com/e0gc4CQ.png" group-title="General",Hau Giang TV (720p)
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
-#EXTINF:-1 tvg-id="HauntTV.us" tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="Entertainment",Haunt TV
+#EXTINF:-1 tvg-id="HauntTV.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kFORSMlXKT0V9fBpkp5TS7VbpwlNC6XbfZxrSSWUt1UA=s512-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Haunt TV
 https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Haunt TV Canada (1080p)
 https://aegis-cloudfront-1.tubi.video/62f59fa9-7923-47ae-8c71-5446cf927f7e/playlist.m3u8
@@ -4147,7 +4147,7 @@ https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hmong Star TV (720p) [Not 24/7]
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HmongTVNetwork.us" tvg-logo="https://i.imgur.com/yfGvM3K.png" group-title="Culture",Hmong TV Network (720p)
+#EXTINF:-1 tvg-id="HmongTVNetwork.us" tvg-logo="https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj" group-title="Culture",Hmong TV Network (720p)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HobbyMaker.uk" tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="Lifestyle",Hobby Maker (720p)
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
@@ -4457,7 +4457,7 @@ https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c3
 https://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8
 #EXTINF:-1 tvg-id="KCKSLD12.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png" group-title="Shop",Jewelry TV (KCKS-LD12) (480p)
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
-#EXTINF:-1 tvg-id="JewishLifeTelevision.us" tvg-logo="https://i.imgur.com/VEoLKzb.png" group-title="Culture;Religious",Jewish Life Television (720p)
+#EXTINF:-1 tvg-id="JewishLifeTelevision.us" tvg-logo="https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj" group-title="Culture;Religious",Jewish Life Television (720p)
 https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live3/jltv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="JiaJiaCartoon.cn" tvg-logo="https://i.imgur.com/0TLG3Xk.png" group-title="Kids",JiaJia Cartoon
 http://49.113.179.174:4022/udp/238.125.0.158:5140
