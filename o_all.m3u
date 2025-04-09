@@ -3461,6 +3461,8 @@ https://streamer1.nexgen.bz/FX/index.m3u8
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FX2.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-2-fr.png" group-title="Entertainment",FX2 Farsi
 https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png" group-title="Undefined",FX (1080p)
+https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="FXEast.us" tvg-logo="" group-title="Undefined",FX East
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FX Movie Channel
@@ -4973,6 +4975,8 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="https://i.imgur.com/RfrkGrd.png" group-title="General",MBS (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=4
+#EXTINF:-1 tvg-id="MCTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png" group-title="Entertainment",MC TV (720p)
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-id="MCITelevision.co" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="Family;General;Movies",MCI Television
 https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MCJ TV
@@ -5133,7 +5137,7 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m
 https://miracle.stream.boxigy.com/hls/miracle1.m3u8
 #EXTINF:-1 tvg-id="MiracleTV.se" tvg-logo="https://i.imgur.com/rc68GZJ.png" group-title="Religious",Miracle TV (576p)
 https://live.miraclechannel.com/hls/miracle1.m3u8
-#EXTINF:-1 tvg-id="MiracleTVPlus.ci" tvg-logo="https://i.imgur.com/HbJLyJl.png" group-title="Religious",Miracle TV+ (720p)
+#EXTINF:-1 tvg-id="MiracleTVPlus.ci" tvg-logo="https://i.imgur.com/AQ60OYO.png" group-title="Religious",Miracle TV+ (720p)
 https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="MirameTV.es" tvg-logo="https://i.imgur.com/LK4pLgT.png" group-title="News",Mírame TV (360p) [Not 24/7]
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
@@ -5971,6 +5975,8 @@ https://cloudvideo.servers10.com:8081/8034/index.m3u8
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="OndaCadiz.es" tvg-logo="https://i.imgur.com/sOBMnby.png" group-title="General",Onda Cádiz 24h (720p)
 https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+#EXTINF:-1 tvg-id="ONDADIGITAL.pe" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="General",ONDA DIGITAL (720p)
+https://tv.ondadigital.pe/ondadigital/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Onda Digital (720p) [Not 24/7]
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaMadrid.es" tvg-logo="https://i.imgur.com/Q1YwYsR.png" group-title="General",Onda Madrid (720p)
@@ -8117,8 +8123,6 @@ https://epiconvh.akamaized.net/live/showbox/master.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="" group-title="Undefined",Showtime East
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-logo="" group-title="Undefined",Showtime Extreme East
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeNextEast.us" tvg-logo="" group-title="Undefined",Showtime Next East
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-logo="" group-title="Undefined",Showtime West (1080p)
@@ -8391,8 +8395,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=4
 #EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="General",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation;Kids",Spacetoon (1080p)
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation;Kids",Spacetoon Arabic (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Spark TV (1080p)
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Spark TV Luz & Amor (1080p)

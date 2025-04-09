@@ -1730,6 +1730,7 @@ FM Mundo (1080p),https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 FX,https://streamer1.nexgen.bz/FX/index.m3u8
 FX1 Farsi (720p),https://fxtvhls.wns.live/hls/stream.m3u8
 FX2 Farsi,https://toonixhls.wns.live/hls/stream.m3u8
+FX (1080p),https://saran-live.ercdn.net/fx/index.m3u8
 FX East,http://fl2.moveonjoy.com/FX/index.m3u8
 FX Movie Channel,https://v1.thetvapp.to/hls/FXMovieChannel/index.m3u8
 FXM East,http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
@@ -2486,6 +2487,7 @@ MBC TV (720p),http://www.hwado.net/webtv/catv/503_CFEA7803.php
 MBC Yeosu (여수 MBC) (1080p) [Not 24/7],https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 MBC+ Drama (1080p),https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 MBS (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=4
+MC TV (720p),https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 MCI Television,https://video.ejeserver.com/live/mcitelevision.m3u8
 MCJ TV,https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
 MCM,http://213.246.39.14:8070/MCM/index.m3u8
@@ -2985,6 +2987,7 @@ Once México (1080p),https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/pla
 Onda 15 TV (224p),https://cloudvideo.servers10.com:8081/8034/index.m3u8
 Onda Algeciras TV (576p),https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 Onda Cádiz 24h (720p),https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+ONDA DIGITAL (720p),https://tv.ondadigital.pe/ondadigital/index.m3u8
 Onda Digital (720p) [Not 24/7],https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 Onda Madrid (720p),https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 Onda Novara TV (720p) [Not 24/7],https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
@@ -4058,7 +4061,6 @@ Show TV,http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
 ShowBox,https://epiconvh.akamaized.net/live/showbox/master.m3u8
 Showtime 2 East,http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 Showtime East,http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-Showtime Extreme East,http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 Showtime Next East,http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 Showtime West (1080p),http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 Showtime Women East,http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
@@ -4195,7 +4197,7 @@ Sozcu TV (1080p),http://185.234.111.229:8000/play/a00y
 Space Series,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
 Space Shower TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=4
 Space TV,https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-Spacetoon (1080p),https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+Spacetoon Arabic (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 Spark TV (1080p),https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 Spark TV Luz & Amor (1080p),https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
 Spectrum Channel (720p),https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
