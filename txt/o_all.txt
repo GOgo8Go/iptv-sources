@@ -41,6 +41,7 @@ iptv.org All,#genre#
 6ter,https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
 7/8 TV (1080p),https://ms4.sedemosmi.tv/live/M3E5ajhtdjJkaXBscmZubmUxMmh1cjN1bjZrbm5wZW8/index.m3u8
 7D7 (1080p),https://d7tv.pp.ua/hls/d7tv.m3u8
+7 RadioVisione (720p),https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 7S Music (576p) [Not 24/7],http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 7 TeleValencia (576p),https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 7 Televisión Región de Murcia (1080p),https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
@@ -308,7 +309,7 @@ Alert (576p) [Not 24/7],https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 Alerte à Malibu,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90db65e8e770007382a50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c21-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c070d939-44e0-419b-b958-d26935b903d0
 Alerte Cobra,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e4bc08f5ec000744f552/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b105-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e8eddbbb-a9fd-424c-9473-64dc6420b913
 Alerth Alnabawi Channel (576p),http://82.212.74.2:8000/live/7307.m3u8
-Alex Berlin (1080p) [Not 24/7],https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+Alex Berlin (1080p),https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
 Alfa & Omega Vision (480p) [Not 24/7],https://srv.panelcast.net/dorian/dorian/playlist.m3u8
 Alfa Dramas (226p) [Not 24/7],https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 Alfa Omega TV (720p) [Not 24/7],http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
@@ -2187,8 +2188,8 @@ Italia 7,https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
 Italia Channel (1080p),https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 Italian Fishing TV,https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 Italianissimo (360p) [Not 24/7],https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
-ITN (720p) [Not 24/7],https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 ITN (720p) [Not 24/7],https://itnhls.wns.live/hls/stream.m3u8
+ITN (1080p),https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_aabd3d003af211efadcf7986aa245789/rewind-3600.m3u8
 ITSF,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8
 ITV1,https://x.canlitvapp.com/u-itv1/index.m3u8
 ITV2,https://x.canlitvapp.com/u-itv2/index.m3u8
@@ -3309,6 +3310,7 @@ R 101 Italia IT (576p),https://live3-radio-mediaset-it.akamaized.net/content/hls
 R Plus (768p),https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 R&E TV (480p) [Not 24/7],https://multimedia.tmcreativos.com:1936/ekhmygctur/ekhmygctur/playlist.m3u8
 Raajje TV (480p),https://stream.raajje.mv/live/rtv_live/index.m3u8
+Rabeh Saqer (1080p),https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 Race Central TV (720p) [Not 24/7],https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
 Racing America (720p),https://livetv-fa.tubi.video/racing-america/playlist.m3u8
 Racing.com (720p),https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
