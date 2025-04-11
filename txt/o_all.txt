@@ -240,6 +240,7 @@ Afroculture TV (1080p),https://helga.iptv2022.com/sh/Afroculture/index.m3u8
 Afrokiddos (1080p),https://weyyak-live.akamaized.net/weyyak_afrokiddos/index.m3u8
 AfroLandTV (1080p),https://alt-al.otteravision.com/alt/al/al.m3u8
 AfroSport Nigeria,https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+Afroturk TV (1080p),https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 Aftab,https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8
 Aftershock,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63e36b374e83e70008987c58/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a330bc3-1def-4752-9f03-564abe79388b
 AFV (720p),https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
