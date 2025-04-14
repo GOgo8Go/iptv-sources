@@ -565,7 +565,6 @@ Azteca Uno (720p),https://mdstrm.com/live-stream-playlist/609b243156cca108312822
 Azteca Valle (KRGV 5.2),https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
 Azufral Canal Regional (720p) [Not 24/7],https://tvlatina.live:1936/8020/8020/playlist.m3u8
 Azzurra TV (576p),https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
-B1B Box (720p),https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8
 B4U Kadak (576p) [Not 24/7],http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 B4U Movies India (576p),http://183.89.246.119:8881/play/a08n/index.m3u8
 B4U Music India (576p),http://183.89.246.119:8881/play/a08o/index.m3u8
@@ -1181,8 +1180,6 @@ Coast Guard,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hl
 Coast Guard,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddd96abcba80008d03b74/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84accbc3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0b5b2224-98cb-4873-9044-ed2cbab31407
 CoastTV NBC (WRDE-LD) (720p) [Not 24/7],https://live.field59.com/wrde/wrde1/playlist.m3u8
 COCO TV (720p),https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-Code Fashion TV (1080p),https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
-Code Health TV (1080p),https://cdn3.invivo.bg/codehealth_test/index.m3u8
 Codigo TV,https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
 Coeur Océan,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3dd1c2f29ce0007e18596/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b102-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0031c60f-4d94-4726-b1ae-5054583e82c7
 Coeur Ocean TV,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2240abcf-afe5-4416-9631-fa9c29b7d0e6/manifest.m3u8
@@ -2042,6 +2039,7 @@ HGPTV (1080p) [Not 24/7],https://rtmp-live-ingest-us-east-1-universe-dacast-com.
 Hi-5,https://streams2.sofast.tv/WiseM3U8_31/sofast/cleanhls/master.m3u8
 Hi-YAH! (1080p),https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 Hidabroot (1080p),https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+HiDance (1080i),https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
 High News (480p),https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 High TV (720p) [Not 24/7],http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 High Vision,https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
@@ -2050,6 +2048,7 @@ Hilando Fino TV (1080p),https://hilandofinotv.essastream.com:3606/live/canalhila
 Hillsborough County TV HTV (Hillsborough County FL) (360p),https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
 Himalaya TV,http://103.213.31.243:8081/livepull/ottHIMALAYA480.stream/playlist.m3u8
 Himlen TV7 (720p),https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+HiMusic (1080i),https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8
 Hindi Khabar (720p),https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8
 Hiperconectados TV,https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 HiperTV (720p) [Not 24/7],https://inliveserver.com:1936/11010/11010/playlist.m3u8
@@ -2775,6 +2774,7 @@ Mundo Pequeño,https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 Mundo Series,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 Mundo Viajero,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e048dd46-54cc-485e-b0d7-5ee578a0a861
 Munnaaru,https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
+Murator TV (1080i),https://s-pl-01.mediatool.tv/playout/mupl-abr/index.m3u8
 Murder She Wrote,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b79f9ba-6021-48dd-b1ca-e60b7396018c
 Murder She Wrote,https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8
 Musavision (1080p),https://soportedvb.click:3827/live/musavisiontvlive.m3u8
@@ -3450,6 +3450,7 @@ Raia TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/64873b6222c93/ind
 Rainbow Squad,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6277-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=76f1eaf6-33c5-447a-87c9-414df640b519
 Raiz TV,https://5790d294af2dc.streamlock.net/raiztv/raiztv/playlist.m3u8
 Raj News Malayalam,https://rajnewsmalayalam.ylivestream.com/rajnewsmalayalam/index.m3u8
+Raj TV,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
 Raj TV (720p) [Not 24/7],https://ottst05.flexitv.sk/2827-tv-pc.m3u8
 Rajawali TV,https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 Rajeen TV (1080p) [Not 24/7],https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
@@ -3474,9 +3475,9 @@ Rakuten Família,https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.
 Rakuten Family,https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
 Rakuten Family,https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
 Rakuten Family,https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-Rakuten Family,https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 Rakuten Family,https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8
 Rakuten Family (720p),https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8
+Rakuten Family (720p),https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
 Rakuten Family (Finland) (720p),https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
 Rakuten Spotlight,https://rakuten-spotlight-9-se.samsung.wurl.tv/playlist.m3u8
 Rakuten Spotlight,https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
@@ -3776,6 +3777,7 @@ Roya Kids Originals (1080p),https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjd
 Roya Kitchen (1080p),https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 Roya TV (1080p) [Not 24/7],https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 Royal Time Television (1080p),https://tixbolt.com/royaltv/index.fmp4.m3u8
+Royalworld (720p),https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
 RPL TV Woerden (720p),https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 RPM (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 RRI Net (1080p),https://rrinet.rri.co.id/hls/live.m3u8
@@ -3926,6 +3928,7 @@ Saudi Thaqafiya TV (1080p),https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68a
 Saudia Radio (1080p),https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 Saved by the Bell,https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
 Sayare TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8
+SAYHi (1080i),https://s-pl-01.mediatool.tv/playout/shpl-abr/index.m3u8
 SBC (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 SBC TV (720p) [Not 24/7],http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
 SBN (1080p),https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
@@ -4590,7 +4593,6 @@ TV A Folha (720p),https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m
 TV Aberta (1080p) [Not 24/7],https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 TV Aire (720p),https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
 TV Al Bayane (360p),http://69.64.57.208/albayanetv/index.m3u8
-TV Al Houda (720p) [Not 24/7],https://ssh101.bozztv.com/ssh101/alhoudatv/playlist.m3u8
 TV Alagonet (360p),https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
 TV Aldeia (720p),https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 TV Aliança Catarinense (720p),https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
@@ -4626,7 +4628,6 @@ TV Cultura Nacional,https://d28367vmhj4ljz.cloudfront.net/out/v1/f26e176ce67244d
 TV Curré (720p) [Not 24/7],http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 TV Curuça (360p),https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 TV Daja (1080p),https://rdn.essastream.com:3388/live/dajatvlive.m3u8
-TV Darts (576p),https://streamer103.neterra.tv/darts/live.m3u8
 TV das Artes (360p),http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
 TV Den (576p) [Not 24/7],http://canli.tvden.com.tr/hls/live.m3u8
 TV Destak (360p),http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
