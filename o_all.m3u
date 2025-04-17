@@ -6035,7 +6035,7 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
 https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
 #EXTINF:-1 tvg-id="OnTV4U.us" tvg-logo="https://i.imgur.com/NcEygU5.png" group-title="Shop",ONTV4U (1080p)
 https://stirr.b-cdn.net/stirr/playlist.m3u8
-#EXTINF:-1 tvg-id="ONTV.mn" tvg-logo="https://i.imgur.com/EzODUBO.png" group-title="Undefined",ONTV (1080p)
+#EXTINF:-1 tvg-id="ONTV.mn" tvg-logo="https://i.imgur.com/EzODUBO.png" group-title="General",ONTV (1080p)
 https://cdn3.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 tvg-id="OnzaTV.ve" tvg-logo="https://i.imgur.com/usrP6T2.png" group-title="General",Onza TV (720p)
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
@@ -8675,6 +8675,8 @@ http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="" group-title="Undefined",T2 Tennis Channel (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="T7.xk" tvg-logo="https://i.imgur.com/b7FvSJj.png" group-title="Undefined",T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
 #EXTINF:-1 tvg-id="T9.it" tvg-logo="https://i.imgur.com/kQKzpYj.png" group-title="General",T9 (288p)
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
 #EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/PktzDCH.png" group-title="News",T13 (720p)
@@ -9213,6 +9215,8 @@ https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/rtvarberia5/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArberiaRetroHits.xk" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Music",TV Arbëria Retro Hits (720p)
 https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk" tvg-logo="https://i.imgur.com/MAhJkK9.png" group-title="News",TV Arta
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 #EXTINF:-1 tvg-id="TVA.es" tvg-logo="https://i.imgur.com/aobkgrS.png" group-title="Undefined",TV Artequatre (576p)
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 #EXTINF:-1 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="General",TV Asahi (544p)
@@ -9795,7 +9799,7 @@ http://92.114.85.72:8000/play/a0bj
 http://92.114.85.72:8000/play/aOb3
 #EXTINF:-1 tvg-id="UALRTV.us" tvg-logo="https://i.imgur.com/cTwdOtV.png" group-title="Undefined",UALR TV
 https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/playlist.m3u8
-#EXTINF:-1 tvg-id="UBS.mn" tvg-logo="https://i.imgur.com/dIRMYYd.png" group-title="Undefined",UBS (1080p)
+#EXTINF:-1 tvg-id="UBS.mn" tvg-logo="https://i.imgur.com/dIRMYYd.png" group-title="General",UBS (1080p)
 https://cdn1.skygo.mn/live/disk1/UBSHD/HLS-FTA/UBSHD.m3u8
 #EXTINF:-1 tvg-id="UcanKusTV.tr" tvg-logo="https://i.imgur.com/4j8WrIu.png" group-title="Undefined",UçanKuş TV (720p)
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8

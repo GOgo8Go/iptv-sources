@@ -4337,6 +4337,7 @@ Syros TV1 (720p),https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 Szécsény TV (720p),http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
 Szolnok TV (1080p),https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 T2 Tennis Channel (1080p),https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+T7,https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
 T9 (288p),https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
 T13 (720p),https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 T Sports 7 (720p),https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
@@ -4606,6 +4607,7 @@ TV Arbëria 3 Fëmijë (720p),https://ssh101.bozztv.com/ssh101/rtvarberia3/playl
 TV Arbëria 4 Muzikë (720p),https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 TV Arbëria 5 (700p),https://ssh101.bozztv.com/ssh101/rtvarberia5/playlist.m3u8
 TV Arbëria Retro Hits (720p),https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+TV Arta,https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 TV Artequatre (576p),https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 TV Asahi (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
 TV Assembléia Ceará (720p),https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
