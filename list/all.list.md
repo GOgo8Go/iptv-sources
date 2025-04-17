@@ -10,7 +10,7 @@
 | 4 | [BD]rt-doc | [BD rt-doc](https://stream1.freetv.fun/f38764d5b0d13ea06a8fbc88b1b906b916b88d7101bb7cbbe0927d62d83e7e70.m3u8) |
 | 5 | [BD]cafetv24 veneto | [BD cafetv24 veneto](https://stream1.freetv.fun/c4040386cd485d7cd5c622ee0d02bc0c08f4c69d62fd5beddbd8dda7a57085a0.m3u8) |
 | 6 | [VGA]астрахань 24 | [VGA астрахань 24](https://stream1.freetv.fun/41034fb9991f872a88dbac48ba1f40b3685e21c48e7b7fe6c144f1203510b4df.m3u8) |
-| 7 | [BD]tv 100 | [BD tv 100](https://stream1.freetv.fun/187807feb1275dd7af7bcb7da9ba74c64239dfe402a3a9fe3a2c0d3e411cd7d1.m3u8) |
+| 7 | [BD]tv 100 | [BD tv 100](https://stream1.freetv.fun/d6ae09d8d982fb09c5218692e139d362db185f39885e0377d5fcb80a3e19bbe4.m3u8) |
 | 8 | [BD]其它100noticias | [BD 其它100noticias](https://stream1.freetv.fun/97d334131c0123cfe9d14ad99c052dc4af33d07620b20c0520901d0153099869.m3u8) |
 | 9 | [BD]swamiji tv australian | [BD swamiji tv australian](https://stream1.freetv.fun/83b0529a196db4678bacb41faf3d6e43a41d1f67045ef8aa1f7ab31354a88e9f.m3u8) |
 | 10 | [HD]adn 40 | [HD adn 40](https://stream1.freetv.fun/a069e5adf8da7d1ac4c6840191606473238c6534c9f2fe805e56180d196495de.m3u8) |
@@ -604,7 +604,7 @@
 | 598 | [SD]gulli | [SD gulli](https://stream1.freetv.fun/4ef73b8311b85f3bb99d77504e48d27a6484dc8aae192c20a8157411616147aa.ctv) |
 | 599 | [BD]nh tv | [BD nh tv](https://stream1.freetv.fun/ace53939ae82fa9ade48d73c9ffad2d771697b9a4dd9fe7ecb7872a72527131b.ctv) |
 | 600 | [HD]tve 24 h | [HD tve 24 h](https://stream1.freetv.fun/c1a7f9a3a5487a024d07c499341ff73da13f8a56660ac1b65625d99de11b1239.m3u8) |
-| 601 | [HD]hbo | [HD hbo](https://stream1.freetv.fun/0bdcc3a50973b24d87ea727540020cd0b96d6d4ec65751ee18ff86f2e9af5c68.ctv) |
+| 601 | [SD]hbo | [SD hbo](https://stream1.freetv.fun/419f7c8de2912e89d3b53b7f943c0c82a076fdf6846327e4911e8af9b5fd1d18.ctv) |
 | 602 | [HD]HBO 2 | [HD HBO 2](https://stream1.freetv.fun/f17dd751ce69656fc3b73131c0b91b33aef05308d0cee60231c55ef25cd36a50.ctv) |
 | 603 | [HD]hbo 3 | [HD hbo 3](https://stream1.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8) |
 | 604 | [BD]HBO | [BD HBO](https://stream1.freetv.fun/ca38481f4b5ff01e9a6c73d84bfccf2780a942e3970b12a3f2907f1ac402da8d.m3u8) |
@@ -882,7 +882,7 @@
 | 876 | [VGA]nickmusic usa | [VGA nickmusic usa](https://stream1.freetv.fun/08e0d07db205685600345e043a70cb849a716d27b47bd4e28c929fe48aad0e55.m3u8) |
 | 877 | [BD]NICKELODEON | [BD NICKELODEON](https://stream1.freetv.fun/a49ac678d35dadba798a328edfacb4471787884a4cd39fae530e2c5a133f885f.ctv) |
 | 878 | [HD]nickelodeon australia | [HD nickelodeon australia](https://stream1.freetv.fun/44fdd5c106267a92f6911ed1c9d7d1b6d773c6ce385300ab948c8d6fac455936.m3u8) |
-| 879 | [HD]nicktoons east | [HD nicktoons east](https://stream1.freetv.fun/85f8925c3224130ae40333cb95c6d7506436faa75adfec5f6c4af1975acd1ffd.m3u8) |
+| 879 | [HD]nicktoons | [HD nicktoons](https://stream1.freetv.fun/000de17b430e5719cba41bb934916afc4a0663c9d527c7bdb9cfe34f7a3e519f.m3u8) |
 | 880 | [SD]nihon eiga senmon | [SD nihon eiga senmon](https://stream1.freetv.fun/ae346f2acdb953e8d94bb847174a113c7cf6bb01ee577da25e03399fa10f6600.m3u8) |
 | 881 | [HD]life tv | [HD life tv](https://stream1.freetv.fun/3f63ecf7c940567371b914d9f5c4eea8997e9caa3c09b4ba92206393b0a69cee.m3u8) |
 | 882 | [SD]nile sport | [SD nile sport](https://stream1.freetv.fun/168f0a3d4c5bc868893c2a5fc29a375df1fdd955e61e8cb25f54370e052fc9fc.m3u8) |
@@ -2008,4 +2008,4 @@
 | 2002 | [BD]국악방송 | [BD 국악방송](https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8) |
 | 2003 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 
-Updated at **Thu Apr 17 2025 08:26:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 17 2025 16:24:52 GMT+0000 (Coordinated Universal Time)**
