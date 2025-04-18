@@ -1075,6 +1075,8 @@ https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 http://181.78.109.48:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="AXN.pl" tvg-logo="" group-title="Undefined",AXN (1080p)
 http://178.219.128.68:64888/AXN
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia (576p)
+http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.pl" tvg-logo="" group-title="Undefined",AXN Black (576p)
 http://185.236.229.62:9981/play/a075
 #EXTINF:-1 tvg-id="AXNSpin.pl" tvg-logo="" group-title="Undefined",AXN Spin (1080p)
@@ -3355,7 +3357,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://aegis-cloudfront-1.tubi.video/fdd93041-1042-41bf-9200-8f9efe38ace5/playlist.m3u8
 #EXTINF:-1 tvg-id="FanoTV.it" tvg-logo="https://i.imgur.com/rN6h7XU.png" group-title="General",Fano TV (1080p)
 https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8
-#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Animation",Fanpop TV
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="" group-title="Undefined",Fanpop TV
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="FAPTV.bo" tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="General",FAP TV (480p)
 https://nd106.republicaservers.com/hls/c7284/index.m3u8

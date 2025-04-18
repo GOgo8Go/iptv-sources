@@ -3147,6 +3147,7 @@ AXN,https://streamer1.nexgen.bz/AXN/index.m3u8
 AXN (1080p),https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 AXN (1080p),http://181.78.109.48:8000/play/a05u/index.m3u8
 AXN (1080p),http://178.219.128.68:64888/AXN
+AXN Asia (576p),http://125hvt.ddns.net:21585/axn/index.m3u8
 AXN Black (576p),http://185.236.229.62:9981/play/a075
 AXN Spin (1080p),http://185.236.229.62:9981/play/a044
 AXN White (576p),http://185.236.229.62:9981/play/a074
