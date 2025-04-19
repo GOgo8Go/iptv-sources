@@ -8,6 +8,7 @@ BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
 CCTV1 (1080p),http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
 CCTV2 (576p),http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
+CCTV5+,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
 CCTV15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 CCTV 世界地理,http://117.161.133.51:81/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8?p=GITV
 CCTV 兵器科技,http://117.161.133.51:81/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?p=GITV
@@ -18,13 +19,8 @@ CCTV 风云足球,http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHAN
 CCTV 风云音乐,http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-CCTV-5+体育赛事 (1080p),https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV-5体育 (1080p),http://1.85.0.62:808/hls/503/index.m3u8
 CCTV-6电影 (1080p),http://1.85.0.62:808/hls/6/index.m3u8
-CCTV-7国防军事 (1080p),https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-CCTV-8电视剧 (1080p),https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-CCTV-9纪录 (1080p),https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV-10科教 (1080p),https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV-13新闻 (1080p),https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
