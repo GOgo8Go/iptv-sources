@@ -540,6 +540,7 @@ AXN (1080p),http://185.236.229.62:9981/play/a07s
 AXN Asia (576p),http://125hvt.ddns.net:21585/axn/index.m3u8
 AXN Black (576p),http://185.236.229.62:9981/play/a075
 AXN Spin (1080p),http://185.236.229.62:9981/play/a044
+AXN Spin Poland (1080i),http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/0577b50c-92ca-49bc-a769-48203eb96bfd.ts
 AXN White (576p),http://185.236.229.62:9981/play/a074
 AXS TV NOW,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 AYNI TV (720p),https://stmvideo3.livecastv.com/aynitv/aynitv/playlist.m3u8

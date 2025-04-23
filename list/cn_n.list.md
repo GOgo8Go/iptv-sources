@@ -1,4 +1,4 @@
-# List for **China National**
+# List for **China National**(Rollback)
 
 > M3U: [cn_n.m3u](/cn_n.m3u), TXT: [cn_n.txt](/txt/cn_n.txt)
 
@@ -13,4 +13,4 @@
 | 7 | [BD]发现之旅 | [BD 发现之旅](https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv) |
 | 8 | [BD]风云足球[ipv6] | [BD 风云足球 ipv6](https://epg.pw/stream/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8) |
 
-Updated at **Tue Apr 22 2025 16:24:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 23 2025 01:38:41 GMT+0000 (Coordinated Universal Time)**

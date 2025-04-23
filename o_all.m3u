@@ -1081,6 +1081,8 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 http://185.236.229.62:9981/play/a075
 #EXTINF:-1 tvg-id="AXNSpin.pl" tvg-logo="" group-title="Undefined",AXN Spin (1080p)
 http://185.236.229.62:9981/play/a044
+#EXTINF:-1 tvg-id="AXNSpin.hu@Poland" tvg-logo="https://i.imgur.com/uVFenKm.png" group-title="Entertainment",AXN Spin Poland (1080i)
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/0577b50c-92ca-49bc-a769-48203eb96bfd.ts
 #EXTINF:-1 tvg-id="AXNWhite.pl" tvg-logo="" group-title="Undefined",AXN White (576p)
 http://185.236.229.62:9981/play/a074
 #EXTINF:-1 tvg-id="AXSTVNOW.us" tvg-logo="https://i.imgur.com/lYa793q.png" group-title="Documentary",AXS TV NOW
@@ -1537,7 +1539,7 @@ https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
 https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-id="BYUTV.us" tvg-logo="https://i.imgur.com/mruGyuu.png" group-title="Undefined",BYU TV (720p)
 https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
-#EXTINF:-1 tvg-id="C1.mn" tvg-logo="https://i.imgur.com/v1mHG5x.png" group-title="Undefined",C1 (1080p)
+#EXTINF:-1 tvg-id="C1.mn" tvg-logo="https://i.imgur.com/v1mHG5x.png" group-title="General",C1 (1080p)
 https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
 #EXTINF:-1 tvg-id="C4Television.co" tvg-logo="https://i.imgur.com/hXTRxyh.png" group-title="General",C4 Televisión (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8148/index.m3u8
