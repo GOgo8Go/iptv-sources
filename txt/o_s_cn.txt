@@ -1,5 +1,5 @@
 iptv.org stream China,#genre#
-Ando TV,http://stream.qhbtv.com/adws/sd/live.m3u8
+Ando TV (576p),http://119.1.122.186:4022/rtp/238.255.2.189:5999
 Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
 Beijing Traffic Radio TV,http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 Beijing Youth Radio,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
@@ -110,9 +110,6 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 云南 Ⅰ 文山综合台 (1080p),http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 云南 Ⅰ 红河综合台 (1080p),https://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 云南卫视 (1080p),https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
-云南卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
-云南卫视 (576p),http://183.207.248.71/cntv/live1/yunnanstv/yunnanstv
-云南卫视 (540p),http://112.25.48.68/live/program/live/ynws/1300000/mnf.m3u8
 云南都市 (1080p),http://39.130.202.81:6610/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
 五星体育 (720p),http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 亚太台 (480p),http://174.127.67.246/live330/playlist.m3u8
@@ -138,9 +135,7 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 内蒙古卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 农安新闻综合,https://stream2.jlntv.cn/naxw/sd/live.m3u8
 凤凰中文 (720p),http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰中文 (576p),http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰资讯 (720p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-凤凰资讯 (576p),http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰香港 (720p),http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 利川公共 (576p),http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
 利川公共 (180p),http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
@@ -148,7 +143,7 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 前郭综合,https://stream2.jlntv.cn/qg/sd/live.m3u8
 动作电影 (1080p),http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 动画王国 (1080p),http://183.207.248.71/cntv/live1/donghuawg/donghuawg
-北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
+北京卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 北京卫视 (1080p),http://112.25.48.68/live/program/live/bjwshd/4000000/mnf.m3u8
 北京纪实 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
@@ -183,9 +178,6 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 吉州新闻综合 (1080p),http://218.204.153.158/10.m3u8
 吉林7 (900p),https://stream1.jlntv.cn/fzpd/sd/live.m3u8
 吉林卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
-吉林卫视 (540p),http://112.25.48.68/live/program/live/jlws/1300000/mnf.m3u8
-吉林卫视 (360p),http://125.210.152.18:9090/live/JLWSHD_H265.m3u8
-吉林卫视 (240p),https://stream4.jlntv.cn/test2/sd/live.m3u8
 吉林市新闻综合,https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 吉林乡村 (900p),https://stream1.jlntv.cn/xcpd/sd/live.m3u8
 吴江新闻综合 (720p),http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
@@ -214,8 +206,6 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 孟州电视台 (1080p),http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 孤注一掷清晰版,https://hd.ijycnd.com/play/zbqmMMkb/index.m3u8
 宁夏卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
-宁夏卫视 (576p),http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
-宁夏卫视 (540p),http://112.25.48.68/live/program/live/nxws/1300000/mnf.m3u8
 安徽 Ⅰ 淮北公共 (720p),http://live.0561rtv.cn/ggpd/hd/live.m3u8
 安徽 Ⅰ 淮北综合 (720p),http://live.0561rtv.cn/xwzh/hd/live.m3u8
 安徽 Ⅰ 郎溪综合台 (1080p),http://117.70.93.210:1935/live/xinwen/playlist.m3u8
@@ -325,17 +315,15 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 江苏卫视 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 江苏城市 (576p),http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS
 江苏影视 (576p),http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-江苏影视 (576p),http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
 江苏教育 (576p),http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
-江苏教育 (576p),http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
 江苏综艺 (576p),http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 江西卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 沧县电视二套 (576p),http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8
 沧县电视综合 (576p),http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8
 河北公共,http://121.19.134.246:808/hls/24/index.m3u8
-河北农民,http://121.19.134.246:808/hls/25/index.m3u8
 河北农民 (576p),http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8
 河北农民 (360p),http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8
+河北农民,http://121.19.134.246:808/hls/25/index.m3u8
 河北卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 河北影视,http://121.19.134.246:808/hls/22/index.m3u8
 河北经济,http://121.19.134.246:808/hls/20/index.m3u8
@@ -357,10 +345,10 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 浙江 Ⅰ 绍兴综合 (576p),http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 浙江公共 (1080p),https://ct-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际 (1080p),https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江影视 (720p),https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -371,9 +359,9 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 浙江留学 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 海南卫视 (720p),http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 海南州藏语频道 (480p),http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
 海盐新闻 (720p),http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
@@ -442,8 +430,8 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 置业 (576p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
 美国中文电视 (406p),https://jpts.sinovision.net/livestream.m3u8
 美国狗狗宠物 (1080p),https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
-耀才财经,http://202.69.67.66/webcast/bshdlive-pc/playlist.m3u8
 耀才财经 (288p),http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+耀才财经,http://202.69.67.66/webcast/bshdlive-pc/playlist.m3u8
 肃州电视台 (1080p),http://117.156.28.119/270000001111/1110000123/index.m3u8
 舟山公共生活 (720p),http://live.wifizs.cn/ggsh/sd/live.m3u8
 舟山新闻综合 (240p),http://live.wifizs.cn/xwzh/sd/live.m3u8
