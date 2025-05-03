@@ -43,6 +43,8 @@ DOX Yaqu,http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?authid=0&key=txiptv
 DOX Yijia,http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?authid=0&key=txiptv&playlive=1
 Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 Ecology & Environment TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
+EWTN Africa Asia (720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+EWTN Asia-Pacific (720p) [Not 24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 Game Channel,http://49.113.179.174:4022/udp/238.125.1.36:5140
 Hunan Entertainment Channel,http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8
 Hunan Ping Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
