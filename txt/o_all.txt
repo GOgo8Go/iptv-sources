@@ -1257,7 +1257,6 @@ Dega TV (720p) [Not 24/7],https://59d39900ebfb8.streamlock.net/saintlouisltv/sai
 Degrassi,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e77a3a7d-8f76-4cbc-a288-db274c938959
 Degrassi,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e71322f5f180007001dde/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd0-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b13bbde4-6ce3-474b-9630-e27748ff481f
 Degrassi The Next Generation (720p),https://d365kok94jpr38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2xcmoue1get1c/playlist.m3u8
-Degrassi The Next Generation (Canada) (720p),https://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
 Deha TV (720p),https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
 Del Este TV (720p),https://stream.oursnetworktv.com/latin/estetvo/playlist.m3u8
 Del Mar TV (720p),https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
@@ -1344,6 +1343,7 @@ Epirus TV1 (1080p),https://til.pp.ua:3928/live/epiruslive.m3u8
 Epsilon TV (720p),https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 Equidia (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 Equidia Racing Mag (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+Equinoxe TV,http://69.64.57.208/equinoxtv/playlist.m3u8
 Equipo de Investigacion (1080p),https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 Equus TV (1080p),https://d2gwqf8gdwq1zs.cloudfront.net/scheduler/scheduleMaster/426.m3u8
 Er TV (1080p),https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
@@ -1681,7 +1681,6 @@ GDMTV (720p) [Not 24/7],https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 GDNS Ludhiana (1080p) [Not 24/7],http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 Geb Tv (KBPX LD5) (1080p),https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 Geekdot (720p),https://stream.ichibantv.com:3764/hybrid/play.m3u8
-GEM Academy,https://ca-rt.onetv.app/gemacademy/index-0.m3u8
 GEM Bollywood,https://ca-rt.onetv.app/gembollywood/index-0.m3u8
 GEM Classic,https://ca-rt.onetv.app/gemclassic/index-0.m3u8
 GEM Comedy,https://ca-rt.onetv.app/gemcomedy/index-0.m3u8
@@ -1698,7 +1697,6 @@ GEM River,https://ca-rt.onetv.app/gemriver/index-0.m3u8
 GEM Rubix,https://ca-rt.onetv.app/gemrubix/index-0.m3u8
 GEM Series,https://ca-rt.onetv.app/gemseriesbb/index-0.m3u8
 Gem Shopping Network (720p),https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
-GEM Travel,https://ca-rt.onetv.app/gemtravel/index-0.m3u8
 GEM TV,https://ca-rt.onetv.app/gemb/index-0.m3u8
 Gems TV (720p),https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 GenB TV (1080p),https://bad-badiv-stirr.otteravision.com/bad/badiv/badiv.m3u8
@@ -1980,6 +1978,7 @@ Joshua TV (720p),https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
 Josué TV (1080p),https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 Journy (720p),https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
 Jovem Pan News (JP News) (1080p) [Not 24/7],https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+Joy News,http://69.64.57.208/joynews/playlist.m3u8
 Joy Prime,http://69.64.57.208/joyprime/playlist.m3u8
 JRTV Järviradio (720p),https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
 JTV (720p) [Not 24/7],http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
@@ -2111,7 +2110,6 @@ Kid Quest,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/
 Kid Squad,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa6b4eb5e661000741e424/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f347c20b-3e69-45b2-860a-0b4719c55e15
 Kiddiwinks (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
 Kiddo+,https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
-Kidoodle TV,https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 Kids Movie Club,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac
 Kids Pang TV (1080p),https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
 KidsFlix (1080p) [Not 24/7],https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
@@ -2769,7 +2767,7 @@ Nayarit Comunica,https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 Nazali's HDTV (1080p),http://194.163.135.238:5080/WebRTCApp/streams/590264631485484547459082.m3u8
 Nazarenas TV (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 Nazrana (720p) [Not 24/7],https://live.hungama.com/linear/nazrana/playlist.m3u8
-NBA TV (1080p),https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+NBA TV (720p),https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
 NBC 2 Orlando FL (WESH) (720p),https://apollo.production-public.tubi.io/live/ac-wesh.m3u8
 NBC 2 Tulsa OK (KJRH) (720p),https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8
 NBC 3 Sacramento CA (KCRA) (720p),https://apollo.production-public.tubi.io/live/ac-kcra.m3u8
@@ -3008,7 +3006,7 @@ Outer Vision,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca141
 OuterMax East (720p),http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 Outersphere (1080p),https://livetv-fa.tubi.video/outersphere2/playlist.m3u8
 OuterSphere,https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
-Outside TV (720p),https://outside-tv-samsung-ca.samsung.wurl.tv/manifest/playlist.m3u8
+Outside TV,https://outsidetv-firetv.amagi.tv/playlist.m3u8
 Outside TV Plus (1080p),https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
 OUTtv Proud,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c879e94c380008f6eb16/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7817-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ef048e14-69dc-4cee-9cd0-623bfaa5c559
 Ovacion TV (720p) [Not 24/7],http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -3536,7 +3534,7 @@ Power TV (720p),https://stream.it-innov.com/powertv/index.fmp4.m3u8
 Power TV (720p) [Not 24/7],https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 Power TV (1080p),https://liveboxvideoconference.livebox.co.in/PowersmartMediahls/powertvlive.m3u8
 Power TV (1080p),https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-PowerNation,https://a3d7c6b7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1jYV9SVE1UVkNoYW5uZWxfSExT/playlist.m3u8
+PowerNation TV (720p),https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b8ce63f3-49cd-4cc1-8ccc-88a81b828a26/5.m3u8
 Praha TV (1080p),https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
 Praise Jesus Tower TV (480p),https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8
 Praise TV (720p),https://livecdn.live247stream.com/praise/tv/playlist.m3u8
