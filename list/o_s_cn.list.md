@@ -536,5 +536,10 @@
 | 530 | 龙口新闻综合 (576p) | [龙口新闻综合 (576p)](http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8) |
 | 531 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 532 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
+| 533 | Nei Monggol TV Economic & Life Channel | [Nei Monggol TV Economic & Life Channel](http://play1-qk.nmtv.cn/live/1686562470947181.m3u8) |
+| 534 | Nei Monggol TV Agriculture & Animal Channel | [Nei Monggol TV Agriculture & Animal Channel](http://play1-qk.nmtv.cn/live/1686561299036179.m3u8) |
+| 535 | Nei Monggol TV Culture Entertainment Channel | [Nei Monggol TV Culture Entertainment Channel](http://play1-qk.nmtv.cn/live/1686561195713372.m3u8) |
+| 536 | Nei Monggol TV Children Channel | [Nei Monggol TV Children Channel](http://play1-qk.nmtv.cn/live/1686560464515368.m3u8) |
+| 537 | Nei Monggol TV News Channel | [Nei Monggol TV News Channel](http://play1-qk.nmtv.cn/live/1686560423879174.m3u8) |
 
-Updated at **Thu May 08 2025 01:41:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 08 2025 08:27:31 GMT+0000 (Coordinated Universal Time)**
