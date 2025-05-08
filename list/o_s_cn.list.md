@@ -542,4 +542,4 @@
 | 536 | Nei Monggol TV Children Channel | [Nei Monggol TV Children Channel](http://play1-qk.nmtv.cn/live/1686560464515368.m3u8) |
 | 537 | Nei Monggol TV News Channel | [Nei Monggol TV News Channel](http://play1-qk.nmtv.cn/live/1686560423879174.m3u8) |
 
-Updated at **Thu May 08 2025 08:27:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 08 2025 16:26:33 GMT+0000 (Coordinated Universal Time)**
