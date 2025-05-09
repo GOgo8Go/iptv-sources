@@ -541,5 +541,11 @@
 | 535 | Nei Monggol TV Culture Entertainment Channel | [Nei Monggol TV Culture Entertainment Channel](http://play1-qk.nmtv.cn/live/1686561195713372.m3u8) |
 | 536 | Nei Monggol TV Children Channel | [Nei Monggol TV Children Channel](http://play1-qk.nmtv.cn/live/1686560464515368.m3u8) |
 | 537 | Nei Monggol TV News Channel | [Nei Monggol TV News Channel](http://play1-qk.nmtv.cn/live/1686560423879174.m3u8) |
+| 538 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
+| 539 | Jiangxi Children's Channel | [Jiangxi Children's Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8) |
+| 540 | Jiangxi Movie Channel | [Jiangxi Movie Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8) |
+| 541 | Jiangxi Public & Agriculture Channel | [Jiangxi Public & Agriculture Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8) |
+| 542 | Jiangxi Economy & Life Channel | [Jiangxi Economy & Life Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8) |
+| 543 | Jiangxi City Channel | [Jiangxi City Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8) |
 
-Updated at **Fri May 09 2025 01:41:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 09 2025 08:27:01 GMT+0000 (Coordinated Universal Time)**
