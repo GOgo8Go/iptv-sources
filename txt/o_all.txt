@@ -356,6 +356,7 @@ Anime Zone TV (480p),http://animezonetv.net/hls/stream.m3u8
 Anixe + (360p),https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 Anixe HD Serie (360p),https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 Anjan (1080p) [Not 24/7],https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8
+ANN News (720p),https://cdn.ottlive.co.in/annnews/index.m3u8
 ANT1 (1080p),http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 ANT1 Cyprus (1080p),http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 Antares Televisión (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
@@ -1545,6 +1546,7 @@ Fano TV (1080p),https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/4
 Fanpop TV,https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 FAP TV (480p),https://nd106.republicaservers.com/hls/c7284/index.m3u8
 Faraja Television (1080p) [Not 24/7],https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
+FarmodaTV (1080p),https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 Faro de Santidad TV (720p),https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
 Faro Puntarenas TV (720p) [Not 24/7],https://rpn3.bozztv.com/ssh101/ssh101/faroptv/playlist.m3u8
 Faros TV2 (480p),https://s1.cystream.net/live/faros2/playlist.m3u8
@@ -2060,6 +2062,11 @@ Jewelry TV 2 (720p),https://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8
 Jewelry TV (KCKS-LD12) (480p),https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 Jewish Life Television (720p),https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live3/jltv_720p/playlist.m3u8
 JiaJia Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
+Jiangxi Children's Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+Jiangxi City Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
+Jiangxi Economy & Life Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
+Jiangxi Movie Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
+Jiangxi Public & Agriculture Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
 Jibek Joly (1080p),https://stream.qazcdn.net/jjtv/jjtv/playlist.m3u8
 Jihočeská televize (1080p),https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 Jim (720p),https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
@@ -2421,6 +2428,7 @@ Miturno TV,https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 MITV (480p),https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 MiTV (720p),https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 MiTV (720p) [Not 24/7],https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
+Mixkurdy (1080p),https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 MK Six (576p) [Not 24/7],http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 MK Tunes (576p) [Not 24/7],http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 MK TV (576p) [Not 24/7],http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
@@ -3814,6 +3822,7 @@ Totally Turtles (OV),http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/
 Totovisión (720p),https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 Tough Jobs,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bf23ef47d0008583967/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d528c1a-18fe-40ef-bdaa-cfc0e490b48f
 Toute une histoire,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e6aebcdda4000754fa47/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b106-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=944d6772-86fc-4c0e-8d05-e958415ee0be
+towheedtv (720p),https://avr.host247.net/live/towheedtv/playlist.m3u8
 Town TV (720p),https://live.kh.malimarcdn.com/live/towntv.stream/playlist.m3u8
 TR24 (720p),https://stream.it-innov.com/tr24/index.m3u8
 TR Sport (480p),https://livetr.teleromagna.it/mia/live/playlist.m3u8
