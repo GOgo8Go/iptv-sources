@@ -11,4 +11,4 @@
 | 5 | CGTN Français (1080p) | [CGTN Français (1080p)](https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8) |
 | 6 | CGTN Русский (1080p) | [CGTN Русский (1080p)](https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8) |
 
-Updated at **Fri May 09 2025 16:25:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 10 2025 01:37:36 GMT+0000 (Coordinated Universal Time)**
