@@ -2938,6 +2938,7 @@ Radio Imagen 105.1 FM (720p) [Not 24/7],https://streaming.imagenfm105-1.com/hls/
 Radio Impacto 2 (1080p) [Not 24/7],https://inliveserver.com:1936/17518/17518/playlist.m3u8
 Radio Isla TV (720p),https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
 Radio Italia Anni 60 TV (720p),https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8
+Radio Italia Trend,https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
 Radio Italia Trend (720p),https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
 Radio Javan TV (1080p),http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
 Radio JND (1080p),https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
@@ -3943,6 +3944,7 @@ TV Padre Cicero (720p),https://video01.logicahost.com.br/tvpadrecicero/tvpadreci
 TV Palmeras (1080p),https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 TV Panou (720p) [Not 24/7],http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 TV Pantanal MS (360p) [Not 24/7],https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+TV Paraense (720p),https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 TV Paraná Turismo (720p) [Not 24/7],http://200.189.113.201/hls/tve.m3u8
 TV Passo Fundo (720p),https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 TV Peñol (720p),https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
