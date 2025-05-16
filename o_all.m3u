@@ -6783,6 +6783,8 @@ https://ncdn.telewebion.com/twsport2/live/playlist.m3u8
 https://ncdn.telewebion.com/twsport3/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="Business",Telewizja Biznesowa (1080p)
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-id="TelewizjaJaslo.pl" tvg-logo="https://i.imgur.com/nV2jQQP.png" group-title="General",Telewizja Jaslo (720p)
+https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelewizjaLuban.pl" tvg-logo="https://i.imgur.com/t2BGp0G.jpeg" group-title="General",Telewizja Lubań (720p) [Not 24/7]
 http://stream.herissons.cloud/hls/tvluban.m3u8
 #EXTINF:-1 tvg-id="TelewizjaTorun.pl" tvg-logo="https://i.imgur.com/UNwzRHN.png" group-title="Undefined",Telewizja Toruń (1080p) [Not 24/7]
