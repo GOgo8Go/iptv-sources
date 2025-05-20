@@ -3789,6 +3789,8 @@ https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="IMTV.sn" tvg-logo="https://i.imgur.com/B19cWx1.jpg" group-title="Religious",Islam TV Sénégal (720p)
 https://tv.imediasn.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="IslandLuckTV.bs@SD" tvg-logo="https://i.imgur.com/P0gDN5n.png" group-title="Entertainment",Island Luck TV
+https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="IsraelParsTV.il" tvg-logo="https://i.imgur.com/UM5Gf4L.png" group-title="News",Israel Pars TV (540p)
 https://live.pars-israel.com/iptv/stream.m3u8
 #EXTINF:-1 tvg-id="IstoguChannel.xk" tvg-logo="https://i.imgur.com/3vUkFsT.jpg" group-title="General",Istogu Channel (1080i)

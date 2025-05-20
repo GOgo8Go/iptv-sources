@@ -4519,6 +4519,7 @@ Isla TV (480p),https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 Islam Channel (576p) [Not 24/7],https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 Islam Channel Urdu,https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
 Islam TV Sénégal (720p),https://tv.imediasn.com/hls/live.m3u8
+Island Luck TV,https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
 Israel Pars TV (540p),https://live.pars-israel.com/iptv/stream.m3u8
 Istogu Channel (1080i),http://77.83.120.135:8001/play/a15z
 iSTUFF (720p) [Not 24/7],https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
