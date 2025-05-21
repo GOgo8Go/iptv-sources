@@ -6926,6 +6926,7 @@ VTM 2 (720p),https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m
 VTM (720p),https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 VTN Victory Television Network (720p),https://api.new.livestream.com/accounts/15669040/events/4554297/live.m3u8
 VTV1 (576p),http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
+VTV1 (1080p),http://p1.cvtv.xyz/vtv1?token=live
 VTV2 (1080p),https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 VTV3 (1080p),https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 VTV4 (576p),http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
