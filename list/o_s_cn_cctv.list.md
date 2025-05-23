@@ -13,4 +13,4 @@
 | 7 | CCTV-6电影 (1080p) | [CCTV-6电影 (1080p)](http://1.85.0.62:808/hls/6/index.m3u8) |
 | 8 | CCTV-13新闻 (1080p) | [CCTV-13新闻 (1080p)](https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8) |
 
-Updated at **Fri May 23 2025 08:27:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 23 2025 16:25:02 GMT+0000 (Coordinated Universal Time)**
