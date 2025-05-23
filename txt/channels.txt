@@ -2630,7 +2630,7 @@ iptv.org All,#genre#
 1KZN TV (576p),https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 1Music Channel Hungary (576p),http://1music.hu/1music.m3u8
 1TV (720p),https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-1Twente TV (1080p),https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
+1Twente TV (1080p),https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
 002 Radio TV (720p),https://cdn.002radio.com:3909/live/radio002live.m3u8
 2GB Sydney (1080p),https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 2STV,http://69.64.57.208/2stv/playlist.m3u8
@@ -2698,7 +2698,6 @@ A7TV (1080p),http://62.233.57.226:8001/play/a00j00
 A12 TV (720p),https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 A21 VITAL AUTOSPORT [Not 24/7],https://autopilot.catcast.tv/content/37909/index.m3u8
 Aathavan TV (720p) [Not 24/7],http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-AAVISIE (720p),https://d1wgur45ikj8gz.cloudfront.net/nlpo/clr-nlpo/aavisietv/index.m3u8
 AB Channel (720p),https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
 Abadan,https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
 Abai TV (720p),https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
@@ -4146,8 +4145,6 @@ Gnomi TV (1080p),https://live.streams.ovh:8081/gnomitv/index.m3u8
 Go2Travel (1080p),https://go2thls.wns.live/hls/stream.m3u8
 GO TV (720p),https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 Go USA,https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
-GO-RTV (720p),http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-GO-TV (720p),https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8
 GO-TV Canale 163 (720p),https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 Goa365 (720p),https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
 Goal TV,https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
@@ -6747,19 +6744,18 @@ TVT Zgorzelec (576p) [Not 24/7],http://gargoyle.tomkow.pl/hls/tvt.m3u8
 TVU Concepción (1080p),https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 TVUNO (720p),https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 TVX (1080p) [Not 24/7],https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
-Tweede Kamer: Actualiteitenkanaal (720p) [Not 24/7],https://livestream.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
-Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7],https://livestreaming.b67.tweedekamer.nl/live/alettajacobszaal/2000/prog_index.m3u8
-Tweede Kamer: Groen van Prinstererzaal (720p) [Not 24/7],https://livestream.tweedekamer.nl/live/groen_van_prinstererzaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
-Tweede Kamer: Klompézaal (1080p) [Not 24/7],https://livestreaming.b67.tweedekamer.nl/live/klompezaal/300/prog_index.m3u8
-Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7],https://livestreaming.b67.tweedekamer.nl/live/maxvanderstoelzaal/567/prog_index.m3u8
-Tweede Kamer: Plenaire zaal (1080p) [Not 24/7],https://livestreaming.b67bu.tweedekamer.nl/live/plenairezaal/4000/prog_index.m3u8
-Tweede Kamer: Suze Groenewegzaal (720p) [Not 24/7],https://livestream.tweedekamer.nl/live/suze_groenewegzaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
-Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7],https://livestreaming.b67.tweedekamer.nl/live/thorbeckezaal/571/prog_index.m3u8
+Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7],https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&subtitles=live&keyframes=1
+Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7],https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&subtitles=live&keyframes=1
+Tweede Kamer: Enquetezaal (1080p) [Not 24/7],https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&subtitles=live&keyframes=1
+Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7],https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&subtitles=live&keyframes=1
+Tweede Kamer: Klompezaal (1080p) [Not 24/7],https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&subtitles=live&keyframes=1
+Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7],https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&subtitles=live&keyframes=1
+Tweede Kamer: Plenaire zaal (1080p) [Not 24/7],https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&subtitles=live&keyframes=1
+Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7],https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&subtitles=live&keyframes=1
+Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7],https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&subtitles=live&keyframes=1
 Tweede Kamer: Tilanuskamer (1080p) [Not 24/7],https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8
-Tweede Kamer: Troelstrazaal (1080p) [Not 24/7],https://livestreaming.b67.tweedekamer.nl/live/troelstrazaal/567/prog_index.m3u8
-Tweede Kamer: Vondelingkamer (1080p) [Not 24/7],https://livestream.tweedekamer.nl/live/vondelingkamer/300/prog_index.m3u8
-Tweede Kamer: Wttewaall van Stoetwegenzaal (720p) [Not 24/7],https://livestream.tweedekamer.nl/live/wttewaall_van_stoetwegenzaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
-Tweede Kamer:Enquêtezaal (720p) [Not 24/7],https://livestream.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+Tweede Kamer: Troelstrazaal (1080p) [Not 24/7],https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&subtitles=live&keyframes=1
+Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7],https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&subtitles=live&keyframes=1
 Twenty Four News (396p),https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 Tynaarlo Lokaal TV (1080p),https://wowza2.videostreamingwowza.com/eeldevrieszuidlaren/eeldevrieszuidlaren/playlist.m3u8
 TYT Turk (720p),https://cdn4.yayin.com.tr/tytturk/index.m3u8
