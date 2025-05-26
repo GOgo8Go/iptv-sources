@@ -173,6 +173,5 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 青海卫视 (1080p),http://live.geermurmt.com/qhws/sd/live.m3u8
 风尚购物 (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
 高台电视台 (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
-高清电影 (1080p),http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 鹤壁新闻综合 (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 黑龙江 (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8

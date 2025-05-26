@@ -178,8 +178,7 @@
 | 172 | 青海卫视 (1080p) | [青海卫视 (1080p)](http://live.geermurmt.com/qhws/sd/live.m3u8) |
 | 173 | 风尚购物 (1080p) | [风尚购物 (1080p)](http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw) |
 | 174 | 高台电视台 (1080p) | [高台电视台 (1080p)](http://117.156.28.119/270000001111/1110000146/index.m3u8) |
-| 175 | 高清电影 (1080p) | [高清电影 (1080p)](http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8) |
-| 176 | 鹤壁新闻综合 (480p) [Not 24/7] | [鹤壁新闻综合 (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
-| 177 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
+| 175 | 鹤壁新闻综合 (480p) [Not 24/7] | [鹤壁新闻综合 (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
+| 176 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 
-Updated at **Sun May 25 2025 16:22:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 26 2025 01:45:42 GMT+0000 (Coordinated Universal Time)**
