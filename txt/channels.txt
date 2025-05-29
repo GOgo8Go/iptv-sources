@@ -7581,7 +7581,6 @@ Xinjiang TV 12,http://49.113.179.174:4022/udp/238.125.3.185:5140
 Xizang TV Chinese,http://php.jdshipin.com/xztv.php?id=ws
 Xizang TV Tibetan,http://49.113.179.174:4022/udp/238.125.3.94:5140
 Yanbian Cinese Comprehensive Channel,https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
-Yanbian TV 1,https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
 Yicai TV,http://49.113.179.174:4022/udp/238.125.0.165:5140
 Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 万州三峡移民 (576p),http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
