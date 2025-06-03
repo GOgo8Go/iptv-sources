@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CGTN.cn",CGTN (1080p)
-https://english-livebkws.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn",CGTN (576p)
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn",CGTN Arabic (1080p)
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn",CGTN Documentary (1080p)
