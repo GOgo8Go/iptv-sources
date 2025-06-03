@@ -54,7 +54,6 @@ Jiangxi City Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
 Jiangxi Economy & Life Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
 Jiangxi Movie Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 Jiangxi Public & Agriculture Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
-Lanzhou Comprehensive News Channel,https://liveplus.lztv.tv/xwzh/HD/live.m3u8
 Laughter Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
 Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Nanchang News & Generalist Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
@@ -141,10 +140,7 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 河源公共 (540p),https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 浙江卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 浙江少儿 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江数码时代 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生休闲 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济生活 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-海南卫视 (720p) [Not 24/7],http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
+海南卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
 深圳卫视 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 湖北卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
 湖南卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
@@ -152,17 +148,13 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 滁州市广播电视台 公共频道 (400p),http://live.cztv.cc:85/live/ggpd.m3u8
 滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
 滁州市广播电视台 科教频道 (400p),http://live.cztv.cc:85/live/sjpd.m3u8
-点掌财经 (712p),http://cclive.aniu.tv/live/anzb.m3u8
 甘肃卫视 (1080p),http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888
 白城新闻综合,https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-美国中文电视 (406p) [Not 24/7],https://jpts.sinovision.net/livestream.m3u8
-舟山新闻综合 (240p),http://live.wifizs.cn/xwzh/sd/live.m3u8
 萍乡新闻综合 (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
 西安丝路 (404p) [Not 24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
 西安商务资讯 (180p) [Not 24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
 贵州卫视 (576p),http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 辽宁卫视 (1080p),http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
-通州电视台 (720p),http://pull.dayuntongzhou.com/live/tztv.m3u8
 酒泉新闻综合 (576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
 重庆卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 金鹰卡通 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
