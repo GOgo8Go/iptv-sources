@@ -2008,4 +2008,4 @@
 | 2002 | [BD]국악방송 | [BD 국악방송](https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8) |
 | 2003 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 
-Updated at **Wed Jun 04 2025 01:45:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 04 2025 08:28:34 GMT+0000 (Coordinated Universal Time)**
