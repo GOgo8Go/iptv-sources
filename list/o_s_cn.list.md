@@ -464,4 +464,4 @@
 | 458 | Jiangxi Economy & Life Channel | [Jiangxi Economy & Life Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8) |
 | 459 | Jiangxi City Channel | [Jiangxi City Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8) |
 
-Updated at **Thu Jun 05 2025 01:43:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 05 2025 08:28:20 GMT+0000 (Coordinated Universal Time)**
