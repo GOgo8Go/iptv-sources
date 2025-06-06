@@ -242,7 +242,7 @@ Al Masar TV (576p),https://starmenajo.com/hls/almasar/index.m3u8
 Al Mashhad (1080p),https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 Al Masirah (720p) [Not 24/7],https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 Al Masirah Mubacher (642p) [Not 24/7],https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
-Al Masriyah,https://live20.bozztv.com/gin-36bay4/ga-almasriya/tracks-v1a1/mono.m3u8
+Al Masriyah,https://fl1002.bozztv.com/ga-almasriya/index.m3u8
 Al Mayadeen (576p),https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 Al Mouridiyyah TV,https://live20.bozztv.com/dvrfl06/astv/astv-AlMouridiyyahTV/index.m3u8
 Al Najah News (720p),https://streaming.najah.edu:8443/hls/AlNajah.m3u8
@@ -758,7 +758,6 @@ Cine Aliens (720p),https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c6
 Cine Clásico,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
 Cine en Espanol (720p),https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
 Cine Estrella (1080p),https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
-Cine Mo! (720p),https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 Cine Premiere,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec
 Cine Romantico,https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 Cine Sony (720p),https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -770,7 +769,6 @@ CineLife,https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelif
 Cinema,http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 Cinema 1 (1080p),http://62.233.57.226:8001/play/a00l00
 Cinema Hausa (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
-Cinema One (1080p),https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 CinemaWorld (576p),http://210.210.155.37/dr9445/h/h04/index.m3u8
 Cinevault 80s (540p),https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
 Cinevault Classics (540p),https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
@@ -1018,6 +1016,7 @@ Dark Matter,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hl
 Dark Matter,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e843d849109b700075d5ada/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d3ca0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6893d11a-d794-409e-a9f2-0afb2b6100aa
 Daru TV (720p),https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
 Das Erste (1080p),https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+Das Erste HD (1080p),https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 Das Geheimnis der Hunters,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d9107e60bc8f0008a1d9ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d3ca1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e0f67f8-eeeb-4333-8628-2a462b668bd3
 Das Geheimnis der Hunters,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d9107e60bc8f0008a1d9ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83a560-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4de13739-bd4a-407c-9ede-77a7a5982caa
 Das Geheimnis der Hunters,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d9107e60bc8f0008a1d9ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=070c6bbd-35e0-486f-b1f7-2a1d07821ba3
@@ -1106,7 +1105,6 @@ Den Haag TV (1080p) [Not 24/7],http://wowza5.video-streams.nl:1935/denhaag/denha
 Dena,https://ncdn.telewebion.com/dena/live/playlist.m3u8
 Deniz Postası TV (720p) [Not 24/7],https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 Denver 8 TV (Denver CO) (720p),https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
-DepEd TV (480p),https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
 Der Denver-Clan,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebd7302478b00073a6b71/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d63b1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1976749-dc67-441a-aa5b-1e7f21edcbf9
 Der Denver-Clan,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebd7302478b00073a6b71/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83a566-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ee4d2e15-28c7-48f8-873c-62c0e7583103
 Der Denver-Clan,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebd7302478b00073a6b71/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90febea4-cfd6-4ae3-909d-07bf5e002eda
@@ -1136,7 +1134,7 @@ El Camino TV (480p),https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist
 El Club de la Comedia (1080p),https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 El Confidencial TV (1080p),https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 El Hormiguero (1080p),https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
-El Mehwar Channel,https://live20.bozztv.com/gin-36bay4/ga-elmehwar/tracks-v1a1/mono.m3u8
+El Mehwar Channel,https://fl1002.bozztv.com/ga-elmehwar/tracks-v1a1/mono.m3u8
 ElyTV (360p),https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 Em TV (486p),https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 Eman Channel (576p),https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
@@ -1518,7 +1516,6 @@ Grand Cinema,https://gcinemahls.wns.live/hls/stream.m3u8
 Grande-ish,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fafef7c2440500071266e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291883-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cee74994-231a-4a51-b141-e2e69c070aee
 Great American Country,https://fl3.moveonjoy.com/Great_American_Country/index.m3u8
 Great British Menu (720p),https://all3media-great-british-menu-1-gb.rakuten.wurl.tv/playlist.m3u8
-Great Commission TV (468p),http://45.32.115.103/live/livestream/index.m3u8
 GREAT! movies (1080p),https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 GREAT! Mystery (1080p),https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
 GREAT! real (1080p),https://amg01753-amg01753c5-rakuten-uk-5500.playouts.now.amagi.tv/playlist.m3u8
@@ -1949,7 +1946,7 @@ Karcag TV (720p),https://cloudfront41.lexanetwork.com:1344/relay03/livestream003
 Kardelen TV (1080p),https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 Karibena,https://live-evg1.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8
 Kartoon Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-Kartuli TV,https://live20.bozztv.com/dvrfl05/gin-qartulitv/index.m3u8
+Kartuli TV (480p),http://dvrfl05.bozztv.com/gin-qartulitv/index.m3u8
 Kashish News (720p),https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
 Kass TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8
 Kasthuri (576p),http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
@@ -2703,7 +2700,6 @@ MyTime movie network Spain (1080p),https://appletree-mytimespain-rakuten.amagi.t
 Mytime Movies (1080p),https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7],http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 MyTVplus (Dresden) (576p),https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
-Myx (720p),https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 Myzen Fit,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
 MYZen Fit,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungnl/playlist.m3u8
 MyZen TV (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
@@ -2898,6 +2894,7 @@ News 24 (392p) [Not 24/7],https://tv.balkanweb.com/news24/livestream/playlist.m3
 News 24 (720p),https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 News Central,https://wf.newscentral.ng:8443/hls/stream.m3u8
 News Live (720p),https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
+News Nation (720p),https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 NewSignal (1080p),https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8
 Newsmax 2 (720p),https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Newsmax TV (720p),https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
