@@ -5713,4 +5713,4 @@
 | 5707 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 | 5708 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
 
-Updated at **Wed Jun 11 2025 01:45:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 11 2025 08:28:28 GMT+0000 (Coordinated Universal Time)**
