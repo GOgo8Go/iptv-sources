@@ -454,7 +454,6 @@ Apulia Web TV (1080p),https://cp1.server89.com:19360/apuliawebtv/apuliawebtv.m3u
 Aqjaiyq (576p),https://stream.kaztrk.kz/regional/oraltv/index.m3u8
 Aqlvoy (480p),http://gohoski.fvds.ru:3000/mediabay/645/playlist.m3u8
 Aqtóbe (576p),https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
-Aqui No Hay Quien Viva (720p),https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 Ara,https://ncdn.telewebion.com/ara/live/playlist.m3u8
 Arab Heritage,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5dc4c2f-e3ec-488a-9458-9287014fba16/manifest.m3u8
 Arabí TV (1080p),https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
@@ -1301,9 +1300,7 @@ El 33 SX3 (1080p),https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super
 El 70 (720p),https://glb.bozztv.com/glb/ssh101/el70tv/index.m3u8
 El 75 (720p),https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
 El Camino TV (480p),https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-El Club de la Comedia (1080p),https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 El Confidencial TV (1080p),https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-El Hormiguero (1080p),https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 El Mehwar Channel,https://fl1002.bozztv.com/ga-elmehwar/tracks-v1a1/mono.m3u8
 ElyTV (360p),https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 Em TV (486p),https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
@@ -1345,7 +1342,6 @@ Epsilon TV (720p),https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.
 Equidia (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 Equidia Racing Mag (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
 Equinoxe TV,http://69.64.57.208/equinoxtv/playlist.m3u8
-Equipo de Investigacion (1080p),https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 Equus TV (1080p),https://d2gwqf8gdwq1zs.cloudfront.net/scheduler/scheduleMaster/426.m3u8
 Er TV (1080p),https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 Ère TV (1080p),https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
@@ -1514,7 +1510,6 @@ First Channel News (1080p),https://amtv1-2.livestreamingcdn.com/am3abr/index.m3u
 First India News (360p) [Not 24/7],https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 Firstlight (576p),https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 Fish TV,https://tv.localstreamgh.com/fishtv/index.m3u8
-Fisica o Quimica (1080p),https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
 FITE 24/7 (1080p),https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 Fite (720p) [Not 24/7],https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 Fitel TV (1080p),https://tv.mywifisocial.es/live.m3u8
@@ -1527,7 +1522,6 @@ Flash TV (720p),https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 Flash TV (720p) [Not 24/7],https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
 Flicks of Fury,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07
 Flipping Nation (720p),https://a64543d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZsaXBwaW5nTmF0aW9uX0hMUw/playlist.m3u8
-Flooxer (1080p),https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 Flou Cine,https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
 Flow Caribe,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 Flowers TV (576p),http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
