@@ -46,6 +46,7 @@ iptv.org All,#genre#
 7D7 (1080p),https://d7tv.pp.ua/hls/d7tv.m3u8
 7 RadioVisione (720p),https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 7S Music (576p) [Not 24/7],http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+7 STORIA (720p),https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
 7 TeleValencia (576p),https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 7 Televisión Región de Murcia (1080p),https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 7TV Senegal,https://live20.bozztv.com/dvrfl06/astv/astv-7tv/index.m3u8
@@ -2021,6 +2022,7 @@ Jordan Drama (1080p),https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Dr
 Jordan Kitchen (1080p),https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 Jordan Satellite Channel (1080p),https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 Jordan Songs (1080p),https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+Jordan Sport 2 (1080p),https://jrtv-live.ercdn.net/learning2/learning2.m3u8
 Jordan Sport (1080p),https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 Jordan Tourism (1080p),https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
 JOS TV HD,https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8
@@ -3929,7 +3931,7 @@ Salam TV (1080p),https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
 Salamat TV,https://live20.bozztv.com/dvrfl05/gin-iribsalamat/index.m3u8
 Salem News Channel (720p),https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8
 Salem News Channel,https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc-xm/playlist.m3u8
-Salsa Gorda Television (480p) [Not 24/7],https://ssh101.bozztv.com/ssh101/qMUAZEy/playlist.m3u8
+Salsa Gorda Television (480p) [Not 24/7],https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 Salt TV (1080p) [Not 24/7],https://live.salttelevision.com/app/stream/abr.m3u8
 Salto 1 (720p),https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
 Salto 2 (720p),https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
@@ -4317,7 +4319,6 @@ SPOTV (Indonesia),https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 SQCS Canal 4 (720p),https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
 Squadra Speciale Cobra 11 Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 SquashTV (1080p),https://amg12058-amg12058c5-rakuten-gb-7997.playouts.now.amagi.tv/playlist.m3u8
-Squirrel (1080p),https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 SR Fernsehen (720p),https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 SRC TV (720p),http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
 SRF (1080p),https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
@@ -4403,10 +4404,10 @@ Telenovela ZDF,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch
 Telenovela ZDF,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2110f9dc-f7e7-417c-84ec-63f379b710b9
 Telenovisa 43 (720p),https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
 Teleonuba (1080p),https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
-Telepace 1 (1080p),https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/index.m3u8
-Telepace 2 (1080p),https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/index.m3u8
-Telepace 3 (360p),https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/index.m3u8
-Telepace 4 (720p),https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/index.m3u8
+Telepace 1 (1080p),https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
+Telepace 2 (1080p),https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+Telepace 3 (1080p),https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+Telepace 4 (1080p),https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
 Telepace News (720p),https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
 Telepace Roma (720p),https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
 Telepace Trento (540p),https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
