@@ -125,6 +125,7 @@ iptv.org All,#genre#
 100% Auto Moto TV (406p) [Not 24/7],http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 100% Docs,https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
 100% News (576p),http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+101tv Ronda (1080p),https://streaming101tv.es/hls/webronda.m3u8
 Aathavan TV (720p) [Not 24/7],http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 AB Channel (720p),https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
 Abadan,https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
@@ -728,8 +729,8 @@ Bolajon (486p),https://st1-allplay-uz.b-cdn.net/3/iptv-58/index.m3u8
 Bolivia TV 7.2 (720p),https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 Bolivia TV (720p) [Not 24/7],http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 Bolivisión LPZ (720p),https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-Bollywood Classic (1080p),https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
-Bollywood HD (1080p),https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+Bollywood Classic,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+Bollywood HD,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 Bolt,http://95.142.88.250:80/Bolt/index.m3u8
 Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p),https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch2/video.m3u8
 Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p),https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch3/video.m3u8
@@ -815,8 +816,8 @@ Canal SCN (720p),https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playl
 Canal Sete (1080p),http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
 Canal Sierra de Cádiz (1080p) [Not 24/7],https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
 Canal Sol (720p),https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
+Canal Sur Andalucia,https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
 Canal Sur Andalucía 2 (720p),https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-Canal Sur Andalucía (1080p) [Not 24/7],https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 CGNTV South Korea (1080p),https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN Arabic (1080p) [Not 24/7],https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
