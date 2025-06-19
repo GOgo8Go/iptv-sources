@@ -4320,7 +4320,6 @@ Gospel Truth TV,https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/
 Gospel TV India (720p),http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
 Gosree Vision (576p) [Not 24/7],https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
 GoTraveler (720p),https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
-GoTV (576p) [Not 24/7],https://nstream17.gotv.at:1443/live/gotvlive/manifest.mpd
 Grace Family TV (720p),https://gracefamilytv.livebox.co.in/gracefamilytvhls/live.m3u8
 Grace Network (720p),https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 Graham Norton (1080p),https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
@@ -4680,7 +4679,6 @@ Jordan Tourism (1080p),https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/
 JOS TV HD,https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8
 Joshua TV (720p),https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
 Josué TV (1080p),https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-JOTX-DTV (1080p),http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 Journy (720p),https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
 Jovem Pan News (JP News) (1080p) [Not 24/7],https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 Joy News,http://69.64.57.208/joynews/playlist.m3u8
