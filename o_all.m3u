@@ -2697,6 +2697,8 @@ https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
 https://hls.erfanhalgheh.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Erga Lura TV
 http://80.79.6.221:25461/smash/public/29
+#EXTINF:-1 tvg-id="ERiTV1.er@SD" tvg-logo="https://i.imgur.com/bTR0Huw.png" group-title="General",ERi-TV 1 (576p)
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 #EXTINF:-1 tvg-id="ErloTelebista.es" tvg-logo="https://i.imgur.com/2QKuggT.png" group-title="General",Erlo Telebista (720p)
 https://5940924978228.streamlock.net/8159/8159/master.m3u8
 #EXTINF:-1 tvg-id="ERT1.gr" tvg-logo="https://i.imgur.com/UKbCtC1.png" group-title="General",ERT1
@@ -4765,6 +4767,8 @@ https://ss2.domint.net:3226/vttv_str/tropicotv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="LaX.pr" tvg-logo="https://i.imgur.com/i2GnQTq.png" group-title="Music",La-X (720p)
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
+#EXTINF:-1 tvg-id="labor14.de@HD" tvg-logo="https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg" group-title="Undefined",labor14 (720p)
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaCNews24.it" tvg-logo="https://www.omnys.com/media/news/lac-news24-icona.png" group-title="News",LaC News 24 (720p)
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-id="LacrosseTV.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj" group-title="Sports",Lacrosse TV (720p)
@@ -5568,7 +5572,7 @@ https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303
 #EXTINF:-1 tvg-id="MongolTV.mn" tvg-logo="https://i.imgur.com/RBEnEvX.png" group-title="General",Mongol HD TV (720p)
 https://cdn3.skygo.mn/live/disk1/Mongol_HD/HLSv3-FTA/Mongol_HD.m3u8
 #EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Entertainment",MONO 29 (1080p)
-https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us" tvg-logo="https://i.imgur.com/YJfzdSu.png" group-title="Legislative",Monroe County Television MCTV (Monroe County FL) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="MonseTeve.ec" tvg-logo="https://i.imgur.com/KJksxfF.jpg" group-title="Entertainment",Monse Teve (720p) [Not 24/7]
@@ -8313,6 +8317,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc327d0451770009ed7577/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b20bf13-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=157adeb4-870e-458e-ad89-97961b17a971
 #EXTINF:-1 tvg-id="SimsalabimSabrina.us@Germany" tvg-logo="https://i.imgur.com/N4tdmjE.png" group-title="Kids",Simsalabim Sabrina
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc327d0451770009ed7577/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d22fc39b-64c4-41a9-a5a0-18b370793329
+#EXTINF:-1 tvg-id="SindhTV.pk" tvg-logo="https://i.imgur.com/izpeOsx.png" group-title="Undefined",Sindh TV
+https://stream717.duckdns.org/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="SinopYildizTV.tr" tvg-logo="https://i.imgur.com/CjgbQTk.png" group-title="Undefined",Sinop Yildiz TV (360p)
 https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 #EXTINF:-1 tvg-id="SintesisTV.mx" tvg-logo="https://i.imgur.com/1g9mbqi.png" group-title="General",Síntesis TV (480p)

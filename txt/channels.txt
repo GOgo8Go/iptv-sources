@@ -4000,6 +4000,7 @@ Er TV (1080p),https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playli
 Ère TV (1080p),https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
 Erfan Halgheh TV (720p),https://hls.erfanhalgheh.live/hls/stream.m3u8
 Erga Lura TV,http://80.79.6.221:25461/smash/public/29
+ERi-TV 1 (576p),https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 Erlo Telebista (720p),https://5940924978228.streamlock.net/8159/8159/master.m3u8
 ERT1,http://88.99.254.101/ert1/mono.m3u8
 ERT2,http://88.99.254.101/ert2/mono.m3u8
@@ -5034,6 +5035,7 @@ La Voz de María (720p),https://627bb251f23c7.streamlock.net:444/LaVozdeMaria/li
 La Voz del Trópico (480p) [Not 24/7],https://ss2.domint.net:3226/vttv_str/tropicotv/playlist.m3u8
 La Voz Grupera TV (720p),https://cloudvideo.servers10.com:8081/8128/index.m3u8
 La-X (720p),https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
+labor14 (720p),https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 LaC News 24 (720p),https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 Lacrosse TV (720p),https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 Laff (480p),http://72.46.118.193/Laff/index.m3u8
@@ -5435,7 +5437,7 @@ Monaco Info (1080p),https://webtv.monacoinfo.com/live/prod/index.m3u8
 Monagas Visión (720p) [Not 24/7],https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
 Monara TV (720p) [Not 24/7],https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 Mongol HD TV (720p),https://cdn3.skygo.mn/live/disk1/Mongol_HD/HLSv3-FTA/Mongol_HD.m3u8
-MONO 29 (1080p),https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
+MONO 29 (1080p),https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 Monroe County Television MCTV (Monroe County FL) (1080p),https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 Monse Teve (720p) [Not 24/7],https://cp.panelchs.com:1936/jczwykvkpm/jczwykvkpm/playlist.m3u8
 Monster Jam,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c33f833ef47d00084f47ad/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8468b5-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bfecf87-1960-423c-bb0f-672d693a0a8f
@@ -6808,6 +6810,7 @@ Simpang5 TV (360p) [Not 24/7],http://122.248.43.138:1935/ch4/myStream/playlist.m
 Simsalabim Sabrina,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc327d0451770009ed7577/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc863d71-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a94ab183-0750-49c1-b1e4-65c4d32ca9fc
 Simsalabim Sabrina,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc327d0451770009ed7577/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b20bf13-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=157adeb4-870e-458e-ad89-97961b17a971
 Simsalabim Sabrina,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc327d0451770009ed7577/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af3cc7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d22fc39b-64c4-41a9-a5a0-18b370793329
+Sindh TV,https://stream717.duckdns.org/hls/stream1.m3u8
 Sinop Yildiz TV (360p),https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 Síntesis TV (480p),https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 SIP TV (1084p),https://data.siptv.si/live-siptv/hls/index.m3u8
