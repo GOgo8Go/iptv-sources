@@ -49,6 +49,7 @@ iptv.org All,#genre#
 7 STORIA (720p),https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
 7 TeleValencia (576p),https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 7TV Senegal,https://live20.bozztv.com/dvrfl06/astv/astv-7tv/index.m3u8
+7 YOU & ME (720p),https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 8 La Marina TV (576p),https://streaming005.gestec-video.com/hls/canal24.m3u8
 8madrid TV (720p),http://185.189.225.150:85/8madrid/index.m3u8
 8NTV (1080p),https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
@@ -3096,7 +3097,7 @@ Nick Danger,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hl
 Nick Danger,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f51e6c34d6f40007f992a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f1-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1106eea9-63a3-4f75-b616-13baee1bb2d2
 Nick Danger,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f51e6c34d6f40007f992a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b57-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9256bc3b-cf58-46ba-9fba-de7b7838056b
 Nick Germany (1080p),https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-Nick HD+ (1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+Nick HD+,http://103.68.28.58:5001/live/1226.m3u8
 Nick Jr East,https://fl3.moveonjoy.com/NICK_JR/index.m3u8
 Nick Jr India (1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
@@ -3923,6 +3924,7 @@ SafeTV (1080p),http://18.191.91.130:1935/live/safetv/playlist.m3u8
 Sahand,https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8
 Sahar Afghanistan,https://live20.bozztv.com/gin-36bay3/gin-saharafgh/tracks-v1a1/mono.m3u8
 Sahar Urdu,https://live20.bozztv.com/dvrfl05/gin-saharurdu/index.m3u8
+Sahara 24 (1080i),http://65.108.206.29/sahara24-live/video.m3u8
 Sailor Moon,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642be30baa2d690008ed2935/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0250-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90602a89-140d-4b4a-b8d0-c360c511b227
 Sailor Moon,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637e55347427a40007fac703/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8985-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15c87267-b209-43f7-bd4a-3b14d32e2246
 Sakala Channel (1080p),https://n-edge-1-th.v2h-cdn.com/scala/scala/playlist.m3u8
@@ -4762,7 +4764,7 @@ Tropical Moon Urban TV (720p),https://srv.tropicalmoonmedia.com/urbantvnetott/ur
 Tropical Music TV (720p),https://server80.servistreaming.com:3074/hybrid/play.m3u8
 Tropoja TV (1080p),https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 TRT 1 (1080p),http://185.234.111.229:8000/play/a00c
-TRT 2,https://trt2.blutv.com/blutv_trt2/live.m3u8
+TRT 2 (720p),https://tv-trt2.medya.trt.com.tr/master.m3u8
 TRT 3,https://tv-trt3.live.trt.com.tr/master.m3u8
 TRT (360p),https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 TRT (410p) [Not 24/7],https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
