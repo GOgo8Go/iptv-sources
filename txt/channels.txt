@@ -2860,6 +2860,7 @@ Alföld TV (1080p),https://cloudfront41.lexanetwork.com:1344/relay01/livestream0
 Alforat TV (1080p),http://95.216.180.111:1935/live/10/playlist.m3u8
 Alfred Hitchcock Presents,https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 Alhaqeqa Aldawlia (1080p),https://ghaasiflu.online/alhqeqa/index.m3u8
+Alhayat Drama,https://fl1002.bozztv.com/ga-alhayahseries/tracks-v1a1/mono.m3u8
 Alhayat TV,https://fl1002.bozztv.com/ga-alhayah/tracks-v1a1/mono.m3u8
 Alhiwar TV (1080p) [Not 24/7],https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 Alhurra (720p),https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
@@ -2970,7 +2971,6 @@ ANT1 Cyprus (1080p),http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 Antares Televisión (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 Antena 1 (720p) [Not 24/7],https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 Antena 3 (720p),http://185.189.225.150:85/Antena3HD/index.m3u8
-Antena 3 CNN,https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 Antena 7 (480p) [Not 24/7],https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 Antena 21 (480p) [Not 24/7],https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 Antena Monden (720p),https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
@@ -3284,7 +3284,7 @@ Bon Dia TV (1080p),https://directes-tv-int.3catdirectes.cat/live-origin/bondia-h
 Bonaire.tv (1080p) [Not 24/7],https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 Bonao TV (720p),https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
 Bonce TV (480p) [Not 24/7],https://seswa.bonce.tv/hls/bonceswa.m3u8
-Bonches Latinos TV (720p),https://ss5.domint.net:3030/aba_str/bonche/playlist.m3u8
+Bonches Latinos TV (720p),https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 Bondi Rescue,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66166989635c7500084105a2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a45-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6764d2d1-b42f-4d3f-b861-f9d0d6aeaf33
 Bongo TV (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8
 Bonum TV (360p),https://stream.y5.hu/stream/stream_bonum/stream.m3u8
@@ -3360,6 +3360,7 @@ Canal Sierra de Cádiz (1080p) [Not 24/7],https://s.emisoras.tv:8081/sierradecad
 Canal Sol (720p),https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
 Canal Sur Andalucia,https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
 Canal Sur Andalucía 2 (720p),https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+Canal Sur Noticias,https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 CGNTV South Korea (1080p),https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN Arabic (1080p) [Not 24/7],https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
@@ -3590,7 +3591,7 @@ Cold Case Files by A&E,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.t
 ColimdoT TV (720p),https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 Collier County Public Schools CCPS Education Channel (Naples FL) (480p),https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8
 Collier Television CTV (Naples FL) (720p),https://reflect-collier-countyboc.cablecast.tv/live-4/live/live.m3u8
-Color Visión (720p) [Not 24/7],https://ds.tvabierta.net/memfs/eb78f429-c05e-4c37-b8c1-18713f6af9ba_output_0.m3u8?session=XnzXXA9CvKVMgqK2nbfqC5
+Color Visión (576p) [Not 24/7],https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a024/index.m3u8
 Colosal TV (720p) [Not 24/7],http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 Colour Blind,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8
 Columna TV (720p),http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
@@ -4243,7 +4244,6 @@ GS Shop (1080p),https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playli
 GSG TV (720p),https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
 GSTV (720p),https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
 GSTV (720p) [Not 24/7],https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
-GSTV,https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8
 GTN New York (1080p),https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-3eebc0944a89469eba873253c04a7129/playlist.m3u8
 GTN Orlando (1080p),https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-b9be4360b39e4414a5c30e5b0aa667c1/playlist.m3u8
 GTN South Florida (1080p),https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-aa4d335124414856b118e943d91132d5/playlist.m3u8
@@ -6553,11 +6553,11 @@ SBS CJB (540p) [Not 24/7],http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 SBS G1 (360p) [Not 24/7],http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 SBS JIBS (720p) [Not 24/7],http://123.140.197.22/stream/1/play.m3u8
 SBS JTV (406p) [Not 24/7],http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-SBS KBC (1080p) [Not 24/7],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+SBS KBC (1080p) [Not 24/7],https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 SBS KNN (1080p) [Not 24/7],https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 SBS TBC (540p)  [Not 24/7],http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
-SBS TJB (1080p) [Not 24/7],http://1.245.74.5:1935/live/tv/.m3u8
-SBS UBC (540p) [Not 24/7],http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+SBS TJB (1080p) [Not 24/7],http://123.214.216.80:1935/live/tv/playlist.m3u8
+SBS UBC (540p) [Not 24/7],https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 SBT Interior (720p),https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 SBT TV,http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
 SBTN,https://live20.bozztv.com/dvrfl05/gin-netviet/index.m3u8
@@ -7184,6 +7184,7 @@ Together TV (576p),http://92.114.85.72:8000/play/a0j8
 TokuSHOUTsu,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a88f013-2601-41bd-9070-75701edcf852
 Tolo News (720p),https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 Tolo TV,https://live20.bozztv.com/dvrfl05/gin-tolohd/index.m3u8
+Tom And Jerry (720p),https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 Tom And Jerry TV (720p),https://stream.gia.tv/giatvplayout7/giatv-208314/playlist.m3u8
 Ton TV (720p) [Not 24/7],https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 Toon Goggles (720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
