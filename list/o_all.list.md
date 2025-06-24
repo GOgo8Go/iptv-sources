@@ -2671,7 +2671,7 @@
 | 2665 | MBC Drama KSA (1080p) | [MBC Drama KSA (1080p)](https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8) |
 | 2666 | MBC Drama USA (1080p) | [MBC Drama USA (1080p)](https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8) |
 | 2667 | MBC FM (1080p) | [MBC FM (1080p)](https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8) |
-| 2668 | MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7] | [MBC Gangwon (MBC 강원영동) (1080p)  Not 24/7](http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8) |
+| 2668 | MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7] | [MBC Gangwon (MBC 강원영동) (1080p)  Not 24/7](http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8) |
 | 2669 | MBC Gwangju (광주 MBC) (1080p)  [Not 24/7] | [MBC Gwangju (광주 MBC) (1080p)   Not 24/7](https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8) |
 | 2670 | MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7] | [MBC Gyeongnam (경남 MBC) (1080p)  Not 24/7](https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8) |
 | 2671 | MBC Iraq (1080p) | [MBC Iraq (1080p)](https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8) |
@@ -5699,4 +5699,4 @@
 | 5693 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 | 5694 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
 
-Updated at **Mon Jun 23 2025 16:27:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 24 2025 01:46:24 GMT+0000 (Coordinated Universal Time)**
