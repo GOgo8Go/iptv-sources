@@ -463,5 +463,13 @@
 | 457 | Jiangxi Public & Agriculture Channel | [Jiangxi Public & Agriculture Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8) |
 | 458 | Jiangxi Economy & Life Channel | [Jiangxi Economy & Life Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8) |
 | 459 | Jiangxi City Channel | [Jiangxi City Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8) |
+| 460 | Panzihihua Culture Tourism & Life Channel | [Panzihihua Culture Tourism & Life Channel](https://live.pzhkai.com/wlshtl/sd/live.m3u8?_upt=f156a1051729836828) |
+| 461 | Panzihihua News Channel | [Panzihihua News Channel](https://live.pzhkai.com/xwzhtl/sd/live.m3u8?_upt=6a1ad5741729836768) |
+| 462 | Tonghua TV | [Tonghua TV](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8) |
+| 463 | Jilin Rural Channel | [Jilin Rural Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8) |
+| 464 | Jilin Movie Channel | [Jilin Movie Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8) |
+| 465 | Jilin Lifestyle Channel | [Jilin Lifestyle Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8) |
+| 466 | Jilin City Channel | [Jilin City Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8) |
+| 467 | Guangzhou TV | [Guangzhou TV](https://tencentplaybusiness.gztv.com/live/zonghes.m3u8) |
 
-Updated at **Wed Jun 25 2025 08:29:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 25 2025 16:27:43 GMT+0000 (Coordinated Universal Time)**
