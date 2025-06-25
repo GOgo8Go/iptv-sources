@@ -5034,4 +5034,4 @@
 | 5028 | ЧП Инфо (576p) | [ЧП Инфо (576p)](http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8) |
 | 5029 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Wed Jun 25 2025 01:46:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 25 2025 08:29:32 GMT+0000 (Coordinated Universal Time)**
