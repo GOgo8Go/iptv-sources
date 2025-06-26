@@ -471,5 +471,6 @@
 | 465 | Jilin Lifestyle Channel | [Jilin Lifestyle Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8) |
 | 466 | Jilin City Channel | [Jilin City Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8) |
 | 467 | Guangzhou TV | [Guangzhou TV](https://tencentplaybusiness.gztv.com/live/zonghes.m3u8) |
+| 468 | Harbin Movie Channel | [Harbin Movie Channel](https://stream.hrbtv.net/yspd/playlist.m3u8) |
 
-Updated at **Thu Jun 26 2025 01:45:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 26 2025 08:28:37 GMT+0000 (Coordinated Universal Time)**

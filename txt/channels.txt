@@ -8191,6 +8191,7 @@ Jilin Movie Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c
 Jilin Lifestyle Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
 Jilin City Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
 Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
 
 iptv.org stream China 112114,#genre#
 douyu8,http://epg.112114.xyz/douyu/4332
