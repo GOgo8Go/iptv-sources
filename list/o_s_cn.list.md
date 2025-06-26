@@ -472,4 +472,4 @@
 | 466 | Jilin City Channel | [Jilin City Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8) |
 | 467 | Guangzhou TV | [Guangzhou TV](https://tencentplaybusiness.gztv.com/live/zonghes.m3u8) |
 
-Updated at **Wed Jun 25 2025 16:27:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 26 2025 01:45:38 GMT+0000 (Coordinated Universal Time)**
