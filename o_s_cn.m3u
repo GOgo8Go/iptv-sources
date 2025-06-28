@@ -934,4 +934,6 @@ https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/i
 #EXTINF:-1 tvg-id="GuangzhouTV.cn",Guangzhou TV
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn",Harbin Movie Channel
-https://stream.hrbtv.net/yspd/playlist.m3u8
+https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD",CCTV-4 Asia
+http://trn03.bozztv.com/gin-cctv4/index.m3u8
