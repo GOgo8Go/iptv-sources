@@ -818,7 +818,7 @@ Bridezillas,https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 Canal 29 TVA,https://play.agenciastreaming.com:19360/8160/8160.m3u8
 Canal 30 Cintalapa (720p) [Not 24/7],https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8
 Canal 30 TV Bethel (720p) [Not 24/7],https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
-Canal 32 (1080p),https://edge21.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+Canal 32 (1080p),https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 Canal 32 STO (720p) [Not 24/7],https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8
 Canal 32 Telemax (720p) [Not 24/7],https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
 Canal 33 Madrid (720p) [Not 24/7],https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
@@ -2737,7 +2737,6 @@ MBC+ Drama (1080p),https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca
 MC TV (720p),https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
 MCI Television,https://video.ejeserver.com/live/mcitelevision.m3u8
 MCJ TV,https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
-MCM,http://213.246.39.14:8070/MCM/index.m3u8
 MCN6 (1080p) [Not 24/7],https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 MCN6 Arts Channel (1080p) [Not 24/7],https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 MCN6 Music Channel (1080p) [Not 24/7],https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
@@ -2940,7 +2939,6 @@ Namayesh,https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8
 Nambikkai TV (576p),https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 Namdhari (404p) [Not 24/7],https://namdhari.tv/live/sbs1.m3u8
 Nanchang News & Generalist Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
-Nancy Web TV (394p) [Not 24/7],https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
 Nandighosha TV (720p),https://www.nandighoshatvlive.com/hls/stream/index.m3u8
 Napa Valley TV Education Access Channel 27 (480p),https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8
 Napa Valley TV Public Access Channel 28 (480p),https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_004/playlist.m3u8
@@ -4512,7 +4510,7 @@ Tirol TV (720p) [Not 24/7],https://streaming14.huberwebmedia.at/LiveApp/streams/
 TIS TV (720p),https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 Tisza TV (576p) [Not 24/7],https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
 TIVER (576p),https://cdn.live.br1.jmvstream.com/w/AVJ-13550/playlist/playlist.m3u8
-TiVi5Monde (1080p),http://154.197.91.168:7001/play/a0dz/index.m3u8
+TiVi5 Monde,https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 Tivi 6 (720p),https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 tiviTÜRK (720p) [Not 24/7],https://stream.tiviturk.de/live/tiviturk.m3u8
 TJC (1080p),https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
