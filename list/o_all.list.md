@@ -765,7 +765,7 @@
 | 759 | BNR Nieuwsradio (720p) | [BNR Nieuwsradio (720p)](https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8) |
 | 760 | BNTV | [BNTV](http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8) |
 | 761 | Boas Novas (1080p) | [Boas Novas (1080p)](https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8) |
-| 762 | Bob Esponja LATAM | [Bob Esponja LATAM](https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=false) |
+| 762 | Bob Esponja LATAM | [Bob Esponja LATAM](https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=&serverSideAds=false) |
 | 763 | Bob l'éponge | [Bob l'éponge](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f93-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eb72cd85-f8e2-414a-99d0-c0cd8a98518d) |
 | 764 | Bober | [Bober](http://178.217.72.66:8080/Bober/index.m3u8) |
 | 765 | Boca Chica TV | [Boca Chica TV](https://vdo1.streamgato.us:3977/live/lavozsincensuratvlive.m3u8) |
@@ -5748,4 +5748,4 @@
 | 5742 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 | 5743 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
 
-Updated at **Tue Jul 01 2025 16:27:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 02 2025 01:46:13 GMT+0000 (Coordinated Universal Time)**
