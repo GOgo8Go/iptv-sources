@@ -9,7 +9,7 @@
 | 3 | [BD]cctv10 | [BD cctv10](https://stream1.freetv.fun/090aa26df13ffbe97fa2de0bb57f14db7049f21c8de11f570b67151987eba9b1.m3u8) |
 | 4 | [SD]cctv11 | [SD cctv11](https://stream1.freetv.fun/635ba8554e3fc76ebc506d5883bd01d5fff103a7cee73ee07099cc8e2c1b6499.m3u8) |
 | 5 | [BD]cctv12 | [BD cctv12](https://stream1.freetv.fun/713f8c42d89efd6b0b31ab22e8070a22a6eb54790b31f6e8ebe511775c1309f5.m3u8) |
-| 6 | [BD]cctv13 *kt | [BD cctv13 *kt](https://stream1.freetv.fun/4322375f3aa20137a4a632e7055657ef52dc823f547d17bf597861bf35d05282.ctv) |
+| 6 | [BD]cctv13 | [BD cctv13](https://stream1.freetv.fun/45f42d1a050cf53e2d50d82e9c5091876cc2c2a46d16ada78a48b171e214bba7.m3u8) |
 | 7 | [BD]cctv14 | [BD cctv14](https://stream1.freetv.fun/5d7dfa5ebfe90c78b537cdc5dd77be50a3ed19ffe163aa50de5f4d79dd2ab3db.ctv) |
 | 8 | [SD]cctv15 | [SD cctv15](https://stream1.freetv.fun/658ddc6e789ce16786ad546cf9f8be98fe107f282b045ab77998da6caf499a0d.m3u8) |
 | 9 | [BD]cctv16 | [BD cctv16](https://stream1.freetv.fun/e48a1dccf8e46a6ff6d6c3f16ecb266622e67ea7ad05003389743c7c6a988b5b.m3u8) |
@@ -285,4 +285,4 @@
 | 279 | [BD]黑龙江影视 | [BD 黑龙江影视](https://stream1.freetv.fun/ed65f969b7a9fcca505d890fc0dab811065f49e4700ae421ce73ea683ddc4d04.m3u8) |
 | 280 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8) |
 
-Updated at **Sat Jul 05 2025 01:42:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 05 2025 08:25:46 GMT+0000 (Coordinated Universal Time)**
