@@ -1364,7 +1364,6 @@ EN TV (720p),https://cp.cast-live.net:1936/exodotv/exodotv/playlist.m3u8
 ENA Channel (576p),https://storemusic.top:8222/enachannel/enachannel/enachannel/playlist.m3u8
 Encore+,https://streams2.sofast.tv/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
 EnerGeek (720p) [Not 24/7],https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-EnerGeek FAN (1080p),https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=ZZDemoIPTVGH&password=mdo96EuqMkTR
 EnerGeek Radio (1080p),https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 Energia TV (720p) [Not 24/7],https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
 English TV,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
@@ -1587,6 +1586,7 @@ FXM East,https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 FXX East,https://fl3.moveonjoy.com/FXX/index.m3u8
 FYI East,https://fl3.moveonjoy.com/FYI/index.m3u8
 G-eye TV,https://online.geyetv.com/hls/stream.m3u8
+Gabon 1ere (1080p),https://vps112773.serveur-vps.net/hls/stream.m3u8
 Gagsnetwork,https://s7.merlive.am/gagsnetwork/index.m3u8
 Gainesville Community 12TV (Gainesville FL) (720p),https://lin10.isilive.ca/live/gainesville/live/index.m3u8
 Gaki no Tsukai (English Subs) (720p),https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
@@ -2354,7 +2354,7 @@ Kurdistan TV (720p) [Not 24/7],https://5a3ed7a72ed4b.streamlock.net/live/SMIL:my
 KurdMax Music (720p),https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
 KurdMax Show (720p),https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
 KurdMax Sorani (1080p),https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
-Kurdsat HD,https://kurdsat.akamaized.net/hls/kurdsat.m3u8
+Kurdsat,http://trn03.bozztv.com/gin-kurdsat/index.m3u8
 Kurdsat News (1080p),https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
 Kuriakos Cine (1080p),https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 Kuriakos Kids (1080p),https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
