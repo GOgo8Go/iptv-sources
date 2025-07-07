@@ -2704,8 +2704,8 @@ MBC 1 USA (1080p),https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b1
 MBC 2 (480p),https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 MBC 3 KSA (1080p),https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 MBC 3 USA (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-MBC 4 (1080p),https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-MBC 5 (1080p),https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+MBC 4 (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+MBC 5 (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 MBC (1080p),https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
 MBC Andong (안동 MBC) (360p) [Not 24/7],http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 MBC Bollywood (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
@@ -3829,6 +3829,7 @@ Radio Télévision Shilo (720p) [Not 24/7],https://watch.haitilive.net/freehb/rt
 Radio Televizija Banovina (1080p) [Not 24/7],https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
 Radio televizija Rožaje (614p) [Not 24/7],https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
 Radio Tropical Tarapoto (480p) [Not 24/7],https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+Radio Turrialba TV Sports (720p),https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
 Radio TV Basse-Terre (720p),https://vdo.ssl-stream.com:3412/stream/play.m3u8
 Radio TV Neuquén (720p) [Not 24/7],https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 Radio TV Sal One (720p),https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8
@@ -3906,8 +3907,8 @@ RPL TV Woerden (720p),https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvw
 RPM (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 RRI Net (1080p),https://rrinet.rri.co.id/hls/live.m3u8
 RSelvaTV,https://live.obslivestream.com/selvatv/index.m3u8
-RSI La 1 (720p),https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-RSI La 2 (720p),https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+RSI La 1 (720p),https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+RSI La 2 (720p),https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 RSV Honduras,https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8
 RT Arabic (1080p),https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 RT DE (1080p) [Not 24/7],https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
