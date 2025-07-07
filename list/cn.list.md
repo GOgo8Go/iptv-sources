@@ -28,7 +28,7 @@
 | 22 | [BD]cctv9 | [BD cctv9](https://stream1.freetv.fun/ea81fc0f2fac864a17a10c1a7f4d1a32258b45f78172eb9177e7b60db8c9e9b2.m3u8) |
 | 23 | [BD]cctv风云足球 | [BD cctv风云足球](https://stream1.freetv.fun/9291a8bf5b1268d7256fd7c872552083de65b22dc29400b773d9ec5453478fe9.m3u8) |
 | 24 | [SD]celestial classic *wj | [SD celestial classic *wj](https://stream1.freetv.fun/fa88d9f83ba9ef6954b1d3107ceda5f4baa3f16002adc748358a2d3efe4812f6.ctv) |
-| 25 | [BD]asharq documentary | [BD asharq documentary](https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8) |
+| 25 | [HD]asharq documentary | [HD asharq documentary](https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8) |
 | 26 | [BD]cbn español | [BD cbn español](https://stream1.freetv.fun/50ea0f9a2fb6f8e1a16719a481eabbe3aced70f50940650dcbf684b30737d09c.m3u8) |
 | 27 | [BD]rt français | [BD rt français](https://stream1.freetv.fun/f949b3ad5af9b6c2d494e3bbb2e36a60a0e6e64e97f22b029ab54c9ed68a7a1e.m3u8) |
 | 28 | [BD]cgtn русский | [BD cgtn русский](https://stream1.freetv.fun/800af3de6d2cab9fc463ec417c6ab737591154a8eafa27fb43713a33bc7f6dd5.m3u8) |
@@ -279,4 +279,4 @@
 | 273 | [BD]溧水新闻综合 | [BD 溧水新闻综合](https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8) |
 | 274 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8) |
 
-Updated at **Mon Jul 07 2025 08:30:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 07 2025 16:27:49 GMT+0000 (Coordinated Universal Time)**
