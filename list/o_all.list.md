@@ -2631,7 +2631,7 @@
 | 2625 | M5 (1080p) | [M5 (1080p)](http://146.59.85.40:89/m5/index.m3u8) |
 | 2626 | M95 Televisión Marbella (1080p) [Not 24/7] | [M95 Televisión Marbella (1080p)  Not 24/7](https://limited2.todostreaming.es/live/m95-livestream.m3u8) |
 | 2627 | M Sign Media (720p) [Not 24/7] | [M Sign Media (720p)  Not 24/7](http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8) |
-| 2628 | M+ (1080p) | [M+ (1080p)](https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8) |
+| 2628 | M+ (1080p) | [M+ (1080p)](https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8) |
 | 2629 | M-1 (480p) | [M-1 (480p)](https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8) |
 | 2630 | M-Net HD (720p) | [M-Net HD (720p)](http://ares.mnet.mk/hls/mnet.m3u8) |
 | 2631 | M-Net Info (720p) | [M-Net Info (720p)](https://giganet.mk/hls/mnet-info.m3u8) |
@@ -5749,4 +5749,4 @@
 | 5743 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 | 5744 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
 
-Updated at **Mon Jul 07 2025 16:27:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 08 2025 01:47:09 GMT+0000 (Coordinated Universal Time)**

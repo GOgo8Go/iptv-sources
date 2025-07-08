@@ -2626,7 +2626,7 @@ M4 Sport (1080p),http://146.59.85.40:89/m4hd/index.m3u8
 M5 (1080p),http://146.59.85.40:89/m5/index.m3u8
 M95 Televisión Marbella (1080p) [Not 24/7],https://limited2.todostreaming.es/live/m95-livestream.m3u8
 M Sign Media (720p) [Not 24/7],http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8
-M+ (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+M+ (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8
 M-1 (480p),https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 M-Net HD (720p),http://ares.mnet.mk/hls/mnet.m3u8
 M-Net Info (720p),https://giganet.mk/hls/mnet-info.m3u8
