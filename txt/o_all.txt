@@ -2610,7 +2610,6 @@ LoveWorld XP (480p),https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ng
 LoveworldSAT (1080p),https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
 LOZ (Lokale Omroep Zeewolde) (720p),https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
 LRT Klasika (1080p),https://radijas.lrt.lt/klasika/master.m3u8
-LRT Lituanica,https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
 LRT Opus (1080p),https://radijas.lrt.lt/opus/master.m3u8
 LRT Radijas (1080p),https://radijas.lrt.lt/radijas/master.m3u8
 LS TV (480p),https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
