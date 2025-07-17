@@ -623,6 +623,7 @@ BBC News (720p),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:se
 BBC News (North America) (1080p),https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC One (720p),https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 BBC One Channel Islands (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
+BBC One East (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
 BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 BCI 24 News (720p),https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 BCS StarCross TV (576p),https://webstreaming.viewmedia.tv/web_001/Stream/playlist.m3u8
@@ -939,6 +940,7 @@ Chef Champion (720p) [Not 24/7],https://bozztv.com/gusa/gusa-chefchampion/index.
 Chef Roc Show (720p) [Not 24/7],https://bozztv.com/gusa/gusa-chefrock/index.m3u8
 Chekad TV (720p),https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 Chemnitz Fernsehen (1080p),https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+Cherie 25,https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 Cherifla TV (360p),http://69.64.57.208/cherifla/playlist.m3u8
 Cherniveckiy promin (720p),http://langate.tv/promin/live_720/index.m3u8
 Chile Channel (720p),https://v2.tustreaming.cl/chilechannel/index.m3u8
@@ -5458,7 +5460,6 @@ VSiN (720p),https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
 VTM (720p),https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 VTN Victory Television Network (720p),https://api.new.livestream.com/accounts/15669040/events/4554297/live.m3u8
 VTV1 (576p),http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
-VTV1 (1080p),http://p1.cvtv.xyz/vtv1?token=live
 VTV4 (576p),http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
 VTV9 (576p),http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8
 VTV (480p) [Not 24/7],https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
