@@ -452,6 +452,7 @@ Atrak,https://ncdn.telewebion.com/atrak/live/playlist.m3u8
 Atrina TV,https://atrihls.wns.live/hls/stream.m3u8
 Attica TV (1080p),http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 ATV,http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+ATV2 HD,https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 ATV (400p) [Not 24/7],https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 ATV (576p),https://strm.hdtvizlecanli.com/live/atv.m3u8
 ATV (576p),http://146.59.85.40:89/atv/index.m3u8
@@ -2032,6 +2033,7 @@ ISTV (720p) [Not 24/7],https://stmv1.srvstm.com/sistema7933/sistema7933/playlist
 It's Supernatural! Network (ISN Network) (1080p),https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
 IT-3 (720p),http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 Italia 1,https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+Italia 1 HD,https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 Italia 2,https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 Italia 2 TV (480p),http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 Italia 7,https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
@@ -2122,6 +2124,7 @@ K-TV (720p),https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 Kaback TV (720p),https://guineetvdirect.online:3842/live/kabacktvlive.m3u8
 Kabbalah for the People (Israel) (504p) [Not 24/7],https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 KABC-DT1 (720p),https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+kabel eins (576p),https://strm.hdtvizlecanli.com/live/kabel1.m3u8
 Kablo Info (1080p),http://185.234.111.229:8000/play/a01g
 Kadak Hits (1080p) [Not 24/7],https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 Kaifa TV (576p),http://82.212.74.2:8000/live/7311.m3u8
@@ -2398,6 +2401,7 @@ La 2 HEVC,https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36
 La5,https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 LA7,https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 LA7d (720p),https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+LA7 HD,https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 La 8 Mediterráneo (1080p) [Not 24/7],https://streaming004.gestec-video.com/hls/8TV.m3u8
 La 98.1 TV (720p) [Not 24/7],https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
 La C TV (720p),https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
@@ -2741,7 +2745,7 @@ MBC Net (480p),http://mytv.dothome.co.kr/ch/catv/28.php
 MBC Persia (1080p),https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 MBC TV (720p),http://www.hwado.net/webtv/catv/503_CFEA7803.php
 MBC Yeosu (여수 MBC) (1080p) [Not 24/7],https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-MBC+ Drama (1080p),https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+MBC+ Drama (1080p),https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 MC TV (720p),https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
 MCI Television,https://video.ejeserver.com/live/mcitelevision.m3u8
 MCJ TV,https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
@@ -3833,16 +3837,21 @@ Rai 4 (576p),https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=74
 RAI 4K,https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 Rai 5 (576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 Rai Gulp (1080p),http://188.60.179.180:8000/play/xxRaiGulpxx
+Rai Gulp HD,https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 Rai Italia,https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 Rai Italia Americas,https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 RAI Italia Asia (576p),http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 Rai Italia Australia,https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 Rai Movie (1080p),http://188.60.179.180:8000/play/xxRaiMOviexx
 Rai News 24 (720p),https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+Rai News 24 HD,https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 Rai Premium (1080p),http://188.60.179.180:8000/play/a0oy
 Rai Scuola (576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+Rai Scuola HD,https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 Rai Sport 2,http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
+Rai Sport HD,https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 Rai Storia (576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+Rai Storia HD,https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 Rai World Premium,https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 Rai Yoyo (1080p),http://188.60.179.180:8000/play/xxRaiYoyo
 Raia TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8
@@ -4074,6 +4083,7 @@ Reshet 13 (1080p),https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b
 Resplandor TV (720p),https://ss2.domint.net:3100/rtv_str/rvision/playlist.m3u8
 Resurrection TV (720p),https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
 Rete 4,https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+Rete 4 HD,https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 Rete 8,https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 Rete 8 VGA (720p),https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
 Rete 55 (720p) [Not 24/7],https://stream.internet.one/Rete55_Live/index.m3u8
@@ -4180,8 +4190,8 @@ RTL 102.5 Disco (1080p),https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/
 RTL 102.5 Napulé (1080p),https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 RTL 102.5 Traffic (1080p),https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 RTL 102.5 TV (1080p),https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-RTL (720p),http://185.189.225.150:85/RTL/index.m3u8
 RTL (1080p),https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+RTL Austria (576p),http://185.189.225.150:85/RTL/index.m3u8
 RTL Croatia (1080p),https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 RTL Gold (576p),http://194.76.186.33:8000/play/a05h/index.m3u8
 RTL Gold (1080p),https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
@@ -4209,9 +4219,12 @@ RTRS Plus (576p) [Not 24/7],https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 RTRS TV (576p) [Not 24/7],https://uzivo.rtrs.tv/tv/live/index.m3u8
 RTS 1 (720p),http://69.64.57.208/rts1/playlist.m3u8
 RTS 1 (720p) [Not 24/7],https://webtvstream.bhtelecom.ba/rts1.m3u8
+RTS 1 (1080p),https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 RTS 2 (720p),http://69.64.57.208/rts2/playlist.m3u8
 RTS 2 (720p) [Not 24/7],https://webtvstream.bhtelecom.ba/rts2.m3u8
+RTS 2 (1080p),https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 RTS (480p),https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+RTS Svet HD (720p),https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 RTSH 3 (576i),http://77.83.120.135:8001/play/a0qo
 RTSH 24 (1080i),http://77.83.120.135:8001/play/RTSH24
 RTSH Muzike (576i),http://77.83.120.135:8001/play/a1a0
@@ -4587,7 +4600,7 @@ Tele Tchad (1080p),https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_m
 Tele Universal TV (720p),https://vdo2.streamgato.us:3466/live/teleuniversaldclive.m3u8
 Tele Uno (720p) [Not 24/7],http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 TeleBari (1080p),http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8
-TeleBärn (720p),https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
+TeleBarn,https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
 Telebelluno (720p),https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
 TeleBendicion (720p) [Not 24/7],https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 TeleBielingue (720p),https://edge20.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
@@ -4751,6 +4764,7 @@ Tevex (720p) [Not 24/7],https://v4.tustreaming.cl/tevexinter/index.m3u8
 Tezaur TV (576p) [Not 24/7],https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 Tezaur TV (1080p),http://62.233.57.226:8001/play/a00j
 TF1 (720p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+TF1 HD (720p),https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 TF1 Séries Films (720p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
 TFM (720p),http://69.64.57.208/tfm/playlist.m3u8
 TFX (720p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
@@ -5388,6 +5402,7 @@ Vevo '80s,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/
 Vevo '90s,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
 Vevo '90s & '00s Italy (1080p),https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
 Vevo Country,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe
+Vevo Hip Hop,https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8
 Vevo Hip-Hop & R&B (1080p),https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
 Vevo Hip-Hop et RnB,https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
 Vevo Íconos Latinos,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce910-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=79a35639-aaba-46f2-bc03-c95f92f52181

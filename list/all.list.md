@@ -1986,7 +1986,7 @@
 | 1980 | [SD]香港卫视 | [SD 香港卫视](rtmp://zhibo.hkstv.tv/livestream/mutfysrq) |
 | 1981 | [BD]-凤凰卫视香港 | [BD -凤凰卫视香港](https://stream1.freetv.fun/b0d788f53809f59ca776e28fc7ec4f8e2618c6e7120298fbfb1f9fb9ab99621e.m3u8) |
 | 1982 | [HD]凤凰中文 | [HD 凤凰中文](https://stream1.freetv.fun/a4e7e8c192fe538f4878412af5f611bf10948212e980cf029ac0500a7cb8962f.ctv) |
-| 1983 | [BD]凤凰资讯 | [BD 凤凰资讯](https://stream1.freetv.fun/394e3d5e6a07057143c0beb8ee4f57f8ca189fbe996eec435f23e92ea2acbe46.ctv) |
+| 1983 | [BD]凤凰资讯 高清 | [BD 凤凰资讯 高清](https://stream1.freetv.fun/658a6d2edfd075bcf5d689b1117c91ae933efc41c7c68b2411d9d4276fb071c7.ctv) |
 | 1984 | [SD]凤凰电影 | [SD 凤凰电影](https://stream1.freetv.fun/75cf3fd3b2e39cb22ee433381aeafdfabd12682b75b524b21992dc0b7284fcaa.m3u8) |
 | 1985 | [BD]凤凰香港 | [BD 凤凰香港](https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.ctv) |
 | 1986 | [HD]盐城城市公共 | [HD 盐城城市公共](https://stream1.freetv.fun/d2e27cd1428bdf3af3cefdd45f4558b6a21aa4040d875ccf8c5d5c78e36642f6.m3u8) |
@@ -2002,4 +2002,4 @@
 | 1996 | [HD]龙华经典 | [HD 龙华经典](https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv) |
 | 1997 | [HD]龙华电影 | [HD 龙华电影](https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv) |
 
-Updated at **Sun Jul 20 2025 16:25:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 21 2025 01:58:02 GMT+0000 (Coordinated Universal Time)**

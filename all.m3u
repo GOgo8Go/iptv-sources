@@ -3963,8 +3963,8 @@ rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 https://stream1.freetv.fun/b0d788f53809f59ca776e28fc7ec4f8e2618c6e7120298fbfb1f9fb9ab99621e.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视中文" tvg-id="368338" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128061049622730_55.png" group-title="Generic",[HD]凤凰中文
 https://stream1.freetv.fun/a4e7e8c192fe538f4878412af5f611bf10948212e980cf029ac0500a7cb8962f.ctv
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="News",[BD]凤凰资讯
-https://stream1.freetv.fun/394e3d5e6a07057143c0beb8ee4f57f8ca189fbe996eec435f23e92ea2acbe46.ctv
+#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="News",[BD]凤凰资讯 高清
+https://stream1.freetv.fun/658a6d2edfd075bcf5d689b1117c91ae933efc41c7c68b2411d9d4276fb071c7.ctv
 #EXTINF:-1 tvg-name="凤凰电影" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170707446242_18.png" group-title="Movies",[SD]凤凰电影
 https://stream1.freetv.fun/75cf3fd3b2e39cb22ee433381aeafdfabd12682b75b524b21992dc0b7284fcaa.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="Generic",[BD]凤凰香港

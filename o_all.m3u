@@ -905,6 +905,8 @@ https://atrihls.wns.live/hls/stream.m3u8
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="General",ATV
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ATV2.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/512px-Logo_ATV2.svg.png" group-title="General",ATV2 HD
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:-1 tvg-id="ATV.gn" tvg-logo="https://i.imgur.com/YkJPCfR.jpeg" group-title="General",ATV (400p) [Not 24/7]
 https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 #EXTINF:-1 tvg-id="ATV.at" tvg-logo="https://i.imgur.com/1pA0Tid.png" group-title="General",ATV (576p)
@@ -4065,6 +4067,8 @@ https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
 http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/512px-Italia_1.svg.png" group-title="General",Italia 1
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1 tvg-id="Italia1.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/512px-Italia_1.svg.png" group-title="General",Italia 1 HD
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 tvg-id="Italia2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png" group-title="Entertainment",Italia 2
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1 tvg-id="Italia2TV.it" tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="Undefined",Italia 2 TV (480p)
@@ -4245,6 +4249,8 @@ https://guineetvdirect.online:3842/live/kabacktvlive.m3u8
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-id="KABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="General",KABC-DT1 (720p)
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="kabeleins.de@SD" tvg-logo="https://i.imgur.com/6pulSHZ.png" group-title="Entertainment",kabel eins (576p)
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
 #EXTINF:-1 tvg-id="KabloInfo.tr" tvg-logo="https://i.imgur.com/6BC3M4C.png" group-title="News",Kablo Info (1080p)
 http://185.234.111.229:8000/play/a01g
 #EXTINF:-1 tvg-id="KadakHits.in" tvg-logo="https://i.imgur.com/jxZYTO2.png" group-title="Music",Kadak Hits (1080p) [Not 24/7]
@@ -4797,6 +4803,8 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-id="LA7d.it" tvg-logo="https://i.imgur.com/sM0A3GD.png" group-title="General",LA7d (720p)
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="LA7.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="General",LA7 HD
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:-1 tvg-id="La8Mediterraneo.es" tvg-logo="https://tbsfibra.es/wp-content/uploads/2022/07/17-8-MEDITERRANEO.png" group-title="General",La 8 Mediterráneo (1080p) [Not 24/7]
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-id="La981TV.hn" tvg-logo="https://i.imgur.com/7380kTN.png" group-title="Music",La 98.1 TV (720p) [Not 24/7]
@@ -5484,7 +5492,7 @@ http://www.hwado.net/webtv/catv/503_CFEA7803.php
 #EXTINF:-1 tvg-id="HLATDTV.kr" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="General",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Movies",MBC+ Drama (1080p)
-https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="MCTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png" group-title="Entertainment",MC TV (720p)
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="MCITelevision.co" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="Family;General;Movies",MCI Television
@@ -7667,6 +7675,8 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="Undefined",Rai Gulp (1080p)
 http://188.60.179.180:8000/play/xxRaiGulpxx
+#EXTINF:-1 tvg-id="RaiGulp.it@HD" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="Undefined",Rai Gulp HD
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:-1 tvg-id="RaiItalia.it@EuropeAfrica" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="Undefined",Rai Italia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:-1 tvg-id="RaiItalia.it@Americas" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="Undefined",Rai Italia Americas
@@ -7679,14 +7689,22 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 http://188.60.179.180:8000/play/xxRaiMOviexx
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 (720p)
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it@HD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 HD
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://i.imgur.com/40g5Urz.png" group-title="Undefined",Rai Premium (1080p)
 http://188.60.179.180:8000/play/a0oy
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Education",Rai Scuola (576p)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:-1 tvg-id="RaiScuola.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Education",Rai Scuola HD
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rai Sport 2
 http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
+#EXTINF:-1 tvg-id="RaiSport.it@HD" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Sports",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="Undefined",Rai Storia (576p)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 tvg-id="RaiStoria.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="Undefined",Rai Storia HD
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:-1 tvg-id="RaiWorldPremium.it" tvg-logo="https://i.imgur.com/tDuKkh3.png" group-title="Undefined",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://i.imgur.com/9gCxiDy.png" group-title="Kids",Rai Yoyo (1080p)
@@ -8149,6 +8167,8 @@ https://ss2.domint.net:3100/rtv_str/rvision/playlist.m3u8
 https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
 #EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Rete_4_2018.svg/512px-Rete_4_2018.svg.png" group-title="Undefined",Rete 4
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1 tvg-id="Rete4.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Rete_4_2018.svg/512px-Rete_4_2018.svg.png" group-title="Undefined",Rete 4 HD
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 #EXTINF:-1 tvg-id="Rete8.it@SD" tvg-logo="https://i.imgur.com/jojCxg3.png" group-title="General",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 #EXTINF:-1 tvg-id="Rete8VGA.it" tvg-logo="https://i.imgur.com/d2w0wA1.png" group-title="General",Rete 8 VGA (720p)
@@ -8361,10 +8381,10 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/p
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-logo="https://i.imgur.com/75qUdR7.png" group-title="Undefined",RTL 102.5 TV (1080p)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL.de@SD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Undefined",RTL (720p)
-http://185.189.225.150:85/RTL/index.m3u8
 #EXTINF:-1 tvg-id="RTL.hr@SD" tvg-logo="https://i.imgur.com/akAa45j.png" group-title="Undefined",RTL (1080p)
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+#EXTINF:-1 tvg-id="RTL.de@Austria" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Undefined",RTL Austria (576p)
+http://185.189.225.150:85/RTL/index.m3u8
 #EXTINF:-1 tvg-id="RTLCroatiaWorld.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" group-title="Undefined",RTL Croatia (1080p)
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLGold.hu" tvg-logo="https://i.imgur.com/PwbLDUQ.png" group-title="Undefined",RTL Gold (576p)
@@ -8419,12 +8439,18 @@ https://uzivo.rtrs.tv/tv/live/index.m3u8
 http://69.64.57.208/rts1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="Undefined",RTS 1 (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:-1 tvg-id="RTS1.ch@SD" tvg-logo="https://i.imgur.com/OP5lHv9.png" group-title="Undefined",RTS 1 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 tvg-id="RTS2.sn" tvg-logo="https://i.imgur.com/YypHsF4.png" group-title="Entertainment",RTS 2 (720p)
 http://69.64.57.208/rts2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="Undefined",RTS 2 (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-id="RTS2.ch@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png" group-title="Undefined",RTS 2 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:-1 tvg-id="RTS.ec" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Undefined",RTS (480p)
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSSvet.rs@HD" tvg-logo="https://i.imgur.com/LjunOdy.png" group-title="Undefined",RTS Svet HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:-1 tvg-id="RTSH3.al" tvg-logo="https://i.imgur.com/kyhHTx3.png" group-title="General",RTSH 3 (576i)
 http://77.83.120.135:8001/play/a0qo
 #EXTINF:-1 tvg-id="RTSH24.al" tvg-logo="https://i.imgur.com/H6tCoGW.png" group-title="News",RTSH 24 (1080i)
@@ -9175,8 +9201,8 @@ https://vdo2.streamgato.us:3466/live/teleuniversaldclive.m3u8
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="Telebari.it" tvg-logo="https://i.imgur.com/7KfldrH.png" group-title="General",TeleBari (1080p)
 http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-logo="https://i.imgur.com/YwUbbKA.png" group-title="Undefined",TeleBärn (720p)
-https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
+#EXTINF:-1 tvg-id="TeleBarn.ch@SD" tvg-logo="https://i.imgur.com/YwUbbKA.png" group-title="Undefined",TeleBarn
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
 #EXTINF:-1 tvg-id="Telebelluno.it" tvg-logo="https://i.imgur.com/jHzI1JP.png" group-title="Undefined",Telebelluno (720p)
 https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="TeleBendicion.do" tvg-logo="https://i.imgur.com/nh4sNVI.png" group-title="Religious",TeleBendicion (720p) [Not 24/7]
@@ -9503,6 +9529,8 @@ https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 http://62.233.57.226:8001/play/a00j
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 (720p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 tvg-id="TF1.fr@HD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",TF1 Séries Films (720p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
 #EXTINF:-1 tvg-id="TFM.sn" tvg-logo="https://i.imgur.com/TQWBlXn.png" group-title="General",TFM (720p)
@@ -10777,6 +10805,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VevoCountry.us" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Vevo Country
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe
+#EXTINF:-1 tvg-id="VevoHipHop.us@SD" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Music",Vevo Hip Hop
+https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Hip-Hop & R&B (1080p)
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Hip-Hop et RnB
