@@ -1968,7 +1968,7 @@
 | 1962 | Horror Machine (720p) | [Horror Machine (720p)](https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8) |
 | 1963 | Horror TV | [Horror TV](https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8) |
 | 1964 | Horse and Country (720p) | [Horse and Country (720p)](https://hncfree-samsungau.amagi.tv/playlist.m3u8) |
-| 1965 | HorseTV (720p) | [HorseTV (720p)](https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8) |
+| 1965 | Horse TV (720p) | [Horse TV (720p)](https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8) |
 | 1966 | Hosanna Vision (720p) [Not 24/7] | [Hosanna Vision (720p)  Not 24/7](https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8) |
 | 1967 | Host TV (720p) | [Host TV (720p)](https://panel.freedomflixtv.org:3994/hybrid/play.m3u8) |
 | 1968 | Hot Bench | [Hot Bench](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f94-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7b2a6dda-f21b-4de6-9d06-1457daf9aa31) |
@@ -6100,4 +6100,4 @@
 | 6094 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 | 6095 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
 
-Updated at **Mon Jul 21 2025 16:28:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 22 2025 01:52:52 GMT+0000 (Coordinated Universal Time)**
