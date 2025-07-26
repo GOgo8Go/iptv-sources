@@ -1096,7 +1096,7 @@
 | 1090 | Coast Guard | [Coast Guard](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddd96abcba80008d03b74/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84accbc3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0b5b2224-98cb-4873-9044-ed2cbab31407) |
 | 1091 | CoastTV NBC (WRDE-LD) (720p) [Not 24/7] | [CoastTV NBC (WRDE-LD) (720p)  Not 24/7](https://live.field59.com/wrde/wrde1/playlist.m3u8) |
 | 1092 | COCO TV (720p) | [COCO TV (720p)](https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8) |
-| 1093 | Codigo TV | [Codigo TV](https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8) |
+| 1093 | Codigo TV [Not 24/7] | [Codigo TV  Not 24/7](https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8) |
 | 1094 | Coeur Océan | [Coeur Océan](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3dd1c2f29ce0007e18596/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b102-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0031c60f-4d94-4726-b1ae-5054583e82c7) |
 | 1095 | Coeur Ocean TV | [Coeur Ocean TV](https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2240abcf-afe5-4416-9631-fa9c29b7d0e6/manifest.m3u8) |
 | 1096 | Cold Blood | [Cold Blood](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656064752c46f300087e9c99/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d1593-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4e98d1a8-bfb1-4e2c-a957-60357c97ba15) |
@@ -5567,4 +5567,4 @@
 | 5561 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 | 5562 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
 
-Updated at **Fri Jul 25 2025 16:28:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 26 2025 01:49:05 GMT+0000 (Coordinated Universal Time)**
