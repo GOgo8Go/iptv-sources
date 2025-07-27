@@ -273,7 +273,6 @@ Al Jazeera Mubasher 24 (1080p),https://live-hls-apps-ajm24-fa.getaj.net/AJM24/in
 Al Jazeera Mubasher (1080p),https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 Al Jazeera Mubasher Broadcast 2 (1080p),https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 Al Kahera Wal Nas,https://live20.bozztv.com/gin-36bay3/ga-alkahera/tracks-v1a1/mono.m3u8
-Al Khalij (720p) [Not 24/7],https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 Al Maali TV (1080p),https://kali.vdopanel.com:3797/live/bashaclicklive.m3u8
 Al Maaref (350p),https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8
 Al Madina (720p),https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
@@ -2107,7 +2106,6 @@ Just for Laughs Gags,https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07
 Just for Laughs Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Just Tattoo of Us,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6304f20c941c5d00089634e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d813-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd619bf4-9a83-4ae8-86d7-ec8f0db9023c
 Just TV,https://fenixstream2.online/memfs/0ac46a4f-71ea-4bf7-bb62-312df327b6c8.m3u8
-Just Vogue TV (1080p),https://ip100.radyotelekomtv.com:3873/stream/play.m3u8
 Just.fishing,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
 Just.fishing,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8441a4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4054ebe5-daab-4ba7-b43b-a2cf1cd66202
 Just.fishing,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f17-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d06cb634-30f9-492b-b1b6-c1c3af23164b
@@ -2749,7 +2747,7 @@ MBC Masr Drama (1080p),https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a
 MBC Masr USA (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 MBC Mokpo (목포 MBC) (720p) [Not 24/7],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC Net (480p),http://mytv.dothome.co.kr/ch/catv/28.php
-MBC Persia (1080p),https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+MBC Persia (720p),https://hls.mbcpersia.live/hls/stream.m3u8
 MBC TV (720p),http://www.hwado.net/webtv/catv/503_CFEA7803.php
 MBC Yeosu (여수 MBC) (1080p) [Not 24/7],https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 MBC+ Drama (1080p),https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
@@ -3356,8 +3354,6 @@ Pluto TV: Mehr Star Trek,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto
 Pluto TV: Mehr Star Trek,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6500464a3a0d700008b3ce19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b1d8f42-c575-4cb5-88e6-bb6e8e5a6c30
 Plymouth Rock TV (1080p),https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8
 Plzeň TV (1080p),https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
-PMC (1080p),https://hls.pmc.live/hls/stream.m3u8
-PMC Royale (720p),https://rohls.pmc.live/hls/stream.m3u8
 PMCS TV (720p),https://cdn.streamhispanatv.net:3787/live/pmcstvlive.m3u8
 PMI TV (720p) [Not 24/7],https://cdn.live247stream.com/pmi/tv/playlist.m3u8
 PNC Drama (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
