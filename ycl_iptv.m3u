@@ -107,24 +107,12 @@ rtp://239.3.1.235:8000
 rtp://239.3.1.115:8000
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方",卡酷少儿
 rtp://239.3.1.189:8000
-#EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="地方",4K超清
-rtp://239.3.1.249:8001
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方",金鹰纪实
 rtp://239.3.1.58:8156
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="地方",茶友频道
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="地方",快乐垂钓
 rtp://239.3.1.164:8001
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字",金色学堂
-rtp://239.3.1.208:8001
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字",生活时尚
-rtp://239.3.1.206:8001
-#EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字",乐游频道
-rtp://239.3.1.207:8001
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字",都市剧场
-rtp://239.3.1.203:8001
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字",魅力足球
-rtp://239.3.1.201:8001
 #EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://epg.112114.xyz/logo/晴彩竞技.png" group-title="数字",睛彩竞技
 rtp://239.3.1.125:8001
 #EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://epg.112114.xyz/logo/晴彩篮球.png" group-title="数字",睛彩篮球
@@ -135,6 +123,8 @@ rtp://239.3.1.127:8001
 rtp://239.3.1.128:8001
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",爱上4K
 rtp://239.3.1.236:2000
+#EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="数字",4K超清
+rtp://239.3.1.249:8001
 #EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",城市剧场
 rtp://239.3.1.67:4120
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",军旅剧场
