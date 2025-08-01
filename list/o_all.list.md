@@ -5601,4 +5601,4 @@
 | 5595 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 | 5596 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
 
-Updated at **Fri Aug 01 2025 08:31:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 01 2025 16:29:44 GMT+0000 (Coordinated Universal Time)**
