@@ -473,4 +473,4 @@
 | 467 | Harbin Movie Channel | [Harbin Movie Channel](https://stream.hrbtv.net/yspd/playlist.m3u8) |
 | 468 | Siping TV | [Siping TV](http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598) |
 
-Updated at **Sun Aug 03 2025 08:27:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 03 2025 16:26:25 GMT+0000 (Coordinated Universal Time)**
