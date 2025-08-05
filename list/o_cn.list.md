@@ -95,7 +95,7 @@
 | 89 | Tonghua TV | [Tonghua TV](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8) |
 | 90 | Toonmax TV | [Toonmax TV](http://49.113.179.174:4022/udp/238.125.4.28:5140) |
 | 91 | TV5Monde Pacifique (1080p) | [TV5Monde Pacifique (1080p)](https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8) |
-| 92 | TV BRICS Chinese (1080p) [Not 24/7] | [TV BRICS Chinese (1080p)  Not 24/7](https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8) |
+| 92 | TV BRICS Chinese (1080p) | [TV BRICS Chinese (1080p)](https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8) |
 | 93 | Ugo Shop TV | [Ugo Shop TV](http://49.113.179.174:4022/udp/238.125.4.184:5140) |
 | 94 | VOA美国之音 | [VOA美国之音](https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8) |
 | 95 | Weihai Comprehensive News Channel | [Weihai Comprehensive News Channel](http://l1.weihai.tv:8081/hls/969O76hb22.m3u8) |
@@ -180,4 +180,4 @@
 | 174 | 鹤壁新闻综合 (480p) [Not 24/7] | [鹤壁新闻综合 (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
 | 175 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 
-Updated at **Tue Aug 05 2025 08:32:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 05 2025 16:24:26 GMT+0000 (Coordinated Universal Time)**
