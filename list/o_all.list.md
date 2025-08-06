@@ -1047,7 +1047,7 @@
 | 1041 | Diez TV Úbeda (1080p) | [Diez TV Úbeda (1080p)](https://streaming.cloud.innovasur.es/mmj/index.m3u8) |
 | 1042 | DiezTV Encarnación (1080p) | [DiezTV Encarnación (1080p)](https://stream.oursnetworktv.com/latin/encoder87/playlist.m3u8) |
 | 1043 | Dighvijay (240p) [Not 24/7] | [Dighvijay (240p)  Not 24/7](https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8) |
-| 1044 | Digi 24 (1080p) | [Digi 24 (1080p)](http://62.233.57.226:8001/play/a00k00) |
+| 1044 | Digi 24 (720p) | [Digi 24 (720p)](https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8) |
 | 1045 | Digi Movie [Not 24/7] | [Digi Movie  Not 24/7](https://fastdehost.com/live/digimovie.m3u8) |
 | 1046 | Digimon Adventure | [Digimon Adventure](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617bae1d69bca3000729561e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d081da78-acbb-459e-9034-63720548296e) |
 | 1047 | DigiOne (720p) | [DigiOne (720p)](https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8) |
@@ -5419,4 +5419,4 @@
 | 5413 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 | 5414 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
 
-Updated at **Tue Aug 05 2025 16:24:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 06 2025 01:56:12 GMT+0000 (Coordinated Universal Time)**

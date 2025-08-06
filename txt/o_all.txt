@@ -1042,7 +1042,7 @@ Diez TV Las Villas (1080p),https://streaming.cloud.innovasur.es/mmj2/index.m3u8
 Diez TV Úbeda (1080p),https://streaming.cloud.innovasur.es/mmj/index.m3u8
 DiezTV Encarnación (1080p),https://stream.oursnetworktv.com/latin/encoder87/playlist.m3u8
 Dighvijay (240p) [Not 24/7],https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
-Digi 24 (1080p),http://62.233.57.226:8001/play/a00k00
+Digi 24 (720p),https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 Digi Movie [Not 24/7],https://fastdehost.com/live/digimovie.m3u8
 Digimon Adventure,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617bae1d69bca3000729561e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d081da78-acbb-459e-9034-63720548296e
 DigiOne (720p),https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
