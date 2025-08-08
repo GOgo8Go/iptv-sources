@@ -8139,8 +8139,6 @@ https://v4.tustreaming.cl/tevexinter/index.m3u8
 http://62.233.57.226:8001/play/a00j
 #EXTINF:-1 tvg-id="TezaurTV.ro" tvg-logo="https://i.imgur.com/t5eDZxU.png" group-title="Music",Tezaur TV (576p) [Not 24/7]
 https://testcam.go.ro:8080/hls/tezaurtv.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 (720p)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="TF1.fr@HD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:-1 tvg-id="TFM.sn" tvg-logo="https://i.imgur.com/TQWBlXn.png" group-title="General",TFM (720p)
@@ -8233,8 +8231,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFirstTV.us" tvg-logo="https://i.imgur.com/rOSlp93.png" group-title="News",The First TV (1080p)
 https://thefirst-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@SD" tvg-logo="https://i.imgur.com/KcTTnUA.png" group-title="Outdoor",The Fishing & Hunting Channel (576i)
-http://78.130.250.2:8023/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="WFSUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png" group-title="Legislative",The Florida Channel (480p)
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The Grapevine
@@ -8583,7 +8579,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
 hhttps://fl1002.bozztv.com/ssh101/rctvhdtra/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Undefined",Tra Vinh TV (720p)
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraVinhTV2.vn" tvg-logo="https://i.imgur.com/uqMu5Fb.png" group-title="General",Tra Vinh TV 2 (720p)
+#EXTINF:-1 tvg-id="TraVinhTV2.vn" tvg-logo="https://i.imgur.com/uqMu5Fb.png" group-title="Education;Science",Tra Vinh TV 2 (720p)
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Music",TRACE Brazuca (1080p)
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
@@ -9469,7 +9465,7 @@ https://straume.vdtv.lv/vdtv2/index.m3u8
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 #EXTINF:-1 tvg-id="WHOHTV.us" tvg-logo="https://i.imgur.com/jTD9nLE.png" group-title="General",Village of Hastings-On-Hudson NY (WHOH-TV) (360p)
 https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-logo="https://i.imgur.com/5YFsqPx.png" group-title="Undefined",Vinh Long TV 1 (576p)
+#EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-logo="https://i.imgur.com/5YFsqPx.png" group-title="General;News",Vinh Long TV 1 (576p)
 http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VintageMusic.cr" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="Music",Vintage Music (720p)
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
@@ -9855,7 +9851,7 @@ https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8
 https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:-1 tvg-id="Wired2FishTV.us" tvg-logo="https://i.imgur.com/zAtt7oq.png" group-title="Undefined",Wired2Fish (720p)
 https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WISDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="Undefined",WIS-DT2 (720p)
+#EXTINF:-1 tvg-id="WISDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png" group-title="Undefined",WIS-DT2 (720p)
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 #EXTINF:-1 tvg-id="WiseHumanTv.ir" tvg-logo="https://i.imgur.com/BT7EtfB.png" group-title="Religious",WiseHumanTv (720p)
 https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
@@ -9987,7 +9983,7 @@ https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x
 https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
 #EXTINF:-1 tvg-id="WuanPlus.ec" tvg-logo="https://i.imgur.com/pJNx1za.png" group-title="General",Wuan+ (1080p)
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
-#EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="Undefined",WUPA-DT1
+#EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png" group-title="Undefined",WUPA-DT1
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
 #EXTINF:-1 tvg-id="WVCULP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG" group-title="Music",WVCU-LP Concord University Radio The Cure 97.7 (1080p)
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8

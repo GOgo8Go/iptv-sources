@@ -4069,7 +4069,6 @@ TEVEKA (1080p) [Not 24/7],https://www.teveka.net:8443/show/teveka/index.m3u8
 Tevex (720p) [Not 24/7],https://v4.tustreaming.cl/tevexinter/index.m3u8
 Tezaur TV (1080p),http://62.233.57.226:8001/play/a00j
 Tezaur TV (576p) [Not 24/7],https://testcam.go.ro:8080/hls/tezaurtv.m3u8
-TF1 (720p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 TF1 HD (720p),https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 TFM (720p),http://69.64.57.208/tfm/playlist.m3u8
 TG4 (1080p),https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
@@ -4116,7 +4115,6 @@ The Explorers,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca14
 The Facts of Life,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b52df0bc3ab40008488f5c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5076-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=07b54a32-d5da-4df1-9bbb-283909a8c139
 The Film Detective,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 The First TV (1080p),https://thefirst-oando.amagi.tv/playlist.m3u8
-The Fishing & Hunting Channel (576i),http://78.130.250.2:8023/play/a032/index.m3u8
 The Florida Channel (480p),https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8
 The Grapevine,https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us
 The Grappling Network (1080p),https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8
