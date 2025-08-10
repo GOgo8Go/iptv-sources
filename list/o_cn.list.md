@@ -29,7 +29,7 @@
 | 23 | CCTV 风云音乐 | [CCTV 风云音乐](http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV) |
 | 24 | CCTV+ 1 (600p) [Not 24/7] | [CCTV+ 1 (600p)  Not 24/7](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8) |
 | 25 | CCTV+ 2 (600p) [Not 24/7] | [CCTV+ 2 (600p)  Not 24/7](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8) |
-| 26 | CCTV-5体育 (1080p) | [CCTV-5体育 (1080p)](http://1.85.0.62:808/hls/503/index.m3u8) |
+| 26 | CCTV-5体育 (1080p) | [CCTV-5体育 (1080p)](http://220.178.228.153:1935/live/cctv5/playlist.m3u8) |
 | 27 | CCTV-6电影 (1080p) | [CCTV-6电影 (1080p)](http://1.85.0.62:808/hls/6/index.m3u8) |
 | 28 | CCTV-13新闻 (1080p) | [CCTV-13新闻 (1080p)](https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8) |
 | 29 | CETV1 (576p) | [CETV1 (576p)](http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV) |
@@ -180,4 +180,4 @@
 | 174 | 鹤壁新闻综合 (480p) [Not 24/7] | [鹤壁新闻综合 (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
 | 175 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 
-Updated at **Sat Aug 09 2025 16:25:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 10 2025 01:59:53 GMT+0000 (Coordinated Universal Time)**
