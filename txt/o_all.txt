@@ -182,7 +182,7 @@ Al Najah News (720p),https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 Al Nujaba,http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
 Al Qahera News (1080p) [Not 24/7],https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
 Al Qamar TV (1080p),https://streamer3.premio.link/alqamar/playlist.m3u8
-Al Quran Al Kareem TV (1080p),https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+Al Quran Al Kareem TV (360p),https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 Al Riyadh Radio (1080p),https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
 Al Sabah (720p),https://ffs1.gulfsat.com/Al-Sabah-TV/index.fmp4.m3u8
 Al Saudiya (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
@@ -484,6 +484,7 @@ Canal 55 Telemorisco TV (720p),http://canal.mediaserver.com.co/live/telemorisco.
 Canal 56 (720p),https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8
 Canal 56 (576p) [Not 24/7],https://videos.canal56.com/directe/stream/index.m3u8
 Canal 65 (1080p) [Not 24/7],https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
+Canal 70 [Not 24/7],https://live20.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
 Canal 74 San Antonio,https://eu1.servers10.com:8081/8050/index.m3u8
 Canal 79 La Costa (240p),https://streamconex.com:19360/lacosta/lacosta.m3u8
 Canal 79 Puan (240p),https://streamconex.com:19360/puan/puan.m3u8
@@ -701,6 +702,7 @@ Clubbing TV,https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 Clubbing TV (720p),https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 Clubbing TV France,https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 Clubbing TV Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+CMB Television (1080p),https://catv.cmbcolombia.tv/bethesda/bethesda/chunklist.m3u8
 CMC TV (1080p),https://stream.cmctv.hr:49998/cmc/live.m3u8
 CMM TV (1080p) [Not 24/7],https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 CMT East,https://fl3.moveonjoy.com/CMT/index.m3u8
@@ -1202,7 +1204,6 @@ Dudelange TV (720p),https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playl
 Due Fantagenitori Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Duende Tv (720p),https://ed29ov.live.opencaster.com/EDokztdeHFwk/index.m3u8
 Dukh Nivaran (720p) [Not 24/7],http://cdn12.henico.net:8080/live/dncal/index.m3u8
-Dumskaya TV (720p),http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 Duna (720p),https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 Duna World (576p),http://146.59.85.40:89/dunaworld/index.m3u8
 Dunamis TV (576p) [Not 24/7],https://atechgroupuk.site/DTV.m3u8
@@ -1325,7 +1326,6 @@ Elive TV Brescia (720p) [Not 24/7],https://59d7d6f47d7fc.streamlock.net/elivebre
 Ellas TV (1080p),http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 Ellinikos FM (720p),https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 Elmas TV (720p) [Not 24/7],https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8
-Elshaddai Television Network (720p),https://5d00db0e0fcd5.streamlock.net/7586/7586/playlist.m3u8
 Elsharq TV (1080p) [Not 24/7],https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 Elshinta TV,https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 Elsö Kerület TV (1080p),https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
@@ -1461,6 +1461,7 @@ Express Entertainment (1080p),https://5dcabf026b188.streamlock.net/expressdigita
 Expressen TV (1080p),https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
 Extacy TV,https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 Extra TV (1080p),https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+Extrema Kids TV [Not 24/7],https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 Extrema TV (720p),https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 Extrema TV (720p),http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 Extreme Channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/626be090c5340d00073773f9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b100-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=04f3e8bb-bf34-46ea-9933-86c44de2d919
@@ -3116,7 +3117,7 @@ Superscreen TV (412p),https://video1.getstreamhosting.com:1936/8398/8398/playlis
 SuperSix Lombardia (720p),https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 SuperSport Rugby,https://live20.bozztv.com/trn03/gin-ssrugby/index.m3u8
 Superyacht TV (1080p),https://sy.wns.live/hls/stream.m3u8
-Supremateve TV (720p),https://ss2.domint.net:3132/stv_str/supremateve/playlist.m3u8
+Supremateve (720p) [Not 24/7],https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8
 Supreme Master TV (720p),https://lbs-us1.suprememastertv.com/720p.m3u8
 SUR TV,https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
 Suram TV (1080p),https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
@@ -4093,7 +4094,6 @@ WXXV-TV News (Biloxi MS) (720p),https://townnews.g-mana.live/media/c8c354e0-672f
 WZNT (Zeta 93) (1080p) [Not 24/7],https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 Xtra Tv [Not 24/7],https://cnn.essastream.com:3387/live/xtratvlive.m3u8
 Xtrem Sports,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-Xtrema Kids TV,https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 Zagros (720p) [Not 24/7],https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 Zagros,https://ncdn.telewebion.com/zagros/live/playlist.m3u8
 Zainabia Channel,https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
@@ -4342,7 +4342,6 @@ Zylo Todo Novelas (1080p),https://amg00711-zylo-amg00711c3-rakuten-es-5794.playo
 Сити Эдем КиноМистика [Not 24/7],https://v2.catcast.tv/content/40783/index.m3u8
 Сити Эдем КиноЭкшен [Not 24/7],https://v2.catcast.tv/content/41333/index.m3u8
 Сити Эдем ТВ [Not 24/7],https://v2.catcast.tv/content/34246/index.m3u8
-Сити Эдем ТВ Meditation Music [Not 24/7],https://v2.catcast.tv/content/47410/index.m3u8
 Сити Эдем ТелеНовелла [Not 24/7],https://v2.catcast.tv/content/46209/index.m3u8
 Смайл ТВ,https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 Смотрим Честный Детектив,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
