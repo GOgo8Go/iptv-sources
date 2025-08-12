@@ -7,8 +7,7 @@
 | 1 | CCTV+ 1 (600p) | [CCTV+ 1 (600p)](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8) |
 | 2 | CCTV+ 2 (600p) | [CCTV+ 2 (600p)](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8) |
 | 3 | CCTV-4 America (1080p) | [CCTV-4 America (1080p)](https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8) |
-| 4 | CCTV-5体育 (1080p) | [CCTV-5体育 (1080p)](http://220.178.228.153:1935/live/cctv5/playlist.m3u8) |
-| 5 | CCTV-6电影 (1080p) | [CCTV-6电影 (1080p)](http://1.85.0.62:808/hls/6/index.m3u8) |
-| 6 | CCTV-13新闻 (1080p) | [CCTV-13新闻 (1080p)](https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8) |
+| 4 | CCTV-6电影 (1080p) | [CCTV-6电影 (1080p)](http://1.85.0.62:808/hls/6/index.m3u8) |
+| 5 | CCTV-13新闻 (1080p) | [CCTV-13新闻 (1080p)](https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8) |
 
-Updated at **Tue Aug 12 2025 08:29:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 12 2025 16:27:54 GMT+0000 (Coordinated Universal Time)**
