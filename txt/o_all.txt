@@ -2072,7 +2072,6 @@ Kanal 7 (1080p) [Not 24/7],https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 Kanal 7 Avrupa (720p) [Not 24/7],https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 Kanal 8 (720p),http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
 Kanal 9 auf Deutsch (1080p),https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
-Kanal 10 (1080i),http://77.83.120.135:8001/play/a165
 Kanal 10 Asia (540p),http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 Kanal 12 (720p),https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 Kanal12 Spremberg TV (404p) [Not 24/7],https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
@@ -2575,7 +2574,6 @@ ORBIT TV (480p),https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 ORF 1 HD (720p),https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 ORF 2 (720p),https://strm.hdtvizlecanli.com/live/orf2.m3u8
 ORF 2 (720p),https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8
-ORF 2 NO HD (720p),http://80.108.23.68:9999/stream/channelid/39599149?profile=pass
 ORF 2 Tirol HD (720p),https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 ORF III HD (720p),https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 ORF Kids (720p),https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
@@ -2793,7 +2791,7 @@ RadioNL TV (1080p) [Not 24/7],https://stream.radionl.tv/radionltv/radionltv/play
 RadioToppers (720p),https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
 RadioTV Oriente,https://live.obslivestream.com/tvoriente/index.m3u8
 Rai 1 (720p),https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-Rai 1 HD (720p),http://77.83.120.135:8001/play/a11c
+Rai 1 HD (720p),https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 Rai 2 (576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 RN Televisión (720p) [Not 24/7],https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 RNF (1080p),https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
@@ -2909,7 +2907,6 @@ RTV Canal 57 (720p),https://streaming.grupocsanetwork.com:19360/canal57/canal57.
 RTV Católica Canal 40 (1080p),https://streaming.grupocsanetwork.com:19360/canal40/canal40.m3u8
 RTV Chirripó (720p),https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 RTV Drenthe (1080p),https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-RTV Dukagjini (1080i),http://77.83.120.135:8001/play/a032
 RTV Marbella (720p),https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 RTV Meppel (720p),https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
 RTV Naranjal (720p),https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/playlist.m3u8
@@ -3670,7 +3667,7 @@ TV Den (576p) [Not 24/7],http://canli.tvden.com.tr/hls/live.m3u8
 TV Derana (360p),https://edge3-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8
 TV Destak (360p),http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
 TV Diário Macapá (1080p) [Not 24/7],https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
-TV Dielli (720p),http://77.83.120.135:8001/play/a05f
+TV Dielli (720p) [Not 24/7],http://stream.tvdielli.com:8081/dielli/index.m3u8
 TV Difusora Leste (1080p),https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
 TV Digital Biriguí (640p),http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
 TV Direct 13 (480p) [Not 24/7],https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -3852,7 +3849,6 @@ ViX Jajaja (1080p),https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/
 ViX Parejas (1080p),https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
 Vizion Plus (1080p),https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 Vizyon 58 TV (720p),https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
-VM1 Sehen (1080p),https://live1.markenfunk.com/t1/ngrp:live_all/playlist.m3u8
 VM Latino (720p) [Not 24/7],https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 VNP,https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 VOA Persian,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
@@ -4143,7 +4139,6 @@ Zerouno TV News (720p),https://5db313b643fd8.streamlock.net/ZerounoTVEventi/Zero
 ZFM Zoetermeer (720p),https://zfmzoetermeer.nl/live/master.m3u8
 Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 Zhwandoon TV,https://live20.bozztv.com/dvrfl05/gin-zhwandoon/index.m3u8
-ZICO TV (1080p),http://77.83.120.135:8001/play/a0wn
 ZillarBarta News (720p),https://live-stream.utkalbongo.com/utkalbongo/stream18/hls/zillarbartalive.m3u8
 Zinc Nombre TV [Not 24/7],https://5790d294af2dc.streamlock.net/zincnombreradiotv24@gmail.com/zincnombreradiotv24@gmail.com/playlist.m3u8
 Zindagi TV (576p) [Not 24/7],https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
@@ -4281,7 +4276,7 @@ Zylo Todo Novelas (1080p),https://amg00711-zylo-amg00711c3-rakuten-es-5794.playo
 Мир +7 (540p),http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 Мир Белагорья (720p),http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 Москва 24,https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-МосОбрТВ (720p),http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+МосОбрТВ (720p),http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 Мосфильм Золотая Коллекция,http://178.217.72.66:8080/mosfilm/index.m3u8
 Моя Планета,http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 МТВ (Волгоград) (720p) [Not 24/7],http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
@@ -4337,7 +4332,6 @@ Zylo Todo Novelas (1080p),https://amg00711-zylo-amg00711c3-rakuten-es-5794.playo
 Север (Нарьян-Мар) (1080p),https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
 Сибирь 24 (Красноярск),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 Сибирь 24 (Новосибирск),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-Сити Эдем КиноДок [Not 24/7],https://v2.catcast.tv/content/40783/index.m3u8
 Сити Эдем КиноКлассика [Not 24/7],https://v2.catcast.tv/content/34185/index.m3u8
 Сити Эдем КиноМистика [Not 24/7],https://v2.catcast.tv/content/40783/index.m3u8
 Сити Эдем КиноЭкшен [Not 24/7],https://v2.catcast.tv/content/41333/index.m3u8
