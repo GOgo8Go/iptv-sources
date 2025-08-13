@@ -508,7 +508,6 @@ Canal Sierra de Cádiz (1080p) [Not 24/7],https://s.emisoras.tv:8081/sierradecad
 Canal Sol (720p),https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
 Canal Sur Andalucia (1080p),https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 Canal Sur Andalucía 2 (720p),https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-Canal Sur Andalucia HEVC,https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
 Canal Sur Noticias,https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 CGNTV South Korea (1080p),https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
@@ -670,7 +669,6 @@ Ciudades Del Ocio TV (720p),https://cloudvideo.servers10.com:8081/8024/index.m3u
 CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 CJ OnStyle Plus (540p),https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 Clan (1280p),https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
-Clan HEVC,https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 Clan TVE Internacional (1080p),https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 Clarissa,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1957e4da730007195dc3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d1590-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67b4ae5a-ee93-4db5-8ab7-942fde0da3c5
 Clarissa,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1957e4da730007195dc3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc835745-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8fec7709-f957-4c32-ae6d-2dde8020c4e6
