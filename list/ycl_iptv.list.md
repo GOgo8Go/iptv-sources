@@ -83,4 +83,4 @@
 | 77 | 魅力时尚 | [魅力时尚](rtp://239.3.1.196:9012) |
 | 78 | 少儿动画 | [少儿动画](rtp://239.3.1.199:9000) |
 
-Updated at **Thu Aug 14 2025 08:29:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 14 2025 16:28:11 GMT+0000 (Coordinated Universal Time)**
