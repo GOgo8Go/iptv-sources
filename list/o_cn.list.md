@@ -177,4 +177,4 @@
 | 171 | 鹤壁新闻综合 (480p) [Not 24/7] | [鹤壁新闻综合 (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
 | 172 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 
-Updated at **Thu Aug 21 2025 16:25:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 22 2025 01:39:48 GMT+0000 (Coordinated Universal Time)**
