@@ -435,6 +435,7 @@ Becker,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/cha
 Beijing Traffic Radio TV,http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 Beijing Youth Radio,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 beIN Sports Haber,https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
+beIN Sports USA,http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 beIN SPORTS XTRA,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794334-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b4faa7-f3ac-4f6d-9967-3f409d4c6863
 BeIN SPORTS XTRA en Espanol (720p),https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 BeitolAbbas TV Channel (720p),https://live.beitolabbas.tv/live/beitolabbastv.m3u8
@@ -806,6 +807,7 @@ El 33 SX3 (1080p),https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super
 El 75 (720p),https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
 El Camino TV (480p),https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 El Confidencial TV (1080p),https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+El Fadjer TV (720p),https://stream.wsla.top/play/1.m3u8
 El Medina,https://dvrfl06.bozztv.com/astv-elmedina/index.m3u8
 El Mehwar Channel,https://fl1002.bozztv.com/ga-elmehwar/tracks-v1a1/mono.m3u8
 ESTV (420p),https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
@@ -3982,7 +3984,7 @@ Shots! (1080p),https://live-nationalworld-ssai.simplestreamcdn.com/v1/master/774
 Shout! Factory TV (720p),https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8
 Shout! TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb090-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=404cd788-0921-444d-9eeb-2ae676a6a291
 Show Max,https://canlitvulusal.xyz/live/showmax/index.m3u8
-Show Turk,https://canlitvulusal.xyz/live/showturk/index.m3u8
+Show Turk,https://showturk.blutv.com/blutv_showturk2/live.m3u8
 Show TV (1080p),https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 ShowBox,https://epiconvh.akamaized.net/live/showbox/master.m3u8
 Showtime 2 East,https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
