@@ -474,4 +474,4 @@
 | 468 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
 | 469 | CCTV-4 Europe | [CCTV-4 Europe](https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8) |
 
-Updated at **Sun Aug 24 2025 08:23:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 24 2025 16:23:57 GMT+0000 (Coordinated Universal Time)**
