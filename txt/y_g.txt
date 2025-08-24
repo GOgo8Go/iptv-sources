@@ -1,13 +1,14 @@
 YanG_1989 Gather,#genre#
-免费订阅：请勿贩卖...,https://epg.iill.top/v/302.mp4
-维护时间：2025-1-15#佛系维护...,https://epg.iill.top/v/301.mp4
-维护内容：维护 Gather「删除 •IPV6 源」,https://epg.iill.top/v/302.mp4
-公告说明：IPV6 暂无,https://epg.iill.top/v/301.mp4
+免费订阅：请勿贩卖...,https://epg-1.iill.top/v/302.mp4
+维护时间：2025-1-15#佛系维护...,https://epg-1.iill.top/v/301.mp4
+维护内容：维护 Gather「删除 •IPV6 源」,https://epg-1.iill.top/v/302.mp4
+公告说明：IPV6 暂无,https://epg-1.iill.top/v/301.mp4
 晴彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 晴彩少年「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 晴彩竞技「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
 晴彩篮球「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-咪咕直播4K「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝕂-𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝕂-𝟚「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
 咪咕直播 𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 咪咕直播 𝟚「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
 咪咕直播 𝟛「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
