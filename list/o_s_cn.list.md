@@ -473,5 +473,6 @@
 | 467 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 | 468 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
 | 469 | CCTV-4 Europe | [CCTV-4 Europe](https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8) |
+| 470 | Harbin Comprehensive News Channel | [Harbin Comprehensive News Channel](https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594) |
 
-Updated at **Sun Aug 24 2025 16:23:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 25 2025 01:43:55 GMT+0000 (Coordinated Universal Time)**
