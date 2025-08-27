@@ -99,4 +99,4 @@
 | 93 | QTV-6 | [QTV-6](http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8) |
 | 94 | Red Bull TV (1080p) | [Red Bull TV (1080p)](https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8) |
 
-Updated at **Wed Aug 27 2025 01:37:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 27 2025 08:27:05 GMT+0000 (Coordinated Universal Time)**
