@@ -1980,7 +1980,7 @@ MBC (1080p),https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee8
 MBC 1 (1080p),https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 MBC 1,https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel1/index.m3u8
 MBC 1 USA (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-MBC 2 (480p),https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
+MBC 2 (576p),http://213.57.91.138:8000/play/a05k
 MBC 2,https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
 MBC 3,https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel3/index.m3u8
 MBC 3 USA (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
@@ -1988,6 +1988,7 @@ MBC 4 (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1c
 MBC 4,https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel4/index.m3u8
 MBC 5 (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 MBC 5,https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8
+MBC Action (576p),http://213.57.91.138:8000/play/a05l
 MBC Andong (안동 MBC) (360p) [Not 24/7],http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 MBC Bollywood (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 MBC Busan (부산MBC) (360p) [Not 24/7],https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
@@ -2677,6 +2678,7 @@ Oxygen True Crime Archives,http://cfd-v4-service-channel-stitcher-use1-1.prd.plu
 Ózdi Városi TV (720p) [Not 24/7],http://stream.nmih.hu:7980/live.m3u8
 P2M TV (720p),https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 P3tv (720p) [Not 24/7],http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+P3TV [Not 24/7],https://5790d294af2dc.streamlock.net/8042/8042/playlist.m3u8
 Pac12 Insider (720p),https://pac12-sportstribal.amagi.tv/playlist.m3u8
 Paci Contemporary Channel (720p),https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
 Pacific Blue,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad5bd283aa40008064568/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f6-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7e388637-5dc7-4f7c-946b-0520ce9cfce6
