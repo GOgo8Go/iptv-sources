@@ -122,7 +122,7 @@
 | 116 | [HD]广元综合 | [HD 广元综合](https://stream1.freetv.fun/e115ad1ad555af4231de24edf51b85a967f85cd17d76c84f28198770e7e9600a.m3u8) |
 | 117 | [HD]广州影视 | [HD 广州影视](https://stream1.freetv.fun/00f34b5229acb38e8dbacc95349044efca70b8b4ced9d96bf61ff1a55af81d96.m3u8) |
 | 118 | [HD]广州新闻 | [HD 广州新闻](https://stream1.freetv.fun/d85db11a46950343792558eabc684c0fe4c8a0ccb81e7c4a3acd3b02f304f0fb.m3u8) |
-| 119 | [BD]广州法治 | [BD 广州法治](https://stream1.freetv.fun/3adb8508508c6bcc90484617eaeb528495dfc32d0a41b14e6415d344d1917a25.ctv) |
+| 119 | [HD]广州法治 | [HD 广州法治](https://stream1.freetv.fun/dfd7a7ca2ef6fc0c105f880b27acd84f6bcbec42df2d4c302304d26bdf119ae5.m3u8) |
 | 120 | [HD]广州竞赛 | [HD 广州竞赛](https://stream1.freetv.fun/c3217266cc75ed76bb805aee90e67ad0b53075de724f41e687f3c0c8d4bcd4a1.m3u8) |
 | 121 | [HD]广州综合 | [HD 广州综合](https://stream1.freetv.fun/ccc0bddff57b8c467a86d60eb3d1207f4621bd91628371ced6d794ed1774481c.m3u8) |
 | 122 | [BD]广州综合 | [BD 广州综合](https://stream1.freetv.fun/3183ffae76f69a89a698cf293df8078d71389ae0305c7c457a65fe1a1db0a6de.ctv) |
@@ -288,4 +288,4 @@
 | 282 | [BD]溧水新闻综合 | [BD 溧水新闻综合](https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8) |
 | 283 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8) |
 
-Updated at **Thu Aug 28 2025 01:37:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 28 2025 08:26:49 GMT+0000 (Coordinated Universal Time)**
