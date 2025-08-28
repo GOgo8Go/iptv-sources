@@ -419,6 +419,7 @@ BBC Lifestyle Asia (1080p),https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
 BBC News (1080p),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 BBC News (North America) (1080p),https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News Asia Pacific (1080p),https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
+BBC News Europe,https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 BBC One (720p),https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 BBC One Channel Islands (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
 BE@TTV (1080p),https://tv.beatfm.nl/live.m3u8

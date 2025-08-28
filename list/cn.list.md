@@ -133,7 +133,7 @@
 | 127 | [BD]广东民生 | [BD 广东民生](https://stream1.freetv.fun/d45cfd603f67abdfb3f969833688b1ca785e22eccc790bf520bd8f89927f2f4b.ctv) |
 | 128 | [BD]广东珠江 | [BD 广东珠江](https://stream1.freetv.fun/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.ctv) |
 | 129 | [BD]广东珠江 | [BD 广东珠江](https://stream1.freetv.fun/7f7f3d093404d862c4a47c81731ae346d9ad177ccd8c91326ec459db90b8a64a.ctv) |
-| 130 | [HD]广东经济科教 | [HD 广东经济科教](https://stream1.freetv.fun/272f480373e2268c9b4f3cd9ad175b46eeee306c5d99103bcfff8990744f0967.m3u8) |
+| 130 | [BD]广东经济科教 | [BD 广东经济科教](https://stream1.freetv.fun/f41adcdbb2f2580b0043573de7732c17d90611e0fbc0c579e6a453aa4f0c28ff.ctv) |
 | 131 | [BD]广东综艺 | [BD 广东综艺](https://stream1.freetv.fun/d911b6e0ff31f6a93ff6a353ca00a0fe7d7d6fc450d5da931ff36f64e9842624.ctv) |
 | 132 | [BD]广东卫视 | [BD 广东卫视](https://stream1.freetv.fun/6787e35b48df7529fb25c86cd92936335e75d68881015ff99c3e969f57177987.m3u8) |
 | 133 | [BD]广东体育 | [BD 广东体育](https://stream1.freetv.fun/400d513c00980f7c4ababbd199234dc049cfdab4531b0da0f0fa0de0d63602d3.m3u8) |
@@ -288,4 +288,4 @@
 | 282 | [BD]溧水新闻综合 | [BD 溧水新闻综合](https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8) |
 | 283 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8) |
 
-Updated at **Thu Aug 28 2025 08:26:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 28 2025 16:25:17 GMT+0000 (Coordinated Universal Time)**
