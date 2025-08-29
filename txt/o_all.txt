@@ -364,7 +364,6 @@ Balchi TV (720p),https://livertmptwo.com:19360/balchirelaytv/balchirelaytv.m3u8
 Bali TV (720p),https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 Balikpapan TV (720p),https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 Balkan Radio Salzburg (480p),https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
-Balkanika TV (270p),rtsp://stream.teracomm.bg/balkanika
 Balle Balle (720p),https://mcncdndigital.com/balleballetv/index.m3u8
 Bălţi TV (1080p),http://77.89.199.174:8000/play/1024/index.m3u8
 BamBarBia TV (720p) [Not 24/7],http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
@@ -1413,7 +1412,7 @@ K-Content by CJ ENM,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/s
 K-TV (720p),https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 Kaback TV (720p),https://guineetvdirect.online:3842/live/kabacktvlive.m3u8
 Kabbalah for the People (Israel) (504p) [Not 24/7],https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
-KABC-DT1 (720p),https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+KABC-DT1 (360p),https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 kabel eins (576p),https://strm.hdtvizlecanli.com/live/kabel1.m3u8
 Kablo Info (1080p),http://185.234.111.229:8000/play/a01g
 Kadak Hits (1080p) [Not 24/7],https://live.hungama.com/linear/kadak-hits/playlist.m3u8
@@ -1566,6 +1565,7 @@ Kohavision,https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53
 KOKI-DT1 (1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 Kókshe (720p) [Not 24/7],https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
 Kolalnas TV,https://htvint.mada.ps/kolalnas/index.m3u8
+Kolkata TV (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
 Komala TV (1080p),https://live.tvkomala.com/live/komala/playlist.m3u8
 Komáromi Televízió (400p),https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
 Komlós TV (1080p) [Not 24/7],https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
@@ -2564,6 +2564,7 @@ NHK World News (French Subs) (720p),https://cdn.nhkworld.jp/www11/nhkworld-tv/bm
 NHK World News (Portuguese Subs) (720p),https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
 NHK World Premium (720p) [Not 24/7],https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 NHK World-Japan (720p),https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+NHK World-Japan HD,https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 NHL,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHRA TV (720p),https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
 NHTV (720p),http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
@@ -4732,7 +4733,6 @@ Turksat Saat,http://185.234.111.229:8000/play/a01f
 Turksat Tanitim,http://185.234.111.229:8000/play/a01d
 TUTV,https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Tuya La Janda Televisión (1080p),http://185.210.20.13:8080/0.m3u8
-TV 1 (720p),https://tv1.cloudcdn.bg:8081/stream.m3u8
 TV 1 (576p),https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8
 TV1 (1080p),https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
 TV1 (360p),https://frn.rtsp.me/jDzHciIUzTOuXiUaI-Vg1w/1738881610/hls/BtBbfbnK.m3u8
