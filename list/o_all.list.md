@@ -5308,4 +5308,4 @@
 | 5302 | Футбол | [Футбол](http://31.148.48.15/Futbol_HD/index.m3u8) |
 | 5303 | Херсон Плюс (576p) | [Херсон Плюс (576p)](http://46.175.163.130/ks_plus/index.m3u8) |
 
-Updated at **Mon Sep 01 2025 01:51:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 01 2025 08:29:05 GMT+0000 (Coordinated Universal Time)**
