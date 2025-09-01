@@ -257,7 +257,6 @@ China,#genre#
 [BD]重庆卫视,https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.m3u8
 [BD]金川新闻综合,rtmp://139.203.180.9/live/zhxw
 [BD]金鹰卡通,https://stream1.freetv.fun/ed9479fae0bb879ac3e59c7480d35e1c0400c77f234e1c7b01ea2a84c2ec1246.m3u8
-[SD]金鹰纪实[ipv6],https://stream1.freetv.fun/18bf62662ee831c286ecc159c25a122d3bc0b775a4807a40cf9f33be0aa4bc94.m3u8
 [BD]银川公共,https://stream1.freetv.fun/096f3c98d99ce18753051dee013066ad103124d9b977cf69140b6e32f550ff28.m3u8
 [BD]银川文体,https://stream1.freetv.fun/9be8cb1b9ede34dd35a89a4e532a7e7309dd6d50372cd759079b6abfff41fe16.m3u8
 [BD]银川生活,https://stream1.freetv.fun/b848663804a2a5109b99f997df1175985ecc20abb8989e3f3e4104a9dd4e0ba5.m3u8
