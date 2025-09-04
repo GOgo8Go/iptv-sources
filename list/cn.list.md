@@ -5,7 +5,7 @@
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
 | 1 | [HD]tvb生活 | [HD tvb生活](https://stream1.freetv.fun/f363b689a1afc06a38e97487d77fb3fed17a86256deff21c17089da395b36f77.ctv) |
-| 2 | [BD]documentary plus | [BD documentary plus](https://stream1.freetv.fun/7b508d7fb0954dd5fcf6b8202417831b73c59032075ca66bf0deb741502805e6.m3u8) |
+| 2 | [SD]documentary plus | [SD documentary plus](https://stream1.freetv.fun/7b508d7fb0954dd5fcf6b8202417831b73c59032075ca66bf0deb741502805e6.m3u8) |
 | 3 | [VGA]cctv俄语 | [VGA cctv俄语](https://stream1.freetv.fun/64be70c8173273b7c3e790bd3b3e5a5ec61d3b52b6ecec23f401248e220e1d76.ctv) |
 | 4 | [VGA]cctv阿拉伯语 | [VGA cctv阿拉伯语](https://stream1.freetv.fun/00378b05e789f52538fa39a8746b9caf8e7fc62111006d9132ffd472feef5a01.ctv) |
 | 5 | [BD]cctv1 | [BD cctv1](https://stream1.freetv.fun/5d284520daa692f05f56035b16d3664f0e1d00c595102fbb480bdd9365d80e12.ctv) |
@@ -31,7 +31,7 @@
 | 25 | [VGA]cctv9 | [VGA cctv9](https://stream1.freetv.fun/ea81fc0f2fac864a17a10c1a7f4d1a32258b45f78172eb9177e7b60db8c9e9b2.ctv) |
 | 26 | [HD]celestial classic | [HD celestial classic](https://stream1.freetv.fun/3b6232e2f989d4b59a5adb06d4d4db83774451be047883799138c92617ee698f.ctv) |
 | 27 | [BD]cetv1[ipv6] | [BD cetv1 ipv6](https://stream1.freetv.fun/f3ae1dadd66863a3d8d2d948a4ab7ee00b38a1bc8bcfac8b6b51cd210d5fcf2e.m3u8) |
-| 28 | [BD]asharq documentary | [BD asharq documentary](https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8) |
+| 28 | [HD]asharq documentary | [HD asharq documentary](https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8) |
 | 29 | [BD]cbn español | [BD cbn español](https://stream1.freetv.fun/50ea0f9a2fb6f8e1a16719a481eabbe3aced70f50940650dcbf684b30737d09c.m3u8) |
 | 30 | [BD]cgtn français | [BD cgtn français](https://stream1.freetv.fun/8b2e227859e9c10db1b8a04d180b0415b38c6f3ece2bb89dd06c062a8c63b62e.m3u8) |
 | 31 | [BD]cgtn русский | [BD cgtn русский](https://stream1.freetv.fun/800af3de6d2cab9fc463ec417c6ab737591154a8eafa27fb43713a33bc7f6dd5.m3u8) |
@@ -43,7 +43,7 @@
 | 37 | [HD]三沙卫视 | [HD 三沙卫视](https://stream1.freetv.fun/9a24d5626c1295681409db87c99ccda8bb4050632bce3025c4a72ab57b3dd623.m3u8) |
 | 38 | [HD]上海新闻综合 | [HD 上海新闻综合](https://stream1.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.ctv) |
 | 39 | [BD]上海卫视 | [BD 上海卫视](https://stream1.freetv.fun/8c1fa120106894dbe2b93aa1af53b3dc4c2cf5afe362a9ed65a77097423aab57.m3u8) |
-| 40 | [HD]上海都市 | [HD 上海都市](https://stream1.freetv.fun/3548f5845f2e9ff8004985d0f7c7605b57e7faa1c59a7236b9520fa54d55210e.ctv) |
+| 40 | [HD]上海都市 | [HD 上海都市](https://stream1.freetv.fun/739243957c92ecc3c5cc8e2d33bbc6ef1fd8529992bbf7ab1a9dcef5e17429d4.ctv) |
 | 41 | [BD]上虞文化 | [BD 上虞文化](https://stream1.freetv.fun/a3b95f8cec871798479e1b30f604863644527ac9182220e2ac8650dc0ecbc211.m3u8) |
 | 42 | [BD]上虞新商都 | [BD 上虞新商都](https://stream1.freetv.fun/3304d40ab080cfdc62386a8b26bd04cdbc7330f96858e3e1a69326aa4a94ed2a.m3u8) |
 | 43 | [BD]上虞新闻综合 | [BD 上虞新闻综合](https://stream1.freetv.fun/78f55f361d865fb3a113720e11fded9307bb9cb180fe731826736d2f5df8ca0b.m3u8) |
@@ -277,4 +277,4 @@
 | 271 | [HD]丽江新闻综合 | [HD 丽江新闻综合](https://stream1.freetv.fun/038fcc966210a5c920391694c24e747c5bd8ee11a51735284375f0567fae0c0b.m3u8) |
 | 272 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8) |
 
-Updated at **Thu Sep 04 2025 08:25:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 04 2025 16:24:58 GMT+0000 (Coordinated Universal Time)**
