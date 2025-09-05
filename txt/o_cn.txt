@@ -42,6 +42,7 @@ Golden Eagle Cartoon,http://1.24.190.98:10080/hls/51/index.m3u8
 Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
+Home Plus,https://homeplushls.wns.live/hls/stream.m3u8
 Hunan Entertainment Channel,http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8
 Hunan Ping Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
 JiaJia Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
