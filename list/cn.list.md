@@ -272,4 +272,4 @@
 | 266 | [BD]溧水新闻综合 | [BD 溧水新闻综合](rtmp://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh) |
 | 267 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8) |
 
-Updated at **Wed Sep 10 2025 08:26:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 10 2025 16:24:37 GMT+0000 (Coordinated Universal Time)**
