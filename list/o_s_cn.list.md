@@ -475,4 +475,4 @@
 | 469 | CCTV-4 Europe | [CCTV-4 Europe](https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8) |
 | 470 | Harbin Comprehensive News Channel | [Harbin Comprehensive News Channel](https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594) |
 
-Updated at **Fri Sep 12 2025 16:21:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 13 2025 01:20:52 GMT+0000 (Coordinated Universal Time)**
