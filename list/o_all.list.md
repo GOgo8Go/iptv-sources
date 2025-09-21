@@ -3592,4 +3592,4 @@
 | 3586 | Футбол | [Футбол](http://31.148.48.15/Futbol_HD/index.m3u8) |
 | 3587 | Херсон Плюс (576p) | [Херсон Плюс (576p)](http://46.175.163.130/ks_plus/index.m3u8) |
 
-Updated at **Sun Sep 21 2025 01:41:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 21 2025 08:21:57 GMT+0000 (Coordinated Universal Time)**
