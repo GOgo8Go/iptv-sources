@@ -19,20 +19,20 @@
 | 13 | [SD]cctv3 | [SD cctv3](https://stream1.freetv.fun/c5ff859d44804f094aedf2bce212963895c709b2f0eba94b9648490afee2f356.m3u8) |
 | 14 | [BD]cctv4 | [BD cctv4](https://stream1.freetv.fun/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.ctv) |
 | 15 | [BD]cctv4 | [BD cctv4](https://stream1.freetv.fun/15a4180e12b35249c7b2bc9d2b5d2feed983b66d309ca216fc6d8782766a349f.m3u8) |
-| 16 | [SD]cctv5 | [SD cctv5](https://stream1.freetv.fun/8ca3e123a0d74e87f21a305af77f712600ac07ae33200d2c5c017f8d01751f36.m3u8) |
-| 17 | [BD]cctv5-体育 | [BD cctv5-体育](https://stream1.freetv.fun/a171c801b82d29b636aeef3cf0f2785c1d2d3e3cb80e51788990999a34ae51d0.ctv) |
-| 18 | [BD]cctv5 | [BD cctv5](https://stream1.freetv.fun/0e67c24133bbf121a8f74e59353f4e2a8932983d3fedfee00fcf4e1dfd35bf11.m3u8) |
-| 19 | [BD]cctv5 plus | [BD cctv5 plus](https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.ctv) |
-| 20 | [HD]cctv-5 plus体育赛事 | [HD cctv-5 plus体育赛事](https://stream1.freetv.fun/46426c5508230b3191d6e2f8741db45084d30a8dff4b789fbcf7ec48bdce110a.m3u8) |
-| 21 | [BD]cctv6[ipv6] | [BD cctv6 ipv6](https://stream1.freetv.fun/fbe6c405877cbbd0d330d7858fc46218de4d7a13dc574d2fae67a63becc91f91.m3u8) |
-| 22 | [BD]cctv7 | [BD cctv7](https://stream1.freetv.fun/79834e11f92f2d6a40ee7474e2f8f01a88c85e5d84b33a7f0ab13d67b0604a88.m3u8) |
-| 23 | [BD]cctv8-电视剧 | [BD cctv8-电视剧](https://stream1.freetv.fun/8059a10d30c6a07963006c3f7bdcd92c1350846f040e023fc80e50dc29af3f6b.ctv) |
-| 24 | [BD]cctv9-纪录 | [BD cctv9-纪录](https://stream1.freetv.fun/9758447f134f02a406a0437e768b0c0f01720e49140c1a1e86146f397867be05.ctv) |
-| 25 | [BD]cctv第一剧场 | [BD cctv第一剧场](https://stream1.freetv.fun/872e80cf2af5f99604a249ff1cfc0bfb42c84d61b53c01ce70a96b2072c9d7a3.m3u8) |
-| 26 | [BD]cctv风云足球 | [BD cctv风云足球](https://stream1.freetv.fun/f29c24e198f9bf47ac2be43abf3d1a9eb21ebf26392c4959f9ec8d2077718450.m3u8) |
-| 27 | [SD]celestial classic *wj | [SD celestial classic *wj](https://stream1.freetv.fun/bd0f0f076347aab0952bd8fdd50e1609f6823ffb646c153b2a7bb17a4c7a5c4c.ctv) |
-| 28 | [BD]cetv1 | [BD cetv1](https://stream1.freetv.fun/f3ae1dadd66863a3d8d2d948a4ab7ee00b38a1bc8bcfac8b6b51cd210d5fcf2e.m3u8) |
-| 29 | [HD]cgtn *wj | [HD cgtn *wj](https://stream1.freetv.fun/134967b27de242d3cc28f1b342cc43547c26b41551aae47f6b9ea112f5192be7.ctv) |
+| 16 | [HD]cctv4中文国际 | [HD cctv4中文国际](https://stream1.freetv.fun/8a07250a04529fe52772a7995691f04a3153bf67960964ad6a63dd6cc7878659.m3u8) |
+| 17 | [SD]cctv5 | [SD cctv5](https://stream1.freetv.fun/8ca3e123a0d74e87f21a305af77f712600ac07ae33200d2c5c017f8d01751f36.m3u8) |
+| 18 | [BD]cctv5-体育 | [BD cctv5-体育](https://stream1.freetv.fun/a171c801b82d29b636aeef3cf0f2785c1d2d3e3cb80e51788990999a34ae51d0.ctv) |
+| 19 | [BD]cctv5 | [BD cctv5](https://stream1.freetv.fun/0e67c24133bbf121a8f74e59353f4e2a8932983d3fedfee00fcf4e1dfd35bf11.m3u8) |
+| 20 | [BD]cctv5 plus | [BD cctv5 plus](https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.ctv) |
+| 21 | [HD]cctv-5 plus体育赛事 | [HD cctv-5 plus体育赛事](https://stream1.freetv.fun/46426c5508230b3191d6e2f8741db45084d30a8dff4b789fbcf7ec48bdce110a.m3u8) |
+| 22 | [BD]cctv6 | [BD cctv6](https://stream1.freetv.fun/a2e70e8d032710bf9eb0cb9f6c1533439ba7f36783684be8624ab36011dbbc8a.ctv) |
+| 23 | [BD]cctv7 | [BD cctv7](https://stream1.freetv.fun/79834e11f92f2d6a40ee7474e2f8f01a88c85e5d84b33a7f0ab13d67b0604a88.m3u8) |
+| 24 | [BD]cctv8-电视剧 | [BD cctv8-电视剧](https://stream1.freetv.fun/8059a10d30c6a07963006c3f7bdcd92c1350846f040e023fc80e50dc29af3f6b.ctv) |
+| 25 | [BD]cctv9-纪录 | [BD cctv9-纪录](https://stream1.freetv.fun/9758447f134f02a406a0437e768b0c0f01720e49140c1a1e86146f397867be05.ctv) |
+| 26 | [BD]cctv第一剧场 | [BD cctv第一剧场](https://stream1.freetv.fun/872e80cf2af5f99604a249ff1cfc0bfb42c84d61b53c01ce70a96b2072c9d7a3.m3u8) |
+| 27 | [BD]cctv风云足球 | [BD cctv风云足球](https://stream1.freetv.fun/f29c24e198f9bf47ac2be43abf3d1a9eb21ebf26392c4959f9ec8d2077718450.m3u8) |
+| 28 | [HD]celestial classic | [HD celestial classic](https://stream1.freetv.fun/3b6232e2f989d4b59a5adb06d4d4db83774451be047883799138c92617ee698f.ctv) |
+| 29 | [BD]cetv1 | [BD cetv1](https://stream1.freetv.fun/f3ae1dadd66863a3d8d2d948a4ab7ee00b38a1bc8bcfac8b6b51cd210d5fcf2e.m3u8) |
 | 30 | [BD]asharq documentary | [BD asharq documentary](https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8) |
 | 31 | [BD]cgtn español | [BD cgtn español](https://stream1.freetv.fun/ac4f4f88aa80e1bba9914a6fd784347def5abface3f61486f6f7e855feaab5fd.m3u8) |
 | 32 | [BD]cgtn français | [BD cgtn français](https://stream1.freetv.fun/8b2e227859e9c10db1b8a04d180b0415b38c6f3ece2bb89dd06c062a8c63b62e.m3u8) |
@@ -284,4 +284,4 @@
 | 278 | [BD]溧水新闻综合 | [BD 溧水新闻综合](https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.ctv) |
 | 279 | [BD]黑龙江卫视高清 | [BD 黑龙江卫视高清](https://stream1.freetv.fun/0342355911b1783929522a5f6ba3f359188afd79f7b1e837d5cf6a9a9050f085.ctv) |
 
-Updated at **Sun Sep 21 2025 16:21:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 22 2025 01:41:59 GMT+0000 (Coordinated Universal Time)**
