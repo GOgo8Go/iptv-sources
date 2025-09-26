@@ -5447,4 +5447,4 @@
 | 5441 | Футбол | [Футбол](http://31.148.48.15/Futbol_HD/index.m3u8) |
 | 5442 | Херсон Плюс (576p) | [Херсон Плюс (576p)](http://46.175.163.130/ks_plus/index.m3u8) |
 
-Updated at **Fri Sep 26 2025 08:27:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 26 2025 16:24:36 GMT+0000 (Coordinated Universal Time)**
