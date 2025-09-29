@@ -97,19 +97,52 @@
 | 91 | 聚鲨精选 | [聚鲨精选](rtp://239.3.1.179:8001) |
 | 92 | 凤凰中文 | [凤凰中文](http://php.jdshipin.com/TVOD/iptv.php?id=fhzw) |
 | 93 | 凤凰资讯 | [凤凰资讯](http://php.jdshipin.com/TVOD/iptv.php?id=fhzx) |
-| 94 | 无线新闻台 | [无线新闻台](http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw) |
-| 95 | 娱乐新闻 | [娱乐新闻](http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw) |
-| 96 | TVB翡翠 | [TVB翡翠](http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3) |
-| 97 | TVB星河 | [TVB星河](http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe) |
-| 98 | TVB武侠 | [TVB武侠](http://php.jdshipin.com/TVOD/iptv.php?id=yzwx) |
-| 99 | 美亚C+ | [美亚C+](http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8) |
-| 100 | 美亚电影 | [美亚电影](http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya) |
-| 101 | J2 | [J2](http://php.jdshipin.com/TVOD/iptv.php?id=j2) |
-| 102 | 千禧经典 | [千禧经典](http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc) |
-| 103 | 翡翠华丽 | [翡翠华丽](http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali) |
-| 104 | 重温经典 | [重温经典](http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd) |
-| 105 | RTHK31 | [RTHK31](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31) |
-| 106 | RTHK32 | [RTHK32](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32) |
-| 107 | HOY TV | [HOY TV](http://php.jdshipin.com/TVOD/iptv.php?id=hoytv) |
+| 94 | 凤凰香港 | [凤凰香港](http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8) |
+| 95 | 中天新闻 | [中天新闻](http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv) |
+| 96 | 中天CTI+ | [中天CTI+](http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv) |
+| 97 | 中视新闻 | [中视新闻](http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv) |
+| 98 | 台视新闻 | [台视新闻](http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv) |
+| 99 | 东森新闻 | [东森新闻](http://stream-ali1.csslcloud.net/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv) |
+| 100 | 寰宇新闻 | [寰宇新闻](http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv) |
+| 101 | 寰宇台湾 | [寰宇台湾](http://stream-ali1.csslcloud.net/live/kPx2bfd2y6L0ZwU3ASjlguHsNdwwRnvIENF5nNnrXPp4hNwoIi.flv) |
+| 102 | 民视新闻 | [民视新闻](http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv) |
+| 103 | 公视新闻 | [公视新闻](http://stream-ali1.csslcloud.net/live/Ubmbfd2yeiurTa7IAZwc9yg3WHBILRp5ueNjYcnKl8MRCOrVoC.flv) |
+| 104 | 华视新闻 | [华视新闻](http://stream-ali1.csslcloud.net/live/AzACuucKCaz8bfd2yxWeXFD8Mjjpf4AcLtEPKWdD9rvwlDDE5s.flv) |
+| 105 | 年代新闻 | [年代新闻](http://stream-ali1.csslcloud.net/live/ruqTd9DCQm8ZG3MvLBN6uqJ6DB6owtf4srbivitv9fNrV82Z1V.flv) |
+| 106 | 非凡新闻 | [非凡新闻](http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv) |
+| 107 | 镜新闻 | [镜新闻](http://stream-ali1.csslcloud.net/live/4ef3bV1oG7KBJy3bfd2ybfSDto8eDzUvR0mWv5oKB6nemLkT4c.flv) |
+| 108 | 民视 | [民视](http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv) |
+| 109 | 中视 | [中视](http://stream-ali1.csslcloud.net/live/ShLJKgSj71R4wf0v8TfYoSUE68hUT0uREP4srbiGe0pgDFxpIw.flv) |
+| 110 | 东森美洲 | [东森美洲](http://stream-ali1.csslcloud.net/live/Q6dIFsHxR2r9pqtq3qj8UT4oiUNO4ShbiuR7tArX4srbittNex.flv) |
+| 111 | 澳门莲花 | [澳门莲花](http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8) |
+| 112 | 天映频道 | [天映频道](http://php.jdshipin.com/smt.php?id=Celestial) |
+| 113 | 龙华电影 | [龙华电影](https://cdn8.163189.xyz/live/lhdy/stream.m3u8) |
+| 114 | Pearl | [Pearl](http://php.jdshipin.com/TVOD/iptv.php?id=mzt2) |
+| 115 | 翡翠台 | [翡翠台](http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3) |
+| 116 | TVB J1 | [TVB J1](http://php.jdshipin.com/TVOD/iptv.php?id=j1) |
+| 117 | TVB J2 | [TVB J2](http://php.jdshipin.com/TVOD/iptv.php?id=j2) |
+| 118 | 无线新闻 | [无线新闻](http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt) |
+| 119 | 娱乐新闻 | [娱乐新闻](http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw) |
+| 120 | VIUTV | [VIUTV](http://php.jdshipin.com/TVOD/iptv.php?id=viutv) |
+| 121 | 美亚电影 | [美亚电影](http://php.jdshipin.com/TVOD/iptv.php?id=meiya) |
+| 122 | 翡翠华丽 | [翡翠华丽](http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali) |
+| 123 | 美亚电影 | [美亚电影](http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya) |
+| 124 | 千禧经典 | [千禧经典](http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc) |
+| 125 | 重温经典 | [重温经典](http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd) |
+| 126 | Astro欢喜台 | [Astro欢喜台](http://php.jdshipin.com/smt.php?id=Huahee) |
+| 127 | 亚洲武侠 | [亚洲武侠](http://php.jdshipin.com/TVOD/iptv.php?id=yzwx) |
+| 128 | 龙华经典 | [龙华经典](https://cdn8.163189.xyz/live/lhjd/stream.m3u8) |
+| 129 | 龙华卡通 | [龙华卡通](https://cdn8.163189.xyz/live/lhkt/stream.m3u8) |
+| 130 | 龙华偶像 | [龙华偶像](https://cdn8.163189.xyz/live/lhox/stream.m3u8) |
+| 131 | 龙华日韩 | [龙华日韩](https://cdn8.163189.xyz/live/lhrh/stream.m3u8) |
+| 132 | 龙华戏剧 | [龙华戏剧](https://cdn8.163189.xyz/live/lhxj/stream.m3u8) |
+| 133 | 龙华洋片 | [龙华洋片](https://cdn8.163189.xyz/live/lhyp/stream.m3u8) |
+| 134 | TVB星河 | [TVB星河](http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe) |
+| 135 | TVB武侠 | [TVB武侠](http://php.jdshipin.com/TVOD/iptv.php?id=yzwx) |
+| 136 | 美亚C+ | [美亚C+](http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8) |
+| 137 | RTHK31 | [RTHK31](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31) |
+| 138 | RTHK32 | [RTHK32](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32) |
+| 139 | HOY TV | [HOY TV](http://php.jdshipin.com/TVOD/iptv.php?id=hoytv) |
+| 140 | 爱奇艺电影 | [爱奇艺电影](http://php.jdshipin.com/smt.php?id=Qiyi) |
 
-Updated at **Mon Sep 29 2025 08:29:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 29 2025 16:20:18 GMT+0000 (Coordinated Universal Time)**
