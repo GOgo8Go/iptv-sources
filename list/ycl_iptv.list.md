@@ -130,19 +130,19 @@
 | 124 | 千禧经典 | [千禧经典](http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc) |
 | 125 | 重温经典 | [重温经典](http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd) |
 | 126 | Astro欢喜台 | [Astro欢喜台](http://php.jdshipin.com/smt.php?id=Huahee) |
-| 127 | 亚洲武侠 | [亚洲武侠](http://php.jdshipin.com/TVOD/iptv.php?id=yzwx) |
-| 128 | 龙华经典 | [龙华经典](https://cdn8.163189.xyz/live/lhjd/stream.m3u8) |
-| 129 | 龙华卡通 | [龙华卡通](https://cdn8.163189.xyz/live/lhkt/stream.m3u8) |
-| 130 | 龙华偶像 | [龙华偶像](https://cdn8.163189.xyz/live/lhox/stream.m3u8) |
-| 131 | 龙华日韩 | [龙华日韩](https://cdn8.163189.xyz/live/lhrh/stream.m3u8) |
-| 132 | 龙华戏剧 | [龙华戏剧](https://cdn8.163189.xyz/live/lhxj/stream.m3u8) |
-| 133 | 龙华洋片 | [龙华洋片](https://cdn8.163189.xyz/live/lhyp/stream.m3u8) |
-| 134 | TVB星河 | [TVB星河](http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe) |
-| 135 | TVB武侠 | [TVB武侠](http://php.jdshipin.com/TVOD/iptv.php?id=yzwx) |
-| 136 | 美亚C+ | [美亚C+](http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8) |
-| 137 | RTHK31 | [RTHK31](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31) |
-| 138 | RTHK32 | [RTHK32](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32) |
-| 139 | HOY TV | [HOY TV](http://php.jdshipin.com/TVOD/iptv.php?id=hoytv) |
-| 140 | 爱奇艺电影 | [爱奇艺电影](http://php.jdshipin.com/smt.php?id=Qiyi) |
+| 127 | Astro QJ | [Astro QJ](http://php.jdshipin.com/smt.php?id=Quanjia) |
+| 128 | 亚洲武侠 | [亚洲武侠](http://php.jdshipin.com/TVOD/iptv.php?id=yzwx) |
+| 129 | 龙华经典 | [龙华经典](https://cdn8.163189.xyz/live/lhjd/stream.m3u8) |
+| 130 | 龙华卡通 | [龙华卡通](https://cdn8.163189.xyz/live/lhkt/stream.m3u8) |
+| 131 | 龙华偶像 | [龙华偶像](https://cdn8.163189.xyz/live/lhox/stream.m3u8) |
+| 132 | 龙华日韩 | [龙华日韩](https://cdn8.163189.xyz/live/lhrh/stream.m3u8) |
+| 133 | 龙华戏剧 | [龙华戏剧](https://cdn8.163189.xyz/live/lhxj/stream.m3u8) |
+| 134 | 龙华洋片 | [龙华洋片](https://cdn8.163189.xyz/live/lhyp/stream.m3u8) |
+| 135 | TVB星河 | [TVB星河](http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe) |
+| 136 | TVB武侠 | [TVB武侠](http://php.jdshipin.com/TVOD/iptv.php?id=yzwx) |
+| 137 | 美亚C+ | [美亚C+](http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8) |
+| 138 | RTHK31 | [RTHK31](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31) |
+| 139 | RTHK32 | [RTHK32](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32) |
+| 140 | HOY TV | [HOY TV](http://php.jdshipin.com/TVOD/iptv.php?id=hoytv) |
 
-Updated at **Wed Oct 01 2025 01:44:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 01 2025 08:27:02 GMT+0000 (Coordinated Universal Time)**

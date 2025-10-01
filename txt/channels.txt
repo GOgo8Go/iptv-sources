@@ -8962,6 +8962,7 @@ VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
@@ -8975,4 +8976,3 @@ TVB武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-爱奇艺电影,http://php.jdshipin.com/smt.php?id=Qiyi
