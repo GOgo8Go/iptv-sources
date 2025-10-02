@@ -113,21 +113,26 @@
 | 107 | 美亚电影 | [美亚电影](http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya) |
 | 108 | 千禧经典 | [千禧经典](http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc) |
 | 109 | 重温经典 | [重温经典](http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd) |
-| 110 | Astro欢喜台 | [Astro欢喜台](http://php.jdshipin.com/smt.php?id=Huahee) |
-| 111 | Astro QJ | [Astro QJ](http://php.jdshipin.com/smt.php?id=Quanjia) |
-| 112 | 亚洲武侠 | [亚洲武侠](http://php.jdshipin.com/TVOD/iptv.php?id=yzwx) |
-| 113 | 龙华经典 | [龙华经典](https://cdn8.163189.xyz/live/lhjd/stream.m3u8) |
-| 114 | 龙华卡通 | [龙华卡通](https://cdn8.163189.xyz/live/lhkt/stream.m3u8) |
-| 115 | 龙华偶像 | [龙华偶像](https://cdn8.163189.xyz/live/lhox/stream.m3u8) |
-| 116 | 龙华日韩 | [龙华日韩](https://cdn8.163189.xyz/live/lhrh/stream.m3u8) |
-| 117 | 龙华戏剧 | [龙华戏剧](https://cdn8.163189.xyz/live/lhxj/stream.m3u8) |
-| 118 | 龙华洋片 | [龙华洋片](https://cdn8.163189.xyz/live/lhyp/stream.m3u8) |
-| 119 | TVB星河 | [TVB星河](http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe) |
-| 120 | TVB武侠 | [TVB武侠](http://php.jdshipin.com/TVOD/iptv.php?id=yzwx) |
-| 121 | 爱奇艺 | [爱奇艺](http://php.jdshipin.com/smt.php?id=Qiyi) |
-| 122 | 美亚C+ | [美亚C+](http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8) |
-| 123 | RTHK31 | [RTHK31](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31) |
-| 124 | RTHK32 | [RTHK32](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32) |
-| 125 | HOY TV | [HOY TV](http://php.jdshipin.com/TVOD/iptv.php?id=hoytv) |
+| 110 | astro欢喜台 | [astro欢喜台](http://php.jdshipin.com/smt.php?id=Huahee) |
+| 111 | astro QJ | [astro QJ](http://php.jdshipin.com/smt.php?id=Quanjia) |
+| 112 | 澳视澳门 | [澳视澳门](http://php.jdshipin.com/TVOD/iptv.php?id=asam) |
+| 113 | 澳门Mac | [澳门Mac](http://php.jdshipin.com/PLTV/iptv.php?id=as) |
+| 114 | astro Aec | [astro Aec](http://php.jdshipin.com/smt.php?id=AEC) |
+| 115 | astro Aod | [astro Aod](http://php.jdshipin.com/smt.php?id=Aodhd) |
+| 116 | 亚洲武侠 | [亚洲武侠](http://php.jdshipin.com/TVOD/iptv.php?id=yzwx) |
+| 117 | 龙华经典 | [龙华经典](https://cdn8.163189.xyz/live/lhjd/stream.m3u8) |
+| 118 | 龙华卡通 | [龙华卡通](https://cdn8.163189.xyz/live/lhkt/stream.m3u8) |
+| 119 | 龙华偶像 | [龙华偶像](https://cdn8.163189.xyz/live/lhox/stream.m3u8) |
+| 120 | 龙华日韩 | [龙华日韩](https://cdn8.163189.xyz/live/lhrh/stream.m3u8) |
+| 121 | 龙华戏剧 | [龙华戏剧](https://cdn8.163189.xyz/live/lhxj/stream.m3u8) |
+| 122 | 龙华洋片 | [龙华洋片](https://cdn8.163189.xyz/live/lhyp/stream.m3u8) |
+| 123 | TVB星河 | [TVB星河](http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe) |
+| 124 | TVB武侠 | [TVB武侠](http://php.jdshipin.com/TVOD/iptv.php?id=yzwx) |
+| 125 | 爱奇艺 | [爱奇艺](http://php.jdshipin.com/smt.php?id=Qiyi) |
+| 126 | 美亚C+ | [美亚C+](http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8) |
+| 127 | RTHK31 | [RTHK31](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31) |
+| 128 | RTHK32 | [RTHK32](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32) |
+| 129 | HOY TV | [HOY TV](http://php.jdshipin.com/TVOD/iptv.php?id=hoytv) |
+| 130 | 亚洲卫视 | [亚洲卫视](https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv) |
 
-Updated at **Thu Oct 02 2025 08:25:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 02 2025 16:24:28 GMT+0000 (Coordinated Universal Time)**
