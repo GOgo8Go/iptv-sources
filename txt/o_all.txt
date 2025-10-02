@@ -849,7 +849,6 @@ Calabria TV (256p),https://5db313b643fd8.streamlock.net/CalabriaTv2/CalabriaTv2/
 Cali TV (540p) [Not 24/7],https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 California Medios TV (720p),https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 California Music Channel (720p) [Not 24/7],https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
-Caltex Music,https://video.caltexmusic.com/hls/caltextv.m3u8
 Calvary TV (720p),https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/playlist.m3u8
 CAM 10 TV,https://stream.it-innov.com/cam10tv/index.m3u8
 Camera dei Deputati (via RR) (240p),https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
@@ -1079,6 +1078,7 @@ Chaos City,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls
 Chaos City,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afbad343e3840007164348/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee86-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca3136b0-37bd-40d7-b812-6644e5be773f
 Chaos City,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afbad343e3840007164348/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ac925887-52f7-4055-a15c-ef63b5a406a8
 Charana TV (360p),https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
+Charge! (1080p),https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 Charity TV,https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
 Charlotte aux Fraises,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60dc6937b450ad0007377e48/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=647718a5-2915-4d3e-af3e-84f437cb7b7e
 Charlotte County CC-TV (Charlotte County FA) (720p),https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
@@ -1096,7 +1096,7 @@ Chef Champion (720p) [Not 24/7],https://rpn.bozztv.com/gusa/gusa-chefchampion/in
 Chef Roc Show (720p) [Not 24/7],https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 Chekad TV (720p),https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 Chemnitz Fernsehen (1080p),https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-Cherie 25,https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+Cherie 25 (1080p),https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 Cherifla TV (360p),http://69.64.57.208/cherifla/playlist.m3u8
 Cherniveckiy promin (720p),http://langate.tv/promin/live_720/index.m3u8
 Chile Channel (720p),https://v2.tustreaming.cl/chilechannel/index.m3u8
@@ -1190,7 +1190,7 @@ Class CNBC (576p),https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.ne
 Classic Arts Showcase,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 Classic Cinema (240p) [Not 24/7],https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 Classic Movies Channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
-Classic TV,https://scbhls.wns.live/hls/stream.m3u8
+Classic TV,https://clshls.wns.live/hls/stream.m3u8
 Classic TV Comedy,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e004-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=518ef377-f53a-4652-8bcc-2dc596ce4106
 Classic TV Crime Drama,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61325c4f982acd000723287e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e005-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0a9c1ed2-f0e9-4403-8343-d6670c3f9b3f
 Classic TV Drama,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e006-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd2170f5-59fe-491d-9d0a-b13b10a8f54e
@@ -1579,6 +1579,7 @@ Disney International HD (1080p),https://live.dinesh29.com.np/stream/jiotvplus/di
 Disney Jr. (1080p),https://saran-live.ercdn.net/disneyjunior/index.m3u8
 Disney Junior (576p),http://116.90.120.149:8000/play/a0b3/index.m3u8
 Disney Junior East,https://fl25.moveonjoy.com/DISNEY_JR/index.m3u8
+Disney XD (576p),http://185.236.229.62:9981/play/a07c
 Disney XD (720p),http://fl25.moveonjoy.com/DISNEY_XD/index.m3u8
 District of Columbia Network (DCN) (1080p),https://video.oct.dc.gov/out/u/DCN.m3u8
 Distrito Comedia (576p),https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
@@ -2734,7 +2735,7 @@ Jail (720p),https://langleyproductions-jail-1-eu.rakuten.wurl.tv/playlist.m3u8
 Jail,https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
 Jalisco TV (720p),https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 Jalsha Movies HD (1080p),https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
-Jam TV,https://ncdn.telewebion.com/jam/live/playlist.m3u8
+Jam TV,https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1113.telewebion.com/ek/jam/live/1080p/index.m3u8
 Jamaica Online TV (1080p) [Not 24/7],https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8
 Jonack TV (360p) [Not 24/7],https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 JooMusic (720p),https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
@@ -3229,7 +3230,7 @@ Manorama News (1080p),https://mmtvnews1.akamaized.net/v1/master/673630b269b76688
 Manoranjan Grand (720p),https://cdn-1.pishow.tv/live/1011/master.m3u8
 Manoranjan Movies (720p),https://cdn-2.pishow.tv/live/228/master.m3u8
 Manoranjan TV (720p),https://cdn-1.pishow.tv/live/1013/master.m3u8
-Manoto TV,https://olderkors.cfpass1.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
+Manoto TV,https://late-sky-0e1a.zahsytwdtjgjhasxby.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
 Mantavya News (576p),https://yuppftalive.akamaized.net/080823/mantavya/playlist.m3u8
 Mar TV (1080p),http://iptv.services.everywan.net:8080/martv-web/video.m3u8
 Maranatha TV,https://media.streambrothers.com:1936/8298/8298/playlist.m3u8
@@ -3832,6 +3833,7 @@ Rai 2 (576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 RN Televisión (720p) [Not 24/7],https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 RNF (1080p),https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 RNN (720p) [Not 24/7],https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8
+Roar (1080p),https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 RoboCop,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b209801-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2100f30b-2b75-4b3a-bda0-4dad87fba333
 RoboCop,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861662-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=10a24502-a258-4d54-9c91-e9fcad3cc31c
 RoboCop,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b31d1fa6-f169-481e-a79c-8a778111e034
@@ -4298,7 +4300,6 @@ Tatlises TV (1080p) [Not 24/7],https://live.artidijitalmedya.com/artidijital_tat
 TATV (720p) [Not 24/7],https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 Tawaf TV (720p),https://streamtawaf.asfatv.com/hls/tawaftv.m3u8
 Taxi,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9186f8b685d000773cf58/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2965-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ddc6540-3409-4ff3-9e7e-06eb3030f1ea
-TBD (1080p),https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 TBMM TV (720p),https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 TBN,https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 TBN Africa (1080p),https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
