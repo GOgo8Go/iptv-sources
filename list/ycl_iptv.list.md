@@ -130,4 +130,4 @@
 | 124 | RTHK32 | [RTHK32](http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32) |
 | 125 | HOY TV | [HOY TV](http://php.jdshipin.com/TVOD/iptv.php?id=hoytv) |
 
-Updated at **Thu Oct 02 2025 01:25:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 02 2025 08:25:27 GMT+0000 (Coordinated Universal Time)**
