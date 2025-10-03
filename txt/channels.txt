@@ -4083,7 +4083,7 @@ DLTV 15 (1080p),https://cdn-live.dltv.ac.th/dltv15.m3u8
 DM Sat,https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd
 DM TV Malang,https://e.siar.us/live/dmtv.m3u8
 DMC (1080p),https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
-DMC Drama (720p),https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
+DMC Drama (720p),https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/dmcdrama/playlist.m3u8
 DMF (1080p) [Not 24/7],https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 DMJ Cuzco (720p) [Not 24/7],https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 DniproTV (1080p),http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
@@ -4512,6 +4512,7 @@ Fashion TV Paris (144p),https://fash1043.cloudycdn.services/slive/ftv_paris_adap
 Fashion TV PG16 (144p),https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 FashionTV Europe (1080p),https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 FashionTV Europe HD (720p),https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
+FashionTV Paris L'Original (1080p),https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 Fasso TV Kankan,https://dvrfl06.bozztv.com/astv-fassotv/index.m3u8
 Fateh TV,https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 Faza TV,https://fl1002.bozztv.com/gin-fazatv/tracks-v1a1/mono.m3u8
@@ -5308,7 +5309,7 @@ Kasthuri (576p),http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriT
 KaufBei TV (576p),https://api.alpaca.t62a.com/hls/9103/index.m3u8
 Kaumudy TV (720p),https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 Kavkasia TV,http://dvrfl05.bozztv.com/gin-kavkasia/index.m3u8
-Kawanua TV,https://63b2dc7196c38.streamlock.net/KAWANUATV/_definst_/myStream/playlist.m3u8
+Kawanua TV (720p),http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 Kay TV (900p),https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
 Kayhan TV (720p),https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
 KBEV Spectrum Channel 6 [Beverly Hills] (1080p),https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
