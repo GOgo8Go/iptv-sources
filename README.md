@@ -35,8 +35,8 @@ You can also use the services provided by Mirror Sites Matrix!
 | fanmingming/live domainv6 | [fmml_dv6.m3u](/fmml_dv6.m3u) <br> [fmml_dv6.txt](/txt/fmml_dv6.txt) | [List for fanmingming/live domainv6](/list/fmml_dv6.list) | update failed | ✅ |
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 82 | - |
 | fanmingming/live v6 | [fmml_v6.m3u](/fmml_v6.m3u) <br> [fmml_v6.txt](/txt/fmml_v6.txt) | [List for fanmingming/live v6](/list/fmml_v6.list) | update failed | ✅ |
-| iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | 5556 | - |
-| iptv.org China | [o_cn.m3u](/o_cn.m3u) <br> [o_cn.txt](/txt/o_cn.txt) | [List for iptv.org China](/list/o_cn.list) | 165 | - |
+| iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | 5649 | - |
+| iptv.org China | [o_cn.m3u](/o_cn.m3u) <br> [o_cn.txt](/txt/o_cn.txt) | [List for iptv.org China](/list/o_cn.list) | 166 | - |
 | iptv.org stream China | [o_s_cn.m3u](/o_s_cn.m3u) <br> [o_s_cn.txt](/txt/o_s_cn.txt) | [List for iptv.org stream China](/list/o_s_cn.list) | 469 | - |
 | iptv.org stream China 112114 | [o_s_cn_112114.m3u](/o_s_cn_112114.m3u) <br> [o_s_cn_112114.txt](/txt/o_s_cn_112114.txt) | [List for iptv.org stream China 112114](/list/o_s_cn_112114.list) | 18 | - |
 | iptv.org stream China CCTV | [o_s_cn_cctv.m3u](/o_s_cn_cctv.m3u) <br> [o_s_cn_cctv.txt](/txt/o_s_cn_cctv.txt) | [List for iptv.org stream China CCTV](/list/o_s_cn_cctv.list) | 4 | - |
@@ -55,11 +55,11 @@ You can also use the services provided by Mirror Sites Matrix!
 | --- | --- | ---------- |
 | 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | - |
-| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | - |
-| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
-| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
+| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | update failed |
+| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
+| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
 
-Updated at **Sun Oct 05 2025 16:21:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 06 2025 01:28:05 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
