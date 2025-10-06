@@ -473,5 +473,7 @@
 | 467 | 黑龙卫视 (720p) | [黑龙卫视 (720p)](http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8) |
 | 468 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 | 469 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
+| 470 | ST Bongo | [ST Bongo](https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/stbongo/playlist.m3u8) |
+| 471 | ST Rembo TV | [ST Rembo TV](https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/rembotv/playlist.m3u8) |
 
-Updated at **Mon Oct 06 2025 08:27:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 06 2025 16:25:03 GMT+0000 (Coordinated Universal Time)**
