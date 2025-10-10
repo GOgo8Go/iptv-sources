@@ -476,4 +476,4 @@
 | 470 | ST Bongo | [ST Bongo](https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/stbongo/playlist.m3u8) |
 | 471 | ST Rembo TV | [ST Rembo TV](https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/rembotv/playlist.m3u8) |
 
-Updated at **Fri Oct 10 2025 01:28:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 10 2025 08:26:53 GMT+0000 (Coordinated Universal Time)**
